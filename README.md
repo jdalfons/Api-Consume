@@ -6,7 +6,6 @@
   - Use main.py -h to see the options to run the Api
   - If you call an id and this id doesn't exist, the HTML file not throw anything.
 
-
 # Steps to use!👌
 
 To consume the Appi go to the folder where main.py is, please run this command
