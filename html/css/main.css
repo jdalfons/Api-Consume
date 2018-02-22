@@ -1,0 +1,82 @@
+
+.quitar-float {
+	float: none;
+}
+.espacio-arriba {
+	margin-top: 120px;
+}
+.espacio-abajo {
+	padding: 10px;
+}
+.grande {
+	font-size: 3em;
+}
+.mediano {
+	font-size: 2em;
+}
+.grey {
+	color: #5F5448
+}
+.bck-grey {
+	background-color: #eee
+}
+a {
+	color: #009FFF
+}
+.azul {
+	color: #0092B2
+}
+.bck-blue {
+	background-color: #0092B2
+}
+.blanco {
+	color: #FCFCF9
+}
+.verde {
+	color: #B6E548
+}
+.bck-verde {
+	background-color: #B6E548
+}
+.naranja {
+	color: #FF530D
+}
+.bck-naranja {
+	background-color: #FF530D
+}
+.no-lista {
+	margin: 0px;
+	padding: 0px;
+}
+.no-lista li {
+	list-style-type: none;
+}
+.espacio-derecha {
+	margin-right: 1em;
+}
+.pading-largo {
+	padding: 20px 20px;
+}
+.inline-block {
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+.vete-arriba {
+	vertical-align: top;
+}
+.retraso-1 {
+	-webkit-animation-delay: 0.5s;
+	-moz-animation-delay: 0.5s;
+	animation-delay: 0.5s;
+}
+.retraso-2 {
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.retraso-3 {
+	-webkit-animation-delay: 1.5s;
+	-moz-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
