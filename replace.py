@@ -54,9 +54,11 @@ def replaceHtml1(fname):
             '<tr class="danger"><td>2',
             '<tr class="success"><td>3',
             '<tr class="info"><td>4',
-            '<tr class="warning"><td>5']
+            '<tr class="warning"><td>5',
+            '<tr><td>6',
+            '<tr><td>7']
 
-    for x in range (1 , 5):
+    for x in range (1 , 7):
         textToFind = '["' + str(x)
         textToReplace = list[x]
         file = fname

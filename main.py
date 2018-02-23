@@ -19,10 +19,7 @@ if __name__ == '__main__':
     if args.rebuild == True:
         #obtainXml.obtainXml()
         # drop_table()
-        model.drop_table()
-        model.create_table()
-        controller.obtain_Roots()
-        controller.controller_categories()
+        controller.obtainXmlandcreatetable()
     elif args.render != None:
         fname = args.render
         print('The archive ' + args.render + '.html has been created in the folder html')
