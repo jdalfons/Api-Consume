@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:08:25.582Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182132</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Orthopedics and Supports</CategoryName>
+     <CategoryParentID>11778</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Orthopedics and Supports</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182132</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19264</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Orthotics Braces and Sleeves</CategoryName>
+     <CategoryParentID>182132</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Orthopedics and Supports:Orthotics Braces and Sleeves</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182132:19264</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182133</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Compression Garments</CategoryName>
+     <CategoryParentID>182132</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Orthopedics and Supports:Compression Garments</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182132:182133</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182134</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Insoles and Shoe Inserts</CategoryName>
+     <CategoryParentID>182132</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Orthopedics and Supports:Insoles and Shoe Inserts</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182132:182134</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182135</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seat and Posture Cushions</CategoryName>
+     <CategoryParentID>182132</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Orthopedics and Supports:Seat and Posture Cushions</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182132:182135</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182136</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wedges and Bed Positioners</CategoryName>
+     <CategoryParentID>182132</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Orthopedics and Supports:Wedges and Bed Positioners</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182132:182136</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182137</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Orthopedic Products</CategoryName>
+     <CategoryParentID>182132</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Orthopedics and Supports:Other Orthopedic Products</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182132:182137</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

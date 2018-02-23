@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:50.629Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181940</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Analyzers and Data Acquisition</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181941</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cable and Antenna Analyzers</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Cable and Antenna Analyzers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:181941</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181942</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Communication Service Monitors</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Communication Service Monitors</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:181942</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36314</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Data Acquisition and Loggers</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Data Acquisition and Loggers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:36314</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181943</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gas and Combustion Analyzers</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Gas and Combustion Analyzers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:181943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97146</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>LAN/WAN and Protocol Analyzers</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:LAN/WAN and Protocol Analyzers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:97146</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97231</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Logic Analyzers</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Logic Analyzers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:97231</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97658</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Network Analyzers</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Network Analyzers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:97658</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104247</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Oscilloscopes and Vectorscopes</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Oscilloscopes and Vectorscopes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:104247</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181945</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Parameter Analyzers</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Parameter Analyzers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:181945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181944</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Power Quality Analyzers</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Power Quality Analyzers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:181944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97136</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>RF Communication Test Sets</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:RF Communication Test Sets</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:97136</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97201</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signal and Spectrum Analyzers</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Signal and Spectrum Analyzers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:97201</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181946</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Analyzer Parts and Accessories</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Analyzer Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:181946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181947</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Analyzers</CategoryName>
+     <CategoryParentID>181940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition:Other Analyzers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940:181947</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

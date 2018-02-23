@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:09:42.407Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10942</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage (Pre-1960)</CategoryName>
+     <CategoryParentID>14285</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960)</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10943</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Candles and Candleholders</CategoryName>
+     <CategoryParentID>10942</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960):Candles and Candleholders</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942:10943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10944</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Costumes</CategoryName>
+     <CategoryParentID>10942</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960):Costumes</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942:10944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10945</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Decorations</CategoryName>
+     <CategoryParentID>10942</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960):Decorations</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942:10945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88900</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lanterns</CategoryName>
+     <CategoryParentID>10942</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960):Lanterns</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942:88900</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10946</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lights</CategoryName>
+     <CategoryParentID>10942</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960):Lights</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942:10946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10947</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Masks</CategoryName>
+     <CategoryParentID>10942</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960):Masks</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942:10947</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88901</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Noisemakers</CategoryName>
+     <CategoryParentID>10942</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960):Noisemakers</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942:88901</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10948</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>10942</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960):Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942:10948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88902</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Postcards</CategoryName>
+     <CategoryParentID>10942</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960):Postcards</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942:88902</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14286</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Vintage Halloween Décor</CategoryName>
+     <CategoryParentID>10942</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960):Other Vintage Halloween Décor</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942:14286</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

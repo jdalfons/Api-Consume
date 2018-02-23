@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:45:10.282Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>149928</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Half Dimes</CategoryName>
+     <CategoryParentID>253</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Dimes</CategoryNamePath>
+     <CategoryIDPath>11116:253:149928</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173588</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flowing Hair (1792-95)</CategoryName>
+     <CategoryParentID>149928</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Dimes:Flowing Hair (1792-95)</CategoryNamePath>
+     <CategoryIDPath>11116:253:149928:173588</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173589</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Draped Bust (1796-1805)</CategoryName>
+     <CategoryParentID>149928</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Dimes:Draped Bust (1796-1805)</CategoryNamePath>
+     <CategoryIDPath>11116:253:149928:173589</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149929</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Capped Bust (1829-1837)</CategoryName>
+     <CategoryParentID>149928</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Dimes:Capped Bust (1829-1837)</CategoryNamePath>
+     <CategoryIDPath>11116:253:149928:149929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149930</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seated (1837-1873)</CategoryName>
+     <CategoryParentID>149928</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Dimes:Seated (1837-1873)</CategoryNamePath>
+     <CategoryIDPath>11116:253:149928:149930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149931</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>149928</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Dimes:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>11116:253:149928:149931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

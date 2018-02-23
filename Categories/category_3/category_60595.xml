@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:25:21.098Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>60595</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baseball-MLB</CategoryName>
+     <CategoryParentID>50116</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Baseball-MLB</CategoryNamePath>
+     <CategoryIDPath>64482:50116:60595</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73418</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baseballs</CategoryName>
+     <CategoryParentID>60595</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Baseball-MLB:Baseballs</CategoryNamePath>
+     <CategoryIDPath>64482:50116:60595:73418</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60596</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bats</CategoryName>
+     <CategoryParentID>60595</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Baseball-MLB:Bats</CategoryNamePath>
+     <CategoryIDPath>64482:50116:60595:60596</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73419</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Batting Gloves</CategoryName>
+     <CategoryParentID>60595</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Baseball-MLB:Batting Gloves</CategoryNamePath>
+     <CategoryIDPath>64482:50116:60595:73419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60597</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jerseys</CategoryName>
+     <CategoryParentID>60595</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Baseball-MLB:Jerseys</CategoryNamePath>
+     <CategoryIDPath>64482:50116:60595:60597</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50117</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other MLB Game Used Mem</CategoryName>
+     <CategoryParentID>60595</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Baseball-MLB:Other MLB Game Used Mem</CategoryNamePath>
+     <CategoryIDPath>64482:50116:60595:50117</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

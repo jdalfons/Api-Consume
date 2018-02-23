@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:43:39.408Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>105508</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Men&apos;s Formal Occasion</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Men&apos;s Formal Occasion</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105508</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105509</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ties Cravats and Cummerbunds</CategoryName>
+     <CategoryParentID>105508</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Men&apos;s Formal Occasion:Ties Cravats and Cummerbunds</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105508:105509</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105511</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tuxedo and Formal Jackets</CategoryName>
+     <CategoryParentID>105508</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Men&apos;s Formal Occasion:Tuxedo and Formal Jackets</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105508:105511</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105512</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tuxedo and Formal Shirts</CategoryName>
+     <CategoryParentID>105508</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Men&apos;s Formal Occasion:Tuxedo and Formal Shirts</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105508:105512</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105514</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tuxedo and Formal Vests</CategoryName>
+     <CategoryParentID>105508</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Men&apos;s Formal Occasion:Tuxedo and Formal Vests</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105508:105514</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105515</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tuxedos and Formal Suits</CategoryName>
+     <CategoryParentID>105508</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Men&apos;s Formal Occasion:Tuxedos and Formal Suits</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105508:105515</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>148486</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>105508</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Men&apos;s Formal Occasion:Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105508:148486</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>114293</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Men&apos;s Formal Occasion</CategoryName>
+     <CategoryParentID>105508</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Men&apos;s Formal Occasion:Other Men&apos;s Formal Occasion</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105508:114293</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

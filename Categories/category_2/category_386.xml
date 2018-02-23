@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:21:18.754Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>386</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bears</CategoryName>
+     <CategoryParentID>237</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears</CategoryNamePath>
+     <CategoryIDPath>237:386</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160824</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Miniatures</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Miniatures</CategoryNamePath>
+     <CategoryIDPath>237:386:160824</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Antique</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Antique</CategoryNamePath>
+     <CategoryIDPath>237:386:31</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3902</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Artist</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Artist</CategoryNamePath>
+     <CategoryIDPath>237:386:3902</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95217</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Annette Funicello</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Annette Funicello</CategoryNamePath>
+     <CategoryIDPath>237:386:95217</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95218</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Avon</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Avon</CategoryNamePath>
+     <CategoryIDPath>237:386:95218</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53573</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bad Taste Bears</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Bad Taste Bears</CategoryNamePath>
+     <CategoryIDPath>237:386:53573</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95219</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bearfoots</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Bearfoots</CategoryNamePath>
+     <CategoryIDPath>237:386:95219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95220</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bearington</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Bearington</CategoryNamePath>
+     <CategoryIDPath>237:386:95220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1347</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boyds</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Boyds</CategoryNamePath>
+     <CategoryIDPath>237:386:1347</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158447</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Brass Button</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Brass Button</CategoryNamePath>
+     <CategoryIDPath>237:386:158447</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95222</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Build-a-Bear</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Build-a-Bear</CategoryNamePath>
+     <CategoryIDPath>237:386:95222</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47225</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Care Bears</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Care Bears</CategoryNamePath>
+     <CategoryIDPath>237:386:47225</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160825</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chantilly Lane</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Chantilly Lane</CategoryNamePath>
+     <CategoryIDPath>237:386:160825</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3906</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cherished Teddies</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Cherished Teddies</CategoryNamePath>
+     <CategoryIDPath>237:386:3906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95223</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dayton Hudson</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Dayton Hudson</CategoryNamePath>
+     <CategoryIDPath>237:386:95223</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95224</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Deans</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Deans</CategoryNamePath>
+     <CategoryIDPath>237:386:95224</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95225</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Deb Canham</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Deb Canham</CategoryNamePath>
+     <CategoryIDPath>237:386:95225</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36540</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ganz</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Ganz</CategoryNamePath>
+     <CategoryIDPath>237:386:36540</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15975</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gund</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Gund</CategoryNamePath>
+     <CategoryIDPath>237:386:15975</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95226</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hallmark</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Hallmark</CategoryNamePath>
+     <CategoryIDPath>237:386:95226</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95227</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Harrods</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Harrods</CategoryNamePath>
+     <CategoryIDPath>237:386:95227</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27257</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hermann</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Hermann</CategoryNamePath>
+     <CategoryIDPath>237:386:27257</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1540</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Merrythought</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Merrythought</CategoryNamePath>
+     <CategoryIDPath>237:386:1540</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>392</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Muffy NABCO</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Muffy NABCO</CategoryNamePath>
+     <CategoryIDPath>237:386:392</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36542</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Paddington</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Paddington</CategoryNamePath>
+     <CategoryIDPath>237:386:36542</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>779</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Raikes</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Raikes</CategoryNamePath>
+     <CategoryIDPath>237:386:779</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36543</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Russ</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Russ</CategoryNamePath>
+     <CategoryIDPath>237:386:36543</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95228</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Schuco</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Schuco</CategoryNamePath>
+     <CategoryIDPath>237:386:95228</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3910</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Steiff</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Steiff</CategoryNamePath>
+     <CategoryIDPath>237:386:3910</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36544</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Teddy Ruxpin</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Teddy Ruxpin</CategoryNamePath>
+     <CategoryIDPath>237:386:36544</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74983</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vermont Teddy Bear Co.</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Vermont Teddy Bear Co.</CategoryNamePath>
+     <CategoryIDPath>237:386:74983</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101375</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Winnie the Pooh</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Winnie the Pooh</CategoryNamePath>
+     <CategoryIDPath>237:386:101375</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>387</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Accessories</CategoryNamePath>
+     <CategoryIDPath>237:386:387</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170085</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collectors&apos; Guides and Books</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Collectors&apos; Guides and Books</CategoryNamePath>
+     <CategoryIDPath>237:386:170085</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Plush Bears</CategoryName>
+     <CategoryParentID>386</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears:Other Plush Bears</CategoryNamePath>
+     <CategoryIDPath>237:386:117</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>36</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

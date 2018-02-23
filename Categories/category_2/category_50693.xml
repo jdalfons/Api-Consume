@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:39.845Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>50693</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Glass</CategoryName>
+     <CategoryParentID>870</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Glass</CategoryNamePath>
+     <CategoryIDPath>870:50693</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>955</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Art Glass</CategoryName>
+     <CategoryParentID>50693</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Glass:Art Glass</CategoryNamePath>
+     <CategoryIDPath>870:50693:955</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Glassware</CategoryName>
+     <CategoryParentID>50693</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Glass:Glassware</CategoryNamePath>
+     <CategoryIDPath>870:50693:13</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60101</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>50693</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Glass:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>870:50693:60101</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

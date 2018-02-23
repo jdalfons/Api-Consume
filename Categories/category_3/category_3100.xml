@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:02:28.613Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3100</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Glass Art and Mosaic Supplies</CategoryName>
+     <CategoryParentID>163778</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117402</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books and Videos</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Books and Videos</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:117402</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163788</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Etching Supplies</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Etching Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:163788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163789</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fusing Supplies</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Fusing Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:163789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3101</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glass Art Tools</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Glass Art Tools</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:3101</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116642</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glass Blowing</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Glass Blowing</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:116642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116643</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glass Cutters</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Glass Cutters</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:116643</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116644</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glass Grinding</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Glass Grinding</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:116644</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117401</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glass Kilns</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Glass Kilns</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:117401</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116645</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glass Paints</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Glass Paints</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:116645</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162080</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Grout Glue and Substrates</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Grout Glue and Substrates</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:162080</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71182</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kits and Patterns</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Kits and Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:71182</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163787</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mosaic Molds and Surfaces</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Mosaic Molds and Surfaces</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:163787</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41372</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mosaic Tools</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Mosaic Tools</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:41372</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116648</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Soldering</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Soldering</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:116648</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4770</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stained Glass Supplies</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Stained Glass Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:4770</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3099</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Glass Art Supplies</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Other Glass Art Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:3099</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

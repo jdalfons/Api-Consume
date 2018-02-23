@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:10.720Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3153</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Equestrian</CategoryName>
+     <CategoryParentID>159043</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16240</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing and Accessories</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Clothing and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:16240</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>87443</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Helmets and Protective Gear</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Helmets and Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:87443</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27031</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Riding Boots and Accessories</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Riding Boots and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:27031</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22176</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Whips and Crops</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Whips and Crops</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:22176</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3159</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>English Saddles and Tack</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:English Saddles and Tack</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:3159</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Western Saddles and Tack</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Western Saddles and Tack</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:3161</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85178</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Driving Equipment</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Driving Equipment</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:85178</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183421</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lunging and Training Equipment</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Lunging and Training Equipment</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:183421</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>114226</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rodeo and Roping Equipment</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Rodeo and Roping Equipment</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:114226</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57268</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Horse Wear</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Horse Wear</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:57268</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139580</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Horse Care and Grooming</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Horse Care and Grooming</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:139580</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139576</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Horse Feed and Supplements</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Horse Feed and Supplements</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:139576</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73934</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Horse Trailers and Accessories</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Horse Trailers and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:73934</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85214</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stable Accessories</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Stable Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:85214</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1048</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Equestrian</CategoryName>
+     <CategoryParentID>3153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Equestrian:Other Equestrian</CategoryNamePath>
+     <CategoryIDPath>888:159043:3153:1048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:11:20.254Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11116</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Coins and Paper Money</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money</CategoryNamePath>
+     <CategoryIDPath>11116</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39482</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bullion</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion</CategoryNamePath>
+     <CategoryIDPath>11116:39482</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>253</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Coins: US</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US</CategoryNamePath>
+     <CategoryIDPath>11116:253</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3377</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Coins: Canada</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada</CategoryNamePath>
+     <CategoryIDPath>11116:3377</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4733</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Coins: Ancient</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Ancient</CategoryNamePath>
+     <CategoryIDPath>11116:4733</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18466</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Coins: Medieval</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Medieval</CategoryNamePath>
+     <CategoryIDPath>11116:18466</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>256</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Coins: World</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World</CategoryNamePath>
+     <CategoryIDPath>11116:256</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3452</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Exonumia</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia</CategoryNamePath>
+     <CategoryIDPath>11116:3452</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3412</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Paper Money: US</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US</CategoryNamePath>
+     <CategoryIDPath>11116:3412</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3411</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Paper Money: World</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World</CategoryNamePath>
+     <CategoryIDPath>11116:3411</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83274</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Publications and Supplies</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Publications and Supplies</CategoryNamePath>
+     <CategoryIDPath>11116:83274</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3444</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Stocks and Bonds Scripophily</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Stocks and Bonds Scripophily</CategoryNamePath>
+     <CategoryIDPath>11116:3444</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179197</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Virtual Currency</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Virtual Currency</CategoryNamePath>
+     <CategoryIDPath>11116:179197</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>169305</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Coins and Paper Money</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Other Coins and Paper Money</CategoryNamePath>
+     <CategoryIDPath>11116:169305</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

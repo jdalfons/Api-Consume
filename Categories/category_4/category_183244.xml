@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:23:50.438Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183244</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scrapbooking Adhesives</CategoryName>
+     <CategoryParentID>31253</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Adhesives</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:183244</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122691</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dimensional Adhesives</CategoryName>
+     <CategoryParentID>183244</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Adhesives:Dimensional Adhesives</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:183244:122691</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183245</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Photo Mounting Corners</CategoryName>
+     <CategoryParentID>183244</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Adhesives:Photo Mounting Corners</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:183244:183245</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183246</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tape Runners and Refills</CategoryName>
+     <CategoryParentID>183244</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Adhesives:Tape Runners and Refills</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:183244:183246</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183247</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Washi Tape</CategoryName>
+     <CategoryParentID>183244</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Adhesives:Washi Tape</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:183244:183247</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

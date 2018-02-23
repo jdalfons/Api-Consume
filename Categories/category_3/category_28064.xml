@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:45.642Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>28064</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fitness Equipment and Gear</CategoryName>
+     <CategoryParentID>15273</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15274</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Abdominal Exercisers</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Abdominal Exercisers</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:15274</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158922</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Aquatic Fitness Equipment</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Aquatic Fitness Equipment</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:158922</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179803</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Balance Trainers</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Balance Trainers</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:179803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179804</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ballet Barres</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Ballet Barres</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:179804</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179805</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dance Poles and Accessories</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Dance Poles and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:179805</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179806</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Equipment Mats and Flooring</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Equipment Mats and Flooring</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:179806</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31390</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Exercise Balls</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Exercise Balls</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:31390</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44079</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Exercise Mats</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Exercise Mats</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:44079</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179800</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Foam Rollers</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Foam Rollers</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:179800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179801</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gym Towels</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Gym Towels</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:179801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>137862</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Grippers</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Hand Grippers</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:137862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158950</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hydration</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Hydration</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:158950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112954</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Inversion Tables</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Inversion Tables</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:112954</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62134</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jump Ropes</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Jump Ropes</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:62134</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>137861</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Medicine (Weighted) Balls</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Medicine (Weighted) Balls</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:137861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79759</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Resistance Trainers</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Resistance Trainers</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:79759</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179802</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Running Belts</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Running Belts</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:179802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44080</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Step/Riser Sets</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Step/Riser Sets</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:44080</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58106</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thigh Exercisers</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Thigh Exercisers</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:58106</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57273</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Toning Belts</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Toning Belts</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:57273</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57275</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trampolines</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Trampolines</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:57275</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179001</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Equipment Parts and Accessories</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Equipment Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:179001</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28065</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fitness Equipment and Gear</CategoryName>
+     <CategoryParentID>28064</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Fitness Equipment and Gear:Other Fitness Equipment and Gear</CategoryNamePath>
+     <CategoryIDPath>888:15273:28064:28065</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>24</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

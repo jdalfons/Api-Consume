@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:26:34.298Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>159136</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Water Sports</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports</CategoryNamePath>
+     <CategoryIDPath>888:159136</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159142</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fins Footwear and Gloves</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Fins Footwear and Gloves</CategoryNamePath>
+     <CategoryIDPath>888:159136:159142</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36121</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kayaking Canoeing and Rafting</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Kayaking Canoeing and Rafting</CategoryNamePath>
+     <CategoryIDPath>888:159136:36121</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>114262</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kitesurfing</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Kitesurfing</CategoryNamePath>
+     <CategoryIDPath>888:159136:114262</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16052</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>SCUBA and Snorkeling</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177503</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stand Up Paddleboarding</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Stand Up Paddleboarding</CategoryNamePath>
+     <CategoryIDPath>888:159136:177503</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22709</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Surfing</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Surfing</CategoryNamePath>
+     <CategoryIDPath>888:159136:22709</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74050</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Swimming</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimming</CategoryNamePath>
+     <CategoryIDPath>888:159136:74050</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159137</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Swimwear and Safety</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimwear and Safety</CategoryNamePath>
+     <CategoryIDPath>888:159136:159137</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23806</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wakeboarding and Waterskiing</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Wakeboarding and Waterskiing</CategoryNamePath>
+     <CategoryIDPath>888:159136:23806</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159149</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wetsuits and Drysuits</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Wetsuits and Drysuits</CategoryNamePath>
+     <CategoryIDPath>888:159136:159149</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2920</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Windsurfing</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Windsurfing</CategoryNamePath>
+     <CategoryIDPath>888:159136:2920</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159151</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Water Sports</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Other Water Sports</CategoryNamePath>
+     <CategoryIDPath>888:159136:159151</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

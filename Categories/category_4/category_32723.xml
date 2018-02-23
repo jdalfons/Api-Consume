@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:03:36.893Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>32723</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Superhero</CategoryName>
+     <CategoryParentID>73</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32724</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aquaman</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Aquaman</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32724</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32725</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Atom</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Atom</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32726</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Avengers</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Avengers</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32727</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Batman</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Batman</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32727</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165346</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beware of the Creeper</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Beware of the Creeper</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165346</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165347</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Blackhawk</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Blackhawk</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165347</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32728</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Brave and the Bold</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Brave and the Bold</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32728</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32729</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Captain America</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Captain America</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32729</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32730</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Daredevil</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Daredevil</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32730</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165348</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Doom Patrol</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Doom Patrol</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73490</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dr. Strange</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Dr. Strange</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:73490</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32731</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fantastic Four</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Fantastic Four</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32731</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32732</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flash</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Flash</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32733</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Green Lantern</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Green Lantern</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165349</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hawk and Dove</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Hawk and Dove</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165349</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155277</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hawkman</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Hawkman</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:155277</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32734</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Incredible Hulk</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Incredible Hulk</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32735</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Iron Man</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Iron Man</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32737</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Justice League of America</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Justice League of America</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32737</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165350</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal Men</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Metal Men</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165350</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165351</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nick Fury</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Nick Fury</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165351</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165353</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Plastic Man</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Plastic Man</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165353</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165354</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sea Devils</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Sea Devils</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165354</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165355</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sgt. Fury</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Sgt. Fury</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165355</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32738</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Silver Surfer</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Silver Surfer</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32738</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165356</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spectre</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Spectre</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165356</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32739</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spider-Man</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Spider-Man</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32739</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32741</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sub-Mariner</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Sub-Mariner</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32741</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32742</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Superboy</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Superboy</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32743</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Superman</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Superman</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32743</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165357</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Teen Titans</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Teen Titans</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:165357</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32746</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thor</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Thor</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32746</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155278</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wonder Woman</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Wonder Woman</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:155278</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155279</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>World&apos;s Finest</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:World&apos;s Finest</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:155279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32747</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>X-Men</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:X-Men</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32747</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32748</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Items</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Mixed Items</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:32748</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Silver Age Superheroes</CategoryName>
+     <CategoryParentID>32723</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69):Superhero:Other Silver Age Superheroes</CategoryNamePath>
+     <CategoryIDPath>1:63:73:32723:75</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>38</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

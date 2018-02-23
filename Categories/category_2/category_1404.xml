@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:18:18.892Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1404</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Lamps Lighting</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting</CategoryNamePath>
+     <CategoryIDPath>1:1404</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4062</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Candle Holders</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Candle Holders</CategoryNamePath>
+     <CategoryIDPath>1:1404:4062</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13862</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ceiling Fixtures</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Ceiling Fixtures</CategoryNamePath>
+     <CategoryIDPath>1:1404:13862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4053</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lamps: Electric</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Lamps: Electric</CategoryNamePath>
+     <CategoryIDPath>1:1404:4053</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4057</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lamps: Non-Electric</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Lamps: Non-Electric</CategoryNamePath>
+     <CategoryIDPath>1:1404:4057</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13865</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lamp Repair Refurbishing</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Lamp Repair Refurbishing</CategoryNamePath>
+     <CategoryIDPath>1:1404:13865</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4055</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Neon</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Neon</CategoryNamePath>
+     <CategoryIDPath>1:1404:4055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157010</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Night Lights</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Night Lights</CategoryNamePath>
+     <CategoryIDPath>1:1404:157010</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13868</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sconces</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Sconces</CategoryNamePath>
+     <CategoryIDPath>1:1404:13868</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1408</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shades</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Shades</CategoryNamePath>
+     <CategoryIDPath>1:1404:1408</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>371</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Collectible Lighting</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Other Collectible Lighting</CategoryNamePath>
+     <CategoryIDPath>1:1404:371</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:03:42.957Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183209</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spinning and Felting</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183210</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Felt Appliques</CategoryName>
+     <CategoryParentID>183209</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting:Felt Appliques</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209:183210</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183211</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Needle Felting</CategoryName>
+     <CategoryParentID>183209</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting:Needle Felting</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209:183211</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36601</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Roving Wool and Fibers</CategoryName>
+     <CategoryParentID>183209</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting:Roving Wool and Fibers</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209:36601</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183218</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spinning</CategoryName>
+     <CategoryParentID>183209</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting:Spinning</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209:183218</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

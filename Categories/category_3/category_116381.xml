@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:18:45.315Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>116381</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Training and Obedience</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116383</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Agility Training</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Agility Training</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:116383</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66774</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bark Collars</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Bark Collars</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:66774</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177795</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bite Sleeves and Bite Suits</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Bite Sleeves and Bite Suits</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:177795</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100404</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clickers</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Clickers</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:100404</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116388</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Electronic Fences</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Electronic Fences</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:116388</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146243</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>House Training Pads</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:House Training Pads</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:146243</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66784</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Muzzles</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Muzzles</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:66784</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146244</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sonic Trainers</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Sonic Trainers</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:146244</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149047</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Training Dummies</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Training Dummies</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:149047</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116387</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Training Videos and Books</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Training Videos and Books</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:116387</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149048</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Treat Bags</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Treat Bags</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:149048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116384</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Whistles</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Whistles</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:116384</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146245</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Dog Training and Obedience</CategoryName>
+     <CategoryParentID>116381</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience:Other Dog Training and Obedience</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381:146245</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:48.660Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>256</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Coins: World</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World</CategoryNamePath>
+     <CategoryIDPath>11116:256</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>127144</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Africa</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Africa</CategoryNamePath>
+     <CategoryIDPath>11116:256:127144</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40711</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Asia</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Asia</CategoryNamePath>
+     <CategoryIDPath>11116:256:40711</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45991</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Australia and Oceania</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Australia and Oceania</CategoryNamePath>
+     <CategoryIDPath>11116:256:45991</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45148</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Europe</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58532</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Middle East</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Middle East</CategoryNamePath>
+     <CategoryIDPath>11116:256:58532</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45145</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>North and Central America</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:North and Central America</CategoryNamePath>
+     <CategoryIDPath>11116:256:45145</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45160</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>South America</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:South America</CategoryNamePath>
+     <CategoryIDPath>11116:256:45160</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>546</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Commemorative</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Commemorative</CategoryNamePath>
+     <CategoryIDPath>11116:256:546</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>543</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Errors</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Errors</CategoryNamePath>
+     <CategoryIDPath>11116:256:543</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>547</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gold</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Gold</CategoryNamePath>
+     <CategoryIDPath>11116:256:547</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>545</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mint Proof Sets</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Mint Proof Sets</CategoryNamePath>
+     <CategoryIDPath>11116:256:545</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>544</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collections Lots</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Collections Lots</CategoryNamePath>
+     <CategoryIDPath>11116:256:544</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>257</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Coins of the World</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Other Coins of the World</CategoryNamePath>
+     <CategoryIDPath>11116:256:257</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:26:03.923Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>338</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vogue</CategoryName>
+     <CategoryParentID>15987</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Vogue</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:338</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>346</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ginnette</CategoryName>
+     <CategoryParentID>338</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Vogue:Ginnette</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:338:346</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18816</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ginny</CategoryName>
+     <CategoryParentID>338</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Vogue:Ginny</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:338:18816</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>347</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jill Jeff and Jan</CategoryName>
+     <CategoryParentID>338</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Vogue:Jill Jeff and Jan</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:338:347</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1035</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Vogue Dolls</CategoryName>
+     <CategoryParentID>338</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Vogue:Other Vogue Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:338:1035</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:58.035Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45110</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Accessories</CategoryNamePath>
+     <CategoryIDPath>267:45110</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45111</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Address Books</CategoryName>
+     <CategoryParentID>45110</CategoryParentID>
+     <CategoryNamePath>Books:Accessories:Address Books</CategoryNamePath>
+     <CategoryIDPath>267:45110:45111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45112</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blank Diaries and Journals</CategoryName>
+     <CategoryParentID>45110</CategoryParentID>
+     <CategoryNamePath>Books:Accessories:Blank Diaries and Journals</CategoryNamePath>
+     <CategoryIDPath>267:45110:45112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45113</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Book Covers</CategoryName>
+     <CategoryParentID>45110</CategoryParentID>
+     <CategoryNamePath>Books:Accessories:Book Covers</CategoryNamePath>
+     <CategoryIDPath>267:45110:45113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>120869</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Book Lights</CategoryName>
+     <CategoryParentID>45110</CategoryParentID>
+     <CategoryNamePath>Books:Accessories:Book Lights</CategoryNamePath>
+     <CategoryIDPath>267:45110:120869</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48831</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Book Plates</CategoryName>
+     <CategoryParentID>45110</CategoryParentID>
+     <CategoryNamePath>Books:Accessories:Book Plates</CategoryNamePath>
+     <CategoryIDPath>267:45110:48831</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162028</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Book Stands Holders</CategoryName>
+     <CategoryParentID>45110</CategoryParentID>
+     <CategoryNamePath>Books:Accessories:Book Stands Holders</CategoryNamePath>
+     <CategoryIDPath>267:45110:162028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162026</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bookends</CategoryName>
+     <CategoryParentID>45110</CategoryParentID>
+     <CategoryNamePath>Books:Accessories:Bookends</CategoryNamePath>
+     <CategoryIDPath>267:45110:162026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45114</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bookmarks</CategoryName>
+     <CategoryParentID>45110</CategoryParentID>
+     <CategoryNamePath>Books:Accessories:Bookmarks</CategoryNamePath>
+     <CategoryIDPath>267:45110:45114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45115</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Book Accessories</CategoryName>
+     <CategoryParentID>45110</CategoryParentID>
+     <CategoryNamePath>Books:Accessories:Other Book Accessories</CategoryNamePath>
+     <CategoryIDPath>267:45110:45115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

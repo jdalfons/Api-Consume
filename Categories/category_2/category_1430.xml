@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:18:23.892Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1430</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Metalware</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware</CategoryNamePath>
+     <CategoryIDPath>1:1430</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1431</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Aluminum</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Aluminum</CategoryNamePath>
+     <CategoryIDPath>1:1430:1431</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3630</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Brass</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Brass</CategoryNamePath>
+     <CategoryIDPath>1:1430:3630</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1432</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bronze</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Bronze</CategoryNamePath>
+     <CategoryIDPath>1:1430:1432</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3631</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cast Iron</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Cast Iron</CategoryNamePath>
+     <CategoryIDPath>1:1430:3631</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13937</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chrome</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Chrome</CategoryNamePath>
+     <CategoryIDPath>1:1430:13937</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1433</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Copper</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Copper</CategoryNamePath>
+     <CategoryIDPath>1:1430:1433</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1434</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pewter</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Pewter</CategoryNamePath>
+     <CategoryIDPath>1:1430:1434</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1436</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Silverplate</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Silverplate</CategoryNamePath>
+     <CategoryIDPath>1:1430:1436</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1435</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sterling Silver</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Sterling Silver</CategoryNamePath>
+     <CategoryIDPath>1:1430:1435</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10950</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tin</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Tin</CategoryNamePath>
+     <CategoryIDPath>1:1430:10950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171191</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:1430:171191</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Collectible Metalware</CategoryName>
+     <CategoryParentID>1430</CategoryParentID>
+     <CategoryNamePath>Collectibles:Metalware:Other Collectible Metalware</CategoryNamePath>
+     <CategoryIDPath>1:1430:28</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

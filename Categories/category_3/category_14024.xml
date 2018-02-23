@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:58:04.660Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>14024</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Automobilia</CategoryName>
+     <CategoryParentID>417</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia</CategoryNamePath>
+     <CategoryIDPath>1:417:14024</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63816</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Antenna Toppers</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Antenna Toppers</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:63816</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14025</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Badges</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Badges</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:14025</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35929</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books and Manuals</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Books and Manuals</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:35929</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35933</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brochures and Catalogs</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Brochures and Catalogs</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:35933</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63817</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Calendars</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Calendars</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:63817</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63818</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clocks</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Clocks</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:63818</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14028</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing and Hats</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Clothing and Hats</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:14028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14029</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decals and Stickers</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Decals and Stickers</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:14029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35938</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dishes Cups and Mugs</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Dishes Cups and Mugs</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:35938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165739</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Floormats and Seat Covers</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Floormats and Seat Covers</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:165739</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95134</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gas Pumps and Fueling Systems</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Gas Pumps and Fueling Systems</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:95134</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74720</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hitch Covers</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Hitch Covers</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:74720</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33757</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hood Ornaments and Emblems</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Hood Ornaments and Emblems</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:33757</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95135</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Horns and Bells</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Horns and Bells</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:95135</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95136</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hubcaps and Hub Nuts</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Hubcaps and Hub Nuts</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:95136</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35939</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Keychains</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Keychains</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:35939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33758</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>License Plate Frames</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:License Plate Frames</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:33758</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14030</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>License Plates</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:License Plates</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:14030</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71003</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lighters</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Lighters</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:71003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63819</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Magazines</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Magazines</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:63819</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165741</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Model Cars and Trucks</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Model Cars and Trucks</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:165741</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14042</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Original Photos</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Original Photos</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:14042</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14043</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Patches</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Patches</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:14043</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14044</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pins</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Pins</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:14044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95142</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Posters</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Posters</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:95142</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14046</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Press Kits</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Press Kits</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:14046</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14047</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prints</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Prints</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:14047</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14048</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signs and Plaques</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Signs and Plaques</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:14048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74722</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spark Plugs</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Spark Plugs</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:74722</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74723</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Steering Wheels and Knobs</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Steering Wheels and Knobs</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:74723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95147</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Traffic Lights and Signals</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Traffic Lights and Signals</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:95147</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73572</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Watches</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Watches</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:73572</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>418</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Automobilia</CategoryName>
+     <CategoryParentID>14024</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Automobilia:Other Automobilia</CategoryNamePath>
+     <CategoryIDPath>1:417:14024:418</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>34</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

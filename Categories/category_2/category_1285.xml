@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:34.985Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1285</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Reptile Supplies</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Reptile Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:1285</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

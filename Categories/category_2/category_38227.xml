@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:23:18.267Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38227</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Holiday and Seasonal Décor</CategoryName>
+     <CategoryParentID>11700</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Holiday and Seasonal Décor</CategoryNamePath>
+     <CategoryIDPath>11700:38227</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170090</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Christmas and Winter</CategoryName>
+     <CategoryParentID>38227</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Holiday and Seasonal Décor:Christmas and Winter</CategoryNamePath>
+     <CategoryIDPath>11700:38227:170090</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170093</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Easter and Spring</CategoryName>
+     <CategoryParentID>38227</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Holiday and Seasonal Décor:Easter and Spring</CategoryNamePath>
+     <CategoryIDPath>11700:38227:170093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170094</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Halloween</CategoryName>
+     <CategoryParentID>38227</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Holiday and Seasonal Décor:Halloween</CategoryNamePath>
+     <CategoryIDPath>11700:38227:170094</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170095</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>July 4th and Summer</CategoryName>
+     <CategoryParentID>38227</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Holiday and Seasonal Décor:July 4th and Summer</CategoryNamePath>
+     <CategoryIDPath>11700:38227:170095</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177745</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>St. Patrick&apos;s Day</CategoryName>
+     <CategoryParentID>38227</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Holiday and Seasonal Décor:St. Patrick&apos;s Day</CategoryNamePath>
+     <CategoryIDPath>11700:38227:177745</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170096</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Thanksgiving and Fall</CategoryName>
+     <CategoryParentID>38227</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Holiday and Seasonal Décor:Thanksgiving and Fall</CategoryNamePath>
+     <CategoryIDPath>11700:38227:170096</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170097</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Valentine&apos;s Day</CategoryName>
+     <CategoryParentID>38227</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Holiday and Seasonal Décor:Valentine&apos;s Day</CategoryNamePath>
+     <CategoryIDPath>11700:38227:170097</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38232</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Holiday and Seasonal Décor</CategoryName>
+     <CategoryParentID>38227</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Holiday and Seasonal Décor:Other Holiday and Seasonal Décor</CategoryNamePath>
+     <CategoryIDPath>11700:38227:38232</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:04:19.738Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183299</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pressing Equipment</CategoryName>
+     <CategoryParentID>160737</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Pressing Equipment</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183299</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183300</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mini Irons</CategoryName>
+     <CategoryParentID>183299</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Pressing Equipment:Mini Irons</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183299:183300</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183301</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pressing Paper</CategoryName>
+     <CategoryParentID>183299</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Pressing Equipment:Pressing Paper</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183299:183301</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

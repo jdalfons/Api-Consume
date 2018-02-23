@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:30.051Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>30078</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Lighting and Studio</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio</CategoryNamePath>
+     <CategoryIDPath>625:30078</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79003</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Background Material</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Background Material</CategoryNamePath>
+     <CategoryIDPath>625:30078:79003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19590</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Continuous Lighting</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Continuous Lighting</CategoryNamePath>
+     <CategoryIDPath>625:30078:19590</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124848</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flash Lighting</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Flash Lighting</CategoryNamePath>
+     <CategoryIDPath>625:30078:124848</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79007</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Light Controls and Modifiers</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Light Controls and Modifiers</CategoryNamePath>
+     <CategoryIDPath>625:30078:79007</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88668</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Light Meters</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Light Meters</CategoryNamePath>
+     <CategoryIDPath>625:30078:88668</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88665</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Light Stands and Booms</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Light Stands and Booms</CategoryNamePath>
+     <CategoryIDPath>625:30078:88665</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88667</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Light Stand and Boom Accessories</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Light Stand and Boom Accessories</CategoryNamePath>
+     <CategoryIDPath>625:30078:88667</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30085</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Props and Stage Equipment</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Props and Stage Equipment</CategoryNamePath>
+     <CategoryIDPath>625:30078:30085</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151226</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shooting Tables and Light Tents</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Shooting Tables and Light Tents</CategoryNamePath>
+     <CategoryIDPath>625:30078:151226</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21198</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stock Photo Collections</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Stock Photo Collections</CategoryNamePath>
+     <CategoryIDPath>625:30078:21198</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30088</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Lighting and Studio</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Other Lighting and Studio</CategoryNamePath>
+     <CategoryIDPath>625:30078:30088</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

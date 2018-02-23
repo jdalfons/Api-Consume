@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:08:19.565Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182113</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mobility Furniture and Fixtures</CategoryName>
+     <CategoryParentID>11778</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75067</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Access Ramps</CategoryName>
+     <CategoryParentID>182113</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures:Access Ramps</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113:75067</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182114</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bed and Chair Tables</CategoryName>
+     <CategoryParentID>182113</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures:Bed and Chair Tables</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113:182114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171537</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Handles and Rails</CategoryName>
+     <CategoryParentID>182113</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures:Handles and Rails</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113:171537</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>129588</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shower and Bath Seats</CategoryName>
+     <CategoryParentID>182113</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures:Shower and Bath Seats</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113:129588</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182115</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Steps and Stairs</CategoryName>
+     <CategoryParentID>182113</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures:Steps and Stairs</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113:182115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171535</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Toilet Frames and Commodes</CategoryName>
+     <CategoryParentID>182113</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures:Toilet Frames and Commodes</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113:171535</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171540</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Toilet Seats</CategoryName>
+     <CategoryParentID>182113</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures:Toilet Seats</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113:171540</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182116</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Transfer Boards and Benches</CategoryName>
+     <CategoryParentID>182113</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures:Transfer Boards and Benches</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113:182116</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182117</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Accessibility Fixtures</CategoryName>
+     <CategoryParentID>182113</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures:Other Accessibility Fixtures</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113:182117</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

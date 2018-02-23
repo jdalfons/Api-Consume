@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:00.110Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11838</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bath and Body</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body</CategoryNamePath>
+     <CategoryIDPath>26395:11838</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180924</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bar Soaps</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Bar Soaps</CategoryNamePath>
+     <CategoryIDPath>26395:11838:180924</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72759</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bath Bombs and Fizzies</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Bath Bombs and Fizzies</CategoryNamePath>
+     <CategoryIDPath>26395:11838:72759</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74990</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bath Brushes and Sponges</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Bath Brushes and Sponges</CategoryNamePath>
+     <CategoryIDPath>26395:11838:74990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31751</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bath Oils</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Bath Oils</CategoryNamePath>
+     <CategoryIDPath>26395:11838:31751</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67390</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bath Salts</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Bath Salts</CategoryNamePath>
+     <CategoryIDPath>26395:11838:67390</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67391</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bath Sets and Kits</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Bath Sets and Kits</CategoryNamePath>
+     <CategoryIDPath>26395:11838:67391</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11841</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Body Lotions and Moisturizers</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Body Lotions and Moisturizers</CategoryNamePath>
+     <CategoryIDPath>26395:11838:11841</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29581</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Body Powders</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Body Powders</CategoryNamePath>
+     <CategoryIDPath>26395:11838:29581</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31752</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Body Scrubs and Exfoliants</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Body Scrubs and Exfoliants</CategoryNamePath>
+     <CategoryIDPath>26395:11838:31752</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31753</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Body Sprays and Mists</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Body Sprays and Mists</CategoryNamePath>
+     <CategoryIDPath>26395:11838:31753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31754</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Body Washes and Shower Gels</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Body Washes and Shower Gels</CategoryNamePath>
+     <CategoryIDPath>26395:11838:31754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31755</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bubble Baths</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Bubble Baths</CategoryNamePath>
+     <CategoryIDPath>26395:11838:31755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29580</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Deodorants and Antiperspirants</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Deodorants and Antiperspirants</CategoryNamePath>
+     <CategoryIDPath>26395:11838:29580</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180918</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hand Washes</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Hand Washes</CategoryNamePath>
+     <CategoryIDPath>26395:11838:180918</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74994</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scar and Stretch Mark Reducers</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Scar and Stretch Mark Reducers</CategoryNamePath>
+     <CategoryIDPath>26395:11838:74994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182100</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shower Caps</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Shower Caps</CategoryNamePath>
+     <CategoryIDPath>26395:11838:182100</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180925</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Travel Bottles and Containers</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Travel Bottles and Containers</CategoryNamePath>
+     <CategoryIDPath>26395:11838:180925</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29584</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mixed Items</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Mixed Items</CategoryNamePath>
+     <CategoryIDPath>26395:11838:29584</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11837</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Bath and Body Supplies</CategoryName>
+     <CategoryParentID>11838</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body:Other Bath and Body Supplies</CategoryNamePath>
+     <CategoryIDPath>26395:11838:11837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

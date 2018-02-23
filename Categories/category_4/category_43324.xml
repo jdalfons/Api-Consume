@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:10:34.376Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>43324</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modern Fixed Blade</CategoryName>
+     <CategoryParentID>182973</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Fixed Blade Knives:Modern Fixed Blade</CategoryNamePath>
+     <CategoryIDPath>1:1401:182973:43324</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43325</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Custom and Handmade</CategoryName>
+     <CategoryParentID>43324</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Fixed Blade Knives:Modern Fixed Blade:Custom and Handmade</CategoryNamePath>
+     <CategoryIDPath>1:1401:182973:43324:43325</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73522</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Factory Manufactured</CategoryName>
+     <CategoryParentID>43324</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Fixed Blade Knives:Modern Fixed Blade:Factory Manufactured</CategoryNamePath>
+     <CategoryIDPath>1:1401:182973:43324:73522</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

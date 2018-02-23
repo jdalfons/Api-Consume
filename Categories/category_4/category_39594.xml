@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:06:12.363Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>39594</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Precious Moments</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50751</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bells</CategoryName>
+     <CategoryParentID>39594</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments:Bells</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594:50751</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50752</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Collector Plates</CategoryName>
+     <CategoryParentID>39594</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments:Collector Plates</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594:50752</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41279</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>39594</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments:Figurines</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594:41279</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50753</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mugs Cups</CategoryName>
+     <CategoryParentID>39594</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments:Mugs Cups</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594:50753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39596</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>39594</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments:Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594:39596</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50754</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Picture Frames</CategoryName>
+     <CategoryParentID>39594</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments:Picture Frames</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594:50754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39597</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Plush Tender Tails</CategoryName>
+     <CategoryParentID>39594</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments:Plush Tender Tails</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594:39597</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50755</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tea Sets</CategoryName>
+     <CategoryParentID>39594</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments:Tea Sets</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594:50755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39598</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Waterballs</CategoryName>
+     <CategoryParentID>39594</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments:Waterballs</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594:39598</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>107</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Precious Moments</CategoryName>
+     <CategoryParentID>39594</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments:Other Precious Moments</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594:107</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:38.908Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>15124</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Body Jewelry</CategoryName>
+     <CategoryParentID>10968</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fashion Jewelry:Body Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:10968:15124</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98526</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Body Chains</CategoryName>
+     <CategoryParentID>15124</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fashion Jewelry:Body Jewelry:Body Chains</CategoryNamePath>
+     <CategoryIDPath>281:10968:15124:98526</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32050</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Body Piercing Jewelry</CategoryName>
+     <CategoryParentID>15124</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fashion Jewelry:Body Jewelry:Body Piercing Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:10968:15124:32050</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177769</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fake and Cheater Body Jewelry</CategoryName>
+     <CategoryParentID>15124</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fashion Jewelry:Body Jewelry:Fake and Cheater Body Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:10968:15124:177769</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152808</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Grillz Dental Grills</CategoryName>
+     <CategoryParentID>15124</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fashion Jewelry:Body Jewelry:Grillz Dental Grills</CategoryNamePath>
+     <CategoryIDPath>281:10968:15124:152808</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>136990</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Replacement Parts</CategoryName>
+     <CategoryParentID>15124</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fashion Jewelry:Body Jewelry:Replacement Parts</CategoryNamePath>
+     <CategoryIDPath>281:10968:15124:136990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98542</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Retainers and Hide-its</CategoryName>
+     <CategoryParentID>15124</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fashion Jewelry:Body Jewelry:Retainers and Hide-its</CategoryNamePath>
+     <CategoryIDPath>281:10968:15124:98542</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177768</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stickers and Body Art</CategoryName>
+     <CategoryParentID>15124</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fashion Jewelry:Body Jewelry:Stickers and Body Art</CategoryNamePath>
+     <CategoryIDPath>281:10968:15124:177768</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>110399</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Body Jewelry</CategoryName>
+     <CategoryParentID>15124</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fashion Jewelry:Body Jewelry:Other Body Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:10968:15124:110399</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

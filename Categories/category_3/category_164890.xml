@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:07:19.393Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>164890</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Souvenir Programs</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164891</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1940</CategoryName>
+     <CategoryParentID>164890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs:Pre-1940</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890:164891</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164892</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1940-49</CategoryName>
+     <CategoryParentID>164890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs:1940-49</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890:164892</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164893</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1950-59</CategoryName>
+     <CategoryParentID>164890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs:1950-59</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890:164893</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164894</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1960-69</CategoryName>
+     <CategoryParentID>164890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs:1960-69</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890:164894</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164895</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1970-79</CategoryName>
+     <CategoryParentID>164890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs:1970-79</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890:164895</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164896</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1980-89</CategoryName>
+     <CategoryParentID>164890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs:1980-89</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890:164896</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164897</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1990-99</CategoryName>
+     <CategoryParentID>164890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs:1990-99</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890:164897</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164898</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>2000-Now</CategoryName>
+     <CategoryParentID>164890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs:2000-Now</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890:164898</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2367</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Theater Programs</CategoryName>
+     <CategoryParentID>164890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs:Other Theater Programs</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890:2367</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:33.551Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>30090</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Tripods and Supports</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Tripods and Supports</CategoryNamePath>
+     <CategoryIDPath>625:30090</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30093</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tripods and Monopods</CategoryName>
+     <CategoryParentID>30090</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Tripods and Supports:Tripods and Monopods</CategoryNamePath>
+     <CategoryIDPath>625:30090:30093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172511</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stabilizers</CategoryName>
+     <CategoryParentID>30090</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Tripods and Supports:Stabilizers</CategoryNamePath>
+     <CategoryIDPath>625:30090:172511</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30095</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tripod Heads</CategoryName>
+     <CategoryParentID>30090</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Tripods and Supports:Tripod Heads</CategoryNamePath>
+     <CategoryIDPath>625:30090:30095</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30097</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Tripods and Supports</CategoryName>
+     <CategoryParentID>30090</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Tripods and Supports:Other Tripods and Supports</CategoryNamePath>
+     <CategoryIDPath>625:30090:30097</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

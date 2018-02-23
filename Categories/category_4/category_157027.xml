@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:23:31.673Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>157027</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Latch Hooking</CategoryName>
+     <CategoryParentID>28147</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making:Latch Hooking</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147:157027</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28148</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Latch Hooking Kits</CategoryName>
+     <CategoryParentID>157027</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making:Latch Hooking:Latch Hooking Kits</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147:157027:28148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116677</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Latch Hooking Patterns</CategoryName>
+     <CategoryParentID>157027</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making:Latch Hooking:Latch Hooking Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147:157027:116677</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116678</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Latch Hooking Tools and Supplies</CategoryName>
+     <CategoryParentID>157027</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making:Latch Hooking:Latch Hooking Tools and Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147:157027:116678</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28150</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Latch Hooking Supplies</CategoryName>
+     <CategoryParentID>157027</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making:Latch Hooking:Other Latch Hooking Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147:157027:28150</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

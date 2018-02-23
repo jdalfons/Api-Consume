@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:49:24.020Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13724</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pinball</CategoryName>
+     <CategoryParentID>66502</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Pinball</CategoryNamePath>
+     <CategoryIDPath>1:66502:13724</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13725</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Machines</CategoryName>
+     <CategoryParentID>13724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Pinball:Machines</CategoryNamePath>
+     <CategoryIDPath>1:66502:13724:13725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13726</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals and Guides</CategoryName>
+     <CategoryParentID>13724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Pinball:Manuals and Guides</CategoryNamePath>
+     <CategoryIDPath>1:66502:13724:13726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165330</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Merchandise and Memorabilia</CategoryName>
+     <CategoryParentID>13724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Pinball:Merchandise and Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:66502:13724:165330</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13727</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Replacement Parts</CategoryName>
+     <CategoryParentID>13724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Pinball:Replacement Parts</CategoryNamePath>
+     <CategoryIDPath>1:66502:13724:13727</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3947</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Pinball</CategoryName>
+     <CategoryParentID>13724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Pinball:Other Pinball</CategoryNamePath>
+     <CategoryIDPath>1:66502:13724:3947</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

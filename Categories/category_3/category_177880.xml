@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:22.220Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177880</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gun Smithing and Maintenance</CategoryName>
+     <CategoryParentID>7301</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Smithing and Maintenance</CategoryNamePath>
+     <CategoryIDPath>888:7301:177880</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22700</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cleaning Supplies</CategoryName>
+     <CategoryParentID>177880</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Smithing and Maintenance:Cleaning Supplies</CategoryNamePath>
+     <CategoryIDPath>888:7301:177880:22700</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177881</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gun Vises</CategoryName>
+     <CategoryParentID>177880</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Smithing and Maintenance:Gun Vises</CategoryNamePath>
+     <CategoryIDPath>888:7301:177880:177881</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73962</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Smithing Equipment</CategoryName>
+     <CategoryParentID>177880</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Smithing and Maintenance:Smithing Equipment</CategoryNamePath>
+     <CategoryIDPath>888:7301:177880:73962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177882</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Snap Caps</CategoryName>
+     <CategoryParentID>177880</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Smithing and Maintenance:Snap Caps</CategoryNamePath>
+     <CategoryIDPath>888:7301:177880:177882</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177883</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Hunting Gun Smithing</CategoryName>
+     <CategoryParentID>177880</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Smithing and Maintenance:Other Hunting Gun Smithing</CategoryNamePath>
+     <CategoryIDPath>888:7301:177880:177883</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

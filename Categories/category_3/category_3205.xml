@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:10:48.188Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3205</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Party Supplies</CategoryName>
+     <CategoryParentID>16086</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116101</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Attire</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Attire</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:116101</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177758</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Badges and Pins</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Badges and Pins</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:177758</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26384</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Balloons</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Balloons</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:26384</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>77517</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Banners Bunting and Garlands</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Banners Bunting and Garlands</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:77517</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170165</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cake Toppers</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Cake Toppers</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:170165</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183323</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candles</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Candles</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:183323</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108389</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Confetti</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Confetti</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:108389</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26385</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Favors and Party Bag Fillers</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Favors and Party Bag Fillers</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:26385</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19257</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gag Gifts</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Gag Gifts</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:19257</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108388</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glow Sticks and Glow Jewelry</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Glow Sticks and Glow Jewelry</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:108388</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108383</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Guest Books</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Guest Books</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:108383</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177759</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Inflatables</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Inflatables</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:177759</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122791</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Party Bags</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Party Bags</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:122791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170103</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Party Decorations</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Party Decorations</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:170103</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102411</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Party Games and Activities</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Party Games and Activities</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:102411</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26388</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Party Tableware and Serveware</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Party Tableware and Serveware</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:26388</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177760</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Piñatas</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Piñatas</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:177760</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26394</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete Party Sets and Kits</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Complete Party Sets and Kits</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:26394</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3200</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Party Supplies</CategoryName>
+     <CategoryParentID>3205</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies:Other Party Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205:3200</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

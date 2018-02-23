@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:41.613Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181879</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>LEDs LCDs and Display Modules</CategoryName>
+     <CategoryParentID>182412</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:LEDs LCDs and Display Modules</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181879</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181880</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Individual LEDS</CategoryName>
+     <CategoryParentID>181879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:LEDs LCDs and Display Modules:Individual LEDS</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181879:181880</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181881</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>LED Arrays</CategoryName>
+     <CategoryParentID>181879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:LEDs LCDs and Display Modules:LED Arrays</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181879:181881</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181882</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>LED Display Modules</CategoryName>
+     <CategoryParentID>181879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:LEDs LCDs and Display Modules:LED Display Modules</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181879:181882</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181886</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>LED Accessories</CategoryName>
+     <CategoryParentID>181879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:LEDs LCDs and Display Modules:LED Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181879:181886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181887</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>LCD Display Modules</CategoryName>
+     <CategoryParentID>181879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:LEDs LCDs and Display Modules:LCD Display Modules</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181879:181887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181888</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>LCD Controllers and Drivers</CategoryName>
+     <CategoryParentID>181879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:LEDs LCDs and Display Modules:LCD Controllers and Drivers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181879:181888</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181889</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vacuum Fluorescent Displays</CategoryName>
+     <CategoryParentID>181879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:LEDs LCDs and Display Modules:Vacuum Fluorescent Displays</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181879:181889</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181890</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>LCD and VFD Accessories</CategoryName>
+     <CategoryParentID>181879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:LEDs LCDs and Display Modules:LCD and VFD Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181879:181890</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

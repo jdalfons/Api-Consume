@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:29:16.345Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19169</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Preschool Toys and Pretend Play</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play</CategoryNamePath>
+     <CategoryIDPath>220:19169</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2646</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Brio</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Brio</CategoryNamePath>
+     <CategoryIDPath>220:19169:2646</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16517</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Brio Compatible</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Brio Compatible</CategoryNamePath>
+     <CategoryIDPath>220:19169:16517</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19170</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dinosaurs</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Dinosaurs</CategoryNamePath>
+     <CategoryIDPath>220:19169:19170</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19171</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dishes Tea Sets</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Dishes Tea Sets</CategoryNamePath>
+     <CategoryIDPath>220:19169:19171</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158741</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Doctor/ Nurse Kits</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Doctor/ Nurse Kits</CategoryNamePath>
+     <CategoryIDPath>220:19169:158741</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19172</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dress-Up Costumes</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Dress-Up Costumes</CategoryNamePath>
+     <CategoryIDPath>220:19169:19172</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2524</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fisher-Price</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Fisher-Price</CategoryNamePath>
+     <CategoryIDPath>220:19169:2524</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158746</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kitchens</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Kitchens</CategoryNamePath>
+     <CategoryIDPath>220:19169:158746</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19178</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Little Tikes</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Little Tikes</CategoryNamePath>
+     <CategoryIDPath>220:19169:19178</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150925</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Littlest Pet Shop</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Littlest Pet Shop</CategoryNamePath>
+     <CategoryIDPath>220:19169:150925</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11740</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Play-Doh Modeling Clay</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Play-Doh Modeling Clay</CategoryNamePath>
+     <CategoryIDPath>220:19169:11740</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19854</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Playmobil</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Playmobil</CategoryNamePath>
+     <CategoryIDPath>220:19169:19854</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2576</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Playskool</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Playskool</CategoryNamePath>
+     <CategoryIDPath>220:19169:2576</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19180</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Puppets</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Puppets</CategoryNamePath>
+     <CategoryIDPath>220:19169:19180</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146076</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Puzzles</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Puzzles</CategoryNamePath>
+     <CategoryIDPath>220:19169:146076</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52344</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Step 2</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Step 2</CategoryNamePath>
+     <CategoryIDPath>220:19169:52344</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158747</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tool Sets</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Tool Sets</CategoryNamePath>
+     <CategoryIDPath>220:19169:158747</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1197</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wooden and Handcrafted Toys</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Wooden and Handcrafted Toys</CategoryNamePath>
+     <CategoryIDPath>220:19169:1197</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19181</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Preschool and Pretend Play</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Other Preschool and Pretend Play</CategoryNamePath>
+     <CategoryIDPath>220:19169:19181</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

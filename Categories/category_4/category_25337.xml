@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:47:26.815Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>25337</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Desk Accessories</CategoryName>
+     <CategoryParentID>58271</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25338</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Business Card Holders</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Business Card Holders</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:25338</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61753</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Copy and Document Holders</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Copy and Document Holders</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:61753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>127535</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Correction Fluid and Tape</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Correction Fluid and Tape</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:127535</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25339</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Desk and Drawer Organizers</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Desk and Drawer Organizers</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:25339</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25340</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Desk Sets</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Desk Sets</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:25340</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25341</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pencil Sharpeners</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Pencil Sharpeners</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:25341</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61754</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rolodex and Business Card Files</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Rolodex and Business Card Files</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:61754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25342</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stamps and Daters</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Stamps and Daters</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:25342</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113752</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Staplers</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Staplers</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:113752</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113753</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Staples</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Staples</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:113753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117014</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sticky Notes</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Sticky Notes</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:117014</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117534</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tape Dispensers</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Tape Dispensers</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:117534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3297</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Office Desk Accessories</CategoryName>
+     <CategoryParentID>25337</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Desk Accessories:Other Office Desk Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25337:3297</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

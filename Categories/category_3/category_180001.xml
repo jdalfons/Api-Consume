@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:37.377Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180001</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Vintage</CategoryNamePath>
+     <CategoryIDPath>888:1492:180001</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165932</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Advertisements</CategoryName>
+     <CategoryParentID>180001</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Vintage:Advertisements</CategoryNamePath>
+     <CategoryIDPath>888:1492:180001:165932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11141</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Creels</CategoryName>
+     <CategoryParentID>180001</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Vintage:Creels</CategoryNamePath>
+     <CategoryIDPath>888:1492:180001:11141</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11142</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flies</CategoryName>
+     <CategoryParentID>180001</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Vintage:Flies</CategoryNamePath>
+     <CategoryIDPath>888:1492:180001:11142</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47230</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Licenses</CategoryName>
+     <CategoryParentID>180001</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Vintage:Licenses</CategoryNamePath>
+     <CategoryIDPath>888:1492:180001:47230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36169</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lures</CategoryName>
+     <CategoryParentID>180001</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Vintage:Lures</CategoryNamePath>
+     <CategoryIDPath>888:1492:180001:36169</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36175</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reels</CategoryName>
+     <CategoryParentID>180001</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Vintage:Reels</CategoryNamePath>
+     <CategoryIDPath>888:1492:180001:36175</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11144</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rods</CategoryName>
+     <CategoryParentID>180001</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Vintage:Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:180001:11144</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>793</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Fishing</CategoryName>
+     <CategoryParentID>180001</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Vintage:Other Vintage Fishing</CategoryNamePath>
+     <CategoryIDPath>888:1492:180001:793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

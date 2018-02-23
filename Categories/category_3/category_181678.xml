@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:13.158Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181678</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Contactors Relays and Starters</CategoryName>
+     <CategoryParentID>42892</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181679</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Contactors</CategoryName>
+     <CategoryParentID>181678</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters:Contactors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678:181679</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181686</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Relays</CategoryName>
+     <CategoryParentID>181678</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters:Relays</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678:181686</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181698</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Starters</CategoryName>
+     <CategoryParentID>181678</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters:Starters</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678:181698</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

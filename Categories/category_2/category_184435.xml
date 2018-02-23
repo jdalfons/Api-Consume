@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:13.520Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184435</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Voice-Enabled Smart Assistants</CategoryName>
+     <CategoryParentID>293</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Voice-Enabled Smart Assistants</CategoryNamePath>
+     <CategoryIDPath>293:184435</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

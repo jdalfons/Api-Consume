@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:19:05.485Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>412</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Science and Medicine (1930-Now)</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now)</CategoryNamePath>
+     <CategoryIDPath>1:412</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14016</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Engineering</CategoryName>
+     <CategoryParentID>412</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Engineering</CategoryNamePath>
+     <CategoryIDPath>1:412:14016</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157026</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Magnets</CategoryName>
+     <CategoryParentID>412</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Magnets</CategoryNamePath>
+     <CategoryIDPath>1:412:157026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4065</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Medicine Dentistry</CategoryName>
+     <CategoryParentID>412</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Medicine Dentistry</CategoryNamePath>
+     <CategoryIDPath>1:412:4065</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15912</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mining</CategoryName>
+     <CategoryParentID>412</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Mining</CategoryNamePath>
+     <CategoryIDPath>1:412:15912</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4085</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Optical</CategoryName>
+     <CategoryParentID>412</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Optical</CategoryNamePath>
+     <CategoryIDPath>1:412:4085</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14020</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scientific Instruments</CategoryName>
+     <CategoryParentID>412</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Scientific Instruments</CategoryNamePath>
+     <CategoryIDPath>1:412:14020</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171196</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>412</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:412:171196</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>413</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Sci and Med Collectibles</CategoryName>
+     <CategoryParentID>412</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Other Sci and Med Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:412:413</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

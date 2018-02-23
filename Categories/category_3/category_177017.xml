@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:13:43.658Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177017</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Garden Structures and Shade</CategoryName>
+     <CategoryParentID>159912</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180993</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Arbors and Arches</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Arbors and Arches</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:180993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180992</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Awnings and Canopies</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Awnings and Canopies</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:180992</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115773</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bridges</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Bridges</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:115773</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139956</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garden and Storage Sheds</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Garden and Storage Sheds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:139956</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180995</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gazebos</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Gazebos</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:180995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139939</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Greenhouses and Cold Frames</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Greenhouses and Cold Frames</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:139939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180994</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Marquees and Tents</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Marquees and Tents</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:180994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180996</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pergolas</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Pergolas</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:180996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shade Sails</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Shade Sails</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:180997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Umbrellas</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Umbrellas</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:180998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180999</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Umbrella Stands</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Umbrella Stands</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:180999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177026</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Structures and Shade</CategoryName>
+     <CategoryParentID>177017</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Garden Structures and Shade:Other Structures and Shade</CategoryNamePath>
+     <CategoryIDPath>11700:159912:177017:177026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

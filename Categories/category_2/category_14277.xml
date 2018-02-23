@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:18:45.735Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>14277</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Photographic Images</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images</CategoryNamePath>
+     <CategoryIDPath>1:14277</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>407</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage and Antique (Pre-1940)</CategoryName>
+     <CategoryParentID>14277</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940)</CategoryNamePath>
+     <CategoryIDPath>1:14277:407</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14281</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Contemporary (1940-Now)</CategoryName>
+     <CategoryParentID>14277</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Contemporary (1940-Now)</CategoryNamePath>
+     <CategoryIDPath>1:14277:14281</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179207</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Risqué</CategoryName>
+     <CategoryParentID>14277</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Risqué</CategoryNamePath>
+     <CategoryIDPath>1:14277:179207</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

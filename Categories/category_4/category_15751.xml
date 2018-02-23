@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:52:50.392Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>15751</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nursing</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Nursing</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:15751</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11517</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bras</CategoryName>
+     <CategoryParentID>15751</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Nursing:Bras</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:15751:11517</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15752</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dresses</CategoryName>
+     <CategoryParentID>15751</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Nursing:Dresses</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:15751:15752</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15755</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sleepwear</CategoryName>
+     <CategoryParentID>15751</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Nursing:Sleepwear</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:15751:15755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15753</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tops</CategoryName>
+     <CategoryParentID>15751</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Nursing:Tops</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:15751:15753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:44:59.704Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177655</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Platinum</CategoryName>
+     <CategoryParentID>39482</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion:Platinum</CategoryNamePath>
+     <CategoryIDPath>11116:39482:177655</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177656</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coins</CategoryName>
+     <CategoryParentID>177655</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion:Platinum:Coins</CategoryNamePath>
+     <CategoryIDPath>11116:39482:177655:177656</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177657</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bars and Rounds</CategoryName>
+     <CategoryParentID>177655</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion:Platinum:Bars and Rounds</CategoryNamePath>
+     <CategoryIDPath>11116:39482:177655:177657</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34942</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Platinum Bullion</CategoryName>
+     <CategoryParentID>177655</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion:Platinum:Other Platinum Bullion</CategoryNamePath>
+     <CategoryIDPath>11116:39482:177655:34942</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

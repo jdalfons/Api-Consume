@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:15.971Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>36239</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>7301</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177867</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Base Layers</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Base Layers</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:177867</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177868</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coats and Jackets</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Coats and Jackets</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:177868</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177869</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coveralls</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Coveralls</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:177869</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177870</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ghillie Suits</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Ghillie Suits</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:177870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159034</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gloves</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Gloves</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:159034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159035</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hats and Headwear</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Hats and Headwear</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:159035</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177871</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hoodies and Sweatshirts</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Hoodies and Sweatshirts</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:177871</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>153008</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hunting Footwear</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Hunting Footwear</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:153008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177872</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jacket and Pant Sets</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Jacket and Pant Sets</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:177872</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177873</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pants and Bibs</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Pants and Bibs</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:177873</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177874</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shirts and Tops</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Shirts and Tops</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:177874</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177875</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Socks</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Socks</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:177875</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178080</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vests</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Vests</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:178080</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177876</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Waders</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Waders</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:177876</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159036</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Hunting Clothing and Accs</CategoryName>
+     <CategoryParentID>36239</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Clothing Shoes and Accessories:Other Hunting Clothing and Accs</CategoryNamePath>
+     <CategoryIDPath>888:7301:36239:159036</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

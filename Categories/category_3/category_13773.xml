@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:56:30.785Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13773</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Judaism</CategoryName>
+     <CategoryParentID>1446</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165693</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Books</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:165693</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35827</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxes</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Boxes</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:35827</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35828</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candles</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Candles</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:35828</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35829</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cups and Plates</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Cups and Plates</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:35829</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165694</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dreidels</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Dreidels</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:165694</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13774</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Images</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Images</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:13774</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165695</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry and Watches</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Jewelry and Watches</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:165695</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165696</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kippahs Yarmulkes</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Kippahs Yarmulkes</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:165696</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13775</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Menorahs</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Menorahs</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:13775</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165697</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mezuzahs Scrolls</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Mezuzahs Scrolls</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:165697</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35830</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pendants and Pins</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Pendants and Pins</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:35830</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165698</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pointers</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Pointers</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:165698</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165699</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shofars</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Shofars</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:165699</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168048</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tallis Prayer Shawls</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Tallis Prayer Shawls</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:168048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1449</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Judaism Collectibles</CategoryName>
+     <CategoryParentID>13773</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism:Other Judaism Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773:1449</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

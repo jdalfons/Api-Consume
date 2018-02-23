@@ -48,22 +48,31 @@ def replaceComma(fname):
         file.write(fileData)
 
 def replaceHtml1(fname):
-    textToFind = "('"
-    textToReplace = "<tr><td>"
-    file = fname
 
-    inputfile = file
-    with open(inputfile, 'r') as inputfile:
-        fileData = inputfile.read()
-        freq = 0
-        freq = fileData.count(textToFind)
-    destibnationpath = file
-    fileData = fileData.replace(textToFind, textToReplace)
-    with open(destibnationpath, 'w') as file:
-        file.write(fileData)
+    list = ['<tr><td>0',
+            '<tr class="active"><td>1',
+            '<tr class="danger"><td>2',
+            '<tr class="success"><td>3',
+            '<tr class="info"><td>4',
+            '<tr class="warning"><td>5']
+
+    for x in range (1 , 5):
+        textToFind = '["' + str(x)
+        textToReplace = list[x]
+        file = fname
+
+        inputfile = file
+        with open(inputfile, 'r') as inputfile:
+            fileData = inputfile.read()
+            freq = 0
+            freq = fileData.count(textToFind)
+        destibnationpath = file
+        fileData = fileData.replace(textToFind, textToReplace)
+        with open(destibnationpath, 'w') as file:
+            file.write(fileData)
 
 def replaceHtml2(fname):
-    textToFind = "', '"
+    textToFind = '"-"'
     textToReplace = "</td><td>"
     file = fname
 
@@ -78,7 +87,7 @@ def replaceHtml2(fname):
         file.write(fileData)
 
 def replaceHtml3(fname):
-    textToFind = "')"
+    textToFind = '"]'
     textToReplace = "</td></tr>"
     file = fname
 

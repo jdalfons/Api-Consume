@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:50.657Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>26328</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Darts</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Darts</CategoryNamePath>
+     <CategoryIDPath>888:36274:26328</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72576</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dart Boards</CategoryName>
+     <CategoryParentID>26328</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Darts:Dart Boards</CategoryNamePath>
+     <CategoryIDPath>888:36274:26328:72576</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26331</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Darts-Soft Tips</CategoryName>
+     <CategoryParentID>26328</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Darts:Darts-Soft Tips</CategoryNamePath>
+     <CategoryIDPath>888:36274:26328:26331</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26332</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Darts-Steel Tips</CategoryName>
+     <CategoryParentID>26328</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Darts:Darts-Steel Tips</CategoryNamePath>
+     <CategoryIDPath>888:36274:26328:26332</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72578</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flights</CategoryName>
+     <CategoryParentID>26328</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Darts:Flights</CategoryNamePath>
+     <CategoryIDPath>888:36274:26328:72578</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117102</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shafts</CategoryName>
+     <CategoryParentID>26328</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Darts:Shafts</CategoryNamePath>
+     <CategoryIDPath>888:36274:26328:117102</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2907</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Darts</CategoryName>
+     <CategoryParentID>26328</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Darts:Other Darts</CategoryNamePath>
+     <CategoryIDPath>888:36274:26328:2907</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

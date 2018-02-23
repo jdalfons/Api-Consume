@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:47.095Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3858</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Guitars and Basses</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses</CategoryNamePath>
+     <CategoryIDPath>619:3858</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33021</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Acoustic Guitars</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Acoustic Guitars</CategoryNamePath>
+     <CategoryIDPath>619:3858:33021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22966</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Acoustic Electric Guitars</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Acoustic Electric Guitars</CategoryNamePath>
+     <CategoryIDPath>619:3858:22966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4713</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bass Guitars</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Bass Guitars</CategoryNamePath>
+     <CategoryIDPath>619:3858:4713</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84659</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beginner Packages</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Beginner Packages</CategoryNamePath>
+     <CategoryIDPath>619:3858:84659</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181221</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cigar Box Guitars</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Cigar Box Guitars</CategoryNamePath>
+     <CategoryIDPath>619:3858:181221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119544</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Classical Guitars</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Classical Guitars</CategoryNamePath>
+     <CategoryIDPath>619:3858:119544</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38072</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Guitar Amplifiers</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Guitar Amplifiers</CategoryNamePath>
+     <CategoryIDPath>619:3858:38072</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47067</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Guitar Builder/Luthier Supply</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Guitar Builder/Luthier Supply</CategoryNamePath>
+     <CategoryIDPath>619:3858:47067</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33034</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electric Guitars</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Electric Guitars</CategoryNamePath>
+     <CategoryIDPath>619:3858:33034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181220</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lap and Pedal Steel Guitars</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Lap and Pedal Steel Guitars</CategoryNamePath>
+     <CategoryIDPath>619:3858:181220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181219</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Resonator</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Resonator</CategoryNamePath>
+     <CategoryIDPath>619:3858:181219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159948</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Travel Guitars</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Travel Guitars</CategoryNamePath>
+     <CategoryIDPath>619:3858:159948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180009</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>619:3858:180009</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>621</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Guitars</CategoryName>
+     <CategoryParentID>3858</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses:Other Guitars</CategoryNamePath>
+     <CategoryIDPath>619:3858:621</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:11:07.798Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>36040</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reenactment and Reproductions</CategoryName>
+     <CategoryParentID>13958</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Civil War (1861-65):Reenactment and Reproductions</CategoryNamePath>
+     <CategoryIDPath>1:13956:13958:36040</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103998</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Belts and Belt Buckles</CategoryName>
+     <CategoryParentID>36040</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Civil War (1861-65):Reenactment and Reproductions:Belts and Belt Buckles</CategoryNamePath>
+     <CategoryIDPath>1:13956:13958:36040:103998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36042</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Edged Weapons</CategoryName>
+     <CategoryParentID>36040</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Civil War (1861-65):Reenactment and Reproductions:Edged Weapons</CategoryNamePath>
+     <CategoryIDPath>1:13956:13958:36040:36042</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36043</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flags</CategoryName>
+     <CategoryParentID>36040</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Civil War (1861-65):Reenactment and Reproductions:Flags</CategoryNamePath>
+     <CategoryIDPath>1:13956:13958:36040:36043</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165591</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>36040</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Civil War (1861-65):Reenactment and Reproductions:Photographs</CategoryNamePath>
+     <CategoryIDPath>1:13956:13958:36040:165591</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36041</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Uniforms</CategoryName>
+     <CategoryParentID>36040</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Civil War (1861-65):Reenactment and Reproductions:Uniforms</CategoryNamePath>
+     <CategoryIDPath>1:13956:13958:36040:36041</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165590</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Women’s Apparel</CategoryName>
+     <CategoryParentID>36040</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Civil War (1861-65):Reenactment and Reproductions:Women’s Apparel</CategoryNamePath>
+     <CategoryIDPath>1:13956:13958:36040:165590</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13961</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Civil War Reproductions</CategoryName>
+     <CategoryParentID>36040</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Civil War (1861-65):Reenactment and Reproductions:Other Civil War Reproductions</CategoryNamePath>
+     <CategoryIDPath>1:13956:13958:36040:13961</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

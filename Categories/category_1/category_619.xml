@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:03.067Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>619</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Musical Instruments and Gear</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear</CategoryNamePath>
+     <CategoryIDPath>619</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16212</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Brass</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass</CategoryNamePath>
+     <CategoryIDPath>619:16212</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48458</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>DJ Equipment</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:DJ Equipment</CategoryNamePath>
+     <CategoryIDPath>619:48458</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3858</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Guitars and Basses</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Guitars and Basses</CategoryNamePath>
+     <CategoryIDPath>619:3858</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182150</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Instruction Books CDs and Video</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video</CategoryNamePath>
+     <CategoryIDPath>619:182150</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175696</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Karaoke Entertainment</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Karaoke Entertainment</CategoryNamePath>
+     <CategoryIDPath>619:175696</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180012</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Percussion</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion</CategoryNamePath>
+     <CategoryIDPath>619:180012</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180010</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Pianos Keyboards and Organs</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pianos Keyboards and Organs</CategoryNamePath>
+     <CategoryIDPath>619:180010</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180014</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Pro Audio Equipment</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment</CategoryNamePath>
+     <CategoryIDPath>619:180014</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180015</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Sheet Music and Song Books</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Sheet Music and Song Books</CategoryNamePath>
+     <CategoryIDPath>619:180015</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12922</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Stage Lighting and Effects</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects</CategoryNamePath>
+     <CategoryIDPath>619:12922</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180016</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>String</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:String</CategoryNamePath>
+     <CategoryIDPath>619:180016</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10181</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wind and Woodwind</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind</CategoryNamePath>
+     <CategoryIDPath>619:10181</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180008</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Equipment</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Equipment</CategoryNamePath>
+     <CategoryIDPath>619:180008</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181162</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vintage Musical Instruments</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments</CategoryNamePath>
+     <CategoryIDPath>619:181162</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52555</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>619:52555</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>308</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Musical Instruments</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Other Musical Instruments</CategoryNamePath>
+     <CategoryIDPath>619:308</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

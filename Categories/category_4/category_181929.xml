@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:36.567Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181929</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Transformers</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181930</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Autotransformers and Variacs</CategoryName>
+     <CategoryParentID>181929</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers:Autotransformers and Variacs</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929:181930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181931</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Current Transformers</CategoryName>
+     <CategoryParentID>181929</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers:Current Transformers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929:181931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181932</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>LAN Ethernet Transformers</CategoryName>
+     <CategoryParentID>181929</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers:LAN Ethernet Transformers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929:181932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181933</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Portable Tool Transformers</CategoryName>
+     <CategoryParentID>181929</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers:Portable Tool Transformers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929:181933</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181934</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>SMPS Transformers</CategoryName>
+     <CategoryParentID>181929</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers:SMPS Transformers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929:181934</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181935</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Telecom and Audio Transformers</CategoryName>
+     <CategoryParentID>181929</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers:Telecom and Audio Transformers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929:181935</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181936</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Toroidal Transformers</CategoryName>
+     <CategoryParentID>181929</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers:Toroidal Transformers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929:181936</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181937</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Transformer Parts and Accs</CategoryName>
+     <CategoryParentID>181929</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers:Transformer Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929:181937</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181938</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Transformers</CategoryName>
+     <CategoryParentID>181929</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers:Other Transformers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929:181938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

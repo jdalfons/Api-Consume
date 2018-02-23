@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:00:46.223Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>175711</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>DVD and Blu-ray Players</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:DVD and Blu-ray Players</CategoryNamePath>
+     <CategoryIDPath>293:32852:175711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

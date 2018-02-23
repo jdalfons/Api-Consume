@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:38:39.126Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181713</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PLC Peripheral Modules</CategoryName>
+     <CategoryParentID>57516</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181714</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PLC Input and Output Modules</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:PLC Input and Output Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181714</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181715</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Counter Modules</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:Counter Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181715</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181716</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PLC Data Acquisition Modules</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:PLC Data Acquisition Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181716</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181717</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PLC Ethernet and Communication</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:PLC Ethernet and Communication</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181717</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181718</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PLC Memory Modules</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:PLC Memory Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181718</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181719</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PLC Positioning Modules</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:PLC Positioning Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181719</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181720</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PLC Power Supplies</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:PLC Power Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181720</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181721</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PLC Redundancy Modules</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:PLC Redundancy Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181721</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181722</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PLC Servo Control Modules</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:PLC Servo Control Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181722</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181723</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PLC Temperature Modules</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:PLC Temperature Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181724</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Timer Modules</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:Timer Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181724</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181725</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other PLC Peripheral Modules</CategoryName>
+     <CategoryParentID>181713</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules:Other PLC Peripheral Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713:181725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

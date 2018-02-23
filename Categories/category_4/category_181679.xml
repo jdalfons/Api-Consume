@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:38:29.329Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181679</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Contactors</CategoryName>
+     <CategoryParentID>181678</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters:Contactors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678:181679</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181680</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>IEC and NEMA AC Contactors</CategoryName>
+     <CategoryParentID>181679</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters:Contactors:IEC and NEMA AC Contactors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678:181679:181680</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181681</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>IEC and NEMA DC Contactors</CategoryName>
+     <CategoryParentID>181679</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters:Contactors:IEC and NEMA DC Contactors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678:181679:181681</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181682</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Definite Purpose Contactors</CategoryName>
+     <CategoryParentID>181679</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters:Contactors:Definite Purpose Contactors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678:181679:181682</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181683</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lighting Contactors</CategoryName>
+     <CategoryParentID>181679</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters:Contactors:Lighting Contactors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678:181679:181683</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181684</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Auxiliary Contacts and Blocks</CategoryName>
+     <CategoryParentID>181679</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters:Contactors:Auxiliary Contacts and Blocks</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678:181679:181684</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181685</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Contactors and Accs</CategoryName>
+     <CategoryParentID>181679</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Contactors Relays and Starters:Contactors:Other Contactors and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181678:181679:181685</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

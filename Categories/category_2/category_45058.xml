@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:19:28.376Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45058</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>1:45058</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45059</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Comics</CategoryName>
+     <CategoryParentID>45058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Wholesale Lots:Comics</CategoryNamePath>
+     <CategoryIDPath>1:45058:45059</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45060</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>45058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Wholesale Lots:Figurines</CategoryNamePath>
+     <CategoryIDPath>1:45058:45060</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52538</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flags</CategoryName>
+     <CategoryParentID>45058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Wholesale Lots:Flags</CategoryNamePath>
+     <CategoryIDPath>1:45058:52538</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45061</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Knives and Swords</CategoryName>
+     <CategoryParentID>45058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Wholesale Lots:Knives and Swords</CategoryNamePath>
+     <CategoryIDPath>1:45058:45061</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50984</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lighters</CategoryName>
+     <CategoryParentID>45058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Wholesale Lots:Lighters</CategoryNamePath>
+     <CategoryIDPath>1:45058:50984</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45062</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pins Buttons</CategoryName>
+     <CategoryParentID>45058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Wholesale Lots:Pins Buttons</CategoryNamePath>
+     <CategoryIDPath>1:45058:45062</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45063</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Postcards and Paper</CategoryName>
+     <CategoryParentID>45058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Wholesale Lots:Postcards and Paper</CategoryNamePath>
+     <CategoryIDPath>1:45058:45063</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26425</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Collectible Lots</CategoryName>
+     <CategoryParentID>45058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Wholesale Lots:Other Collectible Lots</CategoryNamePath>
+     <CategoryIDPath>1:45058:26425</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

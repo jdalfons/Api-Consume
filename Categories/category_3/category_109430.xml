@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:40:26.862Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>109430</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Racks and Fixtures</CategoryName>
+     <CategoryParentID>11890</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Racks and Fixtures</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109430</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121277</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card and Literature Stands</CategoryName>
+     <CategoryParentID>109430</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Racks and Fixtures:Card and Literature Stands</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109430:121277</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109431</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing Racks</CategoryName>
+     <CategoryParentID>109430</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Racks and Fixtures:Clothing Racks</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109430:109431</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11893</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Display Cases</CategoryName>
+     <CategoryParentID>109430</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Racks and Fixtures:Display Cases</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109430:11893</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109432</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hat Stands</CategoryName>
+     <CategoryParentID>109430</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Racks and Fixtures:Hat Stands</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109430:109432</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109433</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pegboards and Hooks</CategoryName>
+     <CategoryParentID>109430</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Racks and Fixtures:Pegboards and Hooks</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109430:109433</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46704</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shelving</CategoryName>
+     <CategoryParentID>109430</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Racks and Fixtures:Shelving</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109430:46704</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121278</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sign Holders</CategoryName>
+     <CategoryParentID>109430</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Racks and Fixtures:Sign Holders</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109430:121278</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109434</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spinners and Carousels</CategoryName>
+     <CategoryParentID>109430</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Racks and Fixtures:Spinners and Carousels</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109430:109434</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11894</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Retail Racks and Fixtures</CategoryName>
+     <CategoryParentID>109430</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Racks and Fixtures:Other Retail Racks and Fixtures</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109430:11894</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

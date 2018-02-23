@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:26:49.642Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>60292</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Originals-International</CategoryName>
+     <CategoryParentID>18821</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60293</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pre-1940</CategoryName>
+     <CategoryParentID>60292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International:Pre-1940</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292:60293</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60294</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1940-49</CategoryName>
+     <CategoryParentID>60292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International:1940-49</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292:60294</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60295</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1950-59</CategoryName>
+     <CategoryParentID>60292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International:1950-59</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292:60295</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60296</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1960-69</CategoryName>
+     <CategoryParentID>60292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International:1960-69</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292:60296</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60297</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1970-79</CategoryName>
+     <CategoryParentID>60292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International:1970-79</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292:60297</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60298</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1980-89</CategoryName>
+     <CategoryParentID>60292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International:1980-89</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292:60298</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60299</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1990-99</CategoryName>
+     <CategoryParentID>60292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International:1990-99</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292:60299</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60300</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>2000-Now</CategoryName>
+     <CategoryParentID>60292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International:2000-Now</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292:60300</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163879</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Current Releases</CategoryName>
+     <CategoryParentID>60292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International:Current Releases</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292:163879</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1417</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Orig. Int&apos;l Lobby Cards</CategoryName>
+     <CategoryParentID>60292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Lobby Cards:Originals-International:Other Orig. Int&apos;l Lobby Cards</CategoryNamePath>
+     <CategoryIDPath>45100:196:18821:60292:1417</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

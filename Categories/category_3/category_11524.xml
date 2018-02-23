@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:43:57.830Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11524</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hosiery and Socks</CategoryName>
+     <CategoryParentID>15724</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Hosiery and Socks</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11524</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163587</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leg Warmers</CategoryName>
+     <CategoryParentID>11524</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Hosiery and Socks:Leg Warmers</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11524:163587</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11525</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pantyhose and Tights</CategoryName>
+     <CategoryParentID>11524</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Hosiery and Socks:Pantyhose and Tights</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11524:11525</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163588</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Socks</CategoryName>
+     <CategoryParentID>11524</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Hosiery and Socks:Socks</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11524:163588</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11527</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stockings and Thigh-Highs</CategoryName>
+     <CategoryParentID>11524</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Hosiery and Socks:Stockings and Thigh-Highs</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11524:11527</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11523</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Women&apos;s Hosiery and Socks</CategoryName>
+     <CategoryParentID>11524</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Hosiery and Socks:Other Women&apos;s Hosiery and Socks</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11524:11523</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

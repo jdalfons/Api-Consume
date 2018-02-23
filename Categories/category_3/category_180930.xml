@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:04:02.301Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180930</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Quilting</CategoryName>
+     <CategoryParentID>160737</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Quilting</CategoryNamePath>
+     <CategoryIDPath>14339:160737:180930</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116679</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quilt Batting</CategoryName>
+     <CategoryParentID>180930</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Quilting:Quilt Batting</CategoryNamePath>
+     <CategoryIDPath>14339:160737:180930:116679</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162081</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quilt Blocks and Tops</CategoryName>
+     <CategoryParentID>180930</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Quilting:Quilt Blocks and Tops</CategoryNamePath>
+     <CategoryIDPath>14339:160737:180930:162081</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83959</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quilt Hangers and Stands</CategoryName>
+     <CategoryParentID>180930</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Quilting:Quilt Hangers and Stands</CategoryNamePath>
+     <CategoryIDPath>14339:160737:180930:83959</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83957</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quilt Patterns</CategoryName>
+     <CategoryParentID>180930</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Quilting:Quilt Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:160737:180930:83957</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116680</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quilt Templates and Stencils</CategoryName>
+     <CategoryParentID>180930</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Quilting:Quilt Templates and Stencils</CategoryNamePath>
+     <CategoryIDPath>14339:160737:180930:116680</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19160</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quilting Kits</CategoryName>
+     <CategoryParentID>180930</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Quilting:Quilting Kits</CategoryNamePath>
+     <CategoryIDPath>14339:160737:180930:19160</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quilting Tools and Equipment</CategoryName>
+     <CategoryParentID>180930</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Quilting:Quilting Tools and Equipment</CategoryNamePath>
+     <CategoryIDPath>14339:160737:180930:19161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3110</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Quilting Supplies</CategoryName>
+     <CategoryParentID>180930</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Quilting:Other Quilting Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:160737:180930:3110</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

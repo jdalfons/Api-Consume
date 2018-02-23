@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:15:25.205Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165705</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Arthropods</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Arthropods</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165705</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165706</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Crustaceans</CategoryName>
+     <CategoryParentID>165705</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Arthropods:Crustaceans</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165705:165706</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3218</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Insects Hexapods</CategoryName>
+     <CategoryParentID>165705</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Arthropods:Insects Hexapods</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165705:3218</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165707</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Trilobites</CategoryName>
+     <CategoryParentID>165705</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Arthropods:Trilobites</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165705:165707</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165708</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Arthropod Fossils</CategoryName>
+     <CategoryParentID>165705</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Arthropods:Other Arthropod Fossils</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165705:165708</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

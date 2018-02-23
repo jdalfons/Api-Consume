@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:26:01.438Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>84641</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tonner</CategoryName>
+     <CategoryParentID>15987</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Tonner</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84641</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78168</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ann Estelle Collection</CategoryName>
+     <CategoryParentID>84641</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Tonner:Ann Estelle Collection</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84641:78168</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78169</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Betsy McCall Collection</CategoryName>
+     <CategoryParentID>84641</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Tonner:Betsy McCall Collection</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84641:78169</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78170</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Brenda Starr</CategoryName>
+     <CategoryParentID>84641</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Tonner:Brenda Starr</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84641:78170</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160861</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ellowyne Wilde</CategoryName>
+     <CategoryParentID>84641</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Tonner:Ellowyne Wilde</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84641:160861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160862</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kitty Collier Collection</CategoryName>
+     <CategoryParentID>84641</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Tonner:Kitty Collier Collection</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84641:160862</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160863</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tyler Wentworth Collection</CategoryName>
+     <CategoryParentID>84641</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Tonner:Tyler Wentworth Collection</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84641:160863</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11698</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Tonner Dolls</CategoryName>
+     <CategoryParentID>84641</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Tonner:Other Tonner Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84641:11698</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

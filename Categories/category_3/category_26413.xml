@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:57.862Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>26413</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lab Supplies</CategoryName>
+     <CategoryParentID>11815</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26414</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Disposables</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Disposables</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:26414</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26415</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Filtration Supplies</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Filtration Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:26415</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26416</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Frames Supports and Clamps</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Frames Supports and Clamps</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:26416</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104233</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lab Chemicals</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Lab Chemicals</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:104233</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11812</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lab Glassware</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Lab Glassware</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:11812</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100014</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lab Kits and Sets</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Lab Kits and Sets</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:100014</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48742</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lab Safety</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Lab Safety</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:48742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26417</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pipettes</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Pipettes</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:26417</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100015</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plasticware</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Plasticware</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:100015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26418</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slides and Covers</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Slides and Covers</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:26418</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26419</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tubing Valves and Fittings</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Tubing Valves and Fittings</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:26419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26420</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Lab Supplies</CategoryName>
+     <CategoryParentID>26413</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Supplies:Other Lab Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26413:26420</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

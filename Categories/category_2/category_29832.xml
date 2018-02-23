@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:18:54.392Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>29832</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Radio Phonograph TV Phone</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone</CategoryNamePath>
+     <CategoryIDPath>1:29832</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38026</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Phonographs Accessories</CategoryName>
+     <CategoryParentID>29832</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Phonographs Accessories</CategoryNamePath>
+     <CategoryIDPath>1:29832:38026</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>931</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Radios</CategoryName>
+     <CategoryParentID>29832</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios</CategoryNamePath>
+     <CategoryIDPath>1:29832:931</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38036</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Telephones</CategoryName>
+     <CategoryParentID>29832</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Telephones</CategoryNamePath>
+     <CategoryIDPath>1:29832:38036</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3638</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Television Sets</CategoryName>
+     <CategoryParentID>29832</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Television Sets</CategoryNamePath>
+     <CategoryIDPath>1:29832:3638</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171194</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>29832</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:29832:171194</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29833</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Vintage Radio TV Phone</CategoryName>
+     <CategoryParentID>29832</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Other Vintage Radio TV Phone</CategoryNamePath>
+     <CategoryIDPath>1:29832:29833</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:31:33.657Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63538</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Glass</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162990</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottles</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Bottles</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:162990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63539</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bowls</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Bowls</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:63539</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162991</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle Holders</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Candle Holders</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:162991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162992</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candlesticks</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Candlesticks</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:162992</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162993</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Compotes</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Compotes</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:162993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63541</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decanters</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Decanters</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:63541</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162995</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dishes</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Dishes</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:162995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162996</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Figurines</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:162996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63540</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jars</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Jars</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:63540</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162994</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jugs</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Jugs</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:162994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63542</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Perfume Bottles</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Perfume Bottles</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:63542</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63543</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pitchers</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Pitchers</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:63543</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63544</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plates</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Plates</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:63544</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Salt and Pepper Shakers</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Salt and Pepper Shakers</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:162997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63545</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stemware</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Stemware</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:63545</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63546</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vases</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Vases</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:63546</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2205</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Glass</CategoryName>
+     <CategoryParentID>63538</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass:Other Antique Glass</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538:2205</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

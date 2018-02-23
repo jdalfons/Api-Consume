@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:25:43.407Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2431</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Madame Alexander</CategoryName>
+     <CategoryParentID>15987</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Madame Alexander</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2431</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15996</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vintage (Pre-1973)</CategoryName>
+     <CategoryParentID>2431</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Madame Alexander:Vintage (Pre-1973)</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2431:15996</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15993</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Modern (1970-Now)</CategoryName>
+     <CategoryParentID>2431</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Madame Alexander:Modern (1970-Now)</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2431:15993</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

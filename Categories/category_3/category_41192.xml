@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:57:15.332Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>41192</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Buttons</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons</CategoryNamePath>
+     <CategoryIDPath>1:113:41192</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156533</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bakelite</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Bakelite</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:156533</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41193</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ceramic</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Ceramic</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:41193</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41194</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glass</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Glass</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:41194</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41195</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Metal</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Metal</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:41195</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41196</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pearl Shell</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Pearl Shell</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:41196</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41197</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plastic</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Plastic</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:41197</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165798</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vegetable Ivory</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Vegetable Ivory</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:165798</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165799</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wood</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Wood</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:165799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41198</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:41198</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Sewing Buttons</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Other Vintage Sewing Buttons</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

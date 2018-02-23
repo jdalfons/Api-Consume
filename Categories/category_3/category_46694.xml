@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:48.723Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>46694</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ink Plates and Film</CategoryName>
+     <CategoryParentID>26238</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Ink Plates and Film</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46694</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57053</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blankets</CategoryName>
+     <CategoryParentID>46694</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Ink Plates and Film:Blankets</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46694:57053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57054</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Film</CategoryName>
+     <CategoryParentID>46694</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Ink Plates and Film:Film</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46694:57054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>92151</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Inks and Coatings</CategoryName>
+     <CategoryParentID>46694</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Ink Plates and Film:Inks and Coatings</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46694:92151</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46721</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plates</CategoryName>
+     <CategoryParentID>46694</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Ink Plates and Film:Plates</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46694:46721</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46695</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Ink Plates and Film</CategoryName>
+     <CategoryParentID>46694</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Ink Plates and Film:Other Ink Plates and Film</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46694:46695</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:37:00.237Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181034</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Weed and Pest Control</CategoryName>
+     <CategoryParentID>2032</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Weed and Pest Control</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181034</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181036</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Insect and Grub Control</CategoryName>
+     <CategoryParentID>181034</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Weed and Pest Control:Insect and Grub Control</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181034:181036</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181046</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Protective Netting/Mesh</CategoryName>
+     <CategoryParentID>181034</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Weed and Pest Control:Protective Netting/Mesh</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181034:181046</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181045</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rodent and Animal Traps</CategoryName>
+     <CategoryParentID>181034</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Weed and Pest Control:Rodent and Animal Traps</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181034:181045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181044</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rodenticides and Baits</CategoryName>
+     <CategoryParentID>181034</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Weed and Pest Control:Rodenticides and Baits</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181034:181044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181035</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ultrasonic Pest Repellers</CategoryName>
+     <CategoryParentID>181034</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Weed and Pest Control:Ultrasonic Pest Repellers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181034:181035</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181047</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Weed Control</CategoryName>
+     <CategoryParentID>181034</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Weed and Pest Control:Weed Control</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181034:181047</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50365</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Weed and Pest Control</CategoryName>
+     <CategoryParentID>181034</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Weed and Pest Control:Other Weed and Pest Control</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181034:50365</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

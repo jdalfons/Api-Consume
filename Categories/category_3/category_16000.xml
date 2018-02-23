@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:05:37.676Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>16000</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>By Type</CategoryName>
+     <CategoryParentID>238</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type</CategoryNamePath>
+     <CategoryIDPath>237:238:16000</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2387</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Celebrity</CategoryName>
+     <CategoryParentID>16000</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Celebrity</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:2387</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4631</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cultures and Ethnicities</CategoryName>
+     <CategoryParentID>16000</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Cultures and Ethnicities</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:4631</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>245</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figures</CategoryName>
+     <CategoryParentID>16000</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Figures</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:245</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84642</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gothic and Horror</CategoryName>
+     <CategoryParentID>16000</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Gothic and Horror</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:84642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4632</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kewpie</CategoryName>
+     <CategoryParentID>16000</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Kewpie</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:4632</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2391</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nesting</CategoryName>
+     <CategoryParentID>16000</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Nesting</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:2391</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18818</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trolls</CategoryName>
+     <CategoryParentID>16000</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Trolls</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:18818</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>239</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Dolls by Type</CategoryName>
+     <CategoryParentID>16000</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Other Dolls by Type</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:239</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

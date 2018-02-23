@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:15:28.471Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165710</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mollusks</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Mollusks</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165710</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3217</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ammonites</CategoryName>
+     <CategoryParentID>165710</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Mollusks:Ammonites</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165710:3217</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165711</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bivalves</CategoryName>
+     <CategoryParentID>165710</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Mollusks:Bivalves</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165710:165711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165712</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gastropods</CategoryName>
+     <CategoryParentID>165710</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Mollusks:Gastropods</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165710:165712</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165713</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nautiloids</CategoryName>
+     <CategoryParentID>165710</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Mollusks:Nautiloids</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165710:165713</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165714</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Mollusk Fossils</CategoryName>
+     <CategoryParentID>165710</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Mollusks:Other Mollusk Fossils</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165710:165714</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

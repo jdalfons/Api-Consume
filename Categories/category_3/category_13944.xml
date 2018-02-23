@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:53:41.924Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13944</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bed and Bath Linens</CategoryName>
+     <CategoryParentID>940</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Bed and Bath Linens</CategoryNamePath>
+     <CategoryIDPath>1:940:13944</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63626</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bedspreads</CategoryName>
+     <CategoryParentID>13944</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Bed and Bath Linens:Bedspreads</CategoryNamePath>
+     <CategoryIDPath>1:940:13944:63626</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13945</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blankets</CategoryName>
+     <CategoryParentID>13944</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Bed and Bath Linens:Blankets</CategoryNamePath>
+     <CategoryIDPath>1:940:13944:13945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39452</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pillowcases</CategoryName>
+     <CategoryParentID>13944</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Bed and Bath Linens:Pillowcases</CategoryNamePath>
+     <CategoryIDPath>1:940:13944:39452</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13946</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sheets</CategoryName>
+     <CategoryParentID>13944</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Bed and Bath Linens:Sheets</CategoryNamePath>
+     <CategoryIDPath>1:940:13944:13946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13947</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Towels</CategoryName>
+     <CategoryParentID>13944</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Bed and Bath Linens:Towels</CategoryNamePath>
+     <CategoryIDPath>1:940:13944:13947</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>946</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Bed and Bath Linen</CategoryName>
+     <CategoryParentID>13944</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Bed and Bath Linens:Other Vintage Bed and Bath Linen</CategoryNamePath>
+     <CategoryIDPath>1:940:13944:946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

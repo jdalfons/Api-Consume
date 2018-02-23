@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:59:52.020Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>51240</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Server Components</CategoryName>
+     <CategoryParentID>175698</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Enterprise Networking Servers:Server Components</CategoryNamePath>
+     <CategoryIDPath>58058:175698:51240</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56091</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Disk Controllers/RAID Cards</CategoryName>
+     <CategoryParentID>51240</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Enterprise Networking Servers:Server Components:Disk Controllers/RAID Cards</CategoryNamePath>
+     <CategoryIDPath>58058:175698:51240:56091</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71509</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Server Boards</CategoryName>
+     <CategoryParentID>51240</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Enterprise Networking Servers:Server Components:Server Boards</CategoryNamePath>
+     <CategoryIDPath>58058:175698:51240:71509</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56088</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Server CPUs/Processors</CategoryName>
+     <CategoryParentID>51240</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Enterprise Networking Servers:Server Components:Server CPUs/Processors</CategoryNamePath>
+     <CategoryIDPath>58058:175698:51240:56088</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168074</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Server Fans and Cooling Systems</CategoryName>
+     <CategoryParentID>51240</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Enterprise Networking Servers:Server Components:Server Fans and Cooling Systems</CategoryNamePath>
+     <CategoryIDPath>58058:175698:51240:168074</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11210</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Server Memory (RAM)</CategoryName>
+     <CategoryParentID>51240</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Enterprise Networking Servers:Server Components:Server Memory (RAM)</CategoryNamePath>
+     <CategoryIDPath>58058:175698:51240:11210</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56090</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Server Power Supplies</CategoryName>
+     <CategoryParentID>51240</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Enterprise Networking Servers:Server Components:Server Power Supplies</CategoryNamePath>
+     <CategoryIDPath>58058:175698:51240:56090</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56092</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Ent. Server Components</CategoryName>
+     <CategoryParentID>51240</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Enterprise Networking Servers:Server Components:Other Ent. Server Components</CategoryNamePath>
+     <CategoryIDPath>58058:175698:51240:56092</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

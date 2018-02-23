@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:47.192Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183118</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fabric Painting and Decorating</CategoryName>
+     <CategoryParentID>14339</CategoryParentID>
+     <CategoryNamePath>Crafts:Fabric Painting and Decorating</CategoryNamePath>
+     <CategoryIDPath>14339:183118</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183119</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fabric Cutting Machines</CategoryName>
+     <CategoryParentID>183118</CategoryParentID>
+     <CategoryNamePath>Crafts:Fabric Painting and Decorating:Fabric Cutting Machines</CategoryNamePath>
+     <CategoryIDPath>14339:183118:183119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183120</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fabric Dyes</CategoryName>
+     <CategoryParentID>183118</CategoryParentID>
+     <CategoryNamePath>Crafts:Fabric Painting and Decorating:Fabric Dyes</CategoryNamePath>
+     <CategoryIDPath>14339:183118:183120</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134560</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fabric Paints and Markers</CategoryName>
+     <CategoryParentID>183118</CategoryParentID>
+     <CategoryNamePath>Crafts:Fabric Painting and Decorating:Fabric Paints and Markers</CategoryNamePath>
+     <CategoryIDPath>14339:183118:134560</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31730</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fabric Transfers</CategoryName>
+     <CategoryParentID>183118</CategoryParentID>
+     <CategoryNamePath>Crafts:Fabric Painting and Decorating:Fabric Transfers</CategoryNamePath>
+     <CategoryIDPath>14339:183118:31730</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31015</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Silk Painting</CategoryName>
+     <CategoryParentID>183118</CategoryParentID>
+     <CategoryNamePath>Crafts:Fabric Painting and Decorating:Silk Painting</CategoryNamePath>
+     <CategoryIDPath>14339:183118:31015</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183121</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Fabric Painting</CategoryName>
+     <CategoryParentID>183118</CategoryParentID>
+     <CategoryNamePath>Crafts:Fabric Painting and Decorating:Other Fabric Painting</CategoryNamePath>
+     <CategoryIDPath>14339:183118:183121</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

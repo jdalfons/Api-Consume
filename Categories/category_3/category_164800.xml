@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:33:35.205Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>164800</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Luggage Tags</CategoryName>
+     <CategoryParentID>173520</CategoryParentID>
+     <CategoryNamePath>Travel:Luggage Accessories:Luggage Tags</CategoryNamePath>
+     <CategoryIDPath>3252:173520:164800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

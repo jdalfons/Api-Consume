@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:50:10.126Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35730</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tap Handles Knobs</CategoryName>
+     <CategoryParentID>562</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Tap Handles Knobs</CategoryNamePath>
+     <CategoryIDPath>1:562:35730</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35731</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Budweiser</CategoryName>
+     <CategoryParentID>35730</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Tap Handles Knobs:Budweiser</CategoryNamePath>
+     <CategoryIDPath>1:562:35730:35731</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35732</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Miller</CategoryName>
+     <CategoryParentID>35730</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Tap Handles Knobs:Miller</CategoryNamePath>
+     <CategoryIDPath>1:562:35730:35732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>571</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Beer Tap Handles Knobs</CategoryName>
+     <CategoryParentID>35730</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Tap Handles Knobs:Other Beer Tap Handles Knobs</CategoryNamePath>
+     <CategoryIDPath>1:562:35730:571</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

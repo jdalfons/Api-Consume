@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:49:36.626Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13732</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vending Machines</CategoryName>
+     <CategoryParentID>66503</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Vending Machines</CategoryNamePath>
+     <CategoryIDPath>1:66503:13732</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158422</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candy</CategoryName>
+     <CategoryParentID>13732</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Vending Machines:Candy</CategoryNamePath>
+     <CategoryIDPath>1:66503:13732:158422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158423</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Charm</CategoryName>
+     <CategoryParentID>13732</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Vending Machines:Charm</CategoryNamePath>
+     <CategoryIDPath>1:66503:13732:158423</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158424</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coin Changers</CategoryName>
+     <CategoryParentID>13732</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Vending Machines:Coin Changers</CategoryNamePath>
+     <CategoryIDPath>1:66503:13732:158424</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13733</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gumball</CategoryName>
+     <CategoryParentID>13732</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Vending Machines:Gumball</CategoryNamePath>
+     <CategoryIDPath>1:66503:13732:13733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158425</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Postage Stamp</CategoryName>
+     <CategoryParentID>13732</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Vending Machines:Postage Stamp</CategoryNamePath>
+     <CategoryIDPath>1:66503:13732:158425</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13734</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Soda</CategoryName>
+     <CategoryParentID>13732</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Vending Machines:Soda</CategoryNamePath>
+     <CategoryIDPath>1:66503:13732:13734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158426</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vending Machine Parts</CategoryName>
+     <CategoryParentID>13732</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Vending Machines:Vending Machine Parts</CategoryNamePath>
+     <CategoryIDPath>1:66503:13732:158426</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3950</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vending Machines</CategoryName>
+     <CategoryParentID>13732</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Vending Machines:Other Vending Machines</CategoryNamePath>
+     <CategoryIDPath>1:66503:13732:3950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

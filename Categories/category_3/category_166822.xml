@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:34:04.720Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>166822</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Music</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Music</CategoryNamePath>
+     <CategoryIDPath>99:319:166822</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166823</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cassettes</CategoryName>
+     <CategoryParentID>166822</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Music:Cassettes</CategoryNamePath>
+     <CategoryIDPath>99:319:166822:166823</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166824</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>CDs</CategoryName>
+     <CategoryParentID>166822</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Music:CDs</CategoryNamePath>
+     <CategoryIDPath>99:319:166822:166824</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166825</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Records</CategoryName>
+     <CategoryParentID>166822</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Music:Records</CategoryNamePath>
+     <CategoryIDPath>99:319:166822:166825</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166826</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Adult Music Formats</CategoryName>
+     <CategoryParentID>166822</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Music:Other Adult Music Formats</CategoryNamePath>
+     <CategoryIDPath>99:319:166822:166826</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

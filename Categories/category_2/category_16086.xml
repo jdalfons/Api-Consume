@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:23:16.504Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>16086</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Greeting Cards and Party Supply</CategoryName>
+     <CategoryParentID>11700</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply</CategoryNamePath>
+     <CategoryIDPath>11700:16086</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16091</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gift Baskets and Supplies</CategoryName>
+     <CategoryParentID>16086</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Gift Baskets and Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:16086:16091</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102378</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gift Wrapping Supplies</CategoryName>
+     <CategoryParentID>16086</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Gift Wrapping Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:16086:102378</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170098</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Greeting Cards and Invitations</CategoryName>
+     <CategoryParentID>16086</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Greeting Cards and Invitations</CategoryNamePath>
+     <CategoryIDPath>11700:16086:170098</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3205</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Party Supplies</CategoryName>
+     <CategoryParentID>16086</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Party Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:16086:3205</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177761</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stationery and Note Pads</CategoryName>
+     <CategoryParentID>16086</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Stationery and Note Pads</CategoryNamePath>
+     <CategoryIDPath>11700:16086:177761</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170115</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Gift and Party Supplies</CategoryName>
+     <CategoryParentID>16086</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Greeting Cards and Party Supply:Other Gift and Party Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:16086:170115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

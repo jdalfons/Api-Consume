@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:43:23.673Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>105419</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scrubs</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Scrubs</CategoryNamePath>
+     <CategoryIDPath>11450:28015:105419</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105422</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottoms</CategoryName>
+     <CategoryParentID>105419</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Scrubs:Bottoms</CategoryNamePath>
+     <CategoryIDPath>11450:28015:105419:105422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105440</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tops</CategoryName>
+     <CategoryParentID>105419</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Scrubs:Tops</CategoryNamePath>
+     <CategoryIDPath>11450:28015:105419:105440</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105432</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sets</CategoryName>
+     <CategoryParentID>105419</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Scrubs:Sets</CategoryNamePath>
+     <CategoryIDPath>11450:28015:105419:105432</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105444</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>105419</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Scrubs:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>11450:28015:105419:105444</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16119</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Scrubs</CategoryName>
+     <CategoryParentID>105419</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Scrubs:Other Scrubs</CategoryNamePath>
+     <CategoryIDPath>11450:28015:105419:16119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

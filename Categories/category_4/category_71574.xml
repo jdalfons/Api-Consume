@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:20:56.596Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>71574</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Cassette Decks</CategoryName>
+     <CategoryParentID>175740</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vintage Electronics:Vintage Audio and Video:Vintage Cassette Decks</CategoryNamePath>
+     <CategoryIDPath>293:183077:175740:71574</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:14.080Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184174</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Warehouse Loading and Unloading</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184175</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dock Plates Ramps and Boards</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Dock Plates Ramps and Boards</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184176</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dock Rails and Bumpers</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Dock Rails and Bumpers</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184176</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184177</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pallet Jacks and Trucks</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Pallet Jacks and Trucks</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184177</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>131249</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pallet Racks</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Pallet Racks</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:131249</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57006</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pallets</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Pallets</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:57006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184178</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Strip Doors</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Strip Doors</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184178</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184180</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dock Levelers</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Dock Levelers</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184180</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65522</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Forklifts</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Forklifts</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:65522</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184181</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Forklift Parts and Accessories</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Forklift Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184181</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184189</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Warehouse Loading Equip</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Other Warehouse Loading Equip</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184189</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

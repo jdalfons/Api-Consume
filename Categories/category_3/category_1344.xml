@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:48:59.970Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1344</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Animation Characters</CategoryName>
+     <CategoryParentID>13658</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39538</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Betty Boop</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Betty Boop</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:39538</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156988</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bratz</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Bratz</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156988</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156989</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Care Bears</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Care Bears</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156989</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88863</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Casper The Ghost</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Casper The Ghost</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:88863</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73475</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Curious George</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Curious George</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:73475</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156990</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Disney</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Disney</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156991</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dora the Explorer</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Dora the Explorer</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14276</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dr. Seuss</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Dr. Seuss</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:14276</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156992</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Emily the Strange</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Emily the Strange</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156992</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156993</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Family Guy</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Family Guy</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13661</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Felix the Cat</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Felix the Cat</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13661</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156994</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Futurama</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Futurama</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>8610</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garfield</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Garfield</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:8610</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73476</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ghostbusters</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Ghostbusters</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:73476</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13662</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hanna-Barbera</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Hanna-Barbera</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13662</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156995</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Happy Bunny</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Happy Bunny</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73477</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hello Kitty</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Hello Kitty</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:73477</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156996</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>MandM</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:MandM</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73478</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Muppets</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Muppets</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:73478</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39544</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Peanuts</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Peanuts</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:39544</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39548</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pink Panther</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Pink Panther</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:39548</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13671</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Popeye</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Popeye</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13671</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rat Fink</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Rat Fink</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13672</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rocky and Bullwinkle</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Rocky and Bullwinkle</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13672</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73479</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sesame Street</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Sesame Street</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:73479</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74703</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shrek</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Shrek</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:74703</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>8616</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Simpsons</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Simpsons</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:8616</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13673</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Smurfs</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Smurfs</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13673</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39549</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>South Park</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:South Park</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:39549</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60212</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>SpongeBob SquarePants</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:SpongeBob SquarePants</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:60212</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73480</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tom and Jerry</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Tom and Jerry</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:73480</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wallace and Gromit</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Wallace and Gromit</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:156998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1536</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Walter Lantz/Woody Woodpecker</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Walter Lantz/Woody Woodpecker</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:1536</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13674</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Warner Bros.</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39554</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ziggy</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Ziggy</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:39554</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>363</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Animated Characters</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Other Animated Characters</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:363</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>37</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

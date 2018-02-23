@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:57:07.942Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4065</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Medicine Dentistry</CategoryName>
+     <CategoryParentID>412</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Medicine Dentistry</CategoryNamePath>
+     <CategoryIDPath>1:412:4065</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4066</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dentistry</CategoryName>
+     <CategoryParentID>4065</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Medicine Dentistry:Dentistry</CategoryNamePath>
+     <CategoryIDPath>1:412:4065:4066</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4067</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Medical Devices</CategoryName>
+     <CategoryParentID>4065</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Medicine Dentistry:Medical Devices</CategoryNamePath>
+     <CategoryIDPath>1:412:4065:4067</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4068</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Medical Paper</CategoryName>
+     <CategoryParentID>4065</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Medicine Dentistry:Medical Paper</CategoryNamePath>
+     <CategoryIDPath>1:412:4065:4068</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15910</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nursing</CategoryName>
+     <CategoryParentID>4065</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Medicine Dentistry:Nursing</CategoryNamePath>
+     <CategoryIDPath>1:412:4065:15910</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pharmaceutical</CategoryName>
+     <CategoryParentID>4065</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Medicine Dentistry:Pharmaceutical</CategoryNamePath>
+     <CategoryIDPath>1:412:4065:15911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4064</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Medical Collectibles</CategoryName>
+     <CategoryParentID>4065</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Medicine Dentistry:Other Medical Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:412:4065:4064</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

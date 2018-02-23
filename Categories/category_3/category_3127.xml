@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:02:55.520Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3127</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Woodworking</CategoryName>
+     <CategoryParentID>160667</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Woodworking</CategoryNamePath>
+     <CategoryIDPath>14339:160667:3127</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183149</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Instruction Books and Media</CategoryName>
+     <CategoryParentID>3127</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Woodworking:Instruction Books and Media</CategoryNamePath>
+     <CategoryIDPath>14339:160667:3127:183149</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183150</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wood Burning Pens</CategoryName>
+     <CategoryParentID>3127</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Woodworking:Wood Burning Pens</CategoryNamePath>
+     <CategoryIDPath>14339:160667:3127:183150</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160677</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wood Carving Hand Tools</CategoryName>
+     <CategoryParentID>3127</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Woodworking:Wood Carving Hand Tools</CategoryNamePath>
+     <CategoryIDPath>14339:160667:3127:160677</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160673</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wood Turning Hand Tools</CategoryName>
+     <CategoryParentID>3127</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Woodworking:Wood Turning Hand Tools</CategoryNamePath>
+     <CategoryIDPath>14339:160667:3127:160673</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183151</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wood Project Kits</CategoryName>
+     <CategoryParentID>3127</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Woodworking:Wood Project Kits</CategoryNamePath>
+     <CategoryIDPath>14339:160667:3127:183151</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183155</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wood and Project Materials</CategoryName>
+     <CategoryParentID>3127</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Woodworking:Wood and Project Materials</CategoryNamePath>
+     <CategoryIDPath>14339:160667:3127:183155</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Woodworking Supplies</CategoryName>
+     <CategoryParentID>3127</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Woodworking:Other Woodworking Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:160667:3127:183161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

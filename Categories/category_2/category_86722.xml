@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:02.910Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>86722</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Power Protection Distribution</CategoryName>
+     <CategoryParentID>58058</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Power Protection Distribution</CategoryNamePath>
+     <CategoryIDPath>58058:86722</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86723</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Power Distribution Units</CategoryName>
+     <CategoryParentID>86722</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Power Protection Distribution:Power Distribution Units</CategoryNamePath>
+     <CategoryIDPath>58058:86722:86723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175687</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Power Inverters</CategoryName>
+     <CategoryParentID>86722</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Power Protection Distribution:Power Inverters</CategoryNamePath>
+     <CategoryIDPath>58058:86722:175687</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>96907</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Surge Protectors Power Strips</CategoryName>
+     <CategoryParentID>86722</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Power Protection Distribution:Surge Protectors Power Strips</CategoryNamePath>
+     <CategoryIDPath>58058:86722:96907</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99265</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Uninterruptible Power Supplies</CategoryName>
+     <CategoryParentID>86722</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Power Protection Distribution:Uninterruptible Power Supplies</CategoryNamePath>
+     <CategoryIDPath>58058:86722:99265</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48479</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>UPS Batteries and Components</CategoryName>
+     <CategoryParentID>86722</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Power Protection Distribution:UPS Batteries and Components</CategoryNamePath>
+     <CategoryIDPath>58058:86722:48479</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20315</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Power Protection</CategoryName>
+     <CategoryParentID>86722</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Power Protection Distribution:Other Power Protection</CategoryNamePath>
+     <CategoryIDPath>58058:86722:20315</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

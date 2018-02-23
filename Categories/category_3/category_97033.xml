@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:09:36.502Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>97033</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sports Supplements</CategoryName>
+     <CategoryParentID>180959</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Sports Supplements</CategoryNamePath>
+     <CategoryIDPath>26395:180959:97033</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97034</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Protein Shakes and Bodybuilding</CategoryName>
+     <CategoryParentID>97033</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Sports Supplements:Protein Shakes and Bodybuilding</CategoryNamePath>
+     <CategoryIDPath>26395:180959:97033:97034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21561</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sports Diet and Weight Loss</CategoryName>
+     <CategoryParentID>97033</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Sports Supplements:Sports Diet and Weight Loss</CategoryNamePath>
+     <CategoryIDPath>26395:180959:97033:21561</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180094</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sports Energy and Hydration</CategoryName>
+     <CategoryParentID>97033</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Sports Supplements:Sports Energy and Hydration</CategoryNamePath>
+     <CategoryIDPath>26395:180959:97033:180094</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97035</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sports Vitamins and Minerals</CategoryName>
+     <CategoryParentID>97033</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Sports Supplements:Sports Vitamins and Minerals</CategoryNamePath>
+     <CategoryIDPath>26395:180959:97033:97035</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97036</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Sports Supplements</CategoryName>
+     <CategoryParentID>97033</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Sports Supplements:Other Sports Supplements</CategoryNamePath>
+     <CategoryIDPath>26395:180959:97033:97036</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:02:41.785Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>134304</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Basketry and Chair Caning</CategoryName>
+     <CategoryParentID>160667</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183688</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cane Reed and Weaving Materials</CategoryName>
+     <CategoryParentID>134304</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning:Cane Reed and Weaving Materials</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304:183688</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183686</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Basketry Handles Hoops and Rims</CategoryName>
+     <CategoryParentID>134304</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning:Basketry Handles Hoops and Rims</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304:183686</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183687</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cane Webbing</CategoryName>
+     <CategoryParentID>134304</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning:Cane Webbing</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304:183687</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183685</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Basketry Bases and Frames</CategoryName>
+     <CategoryParentID>134304</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning:Basketry Bases and Frames</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304:183685</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183689</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chair Caning Pegs and Wedges</CategoryName>
+     <CategoryParentID>134304</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning:Chair Caning Pegs and Wedges</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304:183689</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183690</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chair Caning Spline</CategoryName>
+     <CategoryParentID>134304</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning:Chair Caning Spline</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304:183690</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183684</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Basketry and Chair Caning Tools</CategoryName>
+     <CategoryParentID>134304</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning:Basketry and Chair Caning Tools</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304:183684</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183682</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Basketry and Chair Caning Kits</CategoryName>
+     <CategoryParentID>134304</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning:Basketry and Chair Caning Kits</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304:183682</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183673</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Basketry and Chair Caning Guides</CategoryName>
+     <CategoryParentID>134304</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning:Basketry and Chair Caning Guides</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304:183673</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3087</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Basketry and Chair Caning</CategoryName>
+     <CategoryParentID>134304</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Basketry and Chair Caning:Other Basketry and Chair Caning</CategoryNamePath>
+     <CategoryIDPath>14339:160667:134304:3087</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

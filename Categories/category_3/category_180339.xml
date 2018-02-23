@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:45.767Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180339</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Power and Control</CategoryName>
+     <CategoryParentID>180250</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Power and Control</CategoryNamePath>
+     <CategoryIDPath>220:180250:180339</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180340</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boosters</CategoryName>
+     <CategoryParentID>180339</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Power and Control:Boosters</CategoryNamePath>
+     <CategoryIDPath>220:180250:180339:180340</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180342</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decoders</CategoryName>
+     <CategoryParentID>180339</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Power and Control:Decoders</CategoryNamePath>
+     <CategoryIDPath>220:180250:180339:180342</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158704</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Digital Control Devices</CategoryName>
+     <CategoryParentID>180339</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Power and Control:Digital Control Devices</CategoryNamePath>
+     <CategoryIDPath>220:180250:180339:158704</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180343</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Speed Controllers</CategoryName>
+     <CategoryParentID>180339</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Power and Control:Speed Controllers</CategoryNamePath>
+     <CategoryIDPath>220:180250:180339:180343</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180344</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Transformers</CategoryName>
+     <CategoryParentID>180339</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Power and Control:Transformers</CategoryNamePath>
+     <CategoryIDPath>220:180250:180339:180344</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180341</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Control Accessories</CategoryName>
+     <CategoryParentID>180339</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Power and Control:Control Accessories</CategoryNamePath>
+     <CategoryIDPath>220:180250:180339:180341</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31109</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Railroad Power and Control</CategoryName>
+     <CategoryParentID>180339</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Power and Control:Other Railroad Power and Control</CategoryNamePath>
+     <CategoryIDPath>220:180250:180339:31109</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

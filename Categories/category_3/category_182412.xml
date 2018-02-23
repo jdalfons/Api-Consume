@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:00.127Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182412</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electronic Components</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4662</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Capacitors</CategoryName>
+     <CategoryParentID>182412</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:Capacitors</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:4662</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181878</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Component Solenoids</CategoryName>
+     <CategoryParentID>182412</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:Component Solenoids</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181878</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181879</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>LEDs LCDs and Display Modules</CategoryName>
+     <CategoryParentID>182412</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:LEDs LCDs and Display Modules</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181879</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182415</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Passive Components</CategoryName>
+     <CategoryParentID>182412</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:Passive Components</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:182415</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36327</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prototyping and Breadboards</CategoryName>
+     <CategoryParentID>182412</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:Prototyping and Breadboards</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:36327</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36330</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Semiconductors and Actives</CategoryName>
+     <CategoryParentID>182412</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:Semiconductors and Actives</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:36330</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Electronics Tweezers</CategoryName>
+     <CategoryParentID>182412</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:Electronics Tweezers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:181911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41519</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Components Books and Manuals</CategoryName>
+     <CategoryParentID>182412</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:Components Books and Manuals</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:41519</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4660</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Electronic Components</CategoryName>
+     <CategoryParentID>182412</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components:Other Electronic Components</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412:4660</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

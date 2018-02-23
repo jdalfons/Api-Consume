@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:04:36.970Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13736</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1900-Now</CategoryName>
+     <CategoryParentID>149362</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Asian:1900-Now</CategoryNamePath>
+     <CategoryIDPath>1:3913:149362:13736</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29443</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Chinese</CategoryName>
+     <CategoryParentID>13736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Asian:1900-Now:Chinese</CategoryNamePath>
+     <CategoryIDPath>1:3913:149362:13736:29443</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13737</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Indian</CategoryName>
+     <CategoryParentID>13736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Asian:1900-Now:Indian</CategoryNamePath>
+     <CategoryIDPath>1:3913:149362:13736:13737</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13738</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Indonesian</CategoryName>
+     <CategoryParentID>13736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Asian:1900-Now:Indonesian</CategoryNamePath>
+     <CategoryIDPath>1:3913:149362:13736:13738</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29449</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Japanese</CategoryName>
+     <CategoryParentID>13736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Asian:1900-Now:Japanese</CategoryNamePath>
+     <CategoryIDPath>1:3913:149362:13736:29449</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4004</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Korean</CategoryName>
+     <CategoryParentID>13736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Asian:1900-Now:Korean</CategoryNamePath>
+     <CategoryIDPath>1:3913:149362:13736:4004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29456</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nepalese and Tibetan</CategoryName>
+     <CategoryParentID>13736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Asian:1900-Now:Nepalese and Tibetan</CategoryNamePath>
+     <CategoryIDPath>1:3913:149362:13736:29456</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25427</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thai and Siamese</CategoryName>
+     <CategoryParentID>13736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Asian:1900-Now:Thai and Siamese</CategoryNamePath>
+     <CategoryIDPath>1:3913:149362:13736:25427</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>373</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Asian Collectibles</CategoryName>
+     <CategoryParentID>13736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Asian:1900-Now:Other Asian Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:3913:149362:13736:373</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

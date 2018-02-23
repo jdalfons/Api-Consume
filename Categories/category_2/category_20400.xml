@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:42.067Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20400</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Feeding</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding</CategoryNamePath>
+     <CategoryIDPath>2984:20400</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20408</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Bibs and Burp Cloths</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Baby Bibs and Burp Cloths</CategoryNamePath>
+     <CategoryIDPath>2984:20400:20408</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162034</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Food</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Baby Food</CategoryNamePath>
+     <CategoryIDPath>2984:20400:162034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134276</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Booster Chairs</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Booster Chairs</CategoryNamePath>
+     <CategoryIDPath>2984:20400:134276</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184344</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bottle Feeding</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20404</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bottle and Food Warmers</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle and Food Warmers</CategoryNamePath>
+     <CategoryIDPath>2984:20400:20404</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23590</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Breastfeeding/Nursing</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Breastfeeding/Nursing</CategoryNamePath>
+     <CategoryIDPath>2984:20400:23590</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157325</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cups Dishes and Utensils</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Cups Dishes and Utensils</CategoryNamePath>
+     <CategoryIDPath>2984:20400:157325</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32866</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Food Grinders and Blenders</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Food Grinders and Blenders</CategoryNamePath>
+     <CategoryIDPath>2984:20400:32866</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2986</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>High Chairs</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:High Chairs</CategoryNamePath>
+     <CategoryIDPath>2984:20400:2986</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32872</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pacifiers and Soothers</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Pacifiers and Soothers</CategoryNamePath>
+     <CategoryIDPath>2984:20400:32872</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162032</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pacifier Clips and Cases</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Pacifier Clips and Cases</CategoryNamePath>
+     <CategoryIDPath>2984:20400:162032</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121627</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Teethers</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Teethers</CategoryNamePath>
+     <CategoryIDPath>2984:20400:121627</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20405</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Baby Feeding</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Other Baby Feeding</CategoryNamePath>
+     <CategoryIDPath>2984:20400:20405</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

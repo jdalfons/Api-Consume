@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:25:50.188Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4637</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nancy Ann</CategoryName>
+     <CategoryParentID>15987</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Nancy Ann</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:4637</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4638</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Muffie</CategoryName>
+     <CategoryParentID>4637</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Nancy Ann:Muffie</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:4637:4638</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4639</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Storybook</CategoryName>
+     <CategoryParentID>4637</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Nancy Ann:Storybook</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:4637:4639</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>337</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Nancy Ann Dolls</CategoryName>
+     <CategoryParentID>4637</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Nancy Ann:Other Nancy Ann Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:4637:337</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:29:20.985Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2613</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Puzzles</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Puzzles</CategoryNamePath>
+     <CategoryIDPath>220:2613</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19188</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Puzzles</CategoryName>
+     <CategoryParentID>2613</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Puzzles:Vintage Puzzles</CategoryNamePath>
+     <CategoryIDPath>220:2613:19188</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19182</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Contemporary Puzzles</CategoryName>
+     <CategoryParentID>2613</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Puzzles:Contemporary Puzzles</CategoryNamePath>
+     <CategoryIDPath>220:2613:19182</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

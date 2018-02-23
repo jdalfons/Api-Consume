@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:29:09.204Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>105044</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists T</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists T</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105044</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108858</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Talking Heads</CategoryName>
+     <CategoryParentID>105044</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists T:Talking Heads</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105044:108858</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164091</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Take That</CategoryName>
+     <CategoryParentID>105044</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists T:Take That</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105044:164091</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108859</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thin Lizzy</CategoryName>
+     <CategoryParentID>105044</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists T:Thin Lizzy</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105044:108859</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83184</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Timberlake Justin</CategoryName>
+     <CategoryParentID>105044</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists T:Timberlake Justin</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105044:83184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164093</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tokio Hotel</CategoryName>
+     <CategoryParentID>105044</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists T:Tokio Hotel</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105044:164093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53281</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tool</CategoryName>
+     <CategoryParentID>105044</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists T:Tool</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105044:53281</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108860</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Turner Tina</CategoryName>
+     <CategoryParentID>105044</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists T:Turner Tina</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105044:108860</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164092</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Type O Negative</CategoryName>
+     <CategoryParentID>105044</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists T:Type O Negative</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105044:164092</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105045</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists T</CategoryName>
+     <CategoryParentID>105044</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists T:Other Rock and Pop Artists T</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105044:105045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:25:17.454Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>95230</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>American Girl</CategoryName>
+     <CategoryParentID>15987</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95231</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Addy</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Addy</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:95231</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95232</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Angelina Ballerina</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Angelina Ballerina</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:95232</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95233</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bitty Baby</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Bitty Baby</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:95233</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168082</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bitty Twins</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Bitty Twins</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:168082</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95234</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Felicity and Elizabeth</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Felicity and Elizabeth</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:95234</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95235</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Josefina</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Josefina</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:95235</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160843</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Julie and Ivy</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Julie and Ivy</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:160843</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160844</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kaya</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Kaya</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:160844</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95237</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kirsten</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Kirsten</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:95237</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95236</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kit and Ruthie</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Kit and Ruthie</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:95236</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95238</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Molly and Emily</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Molly and Emily</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:95238</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95239</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nellie</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Nellie</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:95239</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95240</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Samantha</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Samantha</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:95240</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160845</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>American Girl Doll Clothing and Fashion Accs</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:American Girl Doll Clothing and Fashion Accs</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:160845</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160846</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>American Girl Doll Furniture and Play Accs</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:American Girl Doll Furniture and Play Accs</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:160846</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15989</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Today and Other American Girl Dolls</CategoryName>
+     <CategoryParentID>95230</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:American Girl:Today and Other American Girl Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:95230:15989</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

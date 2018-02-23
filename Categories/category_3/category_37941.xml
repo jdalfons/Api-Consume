@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:31:40.813Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>37941</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Woodenware</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Woodenware</CategoryNamePath>
+     <CategoryIDPath>20081:20086:37941</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37942</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bowls</CategoryName>
+     <CategoryParentID>37941</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Woodenware:Bowls</CategoryNamePath>
+     <CategoryIDPath>20081:20086:37941:37942</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37943</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxes</CategoryName>
+     <CategoryParentID>37941</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Woodenware:Boxes</CategoryNamePath>
+     <CategoryIDPath>20081:20086:37941:37943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Carved Figures</CategoryName>
+     <CategoryParentID>37941</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Woodenware:Carved Figures</CategoryNamePath>
+     <CategoryIDPath>20081:20086:37941:162998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37944</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trays</CategoryName>
+     <CategoryParentID>37941</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Woodenware:Trays</CategoryNamePath>
+     <CategoryIDPath>20081:20086:37941:37944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1219</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Woodenware</CategoryName>
+     <CategoryParentID>37941</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Woodenware:Other Antique Woodenware</CategoryNamePath>
+     <CategoryIDPath>20081:20086:37941:1219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:09:17.313Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>48796</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pins</CategoryName>
+     <CategoryParentID>33838</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Modern (1946-90):Pins</CategoryNamePath>
+     <CategoryIDPath>1:907:33838:48796</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

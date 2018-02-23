@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:37:42.830Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>25283</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Manufacturing Equipment Parts</CategoryName>
+     <CategoryParentID>41489</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Parts and Accs:Manufacturing Equipment Parts</CategoryNamePath>
+     <CategoryIDPath>12576:41489:25283</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111618</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bearings</CategoryName>
+     <CategoryParentID>25283</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Parts and Accs:Manufacturing Equipment Parts:Bearings</CategoryNamePath>
+     <CategoryIDPath>12576:41489:25283:111618</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41941</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Circuit Boards</CategoryName>
+     <CategoryParentID>25283</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Parts and Accs:Manufacturing Equipment Parts:Circuit Boards</CategoryNamePath>
+     <CategoryIDPath>12576:41489:25283:41941</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41939</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Digital Readouts</CategoryName>
+     <CategoryParentID>25283</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Parts and Accs:Manufacturing Equipment Parts:Digital Readouts</CategoryNamePath>
+     <CategoryIDPath>12576:41489:25283:41939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57023</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gears</CategoryName>
+     <CategoryParentID>25283</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Parts and Accs:Manufacturing Equipment Parts:Gears</CategoryNamePath>
+     <CategoryIDPath>12576:41489:25283:57023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41942</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Motors</CategoryName>
+     <CategoryParentID>25283</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Parts and Accs:Manufacturing Equipment Parts:Motors</CategoryNamePath>
+     <CategoryIDPath>12576:41489:25283:41942</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25290</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Mfg Equipment Parts</CategoryName>
+     <CategoryParentID>25283</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Parts and Accs:Manufacturing Equipment Parts:Other Mfg Equipment Parts</CategoryNamePath>
+     <CategoryIDPath>12576:41489:25283:25290</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

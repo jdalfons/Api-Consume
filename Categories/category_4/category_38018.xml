@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:13:31.501Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38018</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modern (1970-Now)</CategoryName>
+     <CategoryParentID>19287</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now)</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149372</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Funko</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Funko</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:149372</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>91113</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bosley Bobbers</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Bosley Bobbers</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:91113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149376</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Animals</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Animals</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:149376</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38019</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cartoon Characters</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Cartoon Characters</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:38019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149370</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Celebrities</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Celebrities</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:149370</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149371</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Movie Television Characters</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Movie Television Characters</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:149371</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38020</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Music</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Music</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:38020</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38021</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Political</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Political</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:38021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149373</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Promotional Advertising</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Promotional Advertising</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:149373</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149374</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Religious</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Religious</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:149374</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149375</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sports</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Sports</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:149375</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4083</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Bobbleheads (1970-Now)</CategoryName>
+     <CategoryParentID>38018</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Bobbleheads Nodders:Modern (1970-Now):Other Bobbleheads (1970-Now)</CategoryNamePath>
+     <CategoryIDPath>1:39507:19287:38018:4083</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

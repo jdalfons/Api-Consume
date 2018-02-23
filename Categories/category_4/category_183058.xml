@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:12:25.438Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183058</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Toploaders and Holders</CategoryName>
+     <CategoryParentID>183056</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Non-Sport Card Supplies and Accs:Card Toploaders and Holders</CategoryNamePath>
+     <CategoryIDPath>1:182982:183056:183058</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

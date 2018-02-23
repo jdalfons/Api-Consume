@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:25.317Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>48633</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Home Surveillance</CategoryName>
+     <CategoryParentID>293</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Home Surveillance</CategoryNamePath>
+     <CategoryIDPath>293:48633</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48638</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Security Cameras</CategoryName>
+     <CategoryParentID>48633</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Home Surveillance:Security Cameras</CategoryNamePath>
+     <CategoryIDPath>293:48633:48638</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48636</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Surveillance Security Systems</CategoryName>
+     <CategoryParentID>48633</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Home Surveillance:Surveillance Security Systems</CategoryNamePath>
+     <CategoryIDPath>293:48633:48636</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88754</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Digital Video Recorders Cards</CategoryName>
+     <CategoryParentID>48633</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Home Surveillance:Digital Video Recorders Cards</CategoryNamePath>
+     <CategoryIDPath>293:48633:88754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75395</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dummy Cameras</CategoryName>
+     <CategoryParentID>48633</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Home Surveillance:Dummy Cameras</CategoryNamePath>
+     <CategoryIDPath>293:48633:75395</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48635</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Surveillance Monitors/Displays</CategoryName>
+     <CategoryParentID>48633</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Home Surveillance:Surveillance Monitors/Displays</CategoryNamePath>
+     <CategoryIDPath>293:48633:48635</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75397</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Video Processors and Switchers</CategoryName>
+     <CategoryParentID>48633</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Home Surveillance:Video Processors and Switchers</CategoryNamePath>
+     <CategoryIDPath>293:48633:75397</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48637</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cables Adapters and Connectors</CategoryName>
+     <CategoryParentID>48633</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Home Surveillance:Cables Adapters and Connectors</CategoryNamePath>
+     <CategoryIDPath>293:48633:48637</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163825</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Surveillance Accessories</CategoryName>
+     <CategoryParentID>48633</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Home Surveillance:Surveillance Accessories</CategoryNamePath>
+     <CategoryIDPath>293:48633:163825</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175725</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Home Surveillance</CategoryName>
+     <CategoryParentID>48633</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Home Surveillance:Other Home Surveillance</CategoryNamePath>
+     <CategoryIDPath>293:48633:175725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

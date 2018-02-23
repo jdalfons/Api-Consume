@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:37:57.643Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183979</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Air Compressors and Blowers</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Compressors and Blowers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183979</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183981</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pancake Air Compressors</CategoryName>
+     <CategoryParentID>183979</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Compressors and Blowers:Pancake Air Compressors</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183979:183981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36787</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reciprocating Air Compressors</CategoryName>
+     <CategoryParentID>183979</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Compressors and Blowers:Reciprocating Air Compressors</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183979:36787</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124608</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rotary Screw Air Compressors</CategoryName>
+     <CategoryParentID>183979</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Compressors and Blowers:Rotary Screw Air Compressors</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183979:124608</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183982</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scroll Air Compressors</CategoryName>
+     <CategoryParentID>183979</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Compressors and Blowers:Scroll Air Compressors</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183979:183982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183983</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Twin Stack Air Compressors</CategoryName>
+     <CategoryParentID>183979</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Compressors and Blowers:Twin Stack Air Compressors</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183979:183983</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124607</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Compressed Air Tanks</CategoryName>
+     <CategoryParentID>183979</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Compressors and Blowers:Compressed Air Tanks</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183979:124607</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183984</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Positive Displacement Blowers</CategoryName>
+     <CategoryParentID>183979</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Compressors and Blowers:Positive Displacement Blowers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183979:183984</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41491</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Air Compressors</CategoryName>
+     <CategoryParentID>183979</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Compressors and Blowers:Other Air Compressors</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183979:41491</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

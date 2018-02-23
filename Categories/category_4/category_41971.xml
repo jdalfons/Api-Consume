@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:32:18.270Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>41971</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cabinets and Cabinet Hardware</CategoryName>
+     <CategoryParentID>3187</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Cabinets and Cabinet Hardware</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41971</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85879</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cabinets</CategoryName>
+     <CategoryParentID>41971</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Cabinets and Cabinet Hardware:Cabinets</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41971:85879</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180961</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cabinet and Drawer Locks</CategoryName>
+     <CategoryParentID>41971</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Cabinets and Cabinet Hardware:Cabinet and Drawer Locks</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41971:180961</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41973</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cabinet Hinges</CategoryName>
+     <CategoryParentID>41971</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Cabinets and Cabinet Hardware:Cabinet Hinges</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41971:41973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180962</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cabinet Knobs and Pulls</CategoryName>
+     <CategoryParentID>41971</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Cabinets and Cabinet Hardware:Cabinet Knobs and Pulls</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41971:180962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134642</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Drawer Slides</CategoryName>
+     <CategoryParentID>41971</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Cabinets and Cabinet Hardware:Drawer Slides</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41971:134642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180963</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Cabinet Hardware</CategoryName>
+     <CategoryParentID>41971</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Cabinets and Cabinet Hardware:Other Cabinet Hardware</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41971:180963</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

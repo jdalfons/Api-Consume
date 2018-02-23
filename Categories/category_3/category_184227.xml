@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:18.174Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184227</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ladders Scaffold and Platforms</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184228</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Attic and Loft Ladders</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Attic and Loft Ladders</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:184228</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184229</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cross-Over Ladders</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Cross-Over Ladders</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:184229</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184230</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dock Wall-Mnt and Tank Ladders</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Dock Wall-Mnt and Tank Ladders</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:184230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184231</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Folding and Step Ladders</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Folding and Step Ladders</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:184231</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184232</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rolling Ladders and Scaffolds</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Rolling Ladders and Scaffolds</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:184232</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>131244</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Step-Stands and Stools</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Step-Stands and Stools</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:131244</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184233</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Straight and Extension Ladders</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Straight and Extension Ladders</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:184233</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184234</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modular Scaffolding Components</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Modular Scaffolding Components</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:184234</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184236</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Work Stands and Platforms</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Work Stands and Platforms</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:184236</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184237</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ladder Accessories</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Ladder Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:184237</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184238</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ladder Parts</CategoryName>
+     <CategoryParentID>184227</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms:Ladder Parts</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227:184238</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

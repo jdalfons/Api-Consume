@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:27.188Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>98508</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Asian and East Indian</CategoryName>
+     <CategoryParentID>11312</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Asian and East Indian</CategoryNamePath>
+     <CategoryIDPath>281:11312:98508</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164302</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beads</CategoryName>
+     <CategoryParentID>98508</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Asian and East Indian:Beads</CategoryNamePath>
+     <CategoryIDPath>281:11312:98508:164302</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98509</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bracelets</CategoryName>
+     <CategoryParentID>98508</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Asian and East Indian:Bracelets</CategoryNamePath>
+     <CategoryIDPath>281:11312:98508:98509</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98510</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Earrings</CategoryName>
+     <CategoryParentID>98508</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Asian and East Indian:Earrings</CategoryNamePath>
+     <CategoryIDPath>281:11312:98508:98510</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98511</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Necklaces and Pendants</CategoryName>
+     <CategoryParentID>98508</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Asian and East Indian:Necklaces and Pendants</CategoryNamePath>
+     <CategoryIDPath>281:11312:98508:98511</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98512</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rings</CategoryName>
+     <CategoryParentID>98508</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Asian and East Indian:Rings</CategoryNamePath>
+     <CategoryIDPath>281:11312:98508:98512</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98513</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sets</CategoryName>
+     <CategoryParentID>98508</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Asian and East Indian:Sets</CategoryNamePath>
+     <CategoryIDPath>281:11312:98508:98513</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11313</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Asian E. Indian Jewelry</CategoryName>
+     <CategoryParentID>98508</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Asian and East Indian:Other Asian E. Indian Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:11312:98508:11313</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

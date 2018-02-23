@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:31:50.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182181</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>RC Model Vehicles and Kits</CategoryName>
+     <CategoryParentID>2562</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicles and Kits</CategoryNamePath>
+     <CategoryIDPath>220:2562:182181</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182182</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Airplanes</CategoryName>
+     <CategoryParentID>182181</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicles and Kits:Airplanes</CategoryNamePath>
+     <CategoryIDPath>220:2562:182181:182182</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>87480</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boats and Watercraft</CategoryName>
+     <CategoryParentID>182181</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicles and Kits:Boats and Watercraft</CategoryNamePath>
+     <CategoryIDPath>220:2562:182181:87480</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182183</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cars Trucks and Motorcycles</CategoryName>
+     <CategoryParentID>182181</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicles and Kits:Cars Trucks and Motorcycles</CategoryNamePath>
+     <CategoryIDPath>220:2562:182181:182183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123847</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Helicopters</CategoryName>
+     <CategoryParentID>182181</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicles and Kits:Helicopters</CategoryNamePath>
+     <CategoryIDPath>220:2562:182181:123847</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182184</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Industrial and Service Vehicles</CategoryName>
+     <CategoryParentID>182181</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicles and Kits:Industrial and Service Vehicles</CategoryNamePath>
+     <CategoryIDPath>220:2562:182181:182184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182185</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quadcopters and Multicopters</CategoryName>
+     <CategoryParentID>182181</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicles and Kits:Quadcopters and Multicopters</CategoryNamePath>
+     <CategoryIDPath>220:2562:182181:182185</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45986</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tanks and Military Vehicles</CategoryName>
+     <CategoryParentID>182181</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicles and Kits:Tanks and Military Vehicles</CategoryNamePath>
+     <CategoryIDPath>220:2562:182181:45986</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182186</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other RC Model Vehicles and Kits</CategoryName>
+     <CategoryParentID>182181</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicles and Kits:Other RC Model Vehicles and Kits</CategoryNamePath>
+     <CategoryIDPath>220:2562:182181:182186</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

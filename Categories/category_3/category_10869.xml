@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:48:46.142Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10869</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Insects and Butterflies</CategoryName>
+     <CategoryParentID>1335</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156275</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Entomology Real Insects</CategoryName>
+     <CategoryParentID>10869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies:Entomology Real Insects</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869:156275</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10870</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bees</CategoryName>
+     <CategoryParentID>10869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies:Bees</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869:10870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29434</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beetles</CategoryName>
+     <CategoryParentID>10869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies:Beetles</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869:29434</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10871</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Butterflies and Moths</CategoryName>
+     <CategoryParentID>10869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies:Butterflies and Moths</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869:10871</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10872</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dragonflies</CategoryName>
+     <CategoryParentID>10869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies:Dragonflies</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869:10872</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10873</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ladybugs</CategoryName>
+     <CategoryParentID>10869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies:Ladybugs</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869:10873</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103931</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scorpions</CategoryName>
+     <CategoryParentID>10869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies:Scorpions</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869:103931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103932</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spiders</CategoryName>
+     <CategoryParentID>10869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies:Spiders</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869:103932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10868</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Insect Collectibles</CategoryName>
+     <CategoryParentID>10869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies:Other Insect Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869:10868</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

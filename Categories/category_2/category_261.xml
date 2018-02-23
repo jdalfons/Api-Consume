@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:27:10.517Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>261</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>United States</CategoryName>
+     <CategoryParentID>260</CategoryParentID>
+     <CategoryNamePath>Stamps:United States</CategoryNamePath>
+     <CategoryIDPath>260:261</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>676</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>19th Century: Unused</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:19th Century: Unused</CategoryNamePath>
+     <CategoryIDPath>260:261:676</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>675</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>19th Century: Used</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:19th Century: Used</CategoryNamePath>
+     <CategoryIDPath>260:261:675</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3461</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1901-40: Unused</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:1901-40: Unused</CategoryNamePath>
+     <CategoryIDPath>260:261:3461</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>679</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1941-Now: Unused</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:1941-Now: Unused</CategoryNamePath>
+     <CategoryIDPath>260:261:679</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>678</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1901-Now: Used</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:1901-Now: Used</CategoryNamePath>
+     <CategoryIDPath>260:261:678</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47141</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Back of Book</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Back of Book</CategoryNamePath>
+     <CategoryIDPath>260:261:47141</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3463</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Confederate States</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Confederate States</CategoryNamePath>
+     <CategoryIDPath>260:261:3463</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47147</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Covers</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Covers</CategoryNamePath>
+     <CategoryIDPath>260:261:47147</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>686</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Errors Freaks Oddities</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Errors Freaks Oddities</CategoryNamePath>
+     <CategoryIDPath>260:261:686</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>682</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Plate Blocks/Multiples</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Plate Blocks/Multiples</CategoryNamePath>
+     <CategoryIDPath>260:261:682</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50252</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Plate Number Coils</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Plate Number Coils</CategoryNamePath>
+     <CategoryIDPath>260:261:50252</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>688</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Possessions</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Possessions</CategoryNamePath>
+     <CategoryIDPath>260:261:688</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47149</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Postage</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Postage</CategoryNamePath>
+     <CategoryIDPath>260:261:47149</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>265</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sheets</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Sheets</CategoryNamePath>
+     <CategoryIDPath>260:261:265</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>683</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collections Lots</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Collections Lots</CategoryNamePath>
+     <CategoryIDPath>260:261:683</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>262</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other United States Stamps</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Other United States Stamps</CategoryNamePath>
+     <CategoryIDPath>260:261:262</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

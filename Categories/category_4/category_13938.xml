@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:10:25.126Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13938</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Melamine Melmac</CategoryName>
+     <CategoryParentID>978</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Tableware:Melamine Melmac</CategoryNamePath>
+     <CategoryIDPath>1:13905:978:13938</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13939</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Boonton</CategoryName>
+     <CategoryParentID>13938</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Tableware:Melamine Melmac:Boonton</CategoryNamePath>
+     <CategoryIDPath>1:13905:978:13938:13939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13940</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Texas Ware</CategoryName>
+     <CategoryParentID>13938</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Tableware:Melamine Melmac:Texas Ware</CategoryNamePath>
+     <CategoryIDPath>1:13905:978:13938:13940</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13941</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Collectible Melamine</CategoryName>
+     <CategoryParentID>13938</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Tableware:Melamine Melmac:Other Collectible Melamine</CategoryNamePath>
+     <CategoryIDPath>1:13905:978:13938:13941</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

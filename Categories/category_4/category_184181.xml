@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:46:32.845Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184181</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Forklift Parts and Accessories</CategoryName>
+     <CategoryParentID>184174</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Forklift Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184181</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184182</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Forklift Forks</CategoryName>
+     <CategoryParentID>184181</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Forklift Parts and Accessories:Forklift Forks</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184181:184182</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184183</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Forklift Batteries and Chargers</CategoryName>
+     <CategoryParentID>184181</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Forklift Parts and Accessories:Forklift Batteries and Chargers</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184181:184183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184184</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Forklift Motors</CategoryName>
+     <CategoryParentID>184181</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Forklift Parts and Accessories:Forklift Motors</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184181:184184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184185</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Forklift Pumps</CategoryName>
+     <CategoryParentID>184181</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Forklift Parts and Accessories:Forklift Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184181:184185</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184186</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Forklift Seats</CategoryName>
+     <CategoryParentID>184181</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Forklift Parts and Accessories:Forklift Seats</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184181:184186</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184187</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Forklift Tires</CategoryName>
+     <CategoryParentID>184181</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Forklift Parts and Accessories:Forklift Tires</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184181:184187</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184188</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Forklift Parts and Accs</CategoryName>
+     <CategoryParentID>184181</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading:Forklift Parts and Accessories:Other Forklift Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174:184181:184188</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

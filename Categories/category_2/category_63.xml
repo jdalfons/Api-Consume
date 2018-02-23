@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:17:43.770Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Comics</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics</CategoryNamePath>
+     <CategoryIDPath>1:63</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3956</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>International Editions</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:International Editions</CategoryNamePath>
+     <CategoryIDPath>1:63:3956</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Platinum Age (1897-1937)</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Platinum Age (1897-1937)</CategoryNamePath>
+     <CategoryIDPath>1:63:65</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Golden Age (1938-55)</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Golden Age (1938-55)</CategoryNamePath>
+     <CategoryIDPath>1:63:66</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Silver Age (1956-69)</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Silver Age (1956-69)</CategoryNamePath>
+     <CategoryIDPath>1:63:73</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12590</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bronze Age (1970-83)</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83)</CategoryNamePath>
+     <CategoryIDPath>1:63:12590</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165364</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Copper Age (1984-1991)</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991)</CategoryNamePath>
+     <CategoryIDPath>1:63:165364</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>900</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Modern Age (1992-Now)</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now)</CategoryNamePath>
+     <CategoryIDPath>1:63:900</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48776</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Apparel and Accessories</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Apparel and Accessories</CategoryNamePath>
+     <CategoryIDPath>1:63:48776</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3952</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collections</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Collections</CategoryNamePath>
+     <CategoryIDPath>1:63:3952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3966</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fan Clubs and Zines</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Fan Clubs and Zines</CategoryNamePath>
+     <CategoryIDPath>1:63:3966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Figurines</CategoryNamePath>
+     <CategoryIDPath>1:63:80</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3953</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Full Runs and Sets</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Full Runs and Sets</CategoryNamePath>
+     <CategoryIDPath>1:63:3953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3954</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Graphic Novels TPBs</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Graphic Novels TPBs</CategoryNamePath>
+     <CategoryIDPath>1:63:3954</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3965</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Magazines</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Magazines</CategoryNamePath>
+     <CategoryIDPath>1:63:3965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>8575</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Manga</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Manga</CategoryNamePath>
+     <CategoryIDPath>1:63:8575</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Newspaper Comics</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Newspaper Comics</CategoryNamePath>
+     <CategoryIDPath>1:63:79</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3984</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Original Comic Art</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Original Comic Art</CategoryNamePath>
+     <CategoryIDPath>1:63:3984</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82498</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Posters</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Posters</CategoryNamePath>
+     <CategoryIDPath>1:63:82498</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99961</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Buyers&apos; Guides</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Price Guides and Buyers&apos; Guides</CategoryNamePath>
+     <CategoryIDPath>1:63:99961</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10547</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Storage Supplies</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Storage Supplies</CategoryNamePath>
+     <CategoryIDPath>1:63:10547</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Comic Collectibles</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Other Comic Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:63:64</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>22</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

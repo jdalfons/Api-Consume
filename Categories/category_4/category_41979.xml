@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:32:38.848Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>41979</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Alternative and Solar Energy</CategoryName>
+     <CategoryParentID>20595</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Alternative and Solar Energy</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:41979</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41980</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Chargers and Inverters</CategoryName>
+     <CategoryParentID>41979</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Alternative and Solar Energy:Chargers and Inverters</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:41979:41980</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41981</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Solar Panels</CategoryName>
+     <CategoryParentID>41979</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Alternative and Solar Energy:Solar Panels</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:41979:41981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115710</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Solar Water Pumps</CategoryName>
+     <CategoryParentID>41979</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Alternative and Solar Energy:Solar Water Pumps</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:41979:115710</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121837</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wind Generators</CategoryName>
+     <CategoryParentID>41979</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Alternative and Solar Energy:Wind Generators</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:41979:121837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3240</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Alt. and Solar Energy</CategoryName>
+     <CategoryParentID>41979</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Alternative and Solar Energy:Other Alt. and Solar Energy</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:41979:3240</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:07:55.426Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>39638</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Patches</CategoryName>
+     <CategoryParentID>4038</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Firefighting and Rescue:Patches</CategoryNamePath>
+     <CategoryIDPath>1:13877:4038:39638</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4041</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>U.S.</CategoryName>
+     <CategoryParentID>39638</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Firefighting and Rescue:Patches:U.S.</CategoryNamePath>
+     <CategoryIDPath>1:13877:4038:39638:4041</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156361</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Canada</CategoryName>
+     <CategoryParentID>39638</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Firefighting and Rescue:Patches:Canada</CategoryNamePath>
+     <CategoryIDPath>1:13877:4038:39638:156361</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156362</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>International</CategoryName>
+     <CategoryParentID>39638</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Firefighting and Rescue:Patches:International</CategoryNamePath>
+     <CategoryIDPath>1:13877:4038:39638:156362</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

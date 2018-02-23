@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:09:38.471Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>31817</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Weight Management</CategoryName>
+     <CategoryParentID>180959</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181008</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Appetite Control Suppressants</CategoryName>
+     <CategoryParentID>31817</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management:Appetite Control Suppressants</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817:181008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45735</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Body Fat Analyzers</CategoryName>
+     <CategoryParentID>31817</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management:Body Fat Analyzers</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817:45735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159731</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Detox and Cleansers</CategoryName>
+     <CategoryParentID>31817</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management:Detox and Cleansers</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817:159731</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181009</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fat Burners</CategoryName>
+     <CategoryParentID>31817</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management:Fat Burners</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817:181009</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31821</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Meal Replacement Drinks</CategoryName>
+     <CategoryParentID>31817</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management:Meal Replacement Drinks</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817:31821</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>77305</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scales</CategoryName>
+     <CategoryParentID>31817</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management:Scales</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817:77305</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36455</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Weight Loss Kits and Accs</CategoryName>
+     <CategoryParentID>31817</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management:Weight Loss Kits and Accs</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817:36455</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82616</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Weight Loss Program Foods</CategoryName>
+     <CategoryParentID>31817</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management:Weight Loss Program Foods</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817:82616</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181007</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Weight Loss Supplements</CategoryName>
+     <CategoryParentID>31817</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management:Weight Loss Supplements</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817:181007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11781</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Weight Management</CategoryName>
+     <CategoryParentID>31817</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management:Other Weight Management</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817:11781</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

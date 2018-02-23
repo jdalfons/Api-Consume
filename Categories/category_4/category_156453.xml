@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:11:33.658Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156453</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Original Items</CategoryName>
+     <CategoryParentID>36066</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156454</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Books</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:156454</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74709</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Buttons</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Buttons</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:74709</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74710</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Challenge Coins</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Challenge Coins</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:74710</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156455</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Correspondence Mail</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Correspondence Mail</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:156455</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74711</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cuff Links</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Cuff Links</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:74711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156456</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Documents</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Documents</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:156456</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156457</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Edged Weapons</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Edged Weapons</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:156457</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36067</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flags and Banners</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Flags and Banners</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:36067</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36068</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hats and Helmets</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Hats and Helmets</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:36068</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158436</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Maps</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Maps</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:158436</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36069</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Medals and Ribbons</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Medals and Ribbons</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:36069</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104019</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mugs Cups and Steins</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Mugs Cups and Steins</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:104019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48822</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Patches</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Patches</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:48822</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156458</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Personal Field Gear</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Personal Field Gear</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:156458</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36072</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Photographs</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:36072</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104020</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pins</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Pins</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:104020</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36073</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Posters and Prints</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Posters and Prints</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:36073</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104021</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signs and Plaques</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Signs and Plaques</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:104021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104022</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stickers and Decals</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Stickers and Decals</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:104022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104023</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Uniforms</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Uniforms</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:104023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36074</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Current Militaria</CategoryName>
+     <CategoryParentID>156453</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Current Militaria (2001-Now):Original Items:Other Current Militaria</CategoryNamePath>
+     <CategoryIDPath>1:13956:36066:156453:36074</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>22</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

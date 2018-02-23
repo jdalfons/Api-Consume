@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:08:23.676Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>30115</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Monitoring and Testing</CategoryName>
+     <CategoryParentID>11778</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Monitoring and Testing</CategoryNamePath>
+     <CategoryIDPath>26395:11778:30115</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75072</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blood Pressure Monitoring</CategoryName>
+     <CategoryParentID>30115</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Monitoring and Testing:Blood Pressure Monitoring</CategoryNamePath>
+     <CategoryIDPath>26395:11778:30115:75072</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159875</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cholesterol Testing</CategoryName>
+     <CategoryParentID>30115</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Monitoring and Testing:Cholesterol Testing</CategoryNamePath>
+     <CategoryIDPath>26395:11778:30115:159875</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72873</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Diabetic Aids</CategoryName>
+     <CategoryParentID>30115</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Monitoring and Testing:Diabetic Aids</CategoryNamePath>
+     <CategoryIDPath>26395:11778:30115:72873</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159876</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Drug Testing</CategoryName>
+     <CategoryParentID>30115</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Monitoring and Testing:Drug Testing</CategoryNamePath>
+     <CategoryIDPath>26395:11778:30115:159876</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171538</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Oximeters</CategoryName>
+     <CategoryParentID>30115</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Monitoring and Testing:Oximeters</CategoryNamePath>
+     <CategoryIDPath>26395:11778:30115:171538</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75075</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thermometers</CategoryName>
+     <CategoryParentID>30115</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Monitoring and Testing:Thermometers</CategoryNamePath>
+     <CategoryIDPath>26395:11778:30115:75075</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182131</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Medical Monitoring</CategoryName>
+     <CategoryParentID>30115</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Monitoring and Testing:Other Medical Monitoring</CategoryNamePath>
+     <CategoryIDPath>26395:11778:30115:182131</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

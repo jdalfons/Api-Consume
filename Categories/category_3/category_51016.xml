@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:15.940Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>51016</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wedding and Party Supplies</CategoryName>
+     <CategoryParentID>31605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Wholesale Lots:Wedding and Party Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:31605:51016</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51019</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glow Sticks</CategoryName>
+     <CategoryParentID>51016</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Wholesale Lots:Wedding and Party Supplies:Glow Sticks</CategoryNamePath>
+     <CategoryIDPath>11700:31605:51016:51019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51017</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Party Supplies</CategoryName>
+     <CategoryParentID>51016</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Wholesale Lots:Wedding and Party Supplies:Party Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:31605:51016:51017</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51018</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wedding Supplies</CategoryName>
+     <CategoryParentID>51016</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Wholesale Lots:Wedding and Party Supplies:Wedding Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:31605:51016:51018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14882</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wholesale Party Supplies</CategoryName>
+     <CategoryParentID>51016</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Wholesale Lots:Wedding and Party Supplies:Other Wholesale Party Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:31605:51016:14882</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

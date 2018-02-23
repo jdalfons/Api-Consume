@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:17.926Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11778</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Medical Mobility and Disability</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability</CategoryNamePath>
+     <CategoryIDPath>26395:11778</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182118</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Daily Living Aids</CategoryName>
+     <CategoryParentID>11778</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Daily Living Aids</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182118</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155667</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Inhalers and Nebulizers</CategoryName>
+     <CategoryParentID>11778</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Inhalers and Nebulizers</CategoryNamePath>
+     <CategoryIDPath>26395:11778:155667</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182113</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mobility Furniture and Fixtures</CategoryName>
+     <CategoryParentID>11778</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility Furniture and Fixtures</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182113</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28175</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mobility/Walking Equipment</CategoryName>
+     <CategoryParentID>11778</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Mobility/Walking Equipment</CategoryNamePath>
+     <CategoryIDPath>26395:11778:28175</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30115</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Monitoring and Testing</CategoryName>
+     <CategoryParentID>11778</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Monitoring and Testing</CategoryNamePath>
+     <CategoryIDPath>26395:11778:30115</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182132</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Orthopedics and Supports</CategoryName>
+     <CategoryParentID>11778</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Orthopedics and Supports</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182132</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3193</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Mobility and Disability</CategoryName>
+     <CategoryParentID>11778</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability:Other Mobility and Disability</CategoryNamePath>
+     <CategoryIDPath>26395:11778:3193</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

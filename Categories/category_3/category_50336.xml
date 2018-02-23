@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:20:30.142Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>50336</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cameras and Photo</CategoryName>
+     <CategoryParentID>47119</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Restoration and Repair:Cameras and Photo</CategoryNamePath>
+     <CategoryIDPath>316:47119:50336</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

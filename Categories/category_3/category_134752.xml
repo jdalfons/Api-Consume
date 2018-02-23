@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:18:37.907Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>134752</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Health Care</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Health Care</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134752</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146242</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ear Care</CategoryName>
+     <CategoryParentID>134752</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Health Care:Ear Care</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134752:146242</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134792</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Eye Care</CategoryName>
+     <CategoryParentID>134752</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Health Care:Eye Care</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134752:134792</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116394</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Oral Hygiene</CategoryName>
+     <CategoryParentID>134752</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Health Care:Oral Hygiene</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134752:116394</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134791</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Skin and Coat Care</CategoryName>
+     <CategoryParentID>134752</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Health Care:Skin and Coat Care</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134752:134791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134754</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vitamins and Supplements</CategoryName>
+     <CategoryParentID>134752</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Health Care:Vitamins and Supplements</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134752:134754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117432</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wormer Products</CategoryName>
+     <CategoryParentID>134752</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Health Care:Wormer Products</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134752:117432</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134753</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Dog Health Care</CategoryName>
+     <CategoryParentID>134752</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Health Care:Other Dog Health Care</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134752:134753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

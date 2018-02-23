@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:49.017Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>163778</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Glass and Mosaics</CategoryName>
+     <CategoryParentID>14339</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics</CategoryNamePath>
+     <CategoryIDPath>14339:163778</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150134</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beach Glass - Machine-Tumbled</CategoryName>
+     <CategoryParentID>163778</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Beach Glass - Machine-Tumbled</CategoryNamePath>
+     <CategoryIDPath>14339:163778:150134</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41221</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beach Glass - Surf-Tumbled</CategoryName>
+     <CategoryParentID>163778</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Beach Glass - Surf-Tumbled</CategoryNamePath>
+     <CategoryIDPath>14339:163778:41221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160646</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Glass and Mosaic Tiles</CategoryName>
+     <CategoryParentID>163778</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass and Mosaic Tiles</CategoryNamePath>
+     <CategoryIDPath>14339:163778:160646</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3100</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Glass Art and Mosaic Supplies</CategoryName>
+     <CategoryParentID>163778</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

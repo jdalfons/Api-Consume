@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:05:34.395Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11126</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Enesco</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11127</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Calico Kittens</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Calico Kittens</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:11127</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41126</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cherished Teddies</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Cherished Teddies</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:41126</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13790</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Friends of the Feather</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Friends of the Feather</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:13790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103935</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Growing Up Girls</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Growing Up Girls</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:103935</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86899</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jim Shore</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Jim Shore</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:86899</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13791</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lucy and Me</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Lucy and Me</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:13791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11128</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mary&apos;s Moo Moos</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Mary&apos;s Moo Moos</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:11128</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13792</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Memories of Yesterday</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Memories of Yesterday</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:13792</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13793</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>My Blushing Bunnies</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:My Blushing Bunnies</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:13793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103936</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>My Little Kitchen Fairies</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:My Little Kitchen Fairies</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:103936</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11129</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pretty as a Picture</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Pretty as a Picture</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:11129</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39599</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Raggedy Ann and Andy</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Raggedy Ann and Andy</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:39599</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39600</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rudolph</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Rudolph</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:39600</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11130</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tender Tails</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Tender Tails</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:11130</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11131</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>This Little Piggy</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:This Little Piggy</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:11131</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Enesco</CategoryName>
+     <CategoryParentID>11126</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco:Other Enesco</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126:104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

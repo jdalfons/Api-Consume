@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:43:07.567Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>100003</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Monitoring Systems</CategoryName>
+     <CategoryParentID>11817</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Monitoring Systems</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:100003</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100004</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Blood Pressure Monitors</CategoryName>
+     <CategoryParentID>100003</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Monitoring Systems:Blood Pressure Monitors</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:100003:100004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100005</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>ECG and EKG Systems</CategoryName>
+     <CategoryParentID>100003</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Monitoring Systems:ECG and EKG Systems</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:100003:100005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31465</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Oximeters</CategoryName>
+     <CategoryParentID>100003</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Monitoring Systems:Oximeters</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:100003:31465</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100006</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Patient Monitors</CategoryName>
+     <CategoryParentID>100003</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Monitoring Systems:Patient Monitors</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:100003:100006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117028</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Prenatal Heart Monitors</CategoryName>
+     <CategoryParentID>100003</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Monitoring Systems:Prenatal Heart Monitors</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:100003:117028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100007</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Med Monitoring Systems</CategoryName>
+     <CategoryParentID>100003</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Monitoring Systems:Other Med Monitoring Systems</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:100003:100007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

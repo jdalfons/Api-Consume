@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:07:58.067Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>82593</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sleeping Aids</CategoryName>
+     <CategoryParentID>67588</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sleeping Aids</CategoryNamePath>
+     <CategoryIDPath>26395:67588:82593</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180934</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chin Straps</CategoryName>
+     <CategoryParentID>82593</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sleeping Aids:Chin Straps</CategoryNamePath>
+     <CategoryIDPath>26395:67588:82593:180934</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180935</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mouthpieces</CategoryName>
+     <CategoryParentID>82593</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sleeping Aids:Mouthpieces</CategoryNamePath>
+     <CategoryIDPath>26395:67588:82593:180935</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180936</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nasal Strips</CategoryName>
+     <CategoryParentID>82593</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sleeping Aids:Nasal Strips</CategoryNamePath>
+     <CategoryIDPath>26395:67588:82593:180936</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159799</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sleep Masks</CategoryName>
+     <CategoryParentID>82593</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sleeping Aids:Sleep Masks</CategoryNamePath>
+     <CategoryIDPath>26395:67588:82593:159799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180937</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sleeping Pills</CategoryName>
+     <CategoryParentID>82593</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sleeping Aids:Sleeping Pills</CategoryNamePath>
+     <CategoryIDPath>26395:67588:82593:180937</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82594</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sound Therapy</CategoryName>
+     <CategoryParentID>82593</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sleeping Aids:Sound Therapy</CategoryNamePath>
+     <CategoryIDPath>26395:67588:82593:82594</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40101</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Sleeping Aids</CategoryName>
+     <CategoryParentID>82593</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sleeping Aids:Other Sleeping Aids</CategoryNamePath>
+     <CategoryIDPath>26395:67588:82593:40101</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

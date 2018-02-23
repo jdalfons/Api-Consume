@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:19.032Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>95157</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Military</CategoryName>
+     <CategoryParentID>14052</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Military</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:95157</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165756</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Models</CategoryName>
+     <CategoryParentID>95157</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Military:Models</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:95157:165756</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95158</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>95157</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Military:Photographs</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:95157:95158</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95159</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Posters and Prints</CategoryName>
+     <CategoryParentID>95157</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Military:Posters and Prints</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:95157:95159</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14054</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Naval Collectibles</CategoryName>
+     <CategoryParentID>95157</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Military:Other Naval Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:95157:14054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

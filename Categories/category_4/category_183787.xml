@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:39:50.207Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183787</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rodent Traps and Boxes</CategoryName>
+     <CategoryParentID>183778</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Rodent Traps and Boxes</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183787</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183788</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Snap and Glue Traps and Boxes</CategoryName>
+     <CategoryParentID>183787</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Rodent Traps and Boxes:Snap and Glue Traps and Boxes</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183787:183788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183789</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Battery-Powered Traps</CategoryName>
+     <CategoryParentID>183787</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Rodent Traps and Boxes:Battery-Powered Traps</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183787:183789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183790</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Catch and Release Traps</CategoryName>
+     <CategoryParentID>183787</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Rodent Traps and Boxes:Catch and Release Traps</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183787:183790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

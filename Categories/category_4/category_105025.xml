@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:28:58.642Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>105025</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists R</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164076</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Raconteurs</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Raconteurs</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:164076</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53273</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Radiohead</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Radiohead</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:53273</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86009</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rage Against the Machine</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Rage Against the Machine</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:86009</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104700</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Raitt Bonnie</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Raitt Bonnie</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:104700</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164077</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rammstein</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Rammstein</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:164077</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53248</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ramones</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Ramones</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:53248</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105027</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rancid</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Rancid</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:105027</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164075</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ratt</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Ratt</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:164075</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53274</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Red Hot Chili Peppers</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Red Hot Chili Peppers</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:53274</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86007</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>R.E.M.</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:R.E.M.</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:86007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164078</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rihanna</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Rihanna</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:164078</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29923</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rolling Stones</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Rolling Stones</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:29923</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105029</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rush</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Rush</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:105029</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105026</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists R</CategoryName>
+     <CategoryParentID>105025</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists R:Other Rock and Pop Artists R</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105025:105026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

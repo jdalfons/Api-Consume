@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:26.174Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181784</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sensors</CategoryName>
+     <CategoryParentID>42892</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181785</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Acceleration Sensors</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Acceleration Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:181785</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181786</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fiber Optic Sensors</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Fiber Optic Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:181786</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181787</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hall Effect Sensor Diodes</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Hall Effect Sensor Diodes</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:181787</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65458</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Level Sensors</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Level Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:65458</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181788</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PIR Motion Sensors</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:PIR Motion Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:181788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65456</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pressure Sensors</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Pressure Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:65456</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65459</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Proximity Sensors</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Proximity Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:65459</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65455</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rotary Encoders</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Rotary Encoders</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:65455</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65460</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Temperature and Humidity Sensors</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Temperature and Humidity Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:65460</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181791</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ultrasonic Sensors</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Ultrasonic Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:181791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181792</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vibration Sensors</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Vibration Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:181792</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181790</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sensor Mountings</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Sensor Mountings</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:181790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57520</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Sensors</CategoryName>
+     <CategoryParentID>181784</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Sensors:Other Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181784:57520</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

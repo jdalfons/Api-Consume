@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:33:58.988Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183324</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decorating Tools</CategoryName>
+     <CategoryParentID>177009</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183325</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cake Boards</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Cake Boards</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183325</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183326</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cake Dowels and Pillars</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Cake Dowels and Pillars</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183326</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183327</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cake Dummies</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Cake Dummies</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183327</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183328</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cake Levelers</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Cake Levelers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183328</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183329</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cake Scrapers</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Cake Scrapers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183329</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183330</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Crimpers</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Crimpers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183330</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183331</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flower Nails</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Flower Nails</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183331</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177068</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Icing Bags</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Icing Bags</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:177068</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183332</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Icing Bag Holders</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Icing Bag Holders</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183332</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183333</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Icing Edgers and Smoothers</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Icing Edgers and Smoothers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183333</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183334</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Icing Nozzles</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Icing Nozzles</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183334</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183335</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Icing Turntables</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Icing Turntables</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183335</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183336</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Modeling Tools and Cutters</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Modeling Tools and Cutters</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183336</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183337</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nozzle Organizers</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Nozzle Organizers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183337</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177011</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sugarcraft and Chocolate Molds</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Sugarcraft and Chocolate Molds</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:177011</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183338</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Decorating Tools</CategoryName>
+     <CategoryParentID>183324</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Baking Accs. and Cake Decorating:Decorating Tools:Other Decorating Tools</CategoryNamePath>
+     <CategoryIDPath>11700:20625:177009:183324:183338</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

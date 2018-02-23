@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:58:16.020Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>14052</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boats and Ships</CategoryName>
+     <CategoryParentID>417</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships</CategoryNamePath>
+     <CategoryIDPath>1:417:14052</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95156</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Commercial Ships and Tugs</CategoryName>
+     <CategoryParentID>14052</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Commercial Ships and Tugs</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:95156</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35962</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cruise Ships and Ocean Liners</CategoryName>
+     <CategoryParentID>14052</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95157</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Military</CategoryName>
+     <CategoryParentID>14052</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Military</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:95157</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14055</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sail-Powered</CategoryName>
+     <CategoryParentID>14052</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Sail-Powered</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:14055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>423</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Boat and Ship Collectibles</CategoryName>
+     <CategoryParentID>14052</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Other Boat and Ship Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:423</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

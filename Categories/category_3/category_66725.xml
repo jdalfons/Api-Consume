@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:11:51.330Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>66725</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bedding</CategoryName>
+     <CategoryParentID>176988</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66731</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bedding Sets</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Bedding Sets</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:66731</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66726</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bed Skirts</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Bed Skirts</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:66726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66727</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blankets and Throws</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Blankets and Throws</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:66727</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176986</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canopies and Netting</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Canopies and Netting</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:176986</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66728</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Comforters and Sets</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Comforters and Sets</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:66728</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134641</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Duvet Covers</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Duvet Covers</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:134641</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115629</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pillows</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Pillows</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:115629</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115628</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pillowcases</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Pillowcases</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:115628</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66729</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pillow Shams</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Pillow Shams</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:66729</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66730</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quilts</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Quilts</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:66730</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79619</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sheets</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Sheets</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:79619</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48091</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sleeping Bags</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Sleeping Bags</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:48091</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176987</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Kids&apos; and Teens&apos; Bedding</CategoryName>
+     <CategoryParentID>66725</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Bedding:Other Kids&apos; and Teens&apos; Bedding</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66725:176987</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

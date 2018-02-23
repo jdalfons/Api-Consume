@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:01:06.332Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>48604</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Car Video</CategoryName>
+     <CategoryParentID>3270</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Video</CategoryNamePath>
+     <CategoryIDPath>293:3270:48604</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175712</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Car Monitors w/Built-in Player</CategoryName>
+     <CategoryParentID>48604</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Video:Car Monitors w/Built-in Player</CategoryNamePath>
+     <CategoryIDPath>293:3270:48604:175712</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48606</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Car Monitors w/o Player</CategoryName>
+     <CategoryParentID>48604</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Video:Car Monitors w/o Player</CategoryNamePath>
+     <CategoryIDPath>293:3270:48604:48606</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149976</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rear View Monitors/Cams and Kits</CategoryName>
+     <CategoryParentID>48604</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Video:Rear View Monitors/Cams and Kits</CategoryNamePath>
+     <CategoryIDPath>293:3270:48604:149976</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79834</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Video In-Dash Units w/GPS</CategoryName>
+     <CategoryParentID>48604</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Video:Video In-Dash Units w/GPS</CategoryNamePath>
+     <CategoryIDPath>293:3270:48604:79834</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79835</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Video In-Dash Units w/o GPS</CategoryName>
+     <CategoryParentID>48604</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Video:Video In-Dash Units w/o GPS</CategoryNamePath>
+     <CategoryIDPath>293:3270:48604:79835</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48605</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Car Video</CategoryName>
+     <CategoryParentID>48604</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Video:Other Car Video</CategoryNamePath>
+     <CategoryIDPath>293:3270:48604:48605</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:15:57.346Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165133</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Ethnic/Regional/Tribal</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165134</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>African</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:African</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:165134</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165135</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Asian and East Indian</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:Asian and East Indian</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:165135</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165136</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Celtic</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:Celtic</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:165136</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52609</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mexican Latin American</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:Mexican Latin American</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:52609</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166735</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Middle Eastern</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:Middle Eastern</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:166735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165137</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Native American (pre-1935)</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:Native American (pre-1935)</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:165137</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165138</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pacific Islands</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:Pacific Islands</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:165138</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165140</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Russian</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:Russian</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:165140</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52610</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scandinavian</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:Scandinavian</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:52610</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165139</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Southwestern</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:Southwestern</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:165139</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165141</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Ethnic Jewelry</CategoryName>
+     <CategoryParentID>165133</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal:Other Vintage Ethnic Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133:165141</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

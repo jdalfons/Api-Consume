@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:34:31.065Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>37633</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wall Décor</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Wall Décor</CategoryNamePath>
+     <CategoryIDPath>2984:66697:37633</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37634</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Art and Prints</CategoryName>
+     <CategoryParentID>37633</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Wall Décor:Art and Prints</CategoryNamePath>
+     <CategoryIDPath>2984:66697:37633:37634</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180505</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wall Decals and Vinyl Art</CategoryName>
+     <CategoryParentID>37633</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Wall Décor:Wall Decals and Vinyl Art</CategoryNamePath>
+     <CategoryIDPath>2984:66697:37633:180505</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37635</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wall Hangings</CategoryName>
+     <CategoryParentID>37633</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Wall Décor:Wall Hangings</CategoryNamePath>
+     <CategoryIDPath>2984:66697:37633:37635</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37636</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wallpaper Borders</CategoryName>
+     <CategoryParentID>37633</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Wall Décor:Wallpaper Borders</CategoryNamePath>
+     <CategoryIDPath>2984:66697:37633:37636</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20430</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Nursery Wall Décor</CategoryName>
+     <CategoryParentID>37633</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Wall Décor:Other Nursery Wall Décor</CategoryNamePath>
+     <CategoryIDPath>2984:66697:37633:20430</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

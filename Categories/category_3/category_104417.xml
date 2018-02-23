@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:06:11.082Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104417</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Music</CategoryName>
+     <CategoryParentID>104412</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Autographs-Reprints:Music</CategoryNamePath>
+     <CategoryIDPath>45100:104412:104417</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104418</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>104417</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Autographs-Reprints:Music:Photographs</CategoryNamePath>
+     <CategoryIDPath>45100:104412:104417:104418</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104419</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Posters</CategoryName>
+     <CategoryParentID>104417</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Autographs-Reprints:Music:Posters</CategoryNamePath>
+     <CategoryIDPath>45100:104412:104417:104419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104420</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Repro Music Autographs</CategoryName>
+     <CategoryParentID>104417</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Autographs-Reprints:Music:Other Repro Music Autographs</CategoryNamePath>
+     <CategoryIDPath>45100:104412:104417:104420</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

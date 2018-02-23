@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:03.548Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>12922</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Stage Lighting and Effects</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects</CategoryNamePath>
+     <CategoryIDPath>619:12922</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177022</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stage Lighting: Single Units</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Stage Lighting: Single Units</CategoryNamePath>
+     <CategoryIDPath>619:12922:177022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12921</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stage Lighting: Systems and Kits</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Stage Lighting: Systems and Kits</CategoryNamePath>
+     <CategoryIDPath>619:12922:12921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177023</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>DJ Lighting: Single Units</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:DJ Lighting: Single Units</CategoryNamePath>
+     <CategoryIDPath>619:12922:177023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177024</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>DJ Lighting: Systems and Kits</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:DJ Lighting: Systems and Kits</CategoryNamePath>
+     <CategoryIDPath>619:12922:177024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69960</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Atmospheric Effects Machines</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Atmospheric Effects Machines</CategoryNamePath>
+     <CategoryIDPath>619:12922:69960</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>132998</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Atmospheric Effects Fluids</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Atmospheric Effects Fluids</CategoryNamePath>
+     <CategoryIDPath>619:12922:132998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182104</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clamps and Mounts</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Clamps and Mounts</CategoryNamePath>
+     <CategoryIDPath>619:12922:182104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170088</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cables and Interconnects</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Cables and Interconnects</CategoryNamePath>
+     <CategoryIDPath>619:12922:170088</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30889</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stage Lighting Controllers</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Stage Lighting Controllers</CategoryNamePath>
+     <CategoryIDPath>619:12922:30889</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182103</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stage Lighting Dimmers</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Stage Lighting Dimmers</CategoryNamePath>
+     <CategoryIDPath>619:12922:182103</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177025</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Folding Screens and Backdrops</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Folding Screens and Backdrops</CategoryNamePath>
+     <CategoryIDPath>619:12922:177025</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81967</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gobos Gels Filters and Lenses</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Gobos Gels Filters and Lenses</CategoryNamePath>
+     <CategoryIDPath>619:12922:81967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29945</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lighting Stands and Trusses</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Lighting Stands and Trusses</CategoryNamePath>
+     <CategoryIDPath>619:12922:29945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81970</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Replacement Bulbs and Lamps</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Replacement Bulbs and Lamps</CategoryNamePath>
+     <CategoryIDPath>619:12922:81970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12930</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>619:12922:12930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170089</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Stage Lighting and Effects</CategoryName>
+     <CategoryParentID>12922</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Stage Lighting and Effects:Other Stage Lighting and Effects</CategoryNamePath>
+     <CategoryIDPath>619:12922:170089</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

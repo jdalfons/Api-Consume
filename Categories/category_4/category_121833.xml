@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:23:52.985Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>121833</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scrapbooking Embellishments</CategoryName>
+     <CategoryParentID>31253</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160733</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Chipboard Accents</CategoryName>
+     <CategoryParentID>121833</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments:Chipboard Accents</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833:160733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83990</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Decorative Brads</CategoryName>
+     <CategoryParentID>121833</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments:Decorative Brads</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833:83990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183237</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Die Cut Shapes and Punchies</CategoryName>
+     <CategoryParentID>121833</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments:Die Cut Shapes and Punchies</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833:183237</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160732</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flattened Bottle Caps</CategoryName>
+     <CategoryParentID>121833</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments:Flattened Bottle Caps</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833:160732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160734</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flower Embellishments</CategoryName>
+     <CategoryParentID>121833</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments:Flower Embellishments</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833:160734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31733</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mini Bows</CategoryName>
+     <CategoryParentID>121833</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments:Mini Bows</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833:31733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183238</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rub-On Transfers</CategoryName>
+     <CategoryParentID>121833</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments:Rub-On Transfers</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833:183238</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34002</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Scrapbooking Stickers</CategoryName>
+     <CategoryParentID>121833</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments:Scrapbooking Stickers</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833:34002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160736</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>121833</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833:160736</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146545</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Scrapbook Embellishments</CategoryName>
+     <CategoryParentID>121833</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking:Scrapbooking Embellishments:Other Scrapbook Embellishments</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253:121833:146545</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

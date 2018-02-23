@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:27:38.985Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181424</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Australia and Oceania</CategoryName>
+     <CategoryParentID>260</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania</CategoryNamePath>
+     <CategoryIDPath>260:181424</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3468</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Australia</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179344</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cook Islands (1965-Now)</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Cook Islands (1965-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181424:179344</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179345</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fiji (1967-Now)</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Fiji (1967-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181424:179345</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179346</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Micronesia</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Micronesia</CategoryNamePath>
+     <CategoryIDPath>260:181424:179346</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70089</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>New Zealand</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:New Zealand</CategoryNamePath>
+     <CategoryIDPath>260:181424:70089</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179347</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Niue (1974-Now)</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Niue (1974-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181424:179347</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179348</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Papua New Guinea (1975-Now)</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Papua New Guinea (1975-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181424:179348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179349</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Samoa (1962-Now)</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Samoa (1962-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181424:179349</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179350</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Solomon Islands (1978-Now)</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Solomon Islands (1978-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181424:179350</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179351</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokelau Islands</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Tokelau Islands</CategoryNamePath>
+     <CategoryIDPath>260:181424:179351</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179352</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tonga (1970-Now)</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Tonga (1970-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181424:179352</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73240</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tuvalu</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Tuvalu</CategoryNamePath>
+     <CategoryIDPath>260:181424:73240</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179353</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vanuatu (1980-Now)</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Vanuatu (1980-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181424:179353</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179354</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collections Lots</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Collections Lots</CategoryNamePath>
+     <CategoryIDPath>260:181424:179354</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150924</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Oceania Stamps</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Other Oceania Stamps</CategoryNamePath>
+     <CategoryIDPath>260:181424:150924</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

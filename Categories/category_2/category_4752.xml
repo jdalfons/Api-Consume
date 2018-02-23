@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:28:25.985Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4752</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Topical Stamps</CategoryName>
+     <CategoryParentID>260</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps</CategoryNamePath>
+     <CategoryIDPath>260:4752</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181419</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Animal Kingdom</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Animal Kingdom</CategoryNamePath>
+     <CategoryIDPath>260:4752:181419</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4753</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Animation Cartoons</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Animation Cartoons</CategoryNamePath>
+     <CategoryIDPath>260:4752:4753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30261</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Architecture</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Architecture</CategoryNamePath>
+     <CategoryIDPath>260:4752:30261</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7896</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Art</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Art</CategoryNamePath>
+     <CategoryIDPath>260:4752:7896</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30262</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cultures and Ethnicities</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Cultures and Ethnicities</CategoryNamePath>
+     <CategoryIDPath>260:4752:30262</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>68096</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Famous People</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Famous People</CategoryNamePath>
+     <CategoryIDPath>260:4752:68096</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139793</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flags and National Emblems</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Flags and National Emblems</CategoryNamePath>
+     <CategoryIDPath>260:4752:139793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139794</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Holidays</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Holidays</CategoryNamePath>
+     <CategoryIDPath>260:4752:139794</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139796</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Military and War</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Military and War</CategoryNamePath>
+     <CategoryIDPath>260:4752:139796</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70097</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Music</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Music</CategoryNamePath>
+     <CategoryIDPath>260:4752:70097</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65203</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Nature and Plants</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Nature and Plants</CategoryNamePath>
+     <CategoryIDPath>260:4752:65203</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168203</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Organizations</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Organizations</CategoryNamePath>
+     <CategoryIDPath>260:4752:168203</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70098</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Royalty</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Royalty</CategoryNamePath>
+     <CategoryIDPath>260:4752:70098</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179401</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Science and Technology</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Science and Technology</CategoryNamePath>
+     <CategoryIDPath>260:4752:179401</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65213</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Space</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Space</CategoryNamePath>
+     <CategoryIDPath>260:4752:65213</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65208</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sports</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181418</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Transportation</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Transportation</CategoryNamePath>
+     <CategoryIDPath>260:4752:181418</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>91583</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collections Lots</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Collections Lots</CategoryNamePath>
+     <CategoryIDPath>260:4752:91583</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>703</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Topical Stamps</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Other Topical Stamps</CategoryNamePath>
+     <CategoryIDPath>260:4752:703</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:31:02.192Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19151</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>G Scale</CategoryName>
+     <CategoryParentID>180250</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:G Scale</CategoryNamePath>
+     <CategoryIDPath>220:180250:19151</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122580</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Freight Cars</CategoryName>
+     <CategoryParentID>19151</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:G Scale:Freight Cars</CategoryNamePath>
+     <CategoryIDPath>220:180250:19151:122580</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122576</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Locomotives</CategoryName>
+     <CategoryParentID>19151</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:G Scale:Locomotives</CategoryNamePath>
+     <CategoryIDPath>220:180250:19151:122576</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122575</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Passenger Cars</CategoryName>
+     <CategoryParentID>19151</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:G Scale:Passenger Cars</CategoryNamePath>
+     <CategoryIDPath>220:180250:19151:122575</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122578</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Track</CategoryName>
+     <CategoryParentID>19151</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:G Scale:Track</CategoryNamePath>
+     <CategoryIDPath>220:180250:19151:122578</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80990</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Starter Sets and Packs</CategoryName>
+     <CategoryParentID>19151</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:G Scale:Starter Sets and Packs</CategoryNamePath>
+     <CategoryIDPath>220:180250:19151:80990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80979</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>19151</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:G Scale:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>220:180250:19151:80979</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4149</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other G Scale</CategoryName>
+     <CategoryParentID>19151</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:G Scale:Other G Scale</CategoryNamePath>
+     <CategoryIDPath>220:180250:19151:4149</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

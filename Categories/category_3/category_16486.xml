@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:36.126Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>16486</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Miniatures War Games</CategoryName>
+     <CategoryParentID>233</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games</CategoryNamePath>
+     <CategoryIDPath>220:233:16486</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158728</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>15mm</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:15mm</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:158728</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158729</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>25mm</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:25mm</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:158729</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158730</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>28mm</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:28mm</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:158730</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177640</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Terrain and Scenery</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Terrain and Scenery</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:177640</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168259</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>AT-43</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:AT-43</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:168259</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158731</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Axis and Allies</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Axis and Allies</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:158731</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113527</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Babylon 5</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Babylon 5</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:113527</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16487</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Battletech</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Battletech</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:16487</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63656</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clan War</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Clan War</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:63656</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45361</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Confrontation</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Confrontation</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:45361</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158713</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dungeons and Dragons</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Dungeons and Dragons</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:158713</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113523</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flames of War</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Flames of War</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:113523</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44001</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HeroClix</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:HeroClix</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:44001</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158715</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heroscape</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Heroscape</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:158715</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168260</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HorrorClix</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:HorrorClix</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:168260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44011</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lord of the Rings</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Lord of the Rings</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:44011</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16488</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mage Knight</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Mage Knight</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:16488</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44012</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>MechWarrior</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:MechWarrior</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:44012</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168253</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Monsterpocalypse</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Monsterpocalypse</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:168253</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113524</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pirates CSG</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Pirates CSG</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:113524</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155640</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pokémon TFG</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Pokémon TFG</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:155640</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16489</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ral Partha</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Ral Partha</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:16489</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113526</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reaper</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Reaper</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:113526</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158718</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Star Wars</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Star Wars</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:158718</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158732</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>War at Sea</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:War at Sea</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:158732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31398</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Warhammer</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Warhammer</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:31398</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168254</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Warmachine and Hordes</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Warmachine and Hordes</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:168254</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168258</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>World of Warcraft</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:World of Warcraft</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:168258</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2537</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Miniatures and War Games</CategoryName>
+     <CategoryParentID>16486</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Miniatures War Games:Other Miniatures and War Games</CategoryNamePath>
+     <CategoryIDPath>220:233:16486:2537</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>30</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

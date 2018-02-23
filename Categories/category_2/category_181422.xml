@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:28:19.720Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181422</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Middle East</CategoryName>
+     <CategoryParentID>260</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East</CategoryNamePath>
+     <CategoryIDPath>260:181422</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145822</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Afghanistan</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Afghanistan</CategoryNamePath>
+     <CategoryIDPath>260:181422:145822</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123791</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bahrain (1971-Now)</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Bahrain (1971-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181422:123791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>127419</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Egypt</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Egypt</CategoryNamePath>
+     <CategoryIDPath>260:181422:127419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123793</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Iran</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Iran</CategoryNamePath>
+     <CategoryIDPath>260:181422:123793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123794</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Iraq</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Iraq</CategoryNamePath>
+     <CategoryIDPath>260:181422:123794</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123795</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Israel</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Israel</CategoryNamePath>
+     <CategoryIDPath>260:181422:123795</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123796</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jordan</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Jordan</CategoryNamePath>
+     <CategoryIDPath>260:181422:123796</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123797</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kuwait (1961-Now)</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Kuwait (1961-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181422:123797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123798</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lebanon</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Lebanon</CategoryNamePath>
+     <CategoryIDPath>260:181422:123798</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123799</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Oman</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Oman</CategoryNamePath>
+     <CategoryIDPath>260:181422:123799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>131628</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Palestine (1948-Now)</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Palestine (1948-Now)</CategoryNamePath>
+     <CategoryIDPath>260:181422:131628</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123800</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Qatar</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Qatar</CategoryNamePath>
+     <CategoryIDPath>260:181422:123800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123801</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Saudi Arabia</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Saudi Arabia</CategoryNamePath>
+     <CategoryIDPath>260:181422:123801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123802</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Syria</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Syria</CategoryNamePath>
+     <CategoryIDPath>260:181422:123802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123803</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>United Arab Emirates</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:United Arab Emirates</CategoryNamePath>
+     <CategoryIDPath>260:181422:123803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123804</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Yemen</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Yemen</CategoryNamePath>
+     <CategoryIDPath>260:181422:123804</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145842</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collections Lots</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Collections Lots</CategoryNamePath>
+     <CategoryIDPath>260:181422:145842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179405</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Middle Eastern Stamps</CategoryName>
+     <CategoryParentID>181422</CategoryParentID>
+     <CategoryNamePath>Stamps:Middle East:Other Middle Eastern Stamps</CategoryNamePath>
+     <CategoryIDPath>260:181422:179405</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>19</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

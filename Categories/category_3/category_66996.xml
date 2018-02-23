@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:37:52.940Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>66996</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>HVAC Tools</CategoryName>
+     <CategoryParentID>42909</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Tools</CategoryNamePath>
+     <CategoryIDPath>12576:42909:66996</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183966</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ducting Crimpers</CategoryName>
+     <CategoryParentID>66996</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Tools:Ducting Crimpers</CategoryNamePath>
+     <CategoryIDPath>12576:42909:66996:183966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183967</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ducting Installation Tools</CategoryName>
+     <CategoryParentID>66996</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Tools:Ducting Installation Tools</CategoryNamePath>
+     <CategoryIDPath>12576:42909:66996:183967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC Gauges</CategoryName>
+     <CategoryParentID>66996</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Tools:HVAC Gauges</CategoryNamePath>
+     <CategoryIDPath>12576:42909:66996:66998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53298</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC System Leak Detectors</CategoryName>
+     <CategoryParentID>66996</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Tools:HVAC System Leak Detectors</CategoryNamePath>
+     <CategoryIDPath>12576:42909:66996:53298</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109488</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Refrigerant Recovery Units</CategoryName>
+     <CategoryParentID>66996</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Tools:Refrigerant Recovery Units</CategoryNamePath>
+     <CategoryIDPath>12576:42909:66996:109488</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Regrigerant Scales and Meters</CategoryName>
+     <CategoryParentID>66996</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Tools:Regrigerant Scales and Meters</CategoryNamePath>
+     <CategoryIDPath>12576:42909:66996:66997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66999</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other HVAC Tools</CategoryName>
+     <CategoryParentID>66996</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Tools:Other HVAC Tools</CategoryNamePath>
+     <CategoryIDPath>12576:42909:66996:66999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

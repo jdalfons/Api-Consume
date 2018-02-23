@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:12.751Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179946</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rods</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36149</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Casting Rods</CategoryName>
+     <CategoryParentID>179946</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods:Casting Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946:36149</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36150</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spinning Rods</CategoryName>
+     <CategoryParentID>179946</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods:Spinning Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946:36150</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56732</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trolling Rods</CategoryName>
+     <CategoryParentID>179946</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods:Trolling Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946:56732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23819</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fly Fishing Rods</CategoryName>
+     <CategoryParentID>179946</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods:Fly Fishing Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946:23819</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179947</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ice Fishing Rods</CategoryName>
+     <CategoryParentID>179946</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods:Ice Fishing Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946:179947</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179948</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saltwater Rods</CategoryName>
+     <CategoryParentID>179946</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods:Saltwater Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946:179948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56734</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Surf Rods</CategoryName>
+     <CategoryParentID>179946</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods:Surf Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946:56734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179949</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Travel Rods</CategoryName>
+     <CategoryParentID>179946</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods:Travel Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946:179949</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62153</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rod Building and Repair</CategoryName>
+     <CategoryParentID>179946</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods:Rod Building and Repair</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946:62153</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fishing Rods</CategoryName>
+     <CategoryParentID>179946</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods:Other Fishing Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946:166161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:29:34.735Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2624</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>TV Movie and Character Toys</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys</CategoryNamePath>
+     <CategoryIDPath>220:2624</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20899</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Alf</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Alf</CategoryNamePath>
+     <CategoryIDPath>220:2624:20899</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20900</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Arthur</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Arthur</CategoryNamePath>
+     <CategoryIDPath>220:2624:20900</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158762</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Backyardigans</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Backyardigans</CategoryNamePath>
+     <CategoryIDPath>220:2624:158762</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2625</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Barney</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Barney</CategoryNamePath>
+     <CategoryIDPath>220:2624:2625</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146023</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Batman</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Batman</CategoryNamePath>
+     <CategoryIDPath>220:2624:146023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20901</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bear in the Big Blue House</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Bear in the Big Blue House</CategoryNamePath>
+     <CategoryIDPath>220:2624:20901</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152906</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ben 10</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Ben 10</CategoryNamePath>
+     <CategoryIDPath>220:2624:152906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38323</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>BeyBlade</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:BeyBlade</CategoryNamePath>
+     <CategoryIDPath>220:2624:38323</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95253</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Big Comfy Couch</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Big Comfy Couch</CategoryNamePath>
+     <CategoryIDPath>220:2624:95253</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2626</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blues Clues</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Blues Clues</CategoryNamePath>
+     <CategoryIDPath>220:2624:2626</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20902</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bob the Builder</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Bob the Builder</CategoryNamePath>
+     <CategoryIDPath>220:2624:20902</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20903</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Caillou</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Caillou</CategoryNamePath>
+     <CategoryIDPath>220:2624:20903</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20904</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>California Raisins</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:California Raisins</CategoryNamePath>
+     <CategoryIDPath>220:2624:20904</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20905</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clifford the Big Red Dog</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Clifford the Big Red Dog</CategoryNamePath>
+     <CategoryIDPath>220:2624:20905</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19215</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Curious George</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Curious George</CategoryNamePath>
+     <CategoryIDPath>220:2624:19215</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7112</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Digimon</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Digimon</CategoryNamePath>
+     <CategoryIDPath>220:2624:7112</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19216</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Disney</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166791</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Doctor Who</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Doctor Who</CategoryNamePath>
+     <CategoryIDPath>220:2624:166791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44039</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dora the Explorer</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Dora the Explorer</CategoryNamePath>
+     <CategoryIDPath>220:2624:44039</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20906</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dr. Seuss</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Dr. Seuss</CategoryNamePath>
+     <CategoryIDPath>220:2624:20906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20907</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dragon Tales</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Dragon Tales</CategoryNamePath>
+     <CategoryIDPath>220:2624:20907</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7117</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>DragonBall Z</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:DragonBall Z</CategoryNamePath>
+     <CategoryIDPath>220:2624:7117</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20908</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dukes of Hazzard</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Dukes of Hazzard</CategoryNamePath>
+     <CategoryIDPath>220:2624:20908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95259</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>ET Extra Terrestrial</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:ET Extra Terrestrial</CategoryNamePath>
+     <CategoryIDPath>220:2624:95259</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146056</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Family Guy</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Family Guy</CategoryNamePath>
+     <CategoryIDPath>220:2624:146056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63651</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fairly Odd Parents</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Fairly Odd Parents</CategoryNamePath>
+     <CategoryIDPath>220:2624:63651</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19225</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flintstones</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Flintstones</CategoryNamePath>
+     <CategoryIDPath>220:2624:19225</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20909</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Futurama</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Futurama</CategoryNamePath>
+     <CategoryIDPath>220:2624:20909</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1195</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Garfield</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Garfield</CategoryNamePath>
+     <CategoryIDPath>220:2624:1195</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165948</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gerry Anderson Shows</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Gerry Anderson Shows</CategoryNamePath>
+     <CategoryIDPath>220:2624:165948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20910</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gumby</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Gumby</CategoryNamePath>
+     <CategoryIDPath>220:2624:20910</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50313</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hamtaro</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Hamtaro</CategoryNamePath>
+     <CategoryIDPath>220:2624:50313</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11077</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Harry Potter</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Harry Potter</CategoryNamePath>
+     <CategoryIDPath>220:2624:11077</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>5204</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hello Kitty</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Hello Kitty</CategoryNamePath>
+     <CategoryIDPath>220:2624:5204</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20911</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Howdy Doody</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Howdy Doody</CategoryNamePath>
+     <CategoryIDPath>220:2624:20911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166790</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>In the Night Garden</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:In the Night Garden</CategoryNamePath>
+     <CategoryIDPath>220:2624:166790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63652</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Invader Zim</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Invader Zim</CategoryNamePath>
+     <CategoryIDPath>220:2624:63652</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44049</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jay Jay the Jet Plane</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Jay Jay the Jet Plane</CategoryNamePath>
+     <CategoryIDPath>220:2624:44049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95260</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jimmy Neutron</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Jimmy Neutron</CategoryNamePath>
+     <CategoryIDPath>220:2624:95260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168212</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kung Fu Panda</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Kung Fu Panda</CategoryNamePath>
+     <CategoryIDPath>220:2624:168212</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20912</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lamb Chop Shari Lewis</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Lamb Chop Shari Lewis</CategoryNamePath>
+     <CategoryIDPath>220:2624:20912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95261</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Land Before Time</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Land Before Time</CategoryNamePath>
+     <CategoryIDPath>220:2624:95261</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20914</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lost in Space</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Lost in Space</CategoryNamePath>
+     <CategoryIDPath>220:2624:20914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168210</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Madagascar</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Madagascar</CategoryNamePath>
+     <CategoryIDPath>220:2624:168210</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44056</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Maisy</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Maisy</CategoryNamePath>
+     <CategoryIDPath>220:2624:44056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168211</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Max and Ruby</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Max and Ruby</CategoryNamePath>
+     <CategoryIDPath>220:2624:168211</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20915</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Munsters</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Munsters</CategoryNamePath>
+     <CategoryIDPath>220:2624:20915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2627</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Muppets Sesame Street</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Muppets Sesame Street</CategoryNamePath>
+     <CategoryIDPath>220:2624:2627</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47227</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>My Little Pony</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:My Little Pony</CategoryNamePath>
+     <CategoryIDPath>220:2624:47227</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95263</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>My Melody Miffy</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:My Melody Miffy</CategoryNamePath>
+     <CategoryIDPath>220:2624:95263</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20916</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Noddy</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Noddy</CategoryNamePath>
+     <CategoryIDPath>220:2624:20916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>773</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Peanuts Gang</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Peanuts Gang</CategoryNamePath>
+     <CategoryIDPath>220:2624:773</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20917</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pee-Wee Herman</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Pee-Wee Herman</CategoryNamePath>
+     <CategoryIDPath>220:2624:20917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1524</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pokémon</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Pokémon</CategoryNamePath>
+     <CategoryIDPath>220:2624:1524</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19239</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Popeye</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Popeye</CategoryNamePath>
+     <CategoryIDPath>220:2624:19239</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95264</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Popples</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Popples</CategoryNamePath>
+     <CategoryIDPath>220:2624:95264</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12523</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Powerpuff Girls</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Powerpuff Girls</CategoryNamePath>
+     <CategoryIDPath>220:2624:12523</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19241</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rocky and Bullwinkle</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Rocky and Bullwinkle</CategoryNamePath>
+     <CategoryIDPath>220:2624:19241</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95252</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rudolph</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Rudolph</CategoryNamePath>
+     <CategoryIDPath>220:2624:95252</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2628</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rugrats</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Rugrats</CategoryNamePath>
+     <CategoryIDPath>220:2624:2628</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11747</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scooby-Doo</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Scooby-Doo</CategoryNamePath>
+     <CategoryIDPath>220:2624:11747</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158761</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shrek</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Shrek</CategoryNamePath>
+     <CategoryIDPath>220:2624:158761</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19242</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Simpsons</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Simpsons</CategoryNamePath>
+     <CategoryIDPath>220:2624:19242</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19243</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Smurfs</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Smurfs</CategoryNamePath>
+     <CategoryIDPath>220:2624:19243</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158768</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sonic</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Sonic</CategoryNamePath>
+     <CategoryIDPath>220:2624:158768</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20918</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>South Park</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:South Park</CategoryNamePath>
+     <CategoryIDPath>220:2624:20918</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19244</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Speed Racer</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Speed Racer</CategoryNamePath>
+     <CategoryIDPath>220:2624:19244</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146094</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spider-Man</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Spider-Man</CategoryNamePath>
+     <CategoryIDPath>220:2624:146094</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20919</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>SpongeBob Squarepants</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:SpongeBob Squarepants</CategoryNamePath>
+     <CategoryIDPath>220:2624:20919</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146102</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Strawberry Shortcake</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Strawberry Shortcake</CategoryNamePath>
+     <CategoryIDPath>220:2624:146102</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>756</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Teletubbies</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Teletubbies</CategoryNamePath>
+     <CategoryIDPath>220:2624:756</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22719</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Thomas the Tank Engine</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Thomas the Tank Engine</CategoryNamePath>
+     <CategoryIDPath>220:2624:22719</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20921</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Three Stooges</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Three Stooges</CategoryNamePath>
+     <CategoryIDPath>220:2624:20921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20922</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Veggie Tales</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Veggie Tales</CategoryNamePath>
+     <CategoryIDPath>220:2624:20922</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19250</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Warner Bros.</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Warner Bros.</CategoryNamePath>
+     <CategoryIDPath>220:2624:19250</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20923</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wiggles</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Wiggles</CategoryNamePath>
+     <CategoryIDPath>220:2624:20923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19251</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Winnie the Pooh</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Winnie the Pooh</CategoryNamePath>
+     <CategoryIDPath>220:2624:19251</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168213</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wonder Pets</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Wonder Pets</CategoryNamePath>
+     <CategoryIDPath>220:2624:168213</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168214</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wow Wow Wubbzy</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Wow Wow Wubbzy</CategoryNamePath>
+     <CategoryIDPath>220:2624:168214</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168215</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Yo Gabba Gabba</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Yo Gabba Gabba</CategoryNamePath>
+     <CategoryIDPath>220:2624:168215</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2622</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other TV/Movie Character Toys</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Other TV/Movie Character Toys</CategoryNamePath>
+     <CategoryIDPath>220:2624:2622</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>82</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

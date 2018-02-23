@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:14:44.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38032</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tube Radios</CategoryName>
+     <CategoryParentID>931</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Tube Radios</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:38032</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38033</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pre-1930</CategoryName>
+     <CategoryParentID>38032</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Tube Radios:Pre-1930</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:38032:38033</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38034</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1930-49</CategoryName>
+     <CategoryParentID>38032</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Tube Radios:1930-49</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:38032:38034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38035</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1950-59</CategoryName>
+     <CategoryParentID>38032</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Tube Radios:1950-59</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:38032:38035</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>933</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1960-Now</CategoryName>
+     <CategoryParentID>38032</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Tube Radios:1960-Now</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:38032:933</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

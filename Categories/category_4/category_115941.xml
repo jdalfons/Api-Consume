@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:33:01.004Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>115941</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Smoke and Gas Detectors</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Smoke and Gas Detectors</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:115941</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115943</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Carbon Monoxide Detectors</CategoryName>
+     <CategoryParentID>115941</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Smoke and Gas Detectors:Carbon Monoxide Detectors</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:115941:115943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115942</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Smoke Detectors</CategoryName>
+     <CategoryParentID>115941</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Smoke and Gas Detectors:Smoke Detectors</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:115941:115942</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41970</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Smoke and Gas Detectors</CategoryName>
+     <CategoryParentID>115941</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Smoke and Gas Detectors:Other Smoke and Gas Detectors</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:115941:41970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

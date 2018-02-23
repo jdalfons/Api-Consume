@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:34:39.705Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180911</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stroller Accessories</CategoryName>
+     <CategoryParentID>66698</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180912</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bassinets</CategoryName>
+     <CategoryParentID>180911</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories:Bassinets</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911:180912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116554</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Covers Canopies and Umbrellas</CategoryName>
+     <CategoryParentID>180911</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories:Covers Canopies and Umbrellas</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911:116554</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180913</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cup Holders and Snack Trays</CategoryName>
+     <CategoryParentID>180911</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories:Cup Holders and Snack Trays</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911:180913</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116553</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Footmuffs</CategoryName>
+     <CategoryParentID>180911</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories:Footmuffs</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911:116553</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180914</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hooks</CategoryName>
+     <CategoryParentID>180911</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories:Hooks</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911:180914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180915</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Organizers and Nets</CategoryName>
+     <CategoryParentID>180911</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories:Organizers and Nets</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911:180915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180916</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seat Liners</CategoryName>
+     <CategoryParentID>180911</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories:Seat Liners</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911:180916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112378</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stroller Boards</CategoryName>
+     <CategoryParentID>180911</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories:Stroller Boards</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911:112378</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180917</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Stroller Accessories</CategoryName>
+     <CategoryParentID>180911</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories:Other Stroller Accessories</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911:180917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:22.315Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179965</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Line and Leaders</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Line and Leaders</CategoryNamePath>
+     <CategoryIDPath>888:1492:179965</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179966</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Braided Line</CategoryName>
+     <CategoryParentID>179965</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Line and Leaders:Braided Line</CategoryNamePath>
+     <CategoryIDPath>888:1492:179965:179966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179967</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fluorocarbon Line</CategoryName>
+     <CategoryParentID>179965</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Line and Leaders:Fluorocarbon Line</CategoryNamePath>
+     <CategoryIDPath>888:1492:179965:179967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179968</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lead Core and Trolling Line</CategoryName>
+     <CategoryParentID>179965</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Line and Leaders:Lead Core and Trolling Line</CategoryNamePath>
+     <CategoryIDPath>888:1492:179965:179968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179969</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Monofilament Line</CategoryName>
+     <CategoryParentID>179965</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Line and Leaders:Monofilament Line</CategoryNamePath>
+     <CategoryIDPath>888:1492:179965:179969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179970</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leaders and Leader Material</CategoryName>
+     <CategoryParentID>179965</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Line and Leaders:Leaders and Leader Material</CategoryNamePath>
+     <CategoryIDPath>888:1492:179965:179970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23817</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fly Line Leaders and Tippets</CategoryName>
+     <CategoryParentID>179965</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Line and Leaders:Fly Line Leaders and Tippets</CategoryNamePath>
+     <CategoryIDPath>888:1492:179965:23817</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179971</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Line Tools and Accessories</CategoryName>
+     <CategoryParentID>179965</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Line and Leaders:Line Tools and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:1492:179965:179971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179972</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fishing Line and Leaders</CategoryName>
+     <CategoryParentID>179965</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Line and Leaders:Other Fishing Line and Leaders</CategoryNamePath>
+     <CategoryIDPath>888:1492:179965:179972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

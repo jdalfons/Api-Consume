@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:22.567Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>69323</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Film Photography</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography</CategoryNamePath>
+     <CategoryIDPath>625:69323</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182077</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Darkroom and Developing</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Darkroom and Developing</CategoryNamePath>
+     <CategoryIDPath>625:69323:182077</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170066</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Digital Camera Backs</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Digital Camera Backs</CategoryNamePath>
+     <CategoryIDPath>625:69323:170066</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15230</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Film Cameras</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Film Cameras</CategoryNamePath>
+     <CategoryIDPath>625:69323:15230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4201</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Film</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Film</CategoryNamePath>
+     <CategoryIDPath>625:69323:4201</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29973</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Film Backs and Holders</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Film Backs and Holders</CategoryNamePath>
+     <CategoryIDPath>625:69323:29973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29980</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lens Boards</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Lens Boards</CategoryNamePath>
+     <CategoryIDPath>625:69323:29980</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29970</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Motor Drives and Winders</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Motor Drives and Winders</CategoryNamePath>
+     <CategoryIDPath>625:69323:29970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4689</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Movie Cameras</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Movie Cameras</CategoryNamePath>
+     <CategoryIDPath>625:69323:4689</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4690</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Movie Camera Accessories</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Movie Camera Accessories</CategoryNamePath>
+     <CategoryIDPath>625:69323:4690</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4790</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Movie Editing Equipment</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Movie Editing Equipment</CategoryNamePath>
+     <CategoryIDPath>625:69323:4790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29965</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rangefinder Units and Accs</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Rangefinder Units and Accs</CategoryNamePath>
+     <CategoryIDPath>625:69323:29965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15250</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Slide and Movie Projection</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Slide and Movie Projection</CategoryNamePath>
+     <CategoryIDPath>625:69323:15250</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43479</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Film Photography</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Other Film Photography</CategoryNamePath>
+     <CategoryIDPath>625:69323:43479</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:43:59.598Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184001</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pipe and Hose Fittings</CategoryName>
+     <CategoryParentID>183997</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters:Pipe and Hose Fittings</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997:184001</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184003</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Camlock Fittings</CategoryName>
+     <CategoryParentID>184001</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters:Pipe and Hose Fittings:Camlock Fittings</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997:184001:184003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184004</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Compression Fittings</CategoryName>
+     <CategoryParentID>184001</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters:Pipe and Hose Fittings:Compression Fittings</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997:184001:184004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184005</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Crimp and Hose Barb Fittings</CategoryName>
+     <CategoryParentID>184001</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters:Pipe and Hose Fittings:Crimp and Hose Barb Fittings</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997:184001:184005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184006</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Push-to-Connect Fittings</CategoryName>
+     <CategoryParentID>184001</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters:Pipe and Hose Fittings:Push-to-Connect Fittings</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997:184001:184006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184007</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Quick Couplers</CategoryName>
+     <CategoryParentID>184001</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters:Pipe and Hose Fittings:Quick Couplers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997:184001:184007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184008</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sanitary Fittings</CategoryName>
+     <CategoryParentID>184001</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters:Pipe and Hose Fittings:Sanitary Fittings</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997:184001:184008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184009</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sweat Fittings</CategoryName>
+     <CategoryParentID>184001</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters:Pipe and Hose Fittings:Sweat Fittings</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997:184001:184009</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184010</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Threaded Fittings</CategoryName>
+     <CategoryParentID>184001</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters:Pipe and Hose Fittings:Threaded Fittings</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997:184001:184010</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184011</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Pipe and Hose Fittings</CategoryName>
+     <CategoryParentID>184001</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters:Pipe and Hose Fittings:Other Pipe and Hose Fittings</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997:184001:184011</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

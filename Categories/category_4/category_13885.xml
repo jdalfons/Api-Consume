@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:08:08.220Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13885</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boy Scouts</CategoryName>
+     <CategoryParentID>402</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39647</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Badges and Patches</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Badges and Patches</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:39647</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13887</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Books and Manuals</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Books and Manuals</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:13887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13888</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Equipment</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Equipment</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:13888</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103980</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flags and Pennants</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Flags and Pennants</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:103980</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39652</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mugs and Cups</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Mugs and Cups</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:39652</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39656</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Neckerchiefs and Slides</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Neckerchiefs and Slides</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:39656</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13889</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pins</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Pins</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:13889</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39653</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Postcards and Cards</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Postcards and Cards</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:39653</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103981</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Posters and Prints</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Posters and Prints</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:103981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39654</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Uniforms</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Uniforms</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:39654</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>404</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Boy Scout Collectibles</CategoryName>
+     <CategoryParentID>13885</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Boy Scouts:Other Boy Scout Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:13885:404</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

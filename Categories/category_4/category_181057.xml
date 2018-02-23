@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:37:47.051Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181057</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pool Chemicals and Testing</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Chemicals and Testing</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181057</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181058</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Chemicals and Clarifiers</CategoryName>
+     <CategoryParentID>181057</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Chemicals and Testing:Pool Chemicals and Clarifiers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181057:181058</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181059</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Water Testing and Kits</CategoryName>
+     <CategoryParentID>181057</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Chemicals and Testing:Pool Water Testing and Kits</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181057:181059</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>141482</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool and Spa Thermometers</CategoryName>
+     <CategoryParentID>181057</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Chemicals and Testing:Pool and Spa Thermometers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181057:141482</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181060</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Pool Chemicals and Testing</CategoryName>
+     <CategoryParentID>181057</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Chemicals and Testing:Other Pool Chemicals and Testing</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181057:181060</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

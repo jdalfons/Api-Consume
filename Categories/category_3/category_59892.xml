@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:25.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>59892</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sleds and Snow Tubes</CategoryName>
+     <CategoryParentID>36259</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Sleds and Snow Tubes</CategoryNamePath>
+     <CategoryIDPath>888:36259:59892</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

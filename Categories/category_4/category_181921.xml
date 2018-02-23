@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:33.692Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181921</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Power Supplies</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Power Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181921</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181922</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Switching Mode Power Supplies</CategoryName>
+     <CategoryParentID>181921</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Power Supplies:Switching Mode Power Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181921:181922</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66995</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Uninterruptible Power Supplies</CategoryName>
+     <CategoryParentID>181921</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Power Supplies:Uninterruptible Power Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181921:66995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181923</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>UPS Batteries</CategoryName>
+     <CategoryParentID>181921</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Power Supplies:UPS Batteries</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181921:181923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181924</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Power Supply Accessories</CategoryName>
+     <CategoryParentID>181921</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Power Supplies:Power Supply Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181921:181924</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181925</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Power Supplies</CategoryName>
+     <CategoryParentID>181921</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Power Supplies:Other Power Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181921:181925</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

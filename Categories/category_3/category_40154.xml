@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:44.424Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>40154</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ice and Roller Hockey</CategoryName>
+     <CategoryParentID>159049</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Ice and Roller Hockey</CategoryNamePath>
+     <CategoryIDPath>888:159049:40154</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20855</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing and Protective Gear</CategoryName>
+     <CategoryParentID>40154</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Ice and Roller Hockey:Clothing and Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:159049:40154:20855</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58113</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Equipment Bags</CategoryName>
+     <CategoryParentID>40154</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Ice and Roller Hockey:Equipment Bags</CategoryNamePath>
+     <CategoryIDPath>888:159049:40154:58113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165936</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Goals and Nets</CategoryName>
+     <CategoryParentID>40154</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Ice and Roller Hockey:Goals and Nets</CategoryNamePath>
+     <CategoryIDPath>888:159049:40154:165936</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165937</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Novelties and Gifts</CategoryName>
+     <CategoryParentID>40154</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Ice and Roller Hockey:Novelties and Gifts</CategoryNamePath>
+     <CategoryIDPath>888:159049:40154:165937</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108178</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pucks</CategoryName>
+     <CategoryParentID>40154</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Ice and Roller Hockey:Pucks</CategoryNamePath>
+     <CategoryIDPath>888:159049:40154:108178</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26341</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Skates</CategoryName>
+     <CategoryParentID>40154</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Ice and Roller Hockey:Skates</CategoryNamePath>
+     <CategoryIDPath>888:159049:40154:26341</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79773</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sticks and Accessories</CategoryName>
+     <CategoryParentID>40154</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Ice and Roller Hockey:Sticks and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159049:40154:79773</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Ice and Roller Hockey</CategoryName>
+     <CategoryParentID>40154</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Ice and Roller Hockey:Other Ice and Roller Hockey</CategoryNamePath>
+     <CategoryIDPath>888:159049:40154:2911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

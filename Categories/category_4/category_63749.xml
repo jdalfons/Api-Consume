@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:03:04.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63749</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Individual Casino Chips</CategoryName>
+     <CategoryParentID>35743</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Individual Casino Chips</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:63749</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70956</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fractionals</CategoryName>
+     <CategoryParentID>63749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Individual Casino Chips:Fractionals</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:63749:70956</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63750</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>$1</CategoryName>
+     <CategoryParentID>63749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Individual Casino Chips:$1</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:63749:63750</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63751</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>$2.50</CategoryName>
+     <CategoryParentID>63749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Individual Casino Chips:$2.50</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:63749:63751</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63752</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>$5</CategoryName>
+     <CategoryParentID>63749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Individual Casino Chips:$5</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:63749:63752</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63753</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>$10</CategoryName>
+     <CategoryParentID>63749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Individual Casino Chips:$10</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:63749:63753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63754</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>$25</CategoryName>
+     <CategoryParentID>63749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Individual Casino Chips:$25</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:63749:63754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63755</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>$100</CategoryName>
+     <CategoryParentID>63749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Individual Casino Chips:$100</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:63749:63755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63756</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Individual Casino Chips</CategoryName>
+     <CategoryParentID>63749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Individual Casino Chips:Other Individual Casino Chips</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:63749:63756</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

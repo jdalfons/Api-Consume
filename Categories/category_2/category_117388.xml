@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:44.785Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>117388</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Keepsakes and Baby Announcements</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Keepsakes and Baby Announcements</CategoryNamePath>
+     <CategoryIDPath>2984:117388</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117389</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Books and Albums</CategoryName>
+     <CategoryParentID>117388</CategoryParentID>
+     <CategoryNamePath>Baby:Keepsakes and Baby Announcements:Baby Books and Albums</CategoryNamePath>
+     <CategoryIDPath>2984:117388:117389</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117390</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Boxes</CategoryName>
+     <CategoryParentID>117388</CategoryParentID>
+     <CategoryNamePath>Baby:Keepsakes and Baby Announcements:Baby Boxes</CategoryNamePath>
+     <CategoryIDPath>2984:117388:117390</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117392</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Picture Frames</CategoryName>
+     <CategoryParentID>117388</CategoryParentID>
+     <CategoryNamePath>Baby:Keepsakes and Baby Announcements:Baby Picture Frames</CategoryNamePath>
+     <CategoryIDPath>2984:117388:117392</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117391</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Birth Announcements and Cards</CategoryName>
+     <CategoryParentID>117388</CategoryParentID>
+     <CategoryNamePath>Baby:Keepsakes and Baby Announcements:Birth Announcements and Cards</CategoryNamePath>
+     <CategoryIDPath>2984:117388:117391</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162037</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Handprint Kits</CategoryName>
+     <CategoryParentID>117388</CategoryParentID>
+     <CategoryNamePath>Baby:Keepsakes and Baby Announcements:Handprint Kits</CategoryNamePath>
+     <CategoryIDPath>2984:117388:162037</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162038</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tooth Fairy Pillows</CategoryName>
+     <CategoryParentID>117388</CategoryParentID>
+     <CategoryNamePath>Baby:Keepsakes and Baby Announcements:Tooth Fairy Pillows</CategoryNamePath>
+     <CategoryIDPath>2984:117388:162038</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146532</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Baby Keepsakes</CategoryName>
+     <CategoryParentID>117388</CategoryParentID>
+     <CategoryNamePath>Baby:Keepsakes and Baby Announcements:Other Baby Keepsakes</CategoryNamePath>
+     <CategoryIDPath>2984:117388:146532</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

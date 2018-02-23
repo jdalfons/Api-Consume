@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:09:35.017Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10939</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stockings</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Stockings</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:10939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

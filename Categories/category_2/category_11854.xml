@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:05.970Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11854</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Hair Care and Styling</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling</CategoryNamePath>
+     <CategoryIDPath>26395:11854</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11855</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Brushes and Combs</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Brushes and Combs</CategoryNamePath>
+     <CategoryIDPath>26395:11854:11855</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31412</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hair Color</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Hair Color</CategoryNamePath>
+     <CategoryIDPath>26395:11854:31412</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11858</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hair Dryers</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Hair Dryers</CategoryNamePath>
+     <CategoryIDPath>26395:11854:11858</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182101</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hair Extensions and Wigs</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Hair Extensions and Wigs</CategoryNamePath>
+     <CategoryIDPath>26395:11854:182101</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31413</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hair Loss Treatments</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Hair Loss Treatments</CategoryNamePath>
+     <CategoryIDPath>26395:11854:31413</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82591</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hair Ties and Styling Accs</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Hair Ties and Styling Accs</CategoryNamePath>
+     <CategoryIDPath>26395:11854:82591</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109075</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Medicated Hair Treatments</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Medicated Hair Treatments</CategoryNamePath>
+     <CategoryIDPath>26395:11854:109075</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166738</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Perms</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Perms</CategoryNamePath>
+     <CategoryIDPath>26395:11854:166738</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177662</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Relaxers and Straightening Prod</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Relaxers and Straightening Prod</CategoryNamePath>
+     <CategoryIDPath>26395:11854:177662</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36407</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rollers and Curlers</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Rollers and Curlers</CategoryNamePath>
+     <CategoryIDPath>26395:11854:36407</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177661</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shampoos and Conditioners</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Shampoos and Conditioners</CategoryNamePath>
+     <CategoryIDPath>26395:11854:177661</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177659</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Straightening and Curling Irons</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Straightening and Curling Irons</CategoryNamePath>
+     <CategoryIDPath>26395:11854:177659</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11860</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Styling Products</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Styling Products</CategoryNamePath>
+     <CategoryIDPath>26395:11854:11860</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177660</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Treatments Oils and Protectors</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Treatments Oils and Protectors</CategoryNamePath>
+     <CategoryIDPath>26395:11854:177660</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31788</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sets and Kits</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Sets and Kits</CategoryNamePath>
+     <CategoryIDPath>26395:11854:31788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177658</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Hair Care and Styling</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Other Hair Care and Styling</CategoryNamePath>
+     <CategoryIDPath>26395:11854:177658</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

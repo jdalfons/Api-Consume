@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:50:40.595Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>12590</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bronze Age (1970-83)</CategoryName>
+     <CategoryParentID>63</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83)</CategoryNamePath>
+     <CategoryIDPath>1:63:12590</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173580</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Alternative and Underground</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Alternative and Underground</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:173580</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12591</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cartoon Character</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Cartoon Character</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:12591</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14008</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Classics Illustrated</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Classics Illustrated</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:14008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12592</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Horror and Sci-Fi</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Horror and Sci-Fi</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:12592</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155281</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jungle</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Jungle</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:155281</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155282</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Movie TV and Music</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Movie TV and Music</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:155282</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165361</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Romance</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Romance</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:165361</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165362</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sports</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Sports</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:165362</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33806</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Superhero</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Superhero</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:33806</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50749</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>War</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):War</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:50749</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155288</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Westerns</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Westerns</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:155288</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165363</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reprints</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Reprints</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:165363</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12589</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Bronze Age Comics</CategoryName>
+     <CategoryParentID>12590</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Bronze Age (1970-83):Other Bronze Age Comics</CategoryNamePath>
+     <CategoryIDPath>1:63:12590:12589</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

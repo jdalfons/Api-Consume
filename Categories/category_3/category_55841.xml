@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:40:14.067Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>55841</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>12576:11874:55841</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55842</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bulk Food</CategoryName>
+     <CategoryParentID>55841</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Wholesale Lots:Bulk Food</CategoryNamePath>
+     <CategoryIDPath>12576:11874:55841:55842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55843</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Restaurant Supplies</CategoryName>
+     <CategoryParentID>55841</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Wholesale Lots:Restaurant Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11874:55841:55843</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52533</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Retail Supplies</CategoryName>
+     <CategoryParentID>55841</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Wholesale Lots:Retail Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11874:55841:52533</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55844</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tabletop and Dinnerware</CategoryName>
+     <CategoryParentID>55841</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Wholesale Lots:Tabletop and Dinnerware</CategoryNamePath>
+     <CategoryIDPath>12576:11874:55841:55844</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31487</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Restaurant Lots</CategoryName>
+     <CategoryParentID>55841</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Wholesale Lots:Other Restaurant Lots</CategoryNamePath>
+     <CategoryIDPath>12576:11874:55841:31487</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

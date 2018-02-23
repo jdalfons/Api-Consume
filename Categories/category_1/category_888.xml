@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:14.223Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>888</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Sporting Goods</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Sporting Goods</CategoryNamePath>
+     <CategoryIDPath>888</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179767</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Boxing Martial Arts and MMA</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA</CategoryNamePath>
+     <CategoryIDPath>888:179767</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7294</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Cycling</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling</CategoryNamePath>
+     <CategoryIDPath>888:7294</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1492</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fishing</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing</CategoryNamePath>
+     <CategoryIDPath>888:1492</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15273</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fitness Running and Yoga</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga</CategoryNamePath>
+     <CategoryIDPath>888:15273</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1513</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Golf</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf</CategoryNamePath>
+     <CategoryIDPath>888:1513</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7301</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Hunting</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting</CategoryNamePath>
+     <CategoryIDPath>888:7301</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36274</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Indoor Games</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games</CategoryNamePath>
+     <CategoryIDPath>888:36274</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159043</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Outdoor Sports</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports</CategoryNamePath>
+     <CategoryIDPath>888:159043</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159049</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Team Sports</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports</CategoryNamePath>
+     <CategoryIDPath>888:159049</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159134</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Tennis and Racquet Sports</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports</CategoryNamePath>
+     <CategoryIDPath>888:159134</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159136</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Water Sports</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports</CategoryNamePath>
+     <CategoryIDPath>888:159136</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36259</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Winter Sports</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports</CategoryNamePath>
+     <CategoryIDPath>888:36259</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>310</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Sporting Goods</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Other Sporting Goods</CategoryNamePath>
+     <CategoryIDPath>888:310</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40146</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>888:40146</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

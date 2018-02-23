@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:11:58.223Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>281</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Jewelry and Watches</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches</CategoryNamePath>
+     <CategoryIDPath>281</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84605</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Children&apos;s Jewelry</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Children&apos;s Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:84605</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>91427</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Engagement and Wedding</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Engagement and Wedding</CategoryNamePath>
+     <CategoryIDPath>281:91427</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11312</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Ethnic Regional and Tribal</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal</CategoryNamePath>
+     <CategoryIDPath>281:11312</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10968</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fashion Jewelry</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fashion Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:10968</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4196</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fine Jewelry</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:4196</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>110633</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Handcrafted Artisan Jewelry</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:110633</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10321</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Jewelry Boxes and Organizers</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Boxes and Organizers</CategoryNamePath>
+     <CategoryIDPath>281:10321</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164352</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Jewelry Design and Repair</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair</CategoryNamePath>
+     <CategoryIDPath>281:164352</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179264</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Loose Beads</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads</CategoryNamePath>
+     <CategoryIDPath>281:179264</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>491</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Loose Diamonds and Gemstones</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Diamonds and Gemstones</CategoryNamePath>
+     <CategoryIDPath>281:491</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10290</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Men&apos;s Jewelry</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:10290</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48579</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vintage and Antique Jewelry</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:48579</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14324</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Watches Parts and Accessories</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>281:14324</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98863</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Jewelry and Watches</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Other Jewelry and Watches</CategoryNamePath>
+     <CategoryIDPath>281:98863</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40131</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>281:40131</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:53:27.926Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182973</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collectible Fixed Blade Knives</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Fixed Blade Knives</CategoryNamePath>
+     <CategoryIDPath>1:1401:182973</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43320</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Fixed Blade Knives</CategoryName>
+     <CategoryParentID>182973</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Fixed Blade Knives:Vintage Fixed Blade Knives</CategoryNamePath>
+     <CategoryIDPath>1:1401:182973:43320</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43324</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modern Fixed Blade</CategoryName>
+     <CategoryParentID>182973</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Fixed Blade Knives:Modern Fixed Blade</CategoryNamePath>
+     <CategoryIDPath>1:1401:182973:43324</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

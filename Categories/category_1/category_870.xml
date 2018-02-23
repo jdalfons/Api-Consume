@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:09.285Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>870</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Pottery and Glass</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass</CategoryNamePath>
+     <CategoryIDPath>870</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50693</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Glass</CategoryName>
+     <CategoryParentID>870</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Glass</CategoryNamePath>
+     <CategoryIDPath>870:50693</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18875</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Pottery and China</CategoryName>
+     <CategoryParentID>870</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China</CategoryNamePath>
+     <CategoryIDPath>870:18875</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

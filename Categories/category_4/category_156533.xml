@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:16:09.565Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156533</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bakelite</CategoryName>
+     <CategoryParentID>41192</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons:Bakelite</CategoryNamePath>
+     <CategoryIDPath>1:113:41192:156533</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

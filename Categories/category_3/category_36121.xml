@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:00.674Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>36121</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kayaking Canoeing and Rafting</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Kayaking Canoeing and Rafting</CategoryNamePath>
+     <CategoryIDPath>888:159136:36121</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23800</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canoes</CategoryName>
+     <CategoryParentID>36121</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Kayaking Canoeing and Rafting:Canoes</CategoryNamePath>
+     <CategoryIDPath>888:159136:36121:23800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>87090</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Inflatables</CategoryName>
+     <CategoryParentID>36121</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Kayaking Canoeing and Rafting:Inflatables</CategoryNamePath>
+     <CategoryIDPath>888:159136:36121:87090</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36122</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kayaks</CategoryName>
+     <CategoryParentID>36121</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Kayaking Canoeing and Rafting:Kayaks</CategoryNamePath>
+     <CategoryIDPath>888:159136:36121:36122</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>87091</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paddles</CategoryName>
+     <CategoryParentID>36121</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Kayaking Canoeing and Rafting:Paddles</CategoryNamePath>
+     <CategoryIDPath>888:159136:36121:87091</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>87089</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>36121</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Kayaking Canoeing and Rafting:Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159136:36121:87089</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36123</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Kayak Canoe and Rafting</CategoryName>
+     <CategoryParentID>36121</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Kayaking Canoeing and Rafting:Other Kayak Canoe and Rafting</CategoryNamePath>
+     <CategoryIDPath>888:159136:36121:36123</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

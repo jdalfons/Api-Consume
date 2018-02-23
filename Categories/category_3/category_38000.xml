@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:32:22.001Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38000</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fabric</CategoryName>
+     <CategoryParentID>181677</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Fabric</CategoryNamePath>
+     <CategoryIDPath>20081:181677:38000</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66639</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chenille</CategoryName>
+     <CategoryParentID>38000</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Fabric:Chenille</CategoryNamePath>
+     <CategoryIDPath>20081:181677:38000:66639</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38001</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cotton</CategoryName>
+     <CategoryParentID>38000</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Fabric:Cotton</CategoryNamePath>
+     <CategoryIDPath>20081:181677:38000:38001</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66640</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Damask</CategoryName>
+     <CategoryParentID>38000</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Fabric:Damask</CategoryNamePath>
+     <CategoryIDPath>20081:181677:38000:66640</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66641</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Linen</CategoryName>
+     <CategoryParentID>38000</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Fabric:Linen</CategoryNamePath>
+     <CategoryIDPath>20081:181677:38000:66641</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38002</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Silk</CategoryName>
+     <CategoryParentID>38000</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Fabric:Silk</CategoryNamePath>
+     <CategoryIDPath>20081:181677:38000:38002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66642</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Velvet</CategoryName>
+     <CategoryParentID>38000</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Fabric:Velvet</CategoryNamePath>
+     <CategoryIDPath>20081:181677:38000:66642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38003</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wool</CategoryName>
+     <CategoryParentID>38000</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Fabric:Wool</CategoryNamePath>
+     <CategoryIDPath>20081:181677:38000:38003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73469</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Fabric</CategoryName>
+     <CategoryParentID>38000</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Fabric:Other Antique Fabric</CategoryNamePath>
+     <CategoryIDPath>20081:181677:38000:73469</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:43.157Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>74724</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>1444</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Photographs</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:74724</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74726</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Negatives</CategoryName>
+     <CategoryParentID>74724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Photographs:Negatives</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:74724:74726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35975</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>74724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Photographs:Photographs</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:74724:35975</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71011</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Slides</CategoryName>
+     <CategoryParentID>74724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Photographs:Slides</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:74724:71011</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74725</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Collectible Train Photos</CategoryName>
+     <CategoryParentID>74724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Photographs:Other Collectible Train Photos</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:74724:74725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

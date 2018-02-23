@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:32:18.192Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>158782</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Russ</CategoryName>
+     <CategoryParentID>436</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Russ</CategoryNamePath>
+     <CategoryIDPath>220:436:158782</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>153012</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shining Stars</CategoryName>
+     <CategoryParentID>158782</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Russ:Shining Stars</CategoryNamePath>
+     <CategoryIDPath>220:436:158782:153012</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158783</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Yomiko</CategoryName>
+     <CategoryParentID>158782</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Russ:Yomiko</CategoryNamePath>
+     <CategoryIDPath>220:436:158782:158783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16516</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Russ Stuffed Animals</CategoryName>
+     <CategoryParentID>158782</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Russ:Other Russ Stuffed Animals</CategoryNamePath>
+     <CategoryIDPath>220:436:158782:16516</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

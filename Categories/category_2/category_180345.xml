@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:04.692Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180345</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fragrances</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Fragrances</CategoryNamePath>
+     <CategoryIDPath>26395:180345</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159719</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Children&apos;s Fragrances</CategoryName>
+     <CategoryParentID>180345</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Fragrances:Children&apos;s Fragrances</CategoryNamePath>
+     <CategoryIDPath>26395:180345:159719</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29585</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Men&apos;s Fragrances</CategoryName>
+     <CategoryParentID>180345</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Fragrances:Men&apos;s Fragrances</CategoryNamePath>
+     <CategoryIDPath>26395:180345:29585</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11848</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Women&apos;s Fragrances</CategoryName>
+     <CategoryParentID>180345</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Fragrances:Women&apos;s Fragrances</CategoryNamePath>
+     <CategoryIDPath>26395:180345:11848</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112661</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Unisex Fragrances</CategoryName>
+     <CategoryParentID>180345</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Fragrances:Unisex Fragrances</CategoryNamePath>
+     <CategoryIDPath>26395:180345:112661</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

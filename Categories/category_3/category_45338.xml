@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:46:58.735Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45338</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>North and Central America</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162196</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bahamas</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Bahamas</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:162196</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162197</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belize</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Belize</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:162197</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162198</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bermuda</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Bermuda</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:162198</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3426</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canada</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Canada</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:3426</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162199</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Costa Rica</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Costa Rica</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:162199</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162201</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Haiti</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Haiti</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:162201</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162202</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jamaica</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Jamaica</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:162202</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3438</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mexico</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Mexico</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:3438</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162203</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nicaragua</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Nicaragua</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:162203</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3431</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Central Am. Paper Money</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Other Central Am. Paper Money</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:3431</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

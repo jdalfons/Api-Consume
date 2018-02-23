@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:23:38.738Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20697</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Lamps Lighting and Ceiling Fans</CategoryName>
+     <CategoryParentID>11700</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans</CategoryNamePath>
+     <CategoryIDPath>11700:20697</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176937</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ceiling Fans</CategoryName>
+     <CategoryParentID>20697</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans:Ceiling Fans</CategoryNamePath>
+     <CategoryIDPath>11700:20697:176937</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117503</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chandeliers and Ceiling Fixtures</CategoryName>
+     <CategoryParentID>20697</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans:Chandeliers and Ceiling Fixtures</CategoryNamePath>
+     <CategoryIDPath>11700:20697:117503</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20708</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lamp Shades</CategoryName>
+     <CategoryParentID>20697</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans:Lamp Shades</CategoryNamePath>
+     <CategoryIDPath>11700:20697:20708</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112581</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lamps</CategoryName>
+     <CategoryParentID>20697</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans:Lamps</CategoryNamePath>
+     <CategoryIDPath>11700:20697:112581</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20706</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Light Bulbs</CategoryName>
+     <CategoryParentID>20697</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans:Light Bulbs</CategoryNamePath>
+     <CategoryIDPath>11700:20697:20706</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20702</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Night Lights</CategoryName>
+     <CategoryParentID>20697</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans:Night Lights</CategoryNamePath>
+     <CategoryIDPath>11700:20697:20702</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116022</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>String Lights Fairy Lights</CategoryName>
+     <CategoryParentID>20697</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans:String Lights Fairy Lights</CategoryNamePath>
+     <CategoryIDPath>11700:20697:116022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116880</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wall Fixtures</CategoryName>
+     <CategoryParentID>20697</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans:Wall Fixtures</CategoryNamePath>
+     <CategoryIDPath>11700:20697:116880</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20705</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lighting Parts and Accessories</CategoryName>
+     <CategoryParentID>20697</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans:Lighting Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:20697:20705</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3201</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Lighting and Ceiling Fans</CategoryName>
+     <CategoryParentID>20697</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Lamps Lighting and Ceiling Fans:Other Lighting and Ceiling Fans</CategoryNamePath>
+     <CategoryIDPath>11700:20697:3201</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

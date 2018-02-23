@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:36:30.238Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>66842</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1800-1899</CategoryName>
+     <CategoryParentID>98430</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Chests and Trunks:1800-1899</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98430:66842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:29:40.876Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>164125</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>60380</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Posters:Reproductions</CategoryNamePath>
+     <CategoryIDPath>45100:1424:60380:164125</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

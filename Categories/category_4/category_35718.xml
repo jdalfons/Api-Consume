@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:02:46.926Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35718</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glasses</CategoryName>
+     <CategoryParentID>3920</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Drinkware Steins:Glasses</CategoryNamePath>
+     <CategoryIDPath>1:562:3920:35718</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35719</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Germany</CategoryName>
+     <CategoryParentID>35718</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Drinkware Steins:Glasses:Germany</CategoryNamePath>
+     <CategoryIDPath>1:562:3920:35718:35719</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35720</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>US</CategoryName>
+     <CategoryParentID>35718</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Drinkware Steins:Glasses:US</CategoryNamePath>
+     <CategoryIDPath>1:562:3920:35718:35720</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35723</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Vintage Beer Glasses</CategoryName>
+     <CategoryParentID>35718</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Drinkware Steins:Glasses:Other Vintage Beer Glasses</CategoryNamePath>
+     <CategoryIDPath>1:562:3920:35718:35723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:38:00.424Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183986</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Compressed Air Treatment</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Compressed Air Treatment</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183986</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183987</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Line Lubricators</CategoryName>
+     <CategoryParentID>183986</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Compressed Air Treatment:Air Line Lubricators</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183986:183987</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183988</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Pressure Regulators</CategoryName>
+     <CategoryParentID>183986</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Compressed Air Treatment:Air Pressure Regulators</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183986:183988</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183989</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Compressed Air Dryers</CategoryName>
+     <CategoryParentID>183986</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Compressed Air Treatment:Compressed Air Dryers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183986:183989</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183990</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Compressed Air Filters</CategoryName>
+     <CategoryParentID>183986</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Compressed Air Treatment:Compressed Air Filters</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183986:183990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183992</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Condensate Drains</CategoryName>
+     <CategoryParentID>183986</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Compressed Air Treatment:Condensate Drains</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183986:183992</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183993</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Filter Regulator Lubricators</CategoryName>
+     <CategoryParentID>183986</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Compressed Air Treatment:Filter Regulator Lubricators</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183986:183993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183994</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Oil-Water Separators</CategoryName>
+     <CategoryParentID>183986</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Compressed Air Treatment:Oil-Water Separators</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183986:183994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183995</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Compressed Air Treatment</CategoryName>
+     <CategoryParentID>183986</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Compressed Air Treatment:Other Compressed Air Treatment</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183986:183995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

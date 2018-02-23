@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:47:12.595Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>25347</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Label Making</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Label Making</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:25347</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25348</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Label Makers</CategoryName>
+     <CategoryParentID>25347</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Label Making:Label Makers</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:25347:25348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58261</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Label Maker Supplies</CategoryName>
+     <CategoryParentID>25347</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Label Making:Label Maker Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:25347:58261</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58262</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Label Making</CategoryName>
+     <CategoryParentID>25347</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Label Making:Other Label Making</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:25347:58262</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

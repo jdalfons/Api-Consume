@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:03:36.895Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>28141</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Embroidery and Cross Stitch</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71196</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Embroidery Machines</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machines</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:71196</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160724</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Embroidery Machine Supplies</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183195</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Embroidery Cloth and Canvas</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embroidery Cloth and Canvas</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183195</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28144</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Embroidery Floss and Thread</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embroidery Floss and Thread</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:28144</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183197</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Embroidery Kits</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embroidery Kits</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183197</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183199</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Embr Patterns and Magazines</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embr Patterns and Magazines</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183199</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160720</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Embroidery Tools and Accs</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embroidery Tools and Accs</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160720</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183220</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Finished Embroidered Pieces</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Finished Embroidered Pieces</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183220</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75567</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Embroidery</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Other Embroidery</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:75567</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:28:49.470Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104967</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists N</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53245</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>N Sync</CategoryName>
+     <CategoryParentID>104967</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N:N Sync</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967:53245</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164066</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>New Found Glory</CategoryName>
+     <CategoryParentID>104967</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N:New Found Glory</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967:164066</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85949</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>New Kids on the Block</CategoryName>
+     <CategoryParentID>104967</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N:New Kids on the Block</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967:85949</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164067</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>New York Dolls</CategoryName>
+     <CategoryParentID>104967</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N:New York Dolls</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967:164067</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164068</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nickelback</CategoryName>
+     <CategoryParentID>104967</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N:Nickelback</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967:164068</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85988</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nine Inch Nails</CategoryName>
+     <CategoryParentID>104967</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N:Nine Inch Nails</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967:85988</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104980</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nirvana</CategoryName>
+     <CategoryParentID>104967</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N:Nirvana</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967:104980</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85989</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>No Doubt</CategoryName>
+     <CategoryParentID>104967</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N:No Doubt</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967:85989</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164069</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nugent Ted</CategoryName>
+     <CategoryParentID>104967</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N:Nugent Ted</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967:164069</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104968</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists N</CategoryName>
+     <CategoryParentID>104967</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists N:Other Rock and Pop Artists N</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104967:104968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

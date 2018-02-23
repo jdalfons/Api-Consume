@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:50.035Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183056</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Non-Sport Card Supplies and Accs</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Non-Sport Card Supplies and Accs</CategoryNamePath>
+     <CategoryIDPath>1:182982:183056</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183057</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Sleeves and Bags</CategoryName>
+     <CategoryParentID>183056</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Non-Sport Card Supplies and Accs:Card Sleeves and Bags</CategoryNamePath>
+     <CategoryIDPath>1:182982:183056:183057</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183058</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Toploaders and Holders</CategoryName>
+     <CategoryParentID>183056</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Non-Sport Card Supplies and Accs:Card Toploaders and Holders</CategoryNamePath>
+     <CategoryIDPath>1:182982:183056:183058</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183059</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Albums and Pages</CategoryName>
+     <CategoryParentID>183056</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Non-Sport Card Supplies and Accs:Card Albums and Pages</CategoryNamePath>
+     <CategoryIDPath>1:182982:183056:183059</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183060</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Storage Boxes</CategoryName>
+     <CategoryParentID>183056</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Non-Sport Card Supplies and Accs:Card Storage Boxes</CategoryNamePath>
+     <CategoryIDPath>1:182982:183056:183060</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:27.893Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>23831</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Snowmobiling</CategoryName>
+     <CategoryParentID>36259</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowmobiling</CategoryNamePath>
+     <CategoryIDPath>888:36259:23831</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26351</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals</CategoryName>
+     <CategoryParentID>23831</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowmobiling:Manuals</CategoryNamePath>
+     <CategoryIDPath>888:36259:23831:26351</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23834</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Snowmobile Parts</CategoryName>
+     <CategoryParentID>23831</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowmobiling:Snowmobile Parts</CategoryNamePath>
+     <CategoryIDPath>888:36259:23831:23834</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64679</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage</CategoryName>
+     <CategoryParentID>23831</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowmobiling:Vintage</CategoryNamePath>
+     <CategoryIDPath>888:36259:23831:64679</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4847</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Snowmobiling</CategoryName>
+     <CategoryParentID>23831</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowmobiling:Other Snowmobiling</CategoryNamePath>
+     <CategoryIDPath>888:36259:23831:4847</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

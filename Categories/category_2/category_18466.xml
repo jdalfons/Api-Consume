@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:47.004Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>18466</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Coins: Medieval</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Medieval</CategoryNamePath>
+     <CategoryIDPath>11116:18466</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4740</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Asian</CategoryName>
+     <CategoryParentID>18466</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Medieval:Asian</CategoryNamePath>
+     <CategoryIDPath>11116:18466:4740</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4741</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Celtic</CategoryName>
+     <CategoryParentID>18466</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Medieval:Celtic</CategoryNamePath>
+     <CategoryIDPath>11116:18466:4741</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18470</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>European</CategoryName>
+     <CategoryParentID>18466</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Medieval:European</CategoryNamePath>
+     <CategoryIDPath>11116:18466:18470</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4739</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Islamic</CategoryName>
+     <CategoryParentID>18466</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Medieval:Islamic</CategoryNamePath>
+     <CategoryIDPath>11116:18466:4739</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4737</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Persian and Indian</CategoryName>
+     <CategoryParentID>18466</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Medieval:Persian and Indian</CategoryNamePath>
+     <CategoryIDPath>11116:18466:4737</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173685</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Medieval Coins</CategoryName>
+     <CategoryParentID>18466</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Medieval:Other Medieval Coins</CategoryNamePath>
+     <CategoryIDPath>11116:18466:173685</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

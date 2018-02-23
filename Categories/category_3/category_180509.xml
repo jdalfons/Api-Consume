@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:31:05.517Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180509</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Narrow Gauge</CategoryName>
+     <CategoryParentID>180250</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Narrow Gauge</CategoryNamePath>
+     <CategoryIDPath>220:180250:180509</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80996</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Freight Cars</CategoryName>
+     <CategoryParentID>180509</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Narrow Gauge:Freight Cars</CategoryNamePath>
+     <CategoryIDPath>220:180250:180509:80996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80991</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Locomotives</CategoryName>
+     <CategoryParentID>180509</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Narrow Gauge:Locomotives</CategoryNamePath>
+     <CategoryIDPath>220:180250:180509:80991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Passenger Cars</CategoryName>
+     <CategoryParentID>180509</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Narrow Gauge:Passenger Cars</CategoryNamePath>
+     <CategoryIDPath>220:180250:180509:80997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Starter Sets and Packs</CategoryName>
+     <CategoryParentID>180509</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Narrow Gauge:Starter Sets and Packs</CategoryNamePath>
+     <CategoryIDPath>220:180250:180509:80998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>9037</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Narrow Gauge</CategoryName>
+     <CategoryParentID>180509</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Narrow Gauge:Other Narrow Gauge</CategoryNamePath>
+     <CategoryIDPath>220:180250:180509:9037</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

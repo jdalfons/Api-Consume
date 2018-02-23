@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:32:52.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>115947</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thermostats</CategoryName>
+     <CategoryParentID>41986</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Thermostats</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:115947</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115948</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Non-programmable Thermostats</CategoryName>
+     <CategoryParentID>115947</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Thermostats:Non-programmable Thermostats</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:115947:115948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115949</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Programmable Thermostats</CategoryName>
+     <CategoryParentID>115947</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Thermostats:Programmable Thermostats</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:115947:115949</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41988</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Thermostats</CategoryName>
+     <CategoryParentID>115947</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Thermostats:Other Thermostats</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:115947:41988</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

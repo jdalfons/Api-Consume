@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:24.098Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181845</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Switches</CategoryName>
+     <CategoryParentID>100016</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181846</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>DIP and SIP Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:DIP and SIP Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:181846</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66981</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Disconnect Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Disconnect Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:66981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181847</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Joystick/Lever Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Joystick/Lever Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:181847</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181848</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Key Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Key Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:181848</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111606</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Limit Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Limit Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:111606</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>129111</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Microswitches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Microswitches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:129111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181849</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Piezo and Touch Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Piezo and Touch Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:181849</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111607</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pressure Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Pressure Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:111607</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58166</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pushbutton Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Pushbutton Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:58166</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58167</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rocker Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Rocker Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:58167</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58168</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rotary Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Rotary Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:58168</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181850</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Selector Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Selector Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:181850</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181851</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Slide Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Slide Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:181851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181852</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tilt Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Tilt Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:181852</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26211</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Toggle Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Toggle Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:26211</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181853</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Switch Mountings</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Switch Mountings</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:181853</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181854</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Electrical Switches</CategoryName>
+     <CategoryParentID>181845</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches:Other Electrical Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845:181854</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

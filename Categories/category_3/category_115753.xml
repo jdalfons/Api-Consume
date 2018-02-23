@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:12:17.142Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>115753</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kitchen Islands/Kitchen Carts</CategoryName>
+     <CategoryParentID>20625</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Islands/Kitchen Carts</CategoryNamePath>
+     <CategoryIDPath>11700:20625:115753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

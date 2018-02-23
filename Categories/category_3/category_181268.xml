@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:17:49.520Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181268</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Folk and World</CategoryName>
+     <CategoryParentID>10181</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16226</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bagpipes</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Bagpipes</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:16226</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90849</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Didgeridoos</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Didgeridoos</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:90849</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181271</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dizis</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Dizis</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:181271</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181272</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Duduks</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Duduks</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:181272</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181273</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Guanzis</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Guanzis</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:181273</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47078</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Harmonicas</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Harmonicas</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:47078</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181275</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hulusis</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Hulusis</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:181275</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181276</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kavals</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Kavals</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:181276</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178976</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Melodicas</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Melodicas</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:178976</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181277</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Neys</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Neys</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:181277</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180017</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ocarinas</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Ocarinas</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:180017</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181278</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Panflutes</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Panflutes</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:181278</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181279</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shakuhachis</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Shakuhachis</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:181279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>91502</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Whistles</CategoryName>
+     <CategoryParentID>181268</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Folk and World:Whistles</CategoryNamePath>
+     <CategoryIDPath>619:10181:181268:91502</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

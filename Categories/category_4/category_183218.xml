@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:23:39.192Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183218</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spinning</CategoryName>
+     <CategoryParentID>183209</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting:Spinning</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209:183218</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183219</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hand and Drum Carders</CategoryName>
+     <CategoryParentID>183218</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting:Spinning:Hand and Drum Carders</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209:183218:183219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36602</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spindles</CategoryName>
+     <CategoryParentID>183218</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting:Spinning:Spindles</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209:183218:36602</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134624</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spinning Wheels</CategoryName>
+     <CategoryParentID>183218</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting:Spinning:Spinning Wheels</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209:183218:134624</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3121</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Spinning Supplies</CategoryName>
+     <CategoryParentID>183218</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting:Spinning:Other Spinning Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209:183218:3121</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

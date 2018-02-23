@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:51.973Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>46727</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Printing and Graphic Essentials</CategoryName>
+     <CategoryParentID>26238</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Printing and Graphic Essentials</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46727</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46728</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books and Manuals</CategoryName>
+     <CategoryParentID>46727</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Printing and Graphic Essentials:Books and Manuals</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46727:46728</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46730</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Color Guides and Pantone</CategoryName>
+     <CategoryParentID>46727</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Printing and Graphic Essentials:Color Guides and Pantone</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46727:46730</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46731</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Densitometers</CategoryName>
+     <CategoryParentID>46727</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Printing and Graphic Essentials:Densitometers</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46727:46731</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117513</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Duplicator Supplies</CategoryName>
+     <CategoryParentID>46727</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Printing and Graphic Essentials:Duplicator Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46727:117513</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46733</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>General Accessories</CategoryName>
+     <CategoryParentID>46727</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Printing and Graphic Essentials:General Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46727:46733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26254</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Software and Clipart</CategoryName>
+     <CategoryParentID>46727</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Printing and Graphic Essentials:Software and Clipart</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46727:26254</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46735</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Type Cuts and Printing Blocks</CategoryName>
+     <CategoryParentID>46727</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Printing and Graphic Essentials:Type Cuts and Printing Blocks</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46727:46735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46734</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Printing and Graphic Accs</CategoryName>
+     <CategoryParentID>46727</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Printing and Graphic Essentials:Other Printing and Graphic Accs</CategoryNamePath>
+     <CategoryIDPath>12576:26238:46727:46734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

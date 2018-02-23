@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:06:33.158Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>163890</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scripts</CategoryName>
+     <CategoryParentID>196</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Scripts</CategoryNamePath>
+     <CategoryIDPath>45100:196:163890</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163891</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Originals</CategoryName>
+     <CategoryParentID>163890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Scripts:Originals</CategoryNamePath>
+     <CategoryIDPath>45100:196:163890:163891</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163893</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>163890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Scripts:Reproductions</CategoryNamePath>
+     <CategoryIDPath>45100:196:163890:163893</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:27.579Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182996</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Game of Thrones Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Game of Thrones Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:182996</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Singles</CategoryName>
+     <CategoryParentID>182996</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Game of Thrones Trading Cards:Trading Card Singles</CategoryNamePath>
+     <CategoryIDPath>1:182982:182996:182997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Lots</CategoryName>
+     <CategoryParentID>182996</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Game of Thrones Trading Cards:Trading Card Lots</CategoryNamePath>
+     <CategoryIDPath>1:182982:182996:182998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182999</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete Trading Card Sets</CategoryName>
+     <CategoryParentID>182996</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Game of Thrones Trading Cards:Complete Trading Card Sets</CategoryNamePath>
+     <CategoryIDPath>1:182982:182996:182999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183000</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sealed Trading Cards</CategoryName>
+     <CategoryParentID>182996</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Game of Thrones Trading Cards:Sealed Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:182996:183000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

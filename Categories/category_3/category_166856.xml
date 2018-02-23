@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:33:57.798Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>166856</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>99:319:166856</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166857</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Costumes and Fantasy Wear</CategoryName>
+     <CategoryParentID>166856</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Clothing Shoes and Accessories:Costumes and Fantasy Wear</CategoryNamePath>
+     <CategoryIDPath>99:319:166856:166857</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166861</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Intimate Apparel</CategoryName>
+     <CategoryParentID>166856</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Clothing Shoes and Accessories:Intimate Apparel</CategoryNamePath>
+     <CategoryIDPath>99:319:166856:166861</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166865</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shoes</CategoryName>
+     <CategoryParentID>166856</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Clothing Shoes and Accessories:Shoes</CategoryNamePath>
+     <CategoryIDPath>99:319:166856:166865</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166866</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>166856</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Clothing Shoes and Accessories:Accessories</CategoryNamePath>
+     <CategoryIDPath>99:319:166856:166866</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4794</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Adult Clothing and Accs</CategoryName>
+     <CategoryParentID>166856</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Clothing Shoes and Accessories:Other Adult Clothing and Accs</CategoryNamePath>
+     <CategoryIDPath>99:319:166856:4794</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

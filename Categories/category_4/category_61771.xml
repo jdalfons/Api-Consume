@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:47:13.626Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>61771</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Laminating</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Laminating</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:61771</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25317</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Machines</CategoryName>
+     <CategoryParentID>61771</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Laminating:Machines</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:61771:25317</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61772</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Supplies</CategoryName>
+     <CategoryParentID>61771</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Laminating:Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:61771:61772</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61773</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Laminating</CategoryName>
+     <CategoryParentID>61771</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Laminating:Other Laminating</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:61771:61773</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

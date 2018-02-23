@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:25:03.004Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>15950</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Barbie Dolls</CategoryName>
+     <CategoryParentID>15949</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48912</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Anniversary Dolls</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Anniversary Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48913</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Artist Dolls - OOAK and Nudes</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Artist Dolls - OOAK and Nudes</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48913</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48915</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Athlete Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Athlete Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183251</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Barbie Basics</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Barbie Basics</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:183251</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48916</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bridal Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Bridal Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48917</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Career Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Career Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15952</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Designer Editions Bob Mackie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Designer Editions Bob Mackie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:15952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48932</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dolls of the World</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Dolls of the World</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48933</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fairytale Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Fairytale Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48933</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183252</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fashionistas</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Fashionistas</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:183252</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160828</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flowers in Fashion</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Flowers in Fashion</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:160828</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48935</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Happy Birthday Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Happy Birthday Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48935</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48936</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Holiday Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Holiday Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48936</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48918</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hollywood Barbie and Friends</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Hollywood Barbie and Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48918</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160833</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Model Muse</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Model Muse</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:160833</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48923</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>My Scene Dolls</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:My Scene Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48924</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>My Size Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:My Size Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48924</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48925</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pop Culture Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Pop Culture Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48925</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48927</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Porcelain Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Porcelain Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48928</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Silkstone Fashion Models</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Silkstone Fashion Models</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48928</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48929</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sun and Beach Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Sun and Beach Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48930</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Western Barbie</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Western Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48931</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gift Sets</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Gift Sets</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15956</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Store Exclusives</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Store Exclusives</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:15956</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48939</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:48939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15953</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Contemp. Barbie Dolls</CategoryName>
+     <CategoryParentID>15950</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Barbie Dolls:Other Contemp. Barbie Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:15950:15953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>27</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

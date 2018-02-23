@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:45:39.268Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45017</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Toolholding</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58250</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Arbors and Adapters</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:Arbors and Adapters</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:58250</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58251</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Boring Tool Holders</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:Boring Tool Holders</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:58251</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57024</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>BT Holders</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:BT Holders</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:57024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57025</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bushings</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:Bushings</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:57025</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45018</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>CAT Holders</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:CAT Holders</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:45018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41947</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Drill Chucks</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:Drill Chucks</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:41947</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57026</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Extensions</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:Extensions</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:57026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41940</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Indexable Inserts</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:Indexable Inserts</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:41940</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57027</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mandrels</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:Mandrels</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:57027</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45019</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Quick Change</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:Quick Change</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:45019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57028</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spindles</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:Spindles</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:57028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25295</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Toolholding</CategoryName>
+     <CategoryParentID>45017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding:Other Toolholding</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017:25295</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

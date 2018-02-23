@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:30:08.407Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>54968</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Video Game Accessories</CategoryName>
+     <CategoryParentID>1249</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories</CategoryNamePath>
+     <CategoryIDPath>1249:54968</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171826</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Accessory Bundles</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Accessory Bundles</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171826</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171831</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bags Skins and Travel Cases</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Bags Skins and Travel Cases</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171831</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171813</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Batteries</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Batteries</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171813</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171814</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cables and Adapters</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Cables and Adapters</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171814</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171858</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chargers and Charging Docks</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Chargers and Charging Docks</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171858</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117042</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Controllers and Attachments</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Controllers and Attachments</CategoryNamePath>
+     <CategoryIDPath>1249:54968:117042</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171898</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cooling Devices</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Cooling Devices</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171898</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171668</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Faceplates Decals and Stickers</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Faceplates Decals and Stickers</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171668</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171820</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hard Drives</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Hard Drives</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171820</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171821</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Headsets</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Headsets</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171821</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172510</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Keyboards and Keypads</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Keyboards and Keypads</CategoryNamePath>
+     <CategoryIDPath>1249:54968:172510</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117045</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Memory Cards and Expansion Packs</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Memory Cards and Expansion Packs</CategoryNamePath>
+     <CategoryIDPath>1249:54968:117045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117044</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Motion Sensors and Cameras</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Motion Sensors and Cameras</CategoryNamePath>
+     <CategoryIDPath>1249:54968:117044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182179</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mounts and Stands</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Mounts and Stands</CategoryNamePath>
+     <CategoryIDPath>1249:54968:182179</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171837</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Screen Protectors</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Screen Protectors</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171839</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Styluses</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Styluses</CategoryNamePath>
+     <CategoryIDPath>1249:54968:171839</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182180</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Toys to Life</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Toys to Life</CategoryNamePath>
+     <CategoryIDPath>1249:54968:182180</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>49230</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Video Game Accessories</CategoryName>
+     <CategoryParentID>54968</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles:Video Game Accessories:Other Video Game Accessories</CategoryNamePath>
+     <CategoryIDPath>1249:54968:49230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>19</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

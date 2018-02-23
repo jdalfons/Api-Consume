@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:11.782Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>145930</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Alphabet and Language</CategoryName>
+     <CategoryParentID>11731</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Alphabet and Language</CategoryNamePath>
+     <CategoryIDPath>220:11731:145930</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145931</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blocks Tiles and Mats</CategoryName>
+     <CategoryParentID>145930</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Alphabet and Language:Blocks Tiles and Mats</CategoryNamePath>
+     <CategoryIDPath>220:11731:145930:145931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145933</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Magnets</CategoryName>
+     <CategoryParentID>145930</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Alphabet and Language:Magnets</CategoryNamePath>
+     <CategoryIDPath>220:11731:145930:145933</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145934</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Puzzles</CategoryName>
+     <CategoryParentID>145930</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Alphabet and Language:Puzzles</CategoryNamePath>
+     <CategoryIDPath>220:11731:145930:145934</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11732</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Alphabet and Language Toys</CategoryName>
+     <CategoryParentID>145930</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Alphabet and Language:Other Alphabet and Language Toys</CategoryNamePath>
+     <CategoryIDPath>220:11731:145930:11732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

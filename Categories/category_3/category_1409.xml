@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:55:31.595Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1409</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lunchboxes Thermoses</CategoryName>
+     <CategoryParentID>39507</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Lunchboxes Thermoses</CategoryNamePath>
+     <CategoryIDPath>1:39507:1409</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156473</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Metal Lunchboxes</CategoryName>
+     <CategoryParentID>1409</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Lunchboxes Thermoses:Metal Lunchboxes</CategoryNamePath>
+     <CategoryIDPath>1:39507:1409:156473</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156477</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Metal Thermoses</CategoryName>
+     <CategoryParentID>1409</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Lunchboxes Thermoses:Metal Thermoses</CategoryNamePath>
+     <CategoryIDPath>1:39507:1409:156477</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156480</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plastic Lunchboxes</CategoryName>
+     <CategoryParentID>1409</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Lunchboxes Thermoses:Plastic Lunchboxes</CategoryNamePath>
+     <CategoryIDPath>1:39507:1409:156480</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156481</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plastic Thermoses</CategoryName>
+     <CategoryParentID>1409</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Lunchboxes Thermoses:Plastic Thermoses</CategoryNamePath>
+     <CategoryIDPath>1:39507:1409:156481</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Lunchboxes</CategoryName>
+     <CategoryParentID>1409</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Lunchboxes Thermoses:Other Collectible Lunchboxes</CategoryNamePath>
+     <CategoryIDPath>1:39507:1409:150</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

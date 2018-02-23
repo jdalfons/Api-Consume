@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:05:30.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1365</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Department 56</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4032</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Alpine Village</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Alpine Village</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:4032</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4033</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Christmas in the City</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Christmas in the City</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:4033</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39583</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dickens Village</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Dickens Village</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:39583</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156290</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Halloween</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Halloween</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:156290</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1547</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Heritage Village</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Heritage Village</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:1547</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4034</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>New England Village</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:New England Village</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:4034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4035</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>North Pole</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:North Pole</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:4035</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157007</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:157007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156291</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Seasons Bay</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Seasons Bay</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:156291</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39587</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Snow Village</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Snow Village</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:39587</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1367</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Snowbabies</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Snowbabies</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:1367</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11139</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Snowbunnies</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Snowbunnies</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:11139</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156292</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thanksgiving</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Thanksgiving</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:156292</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>370</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Department 56</CategoryName>
+     <CategoryParentID>1365</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56:Other Department 56</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365:370</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

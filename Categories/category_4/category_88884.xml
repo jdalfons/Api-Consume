@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:06:52.829Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>88884</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bags Cases and Wallets</CategoryName>
+     <CategoryParentID>1369</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Bags Cases and Wallets</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:88884</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88885</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coin Purses</CategoryName>
+     <CategoryParentID>88884</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Bags Cases and Wallets:Coin Purses</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:88884:88885</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88886</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cosmetic Bags</CategoryName>
+     <CategoryParentID>88884</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Bags Cases and Wallets:Cosmetic Bags</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:88884:88886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88887</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Handbags</CategoryName>
+     <CategoryParentID>88884</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Bags Cases and Wallets:Handbags</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:88884:88887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88888</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Shoulder Bags</CategoryName>
+     <CategoryParentID>88884</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Bags Cases and Wallets:Shoulder Bags</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:88884:88888</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88889</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wallets</CategoryName>
+     <CategoryParentID>88884</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Bags Cases and Wallets:Wallets</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:88884:88889</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88890</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Disney Bags and Cases</CategoryName>
+     <CategoryParentID>88884</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Bags Cases and Wallets:Other Disney Bags and Cases</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:88884:88890</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

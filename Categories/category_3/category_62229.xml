@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:54.502Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>62229</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>159134</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159134:62229</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70898</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing</CategoryName>
+     <CategoryParentID>62229</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Clothing Shoes and Accessories:Clothing</CategoryNamePath>
+     <CategoryIDPath>888:159134:62229:70898</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62167</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Protective Gear</CategoryName>
+     <CategoryParentID>62229</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Clothing Shoes and Accessories:Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:159134:62229:62167</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62230</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shoes</CategoryName>
+     <CategoryParentID>62229</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Clothing Shoes and Accessories:Shoes</CategoryNamePath>
+     <CategoryIDPath>888:159134:62229:62230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Racquet Sport Accs</CategoryName>
+     <CategoryParentID>62229</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Clothing Shoes and Accessories:Other Racquet Sport Accs</CategoryNamePath>
+     <CategoryIDPath>888:159134:62229:159161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

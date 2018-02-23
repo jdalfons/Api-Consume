@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:38:56.346Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>92084</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Metalworking Tooling</CategoryName>
+     <CategoryParentID>11804</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25257</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cutting Tools and Consumables</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Cutting Tools and Consumables</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:25257</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104234</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Equipment Specific Tooling</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Equipment Specific Tooling</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:104234</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12582</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Inspection and Measurement</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41949</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals Books and Plans</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Manuals Books and Plans</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:41949</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166671</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Software</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Software</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:166671</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45017</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Toolholding</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Toolholding</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:45017</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36344</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Workholding</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Workholding</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:36344</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>633</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Metalworking Tooling</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Other Metalworking Tooling</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:633</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31486</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:31486</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:43:34.424Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>106127</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bridal Accessories</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180249</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belts and Sashes</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Belts and Sashes</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:180249</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163556</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bras</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Bras</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:163556</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163552</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bridal Jewelry</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Bridal Jewelry</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:163552</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163553</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fans and Parasols</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Fans and Parasols</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:163553</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15718</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garters</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Garters</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:15718</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98735</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gloves</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Gloves</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:98735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163560</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hair Accessories</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Hair Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:163560</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163551</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Handbags and Bags</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Handbags and Bags</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:163551</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98745</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slips Petticoats and Hoops</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Slips Petticoats and Hoops</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:98745</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175631</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Storage Bags and Preservation</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Storage Bags and Preservation</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:175631</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105516</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tiaras and Headbands</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Tiaras and Headbands</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:105516</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15719</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Veils</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Veils</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:15719</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105472</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wraps and Jackets</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Wraps and Jackets</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:105472</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106128</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Bridal Accessories</CategoryName>
+     <CategoryParentID>106127</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories:Other Bridal Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127:106128</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

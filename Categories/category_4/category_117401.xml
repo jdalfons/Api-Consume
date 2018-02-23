@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:21:41.735Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>117401</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glass Kilns</CategoryName>
+     <CategoryParentID>3100</CategoryParentID>
+     <CategoryNamePath>Crafts:Glass and Mosaics:Glass Art and Mosaic Supplies:Glass Kilns</CategoryNamePath>
+     <CategoryIDPath>14339:163778:3100:117401</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

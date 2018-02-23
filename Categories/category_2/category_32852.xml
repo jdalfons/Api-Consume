@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:18.426Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>32852</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>TV Video and Home Audio</CategoryName>
+     <CategoryParentID>293</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio</CategoryNamePath>
+     <CategoryIDPath>293:32852</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11071</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>TVs</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TVs</CategoryNamePath>
+     <CategoryIDPath>293:32852:11071</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39804</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cable TV Boxes</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:Cable TV Boxes</CategoryNamePath>
+     <CategoryIDPath>293:32852:39804</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175711</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>DVD and Blu-ray Players</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:DVD and Blu-ray Players</CategoryNamePath>
+     <CategoryIDPath>293:32852:175711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11725</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>DVRs Hard Drive Recorders</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:DVRs Hard Drive Recorders</CategoryNamePath>
+     <CategoryIDPath>293:32852:11725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14969</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Home Audio Stereos Components</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:Home Audio Stereos Components</CategoryNamePath>
+     <CategoryIDPath>293:32852:14969</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14990</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Home Speakers and Subwoofers</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:Home Speakers and Subwoofers</CategoryNamePath>
+     <CategoryIDPath>293:32852:14990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22610</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Home Theater Projectors</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:Home Theater Projectors</CategoryNamePath>
+     <CategoryIDPath>293:32852:22610</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14981</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Home Theater Receivers</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:Home Theater Receivers</CategoryNamePath>
+     <CategoryIDPath>293:32852:14981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72406</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Home Theater Systems</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:Home Theater Systems</CategoryNamePath>
+     <CategoryIDPath>293:32852:72406</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168058</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Internet and Media Streamers</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:Internet and Media Streamers</CategoryNamePath>
+     <CategoryIDPath>293:32852:168058</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>96969</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Satellite TV Receivers</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:Satellite TV Receivers</CategoryNamePath>
+     <CategoryIDPath>293:32852:96969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14961</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>TV Video and Audio Accessories</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TV Video and Audio Accessories</CategoryNamePath>
+     <CategoryIDPath>293:32852:14961</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71582</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>TV Video and Audio Parts</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TV Video and Audio Parts</CategoryNamePath>
+     <CategoryIDPath>293:32852:71582</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163829</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other TV Video and Home Audio</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:Other TV Video and Home Audio</CategoryNamePath>
+     <CategoryIDPath>293:32852:163829</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

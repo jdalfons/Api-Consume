@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:13:17.237Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>42361</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tool Boxes Belts and Storage</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Tool Boxes Belts and Storage</CategoryNamePath>
+     <CategoryIDPath>11700:631:42361</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42362</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bags Belts and Pouches</CategoryName>
+     <CategoryParentID>42361</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Tool Boxes Belts and Storage:Bags Belts and Pouches</CategoryNamePath>
+     <CategoryIDPath>11700:631:42361:42362</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42363</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxes and Cabinets</CategoryName>
+     <CategoryParentID>42361</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Tool Boxes Belts and Storage:Boxes and Cabinets</CategoryNamePath>
+     <CategoryIDPath>11700:631:42361:42363</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11706</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Tool Storage</CategoryName>
+     <CategoryParentID>42361</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Tool Boxes Belts and Storage:Other Tool Storage</CategoryNamePath>
+     <CategoryIDPath>11700:631:42361:11706</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

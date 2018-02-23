@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:31:53.063Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182187</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>RC Model Vehicle Parts and Accs</CategoryName>
+     <CategoryParentID>2562</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19839</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Control Radio and Electronics</CategoryName>
+     <CategoryParentID>182187</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs:Control Radio and Electronics</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187:19839</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182188</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Engine Exhaust and Fuel Systems</CategoryName>
+     <CategoryParentID>182187</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs:Engine Exhaust and Fuel Systems</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187:182188</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182196</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chassis Drivetrain and Wheels</CategoryName>
+     <CategoryParentID>182187</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs:Chassis Drivetrain and Wheels</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187:182196</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182203</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Body Parts and Interior</CategoryName>
+     <CategoryParentID>182187</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs:Body Parts and Interior</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187:182203</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182209</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Adhesives Paints and Finishing</CategoryName>
+     <CategoryParentID>182187</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs:Adhesives Paints and Finishing</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187:182209</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182210</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>RC Building Materials</CategoryName>
+     <CategoryParentID>182187</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs:RC Building Materials</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187:182210</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182211</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>RC Hardware and Fasteners</CategoryName>
+     <CategoryParentID>182187</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs:RC Hardware and Fasteners</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187:182211</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>68407</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>RC Tools and Sets</CategoryName>
+     <CategoryParentID>182187</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs:RC Tools and Sets</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187:68407</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182212</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>RC Plans Templates and Manuals</CategoryName>
+     <CategoryParentID>182187</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs:RC Plans Templates and Manuals</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187:182212</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182213</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other RC Parts and Accs</CategoryName>
+     <CategoryParentID>182187</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs:Other RC Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187:182213</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

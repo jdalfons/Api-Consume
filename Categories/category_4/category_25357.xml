@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:48:30.735Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>25357</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cookware and Kitchen Tools</CategoryName>
+     <CategoryParentID>25367</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cookware and Kitchen Tools</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:25357</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11886</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bakeware</CategoryName>
+     <CategoryParentID>25357</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cookware and Kitchen Tools:Bakeware</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:25357:11886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11878</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cutlery</CategoryName>
+     <CategoryParentID>25357</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cookware and Kitchen Tools:Cutlery</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:25357:11878</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57101</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Foil and Wrap</CategoryName>
+     <CategoryParentID>25357</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cookware and Kitchen Tools:Foil and Wrap</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:25357:57101</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57087</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Knife Stones and Sharpeners</CategoryName>
+     <CategoryParentID>25357</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cookware and Kitchen Tools:Knife Stones and Sharpeners</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:25357:57087</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67163</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pans</CategoryName>
+     <CategoryParentID>25357</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cookware and Kitchen Tools:Pans</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:25357:67163</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11877</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pots</CategoryName>
+     <CategoryParentID>25357</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cookware and Kitchen Tools:Pots</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:25357:11877</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25358</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Utensils</CategoryName>
+     <CategoryParentID>25357</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cookware and Kitchen Tools:Utensils</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:25357:25358</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25359</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Commercial Cookware</CategoryName>
+     <CategoryParentID>25357</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cookware and Kitchen Tools:Other Commercial Cookware</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:25357:25359</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

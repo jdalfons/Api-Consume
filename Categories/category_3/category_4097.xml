@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:55:25.220Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4097</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pez</CategoryName>
+     <CategoryParentID>14005</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pez Keychains Promo Glasses:Pez</CategoryNamePath>
+     <CategoryIDPath>1:14005:4097</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38023</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Current</CategoryName>
+     <CategoryParentID>4097</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pez Keychains Promo Glasses:Pez:Current</CategoryNamePath>
+     <CategoryIDPath>1:14005:4097:38023</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4099</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage (no feet)</CategoryName>
+     <CategoryParentID>4097</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pez Keychains Promo Glasses:Pez:Vintage (no feet)</CategoryNamePath>
+     <CategoryIDPath>1:14005:4097:4099</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

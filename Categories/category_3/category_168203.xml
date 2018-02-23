@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:29:03.567Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>168203</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Organizations</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Organizations</CategoryNamePath>
+     <CategoryIDPath>260:4752:168203</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162062</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boy Scouts</CategoryName>
+     <CategoryParentID>168203</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Organizations:Boy Scouts</CategoryNamePath>
+     <CategoryIDPath>260:4752:168203:162062</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168205</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Girl Scouts and Girl Guides</CategoryName>
+     <CategoryParentID>168203</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Organizations:Girl Scouts and Girl Guides</CategoryNamePath>
+     <CategoryIDPath>260:4752:168203:168205</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65207</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Red Cross</CategoryName>
+     <CategoryParentID>168203</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Organizations:Red Cross</CategoryNamePath>
+     <CategoryIDPath>260:4752:168203:65207</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168207</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rotary International</CategoryName>
+     <CategoryParentID>168203</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Organizations:Rotary International</CategoryNamePath>
+     <CategoryIDPath>260:4752:168203:168207</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168208</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Organization Stamps</CategoryName>
+     <CategoryParentID>168203</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Organizations:Other Organization Stamps</CategoryNamePath>
+     <CategoryIDPath>260:4752:168203:168208</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

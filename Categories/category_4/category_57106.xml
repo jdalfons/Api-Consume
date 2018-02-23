@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:48:26.142Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>57106</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cleaning and Warewashing</CategoryName>
+     <CategoryParentID>25367</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cleaning and Warewashing</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57106</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57107</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dishwashers</CategoryName>
+     <CategoryParentID>57106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cleaning and Warewashing:Dishwashers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57106:57107</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159706</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Faucets</CategoryName>
+     <CategoryParentID>57106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cleaning and Warewashing:Faucets</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57106:159706</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57108</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Grease Traps</CategoryName>
+     <CategoryParentID>57106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cleaning and Warewashing:Grease Traps</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57106:57108</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67193</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sinks</CategoryName>
+     <CategoryParentID>57106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cleaning and Warewashing:Sinks</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57106:67193</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57110</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Waste Disposal</CategoryName>
+     <CategoryParentID>57106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cleaning and Warewashing:Waste Disposal</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57106:57110</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53230</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Commercial Dishwashing</CategoryName>
+     <CategoryParentID>57106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cleaning and Warewashing:Other Commercial Dishwashing</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57106:53230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

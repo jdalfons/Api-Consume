@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:25:23.720Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>86826</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Football-NFL</CategoryName>
+     <CategoryParentID>50116</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Football-NFL</CategoryNamePath>
+     <CategoryIDPath>64482:50116:86826</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86827</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Footballs</CategoryName>
+     <CategoryParentID>86826</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Football-NFL:Footballs</CategoryNamePath>
+     <CategoryIDPath>64482:50116:86826:86827</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86828</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Helmet</CategoryName>
+     <CategoryParentID>86826</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Football-NFL:Helmet</CategoryNamePath>
+     <CategoryIDPath>64482:50116:86826:86828</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86829</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jerseys</CategoryName>
+     <CategoryParentID>86826</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Football-NFL:Jerseys</CategoryNamePath>
+     <CategoryIDPath>64482:50116:86826:86829</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50119</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other NFL Game Used Mem</CategoryName>
+     <CategoryParentID>86826</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia:Football-NFL:Other NFL Game Used Mem</CategoryNamePath>
+     <CategoryIDPath>64482:50116:86826:50119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

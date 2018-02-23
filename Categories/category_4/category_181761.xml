@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:38:58.535Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181761</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chains and Sprockets</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Chains and Sprockets</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181761</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181762</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Roller Chains</CategoryName>
+     <CategoryParentID>181761</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Chains and Sprockets:Roller Chains</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181761:181762</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181763</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Roller Chain Sprockets</CategoryName>
+     <CategoryParentID>181761</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Chains and Sprockets:Roller Chain Sprockets</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181761:181763</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181764</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Chain Tensioners</CategoryName>
+     <CategoryParentID>181761</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Chains and Sprockets:Chain Tensioners</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181761:181764</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:05:15.332Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>15965</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Barbie Vintage (Pre-1973)</CategoryName>
+     <CategoryParentID>238</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973)</CategoryNamePath>
+     <CategoryIDPath>237:238:15965</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>250</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage (Pre-1967)</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Vintage (Pre-1967)</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:250</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160841</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mod Era (1967-1973)</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Mod Era (1967-1973)</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:160841</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15966</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cases</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Cases</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2453</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing and Accessories</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Clothing and Accessories</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:2453</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15969</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Friends and Family</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Friends and Family</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15969</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15967</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Structures and Furniture</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Structures and Furniture</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15968</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vehicles</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Vehicles</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158451</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Reproductions</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Vintage Reproductions</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:158451</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48954</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:48954</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15974</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Barbie</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Other Vintage Barbie</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15974</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:10:36.204Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>43333</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modern Folding Knives</CategoryName>
+     <CategoryParentID>182981</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Folding Knives:Modern Folding Knives</CategoryNamePath>
+     <CategoryIDPath>1:1401:182981:43333</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43334</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Custom and Handmade</CategoryName>
+     <CategoryParentID>43333</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Folding Knives:Modern Folding Knives:Custom and Handmade</CategoryNamePath>
+     <CategoryIDPath>1:1401:182981:43333:43334</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48818</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Factory Manufactured</CategoryName>
+     <CategoryParentID>43333</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Folding Knives:Modern Folding Knives:Factory Manufactured</CategoryNamePath>
+     <CategoryIDPath>1:1401:182981:43333:48818</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:26:03.204Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179767</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Boxing Martial Arts and MMA</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA</CategoryNamePath>
+     <CategoryIDPath>888:179767</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73980</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:179767:73980</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73991</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>DVDs Videos and Books</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:DVDs Videos and Books</CategoryNamePath>
+     <CategoryIDPath>888:179767:73991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30102</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gloves - Boxing</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Gloves - Boxing</CategoryNamePath>
+     <CategoryIDPath>888:179767:30102</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97042</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gloves - Martial Arts</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Gloves - Martial Arts</CategoryNamePath>
+     <CategoryIDPath>888:179767:97042</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179792</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Martial Arts Weapons</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Martial Arts Weapons</CategoryNamePath>
+     <CategoryIDPath>888:179767:179792</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179775</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Protective Gear</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:179767:179775</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179784</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Training Equipment and Supplies</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16044</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Combat Sport Supplies</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Other Combat Sport Supplies</CategoryNamePath>
+     <CategoryIDPath>888:179767:16044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

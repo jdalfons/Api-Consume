@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:28:57.110Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>105017</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists Q</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists Q</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105017</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105019</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Queen</CategoryName>
+     <CategoryParentID>105017</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists Q:Queen</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105017:105019</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105024</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Queensryche</CategoryName>
+     <CategoryParentID>105017</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists Q:Queensryche</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105017:105024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164073</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Queens of the Stone Age</CategoryName>
+     <CategoryParentID>105017</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists Q:Queens of the Stone Age</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105017:164073</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164074</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Quiet Riot</CategoryName>
+     <CategoryParentID>105017</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists Q:Quiet Riot</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105017:164074</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105018</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists Q</CategoryName>
+     <CategoryParentID>105017</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists Q:Other Rock and Pop Artists Q</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105017:105018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

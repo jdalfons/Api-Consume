@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:19:32.690Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>168074</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Server Fans and Cooling Systems</CategoryName>
+     <CategoryParentID>51240</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Enterprise Networking Servers:Server Components:Server Fans and Cooling Systems</CategoryNamePath>
+     <CategoryIDPath>58058:175698:51240:168074</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

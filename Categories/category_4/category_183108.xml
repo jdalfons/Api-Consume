@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:21:19.254Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183108</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Block Printing Supplies</CategoryName>
+     <CategoryParentID>183106</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Printmaking:Block Printing Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:11783:183106:183108</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183109</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Linoleum</CategoryName>
+     <CategoryParentID>183108</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Printmaking:Block Printing Supplies:Linoleum</CategoryNamePath>
+     <CategoryIDPath>14339:11783:183106:183108:183109</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183110</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Linoleum Cutters</CategoryName>
+     <CategoryParentID>183108</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Printmaking:Block Printing Supplies:Linoleum Cutters</CategoryNamePath>
+     <CategoryIDPath>14339:11783:183106:183108:183110</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183111</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Block Printing Brayers</CategoryName>
+     <CategoryParentID>183108</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Printmaking:Block Printing Supplies:Block Printing Brayers</CategoryNamePath>
+     <CategoryIDPath>14339:11783:183106:183108:183111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183112</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Block Printing Sets and Kits</CategoryName>
+     <CategoryParentID>183108</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Printmaking:Block Printing Supplies:Block Printing Sets and Kits</CategoryNamePath>
+     <CategoryIDPath>14339:11783:183106:183108:183112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

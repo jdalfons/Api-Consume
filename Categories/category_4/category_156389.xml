@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:11:13.126Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156389</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Original Period Items</CategoryName>
+     <CategoryParentID>13962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4374</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Australia ANZAC</CategoryName>
+     <CategoryParentID>156389</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items:Australia ANZAC</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389:4374</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156390</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Austria-Hungary</CategoryName>
+     <CategoryParentID>156389</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items:Austria-Hungary</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389:156390</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13963</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Canada</CategoryName>
+     <CategoryParentID>156389</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items:Canada</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389:13963</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13964</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>France</CategoryName>
+     <CategoryParentID>156389</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items:France</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389:13964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156391</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Germany</CategoryName>
+     <CategoryParentID>156389</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items:Germany</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389:156391</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156400</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Great Britain</CategoryName>
+     <CategoryParentID>156389</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items:Great Britain</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389:156400</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13967</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Italy</CategoryName>
+     <CategoryParentID>156389</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items:Italy</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389:13967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13968</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Russia</CategoryName>
+     <CategoryParentID>156389</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items:Russia</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389:13968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>United States</CategoryName>
+     <CategoryParentID>156389</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items:United States</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389:134</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13975</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other WWI Original Items</CategoryName>
+     <CategoryParentID>156389</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Original Period Items:Other WWI Original Items</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156389:13975</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

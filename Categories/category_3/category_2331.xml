@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:06:38.348Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2331</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Classical Opera and Ballet</CategoryName>
+     <CategoryParentID>2329</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Classical Opera and Ballet</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2331</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108730</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ads and Handbills</CategoryName>
+     <CategoryParentID>2331</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Classical Opera and Ballet:Ads and Handbills</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2331:108730</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108732</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>2331</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Classical Opera and Ballet:Photographs</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2331:108732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108733</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Posters</CategoryName>
+     <CategoryParentID>2331</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Classical Opera and Ballet:Posters</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2331:108733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108734</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Programs</CategoryName>
+     <CategoryParentID>2331</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Classical Opera and Ballet:Programs</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2331:108734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168116</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Publications</CategoryName>
+     <CategoryParentID>2331</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Classical Opera and Ballet:Publications</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2331:168116</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108735</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Classical Music Mem</CategoryName>
+     <CategoryParentID>2331</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Classical Opera and Ballet:Other Classical Music Mem</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2331:108735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

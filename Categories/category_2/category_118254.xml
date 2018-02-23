@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:01.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>118254</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Catalogs</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs</CategoryNamePath>
+     <CategoryIDPath>267:118254</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118255</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Agriculture</CategoryName>
+     <CategoryParentID>118254</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs:Agriculture</CategoryNamePath>
+     <CategoryIDPath>267:118254:118255</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118256</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Art and Exhibitions</CategoryName>
+     <CategoryParentID>118254</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs:Art and Exhibitions</CategoryNamePath>
+     <CategoryIDPath>267:118254:118256</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118257</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Auction</CategoryName>
+     <CategoryParentID>118254</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs:Auction</CategoryNamePath>
+     <CategoryIDPath>267:118254:118257</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118258</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing and Fashion</CategoryName>
+     <CategoryParentID>118254</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs:Clothing and Fashion</CategoryNamePath>
+     <CategoryIDPath>267:118254:118258</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118259</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Department Stores</CategoryName>
+     <CategoryParentID>118254</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs:Department Stores</CategoryNamePath>
+     <CategoryIDPath>267:118254:118259</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162029</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Music and Instruments</CategoryName>
+     <CategoryParentID>118254</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs:Music and Instruments</CategoryNamePath>
+     <CategoryIDPath>267:118254:162029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162030</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Owner&apos;s Manuals</CategoryName>
+     <CategoryParentID>118254</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs:Owner&apos;s Manuals</CategoryNamePath>
+     <CategoryIDPath>267:118254:162030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162031</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Toys and Hobbies</CategoryName>
+     <CategoryParentID>118254</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs:Toys and Hobbies</CategoryNamePath>
+     <CategoryIDPath>267:118254:162031</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>616</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Catalogs</CategoryName>
+     <CategoryParentID>118254</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs:Other Catalogs</CategoryNamePath>
+     <CategoryIDPath>267:118254:616</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

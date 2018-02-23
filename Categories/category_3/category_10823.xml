@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:48:07.751Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10823</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dogs</CategoryName>
+     <CategoryParentID>1335</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165285</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Breeds</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Mixed Breeds</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165285</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165286</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Non Breed Specific</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Non Breed Specific</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165286</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165287</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Affenpinscher</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Affenpinscher</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165287</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12507</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Afghan Hound</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Afghan Hound</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:12507</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10824</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Airedale Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Airedale Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10824</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29408</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Akita</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Akita</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29408</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29409</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Alaskan Malamute</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Alaskan Malamute</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29409</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165288</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>American Bulldog</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:American Bulldog</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165288</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50715</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>American Eskimo</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:American Eskimo</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50715</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29410</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Australian Cattle Dog</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Australian Cattle Dog</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29410</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29411</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Australian Shepherd</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Australian Shepherd</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29411</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82481</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Australian Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Australian Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:82481</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29412</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Basenji</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Basenji</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29412</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10825</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Basset Hound</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Basset Hound</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10825</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10826</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beagle</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Beagle</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10826</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50716</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bearded Collie</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Bearded Collie</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50716</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50717</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bedlington Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Bedlington Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50717</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165289</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belgian Malinois</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Belgian Malinois</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165289</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50718</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belgian Sheepdog</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Belgian Sheepdog</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50718</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165290</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belgian Tervuren</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Belgian Tervuren</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165290</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29413</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bernese Mountain Dog</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Bernese Mountain Dog</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29413</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10827</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bichon Frisé</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Bichon Frisé</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10827</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29414</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bloodhound</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Bloodhound</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29414</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10828</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Border Collie</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Border Collie</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10828</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82482</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Border Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Border Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:82482</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13629</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Borzoi/Russian Wolfhound</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Borzoi/Russian Wolfhound</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13629</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10829</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boston Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Boston Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10829</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60210</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bouvier des Flandres</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Bouvier des Flandres</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:60210</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10830</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxer</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Boxer</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10830</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29415</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brittany</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Brittany</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29415</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50719</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brussels Griffon</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Brussels Griffon</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50719</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13630</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bull Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Bull Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13630</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10831</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bulldog English Bulldog</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Bulldog English Bulldog</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10831</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50720</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bullmastiff</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Bullmastiff</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50720</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12508</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cairn Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Cairn Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:12508</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50721</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cavalier King Charles Spaniel</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Cavalier King Charles Spaniel</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50721</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29416</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chesapeake Bay Retriever</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Chesapeake Bay Retriever</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29416</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10832</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chihuahua</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Chihuahua</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10832</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50722</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chinese Crested</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Chinese Crested</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50722</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10833</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chow Chow</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Chow Chow</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10833</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165291</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clumber Spaniel</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Clumber Spaniel</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165291</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10834</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cocker Spaniel</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Cocker Spaniel</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10834</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10835</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Collie</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Collie</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10835</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10836</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Corgi</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Corgi</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10836</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10837</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dachshund</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Dachshund</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10838</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dalmatian</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Dalmatian</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10838</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165292</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dandie Dinmont Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Dandie Dinmont Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165292</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10839</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Doberman Pinscher</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Doberman Pinscher</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10839</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73472</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>English Bull Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:English Bull Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:73472</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29417</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>English Setter</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:English Setter</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29417</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13631</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>English Springer Spaniel</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:English Springer Spaniel</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13631</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165293</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Finnish Spitz</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Finnish Spitz</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165293</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156229</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flat-Coated Retriever</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Flat-Coated Retriever</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:156229</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10840</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fox Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Fox Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10840</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13632</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>French Bulldog</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:French Bulldog</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13632</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10841</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>German Shepherd</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:German Shepherd</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10841</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29418</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>German Shorthaired Pointer</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:German Shorthaired Pointer</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29418</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165279</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>German Wirehaired Pointer</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:German Wirehaired Pointer</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10842</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golden Retriever</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Golden Retriever</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29419</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gordon Setter</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Gordon Setter</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11634</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Great Dane</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Great Dane</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:11634</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29420</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Great Pyrenees</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Great Pyrenees</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29420</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165280</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Greater Swiss Mountain Dog</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Greater Swiss Mountain Dog</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165280</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10843</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Greyhound</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Greyhound</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10843</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156230</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Havanese</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Havanese</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:156230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29421</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Irish Setter</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Irish Setter</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29421</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156231</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Irish Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Irish Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:156231</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29422</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Irish Wolfhound</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Irish Wolfhound</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50723</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Italian Greyhound</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Italian Greyhound</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10844</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jack Russell Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Jack Russell Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10844</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29423</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Japanese Chin</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Japanese Chin</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29423</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29424</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Keeshond</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Keeshond</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29424</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145700</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kerry Blue Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Kerry Blue Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:145700</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10845</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Labrador Retriever</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Labrador Retriever</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10845</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90660</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lakeland Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Lakeland Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:90660</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10846</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lhasa Apso</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Lhasa Apso</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10846</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10847</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Maltese</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Maltese</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10847</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165281</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manchester Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Manchester Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165281</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10848</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mastiff</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Mastiff</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10848</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50724</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Miniature Pinscher</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Miniature Pinscher</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50724</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13633</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Newfoundland</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Newfoundland</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13633</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79967</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Norfolk Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Norfolk Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:79967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165294</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Norwegian Elkhound</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Norwegian Elkhound</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165294</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156232</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Norwich Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Norwich Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:156232</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13634</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Old English Sheepdog</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Old English Sheepdog</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13634</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90655</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Otterhound</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Otterhound</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:90655</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29425</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Papillon</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Papillon</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29425</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13635</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pekingese</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Pekingese</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13635</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165282</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Petit Basset Griffon Vendéen</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Petit Basset Griffon Vendéen</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165282</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82483</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pit Bull Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Pit Bull Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:82483</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29426</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pointer</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Pointer</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29426</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10849</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pomeranian</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Pomeranian</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10849</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10850</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Poodle</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Poodle</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10850</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156233</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Portuguese Water Dog</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Portuguese Water Dog</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:156233</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10851</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pug</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Pug</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73473</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rat Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Rat Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:73473</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29427</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rhodesian Ridgeback</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Rhodesian Ridgeback</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29427</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10852</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rottweiler</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Rottweiler</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10852</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10853</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saint Bernard</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Saint Bernard</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10853</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29428</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saluki</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Saluki</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29428</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13636</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Samoyed</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Samoyed</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13636</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29429</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Schipperke</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Schipperke</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29429</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13637</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Schnauzer</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Schnauzer</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13637</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101126</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scottish Deerhound</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Scottish Deerhound</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:101126</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10854</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scottish Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Scottish Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10854</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90661</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sealyham Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Sealyham Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:90661</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10855</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shar Pei</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Shar Pei</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10855</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13638</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sheltie/Shetland Sheepdog</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Sheltie/Shetland Sheepdog</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13638</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50725</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shiba Inu</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Shiba Inu</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10856</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shih Tzu</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Shih Tzu</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10856</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10857</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Siberian Husky</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Siberian Husky</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10857</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156234</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Silky Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Silky Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:156234</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>91320</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Skye Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Skye Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:91320</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60211</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Staffordshire Bull Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Staffordshire Bull Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:60211</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>169306</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sussex Spaniel</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Sussex Spaniel</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:169306</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165283</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tibetan Spaniel</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Tibetan Spaniel</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165283</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108917</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tibetan Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Tibetan Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:108917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29430</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vizsla</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Vizsla</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29430</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82484</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Water Spaniel</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Water Spaniel</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:82484</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29431</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Weimaraner</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Weimaraner</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:29431</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165284</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Welsh Springer Spaniel</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Welsh Springer Spaniel</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:165284</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13639</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>West Highland White Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:West Highland White Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:13639</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50726</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wheaten Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Wheaten Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:50726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10858</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Whippet</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Whippet</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10858</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10859</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Yorkshire Terrier</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Yorkshire Terrier</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:10859</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66505</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Dog Collectibles</CategoryName>
+     <CategoryParentID>10823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Dogs:Other Dog Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:1335:10823:66505</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>127</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

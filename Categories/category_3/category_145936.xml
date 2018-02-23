@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:17.190Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>145936</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Reading and Writing</CategoryName>
+     <CategoryParentID>11731</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Reading and Writing</CategoryNamePath>
+     <CategoryIDPath>220:11731:145936</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145937</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Infant and Toddler</CategoryName>
+     <CategoryParentID>145936</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Reading and Writing:Infant and Toddler</CategoryNamePath>
+     <CategoryIDPath>220:11731:145936:145937</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145938</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Preschool and Kindergarten</CategoryName>
+     <CategoryParentID>145936</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Reading and Writing:Preschool and Kindergarten</CategoryNamePath>
+     <CategoryIDPath>220:11731:145936:145938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145939</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Grade School</CategoryName>
+     <CategoryParentID>145936</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Reading and Writing:Grade School</CategoryNamePath>
+     <CategoryIDPath>220:11731:145936:145939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145940</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Middle and High School</CategoryName>
+     <CategoryParentID>145936</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Reading and Writing:Middle and High School</CategoryNamePath>
+     <CategoryIDPath>220:11731:145936:145940</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11736</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Reading and Writing Toys</CategoryName>
+     <CategoryParentID>145936</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Reading and Writing:Other Reading and Writing Toys</CategoryNamePath>
+     <CategoryIDPath>220:11731:145936:11736</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

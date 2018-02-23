@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:04.848Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63940</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Levels and Autolevels</CategoryName>
+     <CategoryParentID>42297</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Levels and Surveying Equipment:Levels and Autolevels</CategoryNamePath>
+     <CategoryIDPath>12576:11765:42297:63940</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63941</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Automatic Levels</CategoryName>
+     <CategoryParentID>63940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Levels and Surveying Equipment:Levels and Autolevels:Automatic Levels</CategoryNamePath>
+     <CategoryIDPath>12576:11765:42297:63940:63941</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63942</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rotary Lasers</CategoryName>
+     <CategoryParentID>63940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Levels and Surveying Equipment:Levels and Autolevels:Rotary Lasers</CategoryNamePath>
+     <CategoryIDPath>12576:11765:42297:63940:63942</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42298</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Torpedo Levels and Lasers</CategoryName>
+     <CategoryParentID>63940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Levels and Surveying Equipment:Levels and Autolevels:Torpedo Levels and Lasers</CategoryNamePath>
+     <CategoryIDPath>12576:11765:42297:63940:42298</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63943</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Levels and Autolevels</CategoryName>
+     <CategoryParentID>63940</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Levels and Surveying Equipment:Levels and Autolevels:Other Levels and Autolevels</CategoryNamePath>
+     <CategoryIDPath>12576:11765:42297:63940:63943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

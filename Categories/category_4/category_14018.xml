@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:15:58.629Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>14018</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slide Rules</CategoryName>
+     <CategoryParentID>14016</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science and Medicine (1930-Now):Engineering:Slide Rules</CategoryNamePath>
+     <CategoryIDPath>1:412:14016:14018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

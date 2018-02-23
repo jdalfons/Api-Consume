@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:04:56.270Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13742</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1600</CategoryName>
+     <CategoryParentID>713</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:Pre-1600</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:13742</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>715</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Artifacts</CategoryName>
+     <CategoryParentID>13742</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:Pre-1600:Artifacts</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:13742:715</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13743</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Baskets</CategoryName>
+     <CategoryParentID>13742</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:Pre-1600:Baskets</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:13742:13743</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13744</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beads</CategoryName>
+     <CategoryParentID>13742</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:Pre-1600:Beads</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:13742:13744</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35807</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pipes</CategoryName>
+     <CategoryParentID>13742</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:Pre-1600:Pipes</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:13742:35807</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13747</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pottery</CategoryName>
+     <CategoryParentID>13742</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:Pre-1600:Pottery</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:13742:13747</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>716</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Nat. Am. Items Pre-1600</CategoryName>
+     <CategoryParentID>13742</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:Pre-1600:Other Nat. Am. Items Pre-1600</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:13742:716</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

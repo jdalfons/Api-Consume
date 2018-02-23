@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:07:09.704Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38004</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pins Patches and Buttons</CategoryName>
+     <CategoryParentID>1369</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Pins Patches and Buttons</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:38004</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66522</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Attraction and Ride Pins</CategoryName>
+     <CategoryParentID>38004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Pins Patches and Buttons:Attraction and Ride Pins</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:38004:66522</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38005</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cast Member Exclusives</CategoryName>
+     <CategoryParentID>38004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Pins Patches and Buttons:Cast Member Exclusives</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:38004:38005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50762</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Disney Characters and Movies</CategoryName>
+     <CategoryParentID>38004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Pins Patches and Buttons:Disney Characters and Movies</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:38004:50762</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38006</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Disney Cruise Line</CategoryName>
+     <CategoryParentID>38004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Pins Patches and Buttons:Disney Cruise Line</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:38004:38006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38007</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Disney Store</CategoryName>
+     <CategoryParentID>38004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Pins Patches and Buttons:Disney Store</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:38004:38007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38008</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Holiday Christmas</CategoryName>
+     <CategoryParentID>38004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Pins Patches and Buttons:Holiday Christmas</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:38004:38008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38010</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Theme Parks</CategoryName>
+     <CategoryParentID>38004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Pins Patches and Buttons:Theme Parks</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:38004:38010</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>143</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Disney Pins and Patches</CategoryName>
+     <CategoryParentID>38004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Pins Patches and Buttons:Other Disney Pins and Patches</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:38004:143</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

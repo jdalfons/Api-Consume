@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:21.112Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19273</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Packaging and Shipping</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183971</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Packing and Shipping Bags</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184244</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Filling and Sealing Machines</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Filling and Sealing Machines</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184244</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109699</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shipping and Cushioning Supplies</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184252</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Envelopes and Mailers</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Envelopes and Mailers</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184252</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184269</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shipping Labels and Tags</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping Labels and Tags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184269</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58263</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Letter Folders</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Letter Folders</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:58263</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109735</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Packing Tapes and Sealants</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing Tapes and Sealants</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109735</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184277</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Postage Meters</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Postage Meters</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184277</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180007</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Postage Meter Supplies</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Postage Meter Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:180007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109740</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shipping and Moving Boxes</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Moving Boxes</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109740</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184279</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shipping and Postal Scales</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Postal Scales</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184279</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50955</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shrink Wrap</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shrink Wrap</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:50955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1290</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Packaging and Shipping</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Other Packaging and Shipping</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:1290</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:42:52.970Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>86647</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Belt Buckles</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Belt Buckles</CategoryNamePath>
+     <CategoryIDPath>11450:4250:86647</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

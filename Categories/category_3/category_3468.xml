@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:27:08.252Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3468</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Australia</CategoryName>
+     <CategoryParentID>181424</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>153379</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>States and Territories</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:States and Territories</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:153379</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3470</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Booklets</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:Booklets</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:3470</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3472</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Covers</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:Covers</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:3472</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3473</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>FDCs</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:FDCs</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:3473</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3474</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flight Covers</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:Flight Covers</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:3474</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111861</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Individuals</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:Individuals</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:111861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23851</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kangaroos</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:Kangaroos</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:23851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3475</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plate Blocks/Multiples</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:Plate Blocks/Multiples</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:3475</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3476</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sheets</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:Sheets</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:3476</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3471</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Collections Lots</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:Collections Lots</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:3471</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80109</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Australian Stamps</CategoryName>
+     <CategoryParentID>3468</CategoryParentID>
+     <CategoryNamePath>Stamps:Australia and Oceania:Australia:Other Australian Stamps</CategoryNamePath>
+     <CategoryIDPath>260:181424:3468:80109</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

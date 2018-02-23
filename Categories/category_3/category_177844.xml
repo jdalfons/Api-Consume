@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:02.657Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177844</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bicycle Maintenance and Tools</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Maintenance and Tools</CategoryNamePath>
+     <CategoryIDPath>888:7294:177844</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123475</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lubrication and Cleaning</CategoryName>
+     <CategoryParentID>177844</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Maintenance and Tools:Lubrication and Cleaning</CategoryNamePath>
+     <CategoryIDPath>888:7294:177844:123475</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177845</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Puncture Repair</CategoryName>
+     <CategoryParentID>177844</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Maintenance and Tools:Puncture Repair</CategoryNamePath>
+     <CategoryIDPath>888:7294:177844:177845</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177846</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tools</CategoryName>
+     <CategoryParentID>177844</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Maintenance and Tools:Tools</CategoryNamePath>
+     <CategoryIDPath>888:7294:177844:177846</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177847</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Workstands</CategoryName>
+     <CategoryParentID>177844</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Maintenance and Tools:Workstands</CategoryNamePath>
+     <CategoryIDPath>888:7294:177844:177847</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177848</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Bike Maintenance and Tools</CategoryName>
+     <CategoryParentID>177844</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Maintenance and Tools:Other Bike Maintenance and Tools</CategoryNamePath>
+     <CategoryIDPath>888:7294:177844:177848</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

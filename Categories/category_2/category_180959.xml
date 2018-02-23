@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:48.485Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180959</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vitamins and Dietary Supplements</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements</CategoryNamePath>
+     <CategoryIDPath>26395:180959</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180960</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dietary Supplements</CategoryName>
+     <CategoryParentID>180959</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Dietary Supplements</CategoryNamePath>
+     <CategoryIDPath>26395:180959:180960</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184490</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dietary Supplement Accessories</CategoryName>
+     <CategoryParentID>180959</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Dietary Supplement Accessories</CategoryNamePath>
+     <CategoryIDPath>26395:180959:184490</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1278</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Endurance and Energy Bars Drinks and Pills</CategoryName>
+     <CategoryParentID>180959</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Endurance and Energy Bars Drinks and Pills</CategoryNamePath>
+     <CategoryIDPath>26395:180959:1278</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19260</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Herbs and Botanicals</CategoryName>
+     <CategoryParentID>180959</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Herbs and Botanicals</CategoryNamePath>
+     <CategoryIDPath>26395:180959:19260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97033</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sports Supplements</CategoryName>
+     <CategoryParentID>180959</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Sports Supplements</CategoryNamePath>
+     <CategoryIDPath>26395:180959:97033</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11776</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vitamins and Minerals</CategoryName>
+     <CategoryParentID>180959</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Vitamins and Minerals</CategoryNamePath>
+     <CategoryIDPath>26395:180959:11776</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31817</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Weight Management</CategoryName>
+     <CategoryParentID>180959</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Weight Management</CategoryNamePath>
+     <CategoryIDPath>26395:180959:31817</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19262</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Vitamins and Supplements</CategoryName>
+     <CategoryParentID>180959</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements:Other Vitamins and Supplements</CategoryNamePath>
+     <CategoryIDPath>26395:180959:19262</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

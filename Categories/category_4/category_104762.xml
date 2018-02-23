@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:28:33.235Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104762</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists J</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104957</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jackson Michael</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Jackson Michael</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:104957</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83181</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jackson Janet</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Jackson Janet</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:83181</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164034</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jane&apos;s Addiction</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Jane&apos;s Addiction</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:164034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164035</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jefferson Airplane</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Jefferson Airplane</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:164035</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164036</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jefferson Starship</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Jefferson Starship</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:164036</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164037</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jethro Tull</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Jethro Tull</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:164037</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164038</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jett Joan</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Jett Joan</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:164038</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104684</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Joel Billy</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Joel Billy</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:104684</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33006</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>John Elton</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:John Elton</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:33006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164039</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Johnson Jack</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Johnson Jack</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:164039</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164040</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jones Tom</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Jones Tom</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:164040</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33008</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Joplin Janis</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Joplin Janis</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:33008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164041</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jonas Brothers</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Jonas Brothers</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:164041</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104770</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Journey</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Journey</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:104770</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108824</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Joy Division</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Joy Division</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:108824</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104771</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Judas Priest</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Judas Priest</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:104771</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104764</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists J</CategoryName>
+     <CategoryParentID>104762</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists J:Other Rock and Pop Artists J</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104762:104764</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

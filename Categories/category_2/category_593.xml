@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:19:12.442Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>593</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Tobacciana</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana</CategoryNamePath>
+     <CategoryIDPath>1:593</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>594</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ashtrays</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Ashtrays</CategoryNamePath>
+     <CategoryIDPath>1:593:594</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38039</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cases</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Cases</CategoryNamePath>
+     <CategoryIDPath>1:593:38039</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cigarettes</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Cigarettes</CategoryNamePath>
+     <CategoryIDPath>1:593:44</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11671</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cigars</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Cigars</CategoryNamePath>
+     <CategoryIDPath>1:593:11671</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38041</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Felts and Silks</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Felts and Silks</CategoryNamePath>
+     <CategoryIDPath>1:593:38041</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112485</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hookahs</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Hookahs</CategoryNamePath>
+     <CategoryIDPath>1:593:112485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>951</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lighters</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters</CategoryNamePath>
+     <CategoryIDPath>1:593:951</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4117</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Match Holders</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Match Holders</CategoryNamePath>
+     <CategoryIDPath>1:593:4117</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73563</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Papers</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Papers</CategoryNamePath>
+     <CategoryIDPath>1:593:73563</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4118</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pipes</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Pipes</CategoryNamePath>
+     <CategoryIDPath>1:593:4118</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73564</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rollers and Makers</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Rollers and Makers</CategoryNamePath>
+     <CategoryIDPath>1:593:73564</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38052</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Signs</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Signs</CategoryNamePath>
+     <CategoryIDPath>1:593:38052</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75512</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Snuff Boxes</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Snuff Boxes</CategoryNamePath>
+     <CategoryIDPath>1:593:75512</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73565</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tags</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Tags</CategoryNamePath>
+     <CategoryIDPath>1:593:73565</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38053</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tins</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Tins</CategoryNamePath>
+     <CategoryIDPath>1:593:38053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4120</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tobacco Cards</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Tobacco Cards</CategoryNamePath>
+     <CategoryIDPath>1:593:4120</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171195</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:593:171195</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>133</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Tobacciana</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Other Tobacciana</CategoryNamePath>
+     <CategoryIDPath>1:593:133</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>19</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

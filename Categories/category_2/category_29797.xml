@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:17:30.957Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>29797</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bottles and Insulators</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators</CategoryNamePath>
+     <CategoryIDPath>1:29797</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39491</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bottles</CategoryName>
+     <CategoryParentID>29797</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>795</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Insulators</CategoryName>
+     <CategoryParentID>29797</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Insulators</CategoryNamePath>
+     <CategoryIDPath>1:29797:795</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171187</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>29797</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:29797:171187</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165335</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Collectible Bottles</CategoryName>
+     <CategoryParentID>29797</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Other Collectible Bottles</CategoryNamePath>
+     <CategoryIDPath>1:29797:165335</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

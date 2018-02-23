@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:13:49.720Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>149242</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Outdoor Cooking and Eating</CategoryName>
+     <CategoryParentID>159912</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Cooking and Eating</CategoryNamePath>
+     <CategoryIDPath>11700:159912:149242</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151621</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Barbecues Grills and Smokers</CategoryName>
+     <CategoryParentID>149242</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Cooking and Eating:Barbecues Grills and Smokers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:149242:151621</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79686</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Barbecue and Grill Covers</CategoryName>
+     <CategoryParentID>149242</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Cooking and Eating:Barbecue and Grill Covers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:149242:79686</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20725</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>BBQ Tools and Accessories</CategoryName>
+     <CategoryParentID>149242</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Cooking and Eating:BBQ Tools and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159912:149242:20725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177018</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>BBQ and Grill Replacement Parts</CategoryName>
+     <CategoryParentID>149242</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Cooking and Eating:BBQ and Grill Replacement Parts</CategoryNamePath>
+     <CategoryIDPath>11700:159912:149242:177018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85916</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fire Pits and Chimineas</CategoryName>
+     <CategoryParentID>149242</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Cooking and Eating:Fire Pits and Chimineas</CategoryNamePath>
+     <CategoryIDPath>11700:159912:149242:85916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79691</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ice Chests and Coolers</CategoryName>
+     <CategoryParentID>149242</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Cooking and Eating:Ice Chests and Coolers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:149242:79691</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79692</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Patio and Picnic Ware</CategoryName>
+     <CategoryParentID>149242</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Cooking and Eating:Patio and Picnic Ware</CategoryNamePath>
+     <CategoryIDPath>11700:159912:149242:79692</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38249</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Picnic Baskets and Backpacks</CategoryName>
+     <CategoryParentID>149242</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Cooking and Eating:Picnic Baskets and Backpacks</CategoryNamePath>
+     <CategoryIDPath>11700:159912:149242:38249</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159926</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Outdoor Cooking and Eating</CategoryName>
+     <CategoryParentID>149242</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Cooking and Eating:Other Outdoor Cooking and Eating</CategoryNamePath>
+     <CategoryIDPath>11700:159912:149242:159926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

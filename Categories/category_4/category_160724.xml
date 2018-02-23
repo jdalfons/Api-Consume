@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:23:17.438Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>160724</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Embroidery Machine Supplies</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41383</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Design Cards and CDs</CategoryName>
+     <CategoryParentID>160724</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies:Design Cards and CDs</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724:41383</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71197</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Digitizing Software</CategoryName>
+     <CategoryParentID>160724</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies:Digitizing Software</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724:71197</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134586</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Embroidery Machine Needles</CategoryName>
+     <CategoryParentID>160724</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies:Embroidery Machine Needles</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724:134586</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183194</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Embroidery Machine Parts</CategoryName>
+     <CategoryParentID>160724</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies:Embroidery Machine Parts</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724:183194</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146356</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Embroidery Machine Patterns</CategoryName>
+     <CategoryParentID>160724</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies:Embroidery Machine Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724:146356</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83920</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Machine Bobbins and Thread</CategoryName>
+     <CategoryParentID>160724</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies:Machine Bobbins and Thread</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724:83920</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41384</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hoops and Placement Tools</CategoryName>
+     <CategoryParentID>160724</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies:Hoops and Placement Tools</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724:41384</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41386</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stabilizers</CategoryName>
+     <CategoryParentID>160724</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies:Stabilizers</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724:41386</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160725</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Machine Embroidery</CategoryName>
+     <CategoryParentID>160724</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Embroidery Machine Supplies:Other Machine Embroidery</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:160724:160725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

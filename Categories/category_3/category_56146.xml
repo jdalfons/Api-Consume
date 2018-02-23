@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:16:17.723Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>56146</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Necklaces</CategoryName>
+     <CategoryParentID>40131</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Necklaces</CategoryNamePath>
+     <CategoryIDPath>281:40131:56146</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56147</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bead</CategoryName>
+     <CategoryParentID>56146</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Necklaces:Bead</CategoryNamePath>
+     <CategoryIDPath>281:40131:56146:56147</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64510</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gemstone</CategoryName>
+     <CategoryParentID>56146</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Necklaces:Gemstone</CategoryNamePath>
+     <CategoryIDPath>281:40131:56146:64510</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45078</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sterling Silver (w/o Stone)</CategoryName>
+     <CategoryParentID>56146</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Necklaces:Sterling Silver (w/o Stone)</CategoryNamePath>
+     <CategoryIDPath>281:40131:56146:45078</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64511</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>56146</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Necklaces:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>281:40131:56146:64511</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56148</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wholesale Necklaces</CategoryName>
+     <CategoryParentID>56146</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Necklaces:Other Wholesale Necklaces</CategoryNamePath>
+     <CategoryIDPath>281:40131:56146:56148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

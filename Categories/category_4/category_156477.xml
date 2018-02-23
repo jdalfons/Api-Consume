@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:13:27.767Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156477</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Metal Thermoses</CategoryName>
+     <CategoryParentID>1409</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Lunchboxes Thermoses:Metal Thermoses</CategoryNamePath>
+     <CategoryIDPath>1:39507:1409:156477</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156478</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pre-1970</CategoryName>
+     <CategoryParentID>156477</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Lunchboxes Thermoses:Metal Thermoses:Pre-1970</CategoryNamePath>
+     <CategoryIDPath>1:39507:1409:156477:156478</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156479</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1970-Now</CategoryName>
+     <CategoryParentID>156477</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Lunchboxes Thermoses:Metal Thermoses:1970-Now</CategoryNamePath>
+     <CategoryIDPath>1:39507:1409:156477:156479</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

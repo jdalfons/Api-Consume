@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:42.895Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>9394</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Cell Phone Accessories</CategoryName>
+     <CategoryParentID>15032</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories</CategoryNamePath>
+     <CategoryIDPath>15032:9394</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58543</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Accessory Bundles</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Accessory Bundles</CategoryNamePath>
+     <CategoryIDPath>15032:9394:58543</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166030</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Armbands</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Armbands</CategoryNamePath>
+     <CategoryIDPath>15032:9394:166030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>132297</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Audio Docks and Speakers</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Audio Docks and Speakers</CategoryNamePath>
+     <CategoryIDPath>15032:9394:132297</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20357</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Batteries</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Batteries</CategoryNamePath>
+     <CategoryIDPath>15032:9394:20357</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123422</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cables and Adapters</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Cables and Adapters</CategoryNamePath>
+     <CategoryIDPath>15032:9394:123422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88468</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Car Speakerphones</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Car Speakerphones</CategoryNamePath>
+     <CategoryIDPath>15032:9394:88468</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20349</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cases Covers and Skins</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Cases Covers and Skins</CategoryNamePath>
+     <CategoryIDPath>15032:9394:20349</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123417</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chargers and Cradles</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Chargers and Cradles</CategoryNamePath>
+     <CategoryIDPath>15032:9394:123417</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20373</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Faceplates Decals and Stickers</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Faceplates Decals and Stickers</CategoryNamePath>
+     <CategoryIDPath>15032:9394:20373</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146504</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>FM Transmitters</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:FM Transmitters</CategoryNamePath>
+     <CategoryIDPath>15032:9394:146504</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80077</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Headsets</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Headsets</CategoryNamePath>
+     <CategoryIDPath>15032:9394:80077</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43307</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Manuals and Guides</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Manuals and Guides</CategoryNamePath>
+     <CategoryIDPath>15032:9394:43307</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>96991</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Memory Cards</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Memory Cards</CategoryNamePath>
+     <CategoryIDPath>15032:9394:96991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48571</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Memory Card Readers and Adapters</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Memory Card Readers and Adapters</CategoryNamePath>
+     <CategoryIDPath>15032:9394:48571</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35190</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mounts and Holders</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Mounts and Holders</CategoryNamePath>
+     <CategoryIDPath>15032:9394:35190</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179406</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Port Dust Covers</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Port Dust Covers</CategoryNamePath>
+     <CategoryIDPath>15032:9394:179406</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58540</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Screen Protectors</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Screen Protectors</CategoryNamePath>
+     <CategoryIDPath>15032:9394:58540</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>68030</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Signal Boosters</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Signal Boosters</CategoryNamePath>
+     <CategoryIDPath>15032:9394:68030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122962</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Straps and Charms</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Straps and Charms</CategoryNamePath>
+     <CategoryIDPath>15032:9394:122962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48677</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Styluses</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Styluses</CategoryNamePath>
+     <CategoryIDPath>15032:9394:48677</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42425</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Cell Phone Accessories</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Other Cell Phone Accessories</CategoryNamePath>
+     <CategoryIDPath>15032:9394:42425</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>22</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

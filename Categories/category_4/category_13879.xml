@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:07:45.329Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13879</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fairs and Expositions</CategoryName>
+     <CategoryParentID>165513</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fairs Parks and Architecture:Fairs and Expositions</CategoryNamePath>
+     <CategoryIDPath>1:13877:165513:13879</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1541</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>County and State Fairs</CategoryName>
+     <CategoryParentID>13879</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fairs Parks and Architecture:Fairs and Expositions:County and State Fairs</CategoryNamePath>
+     <CategoryIDPath>1:13877:165513:13879:1541</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4162</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>World’s Fairs</CategoryName>
+     <CategoryParentID>13879</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fairs Parks and Architecture:Fairs and Expositions:World’s Fairs</CategoryNamePath>
+     <CategoryIDPath>1:13877:165513:13879:4162</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1460</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Fairs and Expositions</CategoryName>
+     <CategoryParentID>13879</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fairs Parks and Architecture:Fairs and Expositions:Other Fairs and Expositions</CategoryNamePath>
+     <CategoryIDPath>1:13877:165513:13879:1460</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:44.845Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183046</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>X-Men Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:X-Men Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183046</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48829</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Singles</CategoryName>
+     <CategoryParentID>183046</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:X-Men Trading Cards:Trading Card Singles</CategoryNamePath>
+     <CategoryIDPath>1:182982:183046:48829</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183047</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Lots</CategoryName>
+     <CategoryParentID>183046</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:X-Men Trading Cards:Trading Card Lots</CategoryNamePath>
+     <CategoryIDPath>1:182982:183046:183047</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183048</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete Trading Card Sets</CategoryName>
+     <CategoryParentID>183046</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:X-Men Trading Cards:Complete Trading Card Sets</CategoryNamePath>
+     <CategoryIDPath>1:182982:183046:183048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183049</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sealed Trading Cards</CategoryName>
+     <CategoryParentID>183046</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:X-Men Trading Cards:Sealed Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183046:183049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

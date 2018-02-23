@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:23:45.004Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>113344</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Die Cut and Embossing Machines</CategoryName>
+     <CategoryParentID>183239</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Die Cutting and Embossing:Die Cut and Embossing Machines</CategoryNamePath>
+     <CategoryIDPath>14339:11788:183239:113344</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

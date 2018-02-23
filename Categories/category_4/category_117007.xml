@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:47:31.596Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>117007</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Labels</CategoryName>
+     <CategoryParentID>58271</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Labels</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:117007</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117008</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Address and Shipping Labels</CategoryName>
+     <CategoryParentID>117007</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Labels:Address and Shipping Labels</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:117007:117008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44931</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>CD DVD and Disk Labels</CategoryName>
+     <CategoryParentID>117007</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Labels:CD DVD and Disk Labels</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:117007:44931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117009</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Inkjet Labels</CategoryName>
+     <CategoryParentID>117007</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Labels:Inkjet Labels</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:117007:117009</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117010</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Laser Labels</CategoryName>
+     <CategoryParentID>117007</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Labels:Laser Labels</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:117007:117010</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117012</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Return Address Labels</CategoryName>
+     <CategoryParentID>117007</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Labels:Return Address Labels</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:117007:117012</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117013</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thermal Labels</CategoryName>
+     <CategoryParentID>117007</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Labels:Thermal Labels</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:117007:117013</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20163</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Office Labels</CategoryName>
+     <CategoryParentID>117007</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Labels:Other Office Labels</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:117007:20163</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:15.098Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>110633</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Handcrafted Artisan Jewelry</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:110633</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152806</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Altered Art</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Altered Art</CategoryNamePath>
+     <CategoryIDPath>281:110633:152806</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>110634</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Anklets</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Anklets</CategoryNamePath>
+     <CategoryIDPath>281:110633:110634</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>110635</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bracelets</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Bracelets</CategoryNamePath>
+     <CategoryIDPath>281:110633:110635</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152807</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Brooches Pins</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Brooches Pins</CategoryNamePath>
+     <CategoryIDPath>281:110633:152807</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>110645</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Earrings</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Earrings</CategoryNamePath>
+     <CategoryIDPath>281:110633:110645</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164350</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Eyeglass Chains</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Eyeglass Chains</CategoryNamePath>
+     <CategoryIDPath>281:110633:164350</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164351</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hair Jewelry</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Hair Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:110633:164351</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150143</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lanyards</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Lanyards</CategoryNamePath>
+     <CategoryIDPath>281:110633:150143</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>110655</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Necklaces and Pendants</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Necklaces and Pendants</CategoryNamePath>
+     <CategoryIDPath>281:110633:110655</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>110666</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rings</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Rings</CategoryNamePath>
+     <CategoryIDPath>281:110633:110666</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34071</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sets</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Sets</CategoryNamePath>
+     <CategoryIDPath>281:110633:34071</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>110667</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Watches</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Watches</CategoryNamePath>
+     <CategoryIDPath>281:110633:110667</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12519</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Artisan Jewelry</CategoryName>
+     <CategoryParentID>110633</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Handcrafted Artisan Jewelry:Other Artisan Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:110633:12519</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

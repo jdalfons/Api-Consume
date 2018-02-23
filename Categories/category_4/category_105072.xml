@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:29:18.313Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>105072</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists X-Z</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists X-Z</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105072</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164104</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Yes</CategoryName>
+     <CategoryParentID>105072</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists X-Z:Yes</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105072:164104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104978</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Young Neil</CategoryName>
+     <CategoryParentID>105072</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists X-Z:Young Neil</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105072:104978</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164105</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Zombie Rob</CategoryName>
+     <CategoryParentID>105072</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists X-Z:Zombie Rob</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105072:164105</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164106</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Zappa Frank</CategoryName>
+     <CategoryParentID>105072</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists X-Z:Zappa Frank</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105072:164106</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53284</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>ZZ Top</CategoryName>
+     <CategoryParentID>105072</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists X-Z:ZZ Top</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105072:53284</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105073</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists X-Z</CategoryName>
+     <CategoryParentID>105072</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists X-Z:Other Rock and Pop Artists X-Z</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105072:105073</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

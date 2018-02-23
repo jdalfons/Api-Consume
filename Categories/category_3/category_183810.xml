@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:08.237Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183810</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Access Control Equipment</CategoryName>
+     <CategoryParentID>11897</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Access Control Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183810</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66972</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Intercom Systems</CategoryName>
+     <CategoryParentID>183810</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Access Control Equipment:Intercom Systems</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183810:66972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183811</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Key Management Supplies</CategoryName>
+     <CategoryParentID>183810</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Access Control Equipment:Key Management Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183810:183811</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183817</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Keyless Access Systems</CategoryName>
+     <CategoryParentID>183810</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Access Control Equipment:Keyless Access Systems</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183810:183817</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67029</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lock Boxes</CategoryName>
+     <CategoryParentID>183810</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Access Control Equipment:Lock Boxes</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183810:67029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183820</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Locks</CategoryName>
+     <CategoryParentID>183810</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Access Control Equipment:Locks</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183810:183820</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183829</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Locksmith Equipment</CategoryName>
+     <CategoryParentID>183810</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Access Control Equipment:Locksmith Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183810:183829</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11906</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Safes</CategoryName>
+     <CategoryParentID>183810</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Access Control Equipment:Safes</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183810:11906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183837</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Access Control Equipment</CategoryName>
+     <CategoryParentID>183810</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Access Control Equipment:Other Access Control Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183810:183837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

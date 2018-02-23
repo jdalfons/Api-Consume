@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:29:25.220Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2616</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Slot Cars</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars</CategoryNamePath>
+     <CategoryIDPath>220:2616</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164785</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>2616</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars:Accessories</CategoryNamePath>
+     <CategoryIDPath>220:2616:164785</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164787</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>HO Scale</CategoryName>
+     <CategoryParentID>2616</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars:HO Scale</CategoryNamePath>
+     <CategoryIDPath>220:2616:164787</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164789</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1/24 Scale</CategoryName>
+     <CategoryParentID>2616</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars:1/24 Scale</CategoryNamePath>
+     <CategoryIDPath>220:2616:164789</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164791</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1/32 Scale</CategoryName>
+     <CategoryParentID>2616</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars:1/32 Scale</CategoryNamePath>
+     <CategoryIDPath>220:2616:164791</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164793</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1/43 Scale</CategoryName>
+     <CategoryParentID>2616</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars:1/43 Scale</CategoryNamePath>
+     <CategoryIDPath>220:2616:164793</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>776</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Slot Cars</CategoryName>
+     <CategoryParentID>2616</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars:Other Slot Cars</CategoryNamePath>
+     <CategoryIDPath>220:2616:776</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

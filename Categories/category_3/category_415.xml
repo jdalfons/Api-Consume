@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:56:49.688Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>415</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Rocks Fossils Minerals</CategoryName>
+     <CategoryParentID>3213</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Other Rocks Fossils Minerals</CategoryNamePath>
+     <CategoryIDPath>1:3213:415</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

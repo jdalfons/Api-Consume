@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:21:12.363Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3122</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Stamping and Embossing</CategoryName>
+     <CategoryParentID>14339</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing</CategoryNamePath>
+     <CategoryIDPath>14339:3122</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84008</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Embossing Powders</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Embossing Powders</CategoryNamePath>
+     <CategoryIDPath>14339:3122:84008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116689</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Idea Books and Instructions</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Idea Books and Instructions</CategoryNamePath>
+     <CategoryIDPath>14339:3122:116689</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11795</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ink and Pads</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Ink and Pads</CategoryNamePath>
+     <CategoryIDPath>14339:3122:11795</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16506</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kits</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Kits</CategoryNamePath>
+     <CategoryIDPath>14339:3122:16506</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3123</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Paper and Envelopes</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Paper and Envelopes</CategoryNamePath>
+     <CategoryIDPath>14339:3122:3123</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31740</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stamps</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Stamps</CategoryNamePath>
+     <CategoryIDPath>14339:3122:31740</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41267</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stamp Collections and Mixed Lots</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Stamp Collections and Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>14339:3122:41267</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134783</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stamp Handles and Mounts</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Stamp Handles and Mounts</CategoryNamePath>
+     <CategoryIDPath>14339:3122:134783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16507</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tools and Equipment</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Tools and Equipment</CategoryNamePath>
+     <CategoryIDPath>14339:3122:16507</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>905</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Stamping and Embossing</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Other Stamping and Embossing</CategoryNamePath>
+     <CategoryIDPath>14339:3122:905</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

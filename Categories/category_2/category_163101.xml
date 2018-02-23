@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:15.848Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>163101</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Restoration and Care</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Restoration and Care</CategoryNamePath>
+     <CategoryIDPath>20081:163101</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163102</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cleaners and Polish</CategoryName>
+     <CategoryParentID>163101</CategoryParentID>
+     <CategoryNamePath>Antiques:Restoration and Care:Cleaners and Polish</CategoryNamePath>
+     <CategoryIDPath>20081:163101:163102</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163104</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Storage and Display</CategoryName>
+     <CategoryParentID>163101</CategoryParentID>
+     <CategoryNamePath>Antiques:Restoration and Care:Storage and Display</CategoryNamePath>
+     <CategoryIDPath>20081:163101:163104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163105</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Antique Restoration</CategoryName>
+     <CategoryParentID>163101</CategoryParentID>
+     <CategoryNamePath>Antiques:Restoration and Care:Other Antique Restoration</CategoryNamePath>
+     <CategoryIDPath>20081:163101:163105</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

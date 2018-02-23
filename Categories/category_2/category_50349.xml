@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:48.892Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>50349</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>eBay Auction Services</CategoryName>
+     <CategoryParentID>316</CategoryParentID>
+     <CategoryNamePath>Specialty Services:eBay Auction Services</CategoryNamePath>
+     <CategoryIDPath>316:50349</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50350</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Appraisal and Authentication</CategoryName>
+     <CategoryParentID>50349</CategoryParentID>
+     <CategoryNamePath>Specialty Services:eBay Auction Services:Appraisal and Authentication</CategoryNamePath>
+     <CategoryIDPath>316:50349:50350</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152950</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>eBay Stores Design</CategoryName>
+     <CategoryParentID>50349</CategoryParentID>
+     <CategoryNamePath>Specialty Services:eBay Auction Services:eBay Stores Design</CategoryNamePath>
+     <CategoryIDPath>316:50349:152950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50351</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Listing Services</CategoryName>
+     <CategoryParentID>50349</CategoryParentID>
+     <CategoryNamePath>Specialty Services:eBay Auction Services:Listing Services</CategoryNamePath>
+     <CategoryIDPath>316:50349:50351</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50352</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Packing and Shipping</CategoryName>
+     <CategoryParentID>50349</CategoryParentID>
+     <CategoryNamePath>Specialty Services:eBay Auction Services:Packing and Shipping</CategoryNamePath>
+     <CategoryIDPath>316:50349:50352</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50353</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shopping Assistance</CategoryName>
+     <CategoryParentID>50349</CategoryParentID>
+     <CategoryNamePath>Specialty Services:eBay Auction Services:Shopping Assistance</CategoryNamePath>
+     <CategoryIDPath>316:50349:50353</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50354</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other eBay Auction Services</CategoryName>
+     <CategoryParentID>50349</CategoryParentID>
+     <CategoryNamePath>Specialty Services:eBay Auction Services:Other eBay Auction Services</CategoryNamePath>
+     <CategoryIDPath>316:50349:50354</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

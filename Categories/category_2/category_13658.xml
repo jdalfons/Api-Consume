@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:17:17.285Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13658</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Animation Art and Characters</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters</CategoryNamePath>
+     <CategoryIDPath>1:13658</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1529</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Animation Art</CategoryName>
+     <CategoryParentID>13658</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Art</CategoryNamePath>
+     <CategoryIDPath>1:13658:1529</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1344</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Animation Characters</CategoryName>
+     <CategoryParentID>13658</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11118</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Japanese Anime</CategoryName>
+     <CategoryParentID>13658</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171182</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>13658</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:13658:171182</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

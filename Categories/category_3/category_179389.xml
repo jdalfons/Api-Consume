@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:28:03.754Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179389</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Turks and Caicos Is. (1976-Now)</CategoryName>
+     <CategoryParentID>179377</CategoryParentID>
+     <CategoryNamePath>Stamps:Caribbean:Turks and Caicos Is. (1976-Now)</CategoryNamePath>
+     <CategoryIDPath>260:179377:179389</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

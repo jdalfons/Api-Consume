@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:11:15.407Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156406</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>13962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Reproductions</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156406</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156407</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Australia ANZAC</CategoryName>
+     <CategoryParentID>156406</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Reproductions:Australia ANZAC</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156406:156407</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156408</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Canada</CategoryName>
+     <CategoryParentID>156406</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Reproductions:Canada</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156406:156408</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156409</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Germany</CategoryName>
+     <CategoryParentID>156406</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Reproductions:Germany</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156406:156409</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156410</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Great Britain</CategoryName>
+     <CategoryParentID>156406</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Reproductions:Great Britain</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156406:156410</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156411</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>France</CategoryName>
+     <CategoryParentID>156406</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Reproductions:France</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156406:156411</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156412</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Russia</CategoryName>
+     <CategoryParentID>156406</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Reproductions:Russia</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156406:156412</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156413</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>United States</CategoryName>
+     <CategoryParentID>156406</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Reproductions:United States</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156406:156413</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156414</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other WWI Reproductions</CategoryName>
+     <CategoryParentID>156406</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW I (1914-18):Reproductions:Other WWI Reproductions</CategoryNamePath>
+     <CategoryIDPath>1:13956:13962:156406:156414</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

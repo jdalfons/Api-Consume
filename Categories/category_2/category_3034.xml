@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:28.488Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3034</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Women&apos;s Shoes</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:3034</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95672</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Athletic</CategoryName>
+     <CategoryParentID>3034</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Shoes:Athletic</CategoryNamePath>
+     <CategoryIDPath>11450:3034:95672</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53557</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boots</CategoryName>
+     <CategoryParentID>3034</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Shoes:Boots</CategoryNamePath>
+     <CategoryIDPath>11450:3034:53557</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45333</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flats and Oxfords</CategoryName>
+     <CategoryParentID>3034</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Shoes:Flats and Oxfords</CategoryNamePath>
+     <CategoryIDPath>11450:3034:45333</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55793</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Heels</CategoryName>
+     <CategoryParentID>3034</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Shoes:Heels</CategoryNamePath>
+     <CategoryIDPath>11450:3034:55793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53548</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Occupational</CategoryName>
+     <CategoryParentID>3034</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Shoes:Occupational</CategoryNamePath>
+     <CategoryIDPath>11450:3034:53548</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62107</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sandals and Flip Flops</CategoryName>
+     <CategoryParentID>3034</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Shoes:Sandals and Flip Flops</CategoryNamePath>
+     <CategoryIDPath>11450:3034:62107</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11632</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Slippers</CategoryName>
+     <CategoryParentID>3034</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Shoes:Slippers</CategoryNamePath>
+     <CategoryIDPath>11450:3034:11632</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63889</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mixed Items and Lots</CategoryName>
+     <CategoryParentID>3034</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Shoes:Mixed Items and Lots</CategoryNamePath>
+     <CategoryIDPath>11450:3034:63889</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

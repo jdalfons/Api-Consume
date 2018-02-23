@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:34:31.393Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>102487</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wholesale Lists</CategoryName>
+     <CategoryParentID>102480</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:Wholesale Lists</CategoryNamePath>
+     <CategoryIDPath>99:102480:102487</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102488</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bikes Scooters</CategoryName>
+     <CategoryParentID>102487</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:Wholesale Lists:Bikes Scooters</CategoryNamePath>
+     <CategoryIDPath>99:102480:102487:102488</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102489</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing and Accessories</CategoryName>
+     <CategoryParentID>102487</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:Wholesale Lists:Clothing and Accessories</CategoryNamePath>
+     <CategoryIDPath>99:102480:102487:102489</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102490</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Computers and Networking</CategoryName>
+     <CategoryParentID>102487</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:Wholesale Lists:Computers and Networking</CategoryNamePath>
+     <CategoryIDPath>99:102480:102487:102490</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102491</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Consumer Electronics</CategoryName>
+     <CategoryParentID>102487</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:Wholesale Lists:Consumer Electronics</CategoryNamePath>
+     <CategoryIDPath>99:102480:102487:102491</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102492</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Whlsl List Info Products</CategoryName>
+     <CategoryParentID>102487</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:Wholesale Lists:Other Whlsl List Info Products</CategoryNamePath>
+     <CategoryIDPath>99:102480:102487:102492</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

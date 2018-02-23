@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:53:16.112Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>81</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kitchenware</CategoryName>
+     <CategoryParentID>13905</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware</CategoryNamePath>
+     <CategoryIDPath>1:13905:81</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29801</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bakeware</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Bakeware</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:29801</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13921</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxes Bread</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Boxes Bread</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:13921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38133</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxes Other</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Boxes Other</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38133</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50786</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Butter Churns</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Butter Churns</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:50786</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13922</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cake Carriers Savers</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Cake Carriers Savers</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:13922</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38134</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canisters</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Canisters</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38134</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38137</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cookie Cutters</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Cookie Cutters</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38137</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4047</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cookie Jars</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Cookie Jars</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:4047</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165566</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cookie Stamps</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Cookie Stamps</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:165566</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>974</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cookware</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Cookware</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:974</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14898</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Egg Cups</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Egg Cups</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:14898</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>977</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Graniteware</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Graniteware</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:977</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13925</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixing Bowls</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Mixing Bowls</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:13925</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13926</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Molds</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Molds</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:13926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38148</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mugs</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Mugs</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38148</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13927</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Napkin Holders</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Napkin Holders</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:13927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14900</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pie Birds</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Pie Birds</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:14900</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13934</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plastic Containers</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Plastic Containers</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:13934</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4049</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Salt and Pepper Shakers</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Salt and Pepper Shakers</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:4049</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14901</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Serving Trays</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Serving Trays</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:14901</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11650</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Small Appliances</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13932</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spice Racks Jars</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Spice Racks Jars</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:13932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14902</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spoon Rests</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Spoon Rests</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:14902</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13933</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tea Kettles</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Tea Kettles</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:13933</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29810</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Timers</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Timers</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:29810</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11656</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trivets</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Trivets</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11656</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11658</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Utensils</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Utensils</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11658</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Kitchenware</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Other Collectible Kitchenware</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:82</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>29</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

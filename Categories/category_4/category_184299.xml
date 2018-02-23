@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:39:34.051Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184299</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Laundry Detergents and Softeners</CategoryName>
+     <CategoryParentID>184297</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Laundry Carts Bags and Cleaners:Laundry Detergents and Softeners</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184297:184299</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184300</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Laundry Liquids</CategoryName>
+     <CategoryParentID>184299</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Laundry Carts Bags and Cleaners:Laundry Detergents and Softeners:Laundry Liquids</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184297:184299:184300</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184301</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Laundry Powders</CategoryName>
+     <CategoryParentID>184299</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Laundry Carts Bags and Cleaners:Laundry Detergents and Softeners:Laundry Powders</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184297:184299:184301</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184302</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Single-Use Laundry Packs/Pods</CategoryName>
+     <CategoryParentID>184299</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Laundry Carts Bags and Cleaners:Laundry Detergents and Softeners:Single-Use Laundry Packs/Pods</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184297:184299:184302</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184303</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Laundry Sheets and Wipes</CategoryName>
+     <CategoryParentID>184299</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Laundry Carts Bags and Cleaners:Laundry Detergents and Softeners:Laundry Sheets and Wipes</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184297:184299:184303</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184305</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Laundry Sticks</CategoryName>
+     <CategoryParentID>184299</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Laundry Carts Bags and Cleaners:Laundry Detergents and Softeners:Laundry Sticks</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184297:184299:184305</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

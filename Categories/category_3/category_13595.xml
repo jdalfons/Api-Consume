@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:47:36.126Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13595</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Household</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Household</CategoryNamePath>
+     <CategoryIDPath>1:34:13595</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13596</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Appliances</CategoryName>
+     <CategoryParentID>13595</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Household:Appliances</CategoryNamePath>
+     <CategoryIDPath>1:34:13595:13596</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165252</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Furniture</CategoryName>
+     <CategoryParentID>13595</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Household:Furniture</CategoryNamePath>
+     <CategoryIDPath>1:34:13595:165252</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165253</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Home Décor</CategoryName>
+     <CategoryParentID>13595</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Household:Home Décor</CategoryNamePath>
+     <CategoryIDPath>1:34:13595:165253</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21098</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paint and Varnish</CategoryName>
+     <CategoryParentID>13595</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Household:Paint and Varnish</CategoryNamePath>
+     <CategoryIDPath>1:34:13595:21098</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>876</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Soap and Detergent</CategoryName>
+     <CategoryParentID>13595</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Household:Soap and Detergent</CategoryNamePath>
+     <CategoryIDPath>1:34:13595:876</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1527</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Household Ads</CategoryName>
+     <CategoryParentID>13595</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Household:Other Household Ads</CategoryNamePath>
+     <CategoryIDPath>1:34:13595:1527</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:09:23.067Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>168005</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figures</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Figures</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:168005</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48801</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Angels</CategoryName>
+     <CategoryParentID>168005</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Figures:Angels</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:168005:48801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168006</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Elves</CategoryName>
+     <CategoryParentID>168005</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Figures:Elves</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:168005:168006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95130</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Reindeer</CategoryName>
+     <CategoryParentID>168005</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Figures:Reindeer</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:168005:95130</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1090</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Santa</CategoryName>
+     <CategoryParentID>168005</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Figures:Santa</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:168005:1090</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48811</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sleighs</CategoryName>
+     <CategoryParentID>168005</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Figures:Sleighs</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:168005:48811</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48812</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Snowmen</CategoryName>
+     <CategoryParentID>168005</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Figures:Snowmen</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:168005:48812</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168007</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Curr. Christmas Figures</CategoryName>
+     <CategoryParentID>168005</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Figures:Other Curr. Christmas Figures</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:168005:168007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

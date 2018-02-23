@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:11:01.955Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10951</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Original Period Items</CategoryName>
+     <CategoryParentID>156377</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Revolutionary War (1775-83):Original Period Items</CategoryNamePath>
+     <CategoryIDPath>1:13956:156377:10951</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

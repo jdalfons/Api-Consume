@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:42:47.940Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>152345</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kids&apos; Dancewear</CategoryName>
+     <CategoryParentID>112425</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152352</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dresses and Tutus</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Dresses and Tutus</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:152352</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163137</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leg Warmers</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Leg Warmers</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:163137</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152353</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leggings and Tights</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Leggings and Tights</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:152353</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152354</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leotards and Unitards</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Leotards and Unitards</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:152354</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152355</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outfits</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Outfits</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:152355</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163138</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pants and Shorts</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Pants and Shorts</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:163138</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152356</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tops Shirts</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Tops Shirts</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:152356</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152357</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Totes Duffel Bags</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Totes Duffel Bags</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:152357</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152358</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dance Accessories</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Dance Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:152358</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152359</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lots</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Lots</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:152359</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112426</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Kids&apos; Dancewear</CategoryName>
+     <CategoryParentID>152345</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear:Other Kids&apos; Dancewear</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345:112426</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

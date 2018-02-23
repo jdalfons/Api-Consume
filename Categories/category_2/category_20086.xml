@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:48.473Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20086</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Decorative Arts</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts</CategoryNamePath>
+     <CategoryIDPath>20081:20086</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63521</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ceramics and Porcelain</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63537</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clocks</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Clocks</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63537</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63538</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Glass</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Glass</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63538</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63547</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lamps</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Lamps</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63547</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1211</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Metalware</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Metalware</CategoryNamePath>
+     <CategoryIDPath>20081:20086:1211</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20089</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mirrors</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Mirrors</CategoryNamePath>
+     <CategoryIDPath>20081:20086:20089</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40024</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Picture Frames</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Picture Frames</CategoryNamePath>
+     <CategoryIDPath>20081:20086:40024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1218</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Toleware</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Toleware</CategoryNamePath>
+     <CategoryIDPath>20081:20086:1218</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37941</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Woodenware</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Woodenware</CategoryNamePath>
+     <CategoryIDPath>20081:20086:37941</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171172</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>20081:20086:171172</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73467</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Antique Decorative Arts</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Other Antique Decorative Arts</CategoryNamePath>
+     <CategoryIDPath>20081:20086:73467</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:09:49.313Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>25451</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Soap Dishes and Dispensers</CategoryName>
+     <CategoryParentID>26677</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bath:Soap Dishes and Dispensers</CategoryNamePath>
+     <CategoryIDPath>11700:26677:25451</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

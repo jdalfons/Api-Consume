@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:47:34.535Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>170068</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hotel and Motel</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Hotel and Motel</CategoryNamePath>
+     <CategoryIDPath>1:34:170068</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170069</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Advertising-Print</CategoryName>
+     <CategoryParentID>170068</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Hotel and Motel:Advertising-Print</CategoryNamePath>
+     <CategoryIDPath>1:34:170068:170069</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170070</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dinnerware and Serving Pieces</CategoryName>
+     <CategoryParentID>170068</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Hotel and Motel:Dinnerware and Serving Pieces</CategoryNamePath>
+     <CategoryIDPath>1:34:170068:170070</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170071</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Luggage Labels</CategoryName>
+     <CategoryParentID>170068</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Hotel and Motel:Luggage Labels</CategoryNamePath>
+     <CategoryIDPath>1:34:170068:170071</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170072</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Room Keys</CategoryName>
+     <CategoryParentID>170068</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Hotel and Motel:Room Keys</CategoryNamePath>
+     <CategoryIDPath>1:34:170068:170072</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27173</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Hotel and Motel Ads</CategoryName>
+     <CategoryParentID>170068</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Hotel and Motel:Other Hotel and Motel Ads</CategoryNamePath>
+     <CategoryIDPath>1:34:170068:27173</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

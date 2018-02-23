@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:15:29.876Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165719</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vegetation</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Vegetation</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165719</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165720</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Plants</CategoryName>
+     <CategoryParentID>165719</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Vegetation:Plants</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165719:165720</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3219</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Petrified Wood</CategoryName>
+     <CategoryParentID>165719</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Vegetation:Petrified Wood</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165719:3219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165721</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Vegetation Fossils</CategoryName>
+     <CategoryParentID>165719</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Vegetation:Other Vegetation Fossils</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165719:165721</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

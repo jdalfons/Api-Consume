@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:10.565Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>74050</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Swimming</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimming</CategoryNamePath>
+     <CategoryIDPath>888:159136:74050</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74051</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Goggles</CategoryName>
+     <CategoryParentID>74050</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimming:Goggles</CategoryNamePath>
+     <CategoryIDPath>888:159136:74050:74051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79801</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Inflatable Floats and Tubes</CategoryName>
+     <CategoryParentID>74050</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimming:Inflatable Floats and Tubes</CategoryNamePath>
+     <CategoryIDPath>888:159136:74050:79801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159175</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Training Aids</CategoryName>
+     <CategoryParentID>74050</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimming:Training Aids</CategoryNamePath>
+     <CategoryIDPath>888:159136:74050:159175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36269</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Swimming</CategoryName>
+     <CategoryParentID>74050</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimming:Other Swimming</CategoryNamePath>
+     <CategoryIDPath>888:159136:74050:36269</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

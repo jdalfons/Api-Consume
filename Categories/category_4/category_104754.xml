@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:28:28.204Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104754</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists H</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164026</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hall and Oates</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Hall and Oates</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:164026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108823</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hanson</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Hanson</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:108823</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29905</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hard Rock Café</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Hard Rock Café</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:29905</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164027</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Harper Ben</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Harper Ben</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:164027</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164028</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hawkwind</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Hawkwind</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:164028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164029</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Heart</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Heart</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:164029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104766</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hendrix Jimi</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Hendrix Jimi</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:104766</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164030</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>HIM</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:HIM</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:164030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164031</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>High on Fire</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:High on Fire</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:164031</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164032</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hives</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Hives</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:164032</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85954</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hoobastank</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Hoobastank</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:85954</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85958</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Houston Whitney</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Houston Whitney</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:85958</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104755</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists H</CategoryName>
+     <CategoryParentID>104754</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists H:Other Rock and Pop Artists H</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104754:104755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

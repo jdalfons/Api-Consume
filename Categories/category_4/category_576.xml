@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:05:42.642Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>576</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hallmark</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41147</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Betsey Clark</CategoryName>
+     <CategoryParentID>576</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark:Betsey Clark</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576:41147</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>973</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kiddie Car Classics</CategoryName>
+     <CategoryParentID>576</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark:Kiddie Car Classics</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576:973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41148</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Marjolein Bastin</CategoryName>
+     <CategoryParentID>576</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark:Marjolein Bastin</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576:41148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41149</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Maxine</CategoryName>
+     <CategoryParentID>576</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark:Maxine</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576:41149</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>577</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Merry Miniatures</CategoryName>
+     <CategoryParentID>576</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark:Merry Miniatures</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576:577</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39601</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments: Miniature</CategoryName>
+     <CategoryParentID>576</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark:Ornaments: Miniature</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576:39601</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41137</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments: by Series</CategoryName>
+     <CategoryParentID>576</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark:Ornaments: by Series</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576:41137</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39605</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments: by Year</CategoryName>
+     <CategoryParentID>576</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark:Ornaments: by Year</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576:39605</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41151</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Peanuts</CategoryName>
+     <CategoryParentID>576</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark:Peanuts</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576:41151</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Hallmark</CategoryName>
+     <CategoryParentID>576</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark:Other Hallmark</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576:147</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

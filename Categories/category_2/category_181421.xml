@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:28:31.532Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181421</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Publications and Supplies</CategoryName>
+     <CategoryParentID>260</CategoryParentID>
+     <CategoryNamePath>Stamps:Publications and Supplies</CategoryNamePath>
+     <CategoryIDPath>260:181421</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162057</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Albums</CategoryName>
+     <CategoryParentID>181421</CategoryParentID>
+     <CategoryNamePath>Stamps:Publications and Supplies:Albums</CategoryNamePath>
+     <CategoryIDPath>260:181421:162057</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162058</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Magnifiers and Loupes</CategoryName>
+     <CategoryParentID>181421</CategoryParentID>
+     <CategoryNamePath>Stamps:Publications and Supplies:Magnifiers and Loupes</CategoryNamePath>
+     <CategoryIDPath>260:181421:162058</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162059</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mounts and Hinges</CategoryName>
+     <CategoryParentID>181421</CategoryParentID>
+     <CategoryNamePath>Stamps:Publications and Supplies:Mounts and Hinges</CategoryNamePath>
+     <CategoryIDPath>260:181421:162059</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179653</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Perforation Gauges</CategoryName>
+     <CategoryParentID>181421</CategoryParentID>
+     <CategoryNamePath>Stamps:Publications and Supplies:Perforation Gauges</CategoryNamePath>
+     <CategoryIDPath>260:181421:179653</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82978</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Protective Envelopes</CategoryName>
+     <CategoryParentID>181421</CategoryParentID>
+     <CategoryNamePath>Stamps:Publications and Supplies:Protective Envelopes</CategoryNamePath>
+     <CategoryIDPath>260:181421:82978</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>701</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Publications</CategoryName>
+     <CategoryParentID>181421</CategoryParentID>
+     <CategoryNamePath>Stamps:Publications and Supplies:Publications</CategoryNamePath>
+     <CategoryIDPath>260:181421:701</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>705</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Stamp Supplies</CategoryName>
+     <CategoryParentID>181421</CategoryParentID>
+     <CategoryNamePath>Stamps:Publications and Supplies:Other Stamp Supplies</CategoryNamePath>
+     <CategoryIDPath>260:181421:705</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

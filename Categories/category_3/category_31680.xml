@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:57.533Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>31680</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Airsoft</CategoryName>
+     <CategoryParentID>159043</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Airsoft</CategoryNamePath>
+     <CategoryIDPath>888:159043:31680</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31682</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>BBs</CategoryName>
+     <CategoryParentID>31680</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Airsoft:BBs</CategoryNamePath>
+     <CategoryIDPath>888:159043:31680:31682</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159044</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing and Protective Gear</CategoryName>
+     <CategoryParentID>31680</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Airsoft:Clothing and Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:159043:31680:159044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31683</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Guns</CategoryName>
+     <CategoryParentID>31680</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Airsoft:Guns</CategoryNamePath>
+     <CategoryIDPath>888:159043:31680:31683</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31681</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>31680</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Airsoft:Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:31680:31681</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31688</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Airsoft</CategoryName>
+     <CategoryParentID>31680</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Airsoft:Other Airsoft</CategoryNamePath>
+     <CategoryIDPath>888:159043:31680:31688</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

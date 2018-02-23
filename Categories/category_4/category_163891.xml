@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:27:29.267Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>163891</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Originals</CategoryName>
+     <CategoryParentID>163890</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Scripts:Originals</CategoryNamePath>
+     <CategoryIDPath>45100:196:163890:163891</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32990</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signed</CategoryName>
+     <CategoryParentID>163891</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Scripts:Originals:Signed</CategoryNamePath>
+     <CategoryIDPath>45100:196:163890:163891:32990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18833</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Unsigned</CategoryName>
+     <CategoryParentID>163891</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Scripts:Originals:Unsigned</CategoryNamePath>
+     <CategoryIDPath>45100:196:163890:163891:18833</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

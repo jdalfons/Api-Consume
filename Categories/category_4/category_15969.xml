@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:24:58.707Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>15969</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Friends and Family</CategoryName>
+     <CategoryParentID>15965</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Friends and Family</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15969</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15970</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Francie Casey and Twiggy</CategoryName>
+     <CategoryParentID>15969</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Friends and Family:Francie Casey and Twiggy</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15969:15970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15971</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ken and Same-Size Friends</CategoryName>
+     <CategoryParentID>15969</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Friends and Family:Ken and Same-Size Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15969:15971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15972</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Midge and Same-Size Friends</CategoryName>
+     <CategoryParentID>15969</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Friends and Family:Midge and Same-Size Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15969:15972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15973</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Skipper and Same-Size Friends</CategoryName>
+     <CategoryParentID>15969</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Friends and Family:Skipper and Same-Size Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15969:15973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48953</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tutti Todd and Chris</CategoryName>
+     <CategoryParentID>15969</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Friends and Family:Tutti Todd and Chris</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15969:48953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2452</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Vintage Barbie Friends</CategoryName>
+     <CategoryParentID>15969</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Vintage (Pre-1973):Friends and Family:Other Vintage Barbie Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15965:15969:2452</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:18.129Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>92074</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Electrical and Test Equipment</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:92074</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181814</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Circuit Breakers and Fuses</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100016</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Connectors Switches and Wire</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100182</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electrical Supply Equipment</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182412</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electronic Components</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electronic Components</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182412</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181939</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Test Measurement and Inspection</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182017</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Thermal Management</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>92078</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Electrical and Test Equip.</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Other Electrical and Test Equip.</CategoryNamePath>
+     <CategoryIDPath>12576:92074:92078</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52534</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>12576:92074:52534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

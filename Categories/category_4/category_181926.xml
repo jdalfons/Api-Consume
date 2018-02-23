@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:35.192Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181926</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Receptacles Outlets and Plugs</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Receptacles Outlets and Plugs</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181926</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53112</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Electrical Outlets</CategoryName>
+     <CategoryParentID>181926</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Receptacles Outlets and Plugs:Electrical Outlets</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181926:53112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73135</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Electrical Power Plugs</CategoryName>
+     <CategoryParentID>181926</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Receptacles Outlets and Plugs:Electrical Power Plugs</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181926:73135</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181927</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Outlet Plates and Covers</CategoryName>
+     <CategoryParentID>181926</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Receptacles Outlets and Plugs:Outlet Plates and Covers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181926:181927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181928</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Outlet Accessories</CategoryName>
+     <CategoryParentID>181926</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Receptacles Outlets and Plugs:Outlet Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181926:181928</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

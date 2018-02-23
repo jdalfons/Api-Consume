@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:29.551Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177731</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Salon and Spa Equipment</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment</CategoryNamePath>
+     <CategoryIDPath>26395:177731</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117338</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Backwash Units and Shampoo Bowls</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Backwash Units and Shampoo Bowls</CategoryNamePath>
+     <CategoryIDPath>26395:177731:117338</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177732</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hair and Makeup Mannequins</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Hair and Makeup Mannequins</CategoryNamePath>
+     <CategoryIDPath>26395:177731:177732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177733</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Magnifying Lamps</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Magnifying Lamps</CategoryNamePath>
+     <CategoryIDPath>26395:177731:177733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177734</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Professional Facial Machines</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Professional Facial Machines</CategoryNamePath>
+     <CategoryIDPath>26395:177731:177734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177735</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Professional Styling Tools</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Professional Styling Tools</CategoryNamePath>
+     <CategoryIDPath>26395:177731:177735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177736</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Professional Waxing Warmers</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Professional Waxing Warmers</CategoryNamePath>
+     <CategoryIDPath>26395:177731:177736</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75053</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rolling Makeup Cases</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Rolling Makeup Cases</CategoryNamePath>
+     <CategoryIDPath>26395:177731:75053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177737</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Salon Chairs and Dryers</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Salon Chairs and Dryers</CategoryNamePath>
+     <CategoryIDPath>26395:177731:177737</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101915</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scissors and Shears</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Scissors and Shears</CategoryNamePath>
+     <CategoryIDPath>26395:177731:101915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177739</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sterilizers and Towel Warmers</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Sterilizers and Towel Warmers</CategoryNamePath>
+     <CategoryIDPath>26395:177731:177739</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>96428</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Styling Capes and Gowns</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Styling Capes and Gowns</CategoryNamePath>
+     <CategoryIDPath>26395:177731:96428</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177738</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stylist Stations and Furniture</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Stylist Stations and Furniture</CategoryNamePath>
+     <CategoryIDPath>26395:177731:177738</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177740</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Salon and Spa Supplies</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Salon and Spa Supplies</CategoryNamePath>
+     <CategoryIDPath>26395:177731:177740</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177741</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Salon and Spa Equipment</CategoryName>
+     <CategoryParentID>177731</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment:Other Salon and Spa Equipment</CategoryNamePath>
+     <CategoryIDPath>26395:177731:177741</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

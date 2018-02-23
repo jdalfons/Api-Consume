@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:41:15.457Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182020</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heat Exchangers</CategoryName>
+     <CategoryParentID>182017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management:Heat Exchangers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017:182020</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

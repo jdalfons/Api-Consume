@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:19:07.676Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>113</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Sewing (1930-Now)</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now)</CategoryNamePath>
+     <CategoryIDPath>1:113</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38058</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baskets and Boxes</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Baskets and Boxes</CategoryNamePath>
+     <CategoryIDPath>1:113:38058</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41192</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Buttons</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Buttons</CategoryNamePath>
+     <CategoryIDPath>1:113:41192</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38054</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Foot Pedals</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Foot Pedals</CategoryNamePath>
+     <CategoryIDPath>1:113:38054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>605</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Machines</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Machines</CategoryNamePath>
+     <CategoryIDPath>1:113:605</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38055</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Manuals and Books</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Manuals and Books</CategoryNamePath>
+     <CategoryIDPath>1:113:38055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38056</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Needles and Cases</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Needles and Cases</CategoryNamePath>
+     <CategoryIDPath>1:113:38056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4157</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Patterns</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Patterns</CategoryNamePath>
+     <CategoryIDPath>1:113:4157</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1465</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pin Cushions</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Pin Cushions</CategoryNamePath>
+     <CategoryIDPath>1:113:1465</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38059</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sewing Kits</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Sewing Kits</CategoryNamePath>
+     <CategoryIDPath>1:113:38059</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14083</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spools and Thread</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Spools and Thread</CategoryNamePath>
+     <CategoryIDPath>1:113:14083</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38060</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Thimbles</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles</CategoryNamePath>
+     <CategoryIDPath>1:113:38060</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38067</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tools Scissors and Measures</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Tools Scissors and Measures</CategoryNamePath>
+     <CategoryIDPath>1:113:38067</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14084</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Transfers</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Transfers</CategoryNamePath>
+     <CategoryIDPath>1:113:14084</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171200</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:113:171200</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>114</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Sewing Collectibles</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Other Sewing Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:113:114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

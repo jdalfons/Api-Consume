@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:06.955Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>30105</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Climbing and Caving</CategoryName>
+     <CategoryParentID>159043</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Climbing and Caving</CategoryNamePath>
+     <CategoryIDPath>888:159043:30105</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101686</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books and Video</CategoryName>
+     <CategoryParentID>30105</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Climbing and Caving:Books and Video</CategoryNamePath>
+     <CategoryIDPath>888:159043:30105:101686</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50814</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Carabiners and Hardware</CategoryName>
+     <CategoryParentID>30105</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Climbing and Caving:Carabiners and Hardware</CategoryNamePath>
+     <CategoryIDPath>888:159043:30105:50814</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75204</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Climbing Holds</CategoryName>
+     <CategoryParentID>30105</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Climbing and Caving:Climbing Holds</CategoryNamePath>
+     <CategoryIDPath>888:159043:30105:75204</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158975</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>30105</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Climbing and Caving:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:30105:158975</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50815</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Harnesses</CategoryName>
+     <CategoryParentID>30105</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Climbing and Caving:Harnesses</CategoryNamePath>
+     <CategoryIDPath>888:159043:30105:50815</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158981</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ice Climbing Equipment</CategoryName>
+     <CategoryParentID>30105</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Climbing and Caving:Ice Climbing Equipment</CategoryNamePath>
+     <CategoryIDPath>888:159043:30105:158981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50816</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ropes Cords and Slings</CategoryName>
+     <CategoryParentID>30105</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Climbing and Caving:Ropes Cords and Slings</CategoryNamePath>
+     <CategoryIDPath>888:159043:30105:50816</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1299</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Climbing and Caving</CategoryName>
+     <CategoryParentID>30105</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Climbing and Caving:Other Climbing and Caving</CategoryNamePath>
+     <CategoryIDPath>888:159043:30105:1299</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

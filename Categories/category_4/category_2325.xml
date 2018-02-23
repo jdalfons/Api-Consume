@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:27:20.485Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2325</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1960-69</CategoryName>
+     <CategoryParentID>18830</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Pressbooks:1960-69</CategoryNamePath>
+     <CategoryIDPath>45100:196:18830:2325</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

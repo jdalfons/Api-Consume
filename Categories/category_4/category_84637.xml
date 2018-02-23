@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:25:54.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>84637</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rainbow Brite</CategoryName>
+     <CategoryParentID>15987</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Rainbow Brite</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84637</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84638</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vintage</CategoryName>
+     <CategoryParentID>84637</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Rainbow Brite:Vintage</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84637:84638</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1204</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Contemporary</CategoryName>
+     <CategoryParentID>84637</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Rainbow Brite:Contemporary</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84637:1204</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

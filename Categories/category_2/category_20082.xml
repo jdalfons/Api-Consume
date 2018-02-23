@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:45.270Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20082</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Asian Antiques</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques</CategoryNamePath>
+     <CategoryIDPath>20081:20082</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162938</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Burma</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Burma</CategoryNamePath>
+     <CategoryIDPath>20081:20082:162938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37919</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>China</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:China</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37919</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60209</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>India</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:India</CategoryNamePath>
+     <CategoryIDPath>20081:20082:60209</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37934</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Japan</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162979</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Korea</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Korea</CategoryNamePath>
+     <CategoryIDPath>20081:20082:162979</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116556</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Middle East</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Middle East</CategoryNamePath>
+     <CategoryIDPath>20081:20082:116556</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162989</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mongolia</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Mongolia</CategoryNamePath>
+     <CategoryIDPath>20081:20082:162989</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164808</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Southeast Asia</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Southeast Asia</CategoryNamePath>
+     <CategoryIDPath>20081:20082:164808</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79947</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tibet</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Tibet</CategoryNamePath>
+     <CategoryIDPath>20081:20082:79947</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162988</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Unknown</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Unknown</CategoryNamePath>
+     <CategoryIDPath>20081:20082:162988</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155354</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Reproductions</CategoryNamePath>
+     <CategoryIDPath>20081:20082:155354</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171171</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>20081:20082:171171</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2194</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Asian Antiques</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Other Asian Antiques</CategoryNamePath>
+     <CategoryIDPath>20081:20082:2194</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

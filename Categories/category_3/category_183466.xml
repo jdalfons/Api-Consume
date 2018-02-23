@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:29:50.018Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183466</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pokémon Trading Card Game</CategoryName>
+     <CategoryParentID>2536</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Pokémon Trading Card Game</CategoryNamePath>
+     <CategoryIDPath>220:2536:183466</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2611</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pokémon Individual Cards</CategoryName>
+     <CategoryParentID>183466</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Pokémon Trading Card Game:Pokémon Individual Cards</CategoryNamePath>
+     <CategoryIDPath>220:2536:183466:2611</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104049</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pokémon Mixed Card Lots</CategoryName>
+     <CategoryParentID>183466</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Pokémon Trading Card Game:Pokémon Mixed Card Lots</CategoryNamePath>
+     <CategoryIDPath>220:2536:183466:104049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4301</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pokémon Sealed Booster Packs</CategoryName>
+     <CategoryParentID>183466</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Pokémon Trading Card Game:Pokémon Sealed Booster Packs</CategoryNamePath>
+     <CategoryIDPath>220:2536:183466:4301</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183467</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pokémon Sealed Decks and Kits</CategoryName>
+     <CategoryParentID>183466</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Pokémon Trading Card Game:Pokémon Sealed Decks and Kits</CategoryNamePath>
+     <CategoryIDPath>220:2536:183466:183467</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183468</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pokémon Player-Built Decks</CategoryName>
+     <CategoryParentID>183466</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Pokémon Trading Card Game:Pokémon Player-Built Decks</CategoryNamePath>
+     <CategoryIDPath>220:2536:183466:183468</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104046</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pokémon Complete Sets</CategoryName>
+     <CategoryParentID>183466</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Pokémon Trading Card Game:Pokémon Complete Sets</CategoryNamePath>
+     <CategoryIDPath>220:2536:183466:104046</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2608</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Pokémon TCG Items</CategoryName>
+     <CategoryParentID>183466</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Pokémon Trading Card Game:Other Pokémon TCG Items</CategoryNamePath>
+     <CategoryIDPath>220:2536:183466:2608</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

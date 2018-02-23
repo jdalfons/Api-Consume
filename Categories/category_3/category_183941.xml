@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:38.471Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183941</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Standoffs and Spacers</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Standoffs and Spacers</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183941</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183942</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Threaded Standoffs</CategoryName>
+     <CategoryParentID>183941</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Standoffs and Spacers:Threaded Standoffs</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183941:183942</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183943</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unthreaded Spacers</CategoryName>
+     <CategoryParentID>183941</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Standoffs and Spacers:Unthreaded Spacers</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183941:183943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183944</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Standoff and Spacer Mixed Sets</CategoryName>
+     <CategoryParentID>183941</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Standoffs and Spacers:Standoff and Spacer Mixed Sets</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183941:183944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

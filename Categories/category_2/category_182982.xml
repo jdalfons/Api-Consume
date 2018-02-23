@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:18:31.782Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182982</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Non-Sport Trading Cards</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182983</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Batman Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Batman Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:182983</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182987</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Benchwarmer</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Benchwarmer</CategoryNamePath>
+     <CategoryIDPath>1:182982:182987</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182992</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Doctor Who Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Doctor Who Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:182992</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182996</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Game of Thrones Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Game of Thrones Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:182996</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183001</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Garbage Pail Kids</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Garbage Pail Kids</CategoryNamePath>
+     <CategoryIDPath>1:182982:183001</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183006</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Harry Potter Movie Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Harry Potter Movie Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183006</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183010</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>James Bond Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:James Bond Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183010</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60225</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lord of the Rings Movie Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Lord of the Rings Movie Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:60225</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183014</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mars Attacks!</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Mars Attacks!</CategoryNamePath>
+     <CategoryIDPath>1:182982:183014</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183019</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Marvel Movie Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Marvel Movie Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183019</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183024</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spider-Man Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Spider-Man Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183024</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183028</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Star Trek Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Star Trek Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183028</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100899</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Star Wars Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Star Wars Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:100899</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183036</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wacky Packages</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Wacky Packages</CategoryNamePath>
+     <CategoryIDPath>1:182982:183036</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183041</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Walking Dead Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Walking Dead Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183041</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183046</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>X-Men Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:X-Men Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183046</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183050</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trading Card Singles</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Trading Card Singles</CategoryNamePath>
+     <CategoryIDPath>1:182982:183050</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183051</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trading Card Lots</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Trading Card Lots</CategoryNamePath>
+     <CategoryIDPath>1:182982:183051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183052</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Complete Trading Card Sets</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Complete Trading Card Sets</CategoryNamePath>
+     <CategoryIDPath>1:182982:183052</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183053</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sealed Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Sealed Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183054</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wrappers and Empty Card Boxes</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Wrappers and Empty Card Boxes</CategoryNamePath>
+     <CategoryIDPath>1:182982:183054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156521</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Non-Sport Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Vintage Non-Sport Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:156521</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183490</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sticker Albums Packs and Spares</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Sticker Albums Packs and Spares</CategoryNamePath>
+     <CategoryIDPath>1:182982:183490</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183056</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Non-Sport Card Supplies and Accs</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Non-Sport Card Supplies and Accs</CategoryNamePath>
+     <CategoryIDPath>1:182982:183056</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171198</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:182982:171198</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>219</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Non-Sport Card Merch</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Other Non-Sport Card Merch</CategoryNamePath>
+     <CategoryIDPath>1:182982:219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>27</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

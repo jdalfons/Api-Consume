@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:17.504Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4251</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Women&apos;s Accessories</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:4251</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163573</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Belt Buckles</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Belt Buckles</CategoryNamePath>
+     <CategoryIDPath>11450:4251:163573</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3003</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Belts</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Belts</CategoryNamePath>
+     <CategoryIDPath>11450:4251:3003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177651</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collar Tips</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Collar Tips</CategoryNamePath>
+     <CategoryIDPath>11450:4251:177651</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168998</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fascinators and Headpieces</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Fascinators and Headpieces</CategoryNamePath>
+     <CategoryIDPath>11450:4251:168998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105559</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gloves and Mittens</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Gloves and Mittens</CategoryNamePath>
+     <CategoryIDPath>11450:4251:105559</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45220</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hair Accessories</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Hair Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:4251:45220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167906</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Handkerchiefs</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Handkerchiefs</CategoryNamePath>
+     <CategoryIDPath>11450:4251:167906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45230</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hats</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Hats</CategoryNamePath>
+     <CategoryIDPath>11450:4251:45230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>169285</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>ID and Document Holders</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:ID and Document Holders</CategoryNamePath>
+     <CategoryIDPath>11450:4251:169285</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45237</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Key Chains Rings and Finders</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Key Chains Rings and Finders</CategoryNamePath>
+     <CategoryIDPath>11450:4251:45237</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15735</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Organizers and Day Planners</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Organizers and Day Planners</CategoryNamePath>
+     <CategoryIDPath>11450:4251:15735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45238</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scarves and Wraps</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Scarves and Wraps</CategoryNamePath>
+     <CategoryIDPath>11450:4251:45238</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150955</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shoe Charms</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Shoe Charms</CategoryNamePath>
+     <CategoryIDPath>11450:4251:150955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179247</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sunglasses and Fashion Eyewear</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Sunglasses and Fashion Eyewear</CategoryNamePath>
+     <CategoryIDPath>11450:4251:179247</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151486</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ties</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Ties</CategoryNamePath>
+     <CategoryIDPath>11450:4251:151486</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105569</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Umbrellas</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Umbrellas</CategoryNamePath>
+     <CategoryIDPath>11450:4251:105569</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45258</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wallets</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Wallets</CategoryNamePath>
+     <CategoryIDPath>11450:4251:45258</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106129</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wristbands</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Wristbands</CategoryNamePath>
+     <CategoryIDPath>11450:4251:106129</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15738</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mixed Items and Lots</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Mixed Items and Lots</CategoryNamePath>
+     <CategoryIDPath>11450:4251:15738</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1063</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Women&apos;s Accessories</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Other Women&apos;s Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:4251:1063</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>21</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

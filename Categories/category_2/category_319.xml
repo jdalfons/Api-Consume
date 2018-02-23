@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:30:17.720Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>319</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Adult Only</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only</CategoryNamePath>
+     <CategoryIDPath>99:319</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166813</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Adult Only Art</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Adult Only Art</CategoryNamePath>
+     <CategoryIDPath>99:319:166813</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4953</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Books</CategoryNamePath>
+     <CategoryIDPath>99:319:4953</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166856</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>99:319:166856</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166805</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collectibles</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Collectibles</CategoryNamePath>
+     <CategoryIDPath>99:319:166805</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7322</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Domain Names</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Domain Names</CategoryNamePath>
+     <CategoryIDPath>99:319:7322</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4800</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>DVDs and Movies</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:DVDs and Movies</CategoryNamePath>
+     <CategoryIDPath>99:319:4800</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30119</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jewelry</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Jewelry</CategoryNamePath>
+     <CategoryIDPath>99:319:30119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>613</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Magazine Back Issues</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Magazine Back Issues</CategoryNamePath>
+     <CategoryIDPath>99:319:613</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166822</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Music</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Music</CategoryNamePath>
+     <CategoryIDPath>99:319:166822</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166827</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sex Accessories</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories</CategoryNamePath>
+     <CategoryIDPath>99:319:166827</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166838</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sex Toys</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys</CategoryNamePath>
+     <CategoryIDPath>99:319:166838</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166855</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Video Games</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Video Games</CategoryNamePath>
+     <CategoryIDPath>99:319:166855</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>320</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Adult Only</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Other Adult Only</CategoryNamePath>
+     <CategoryIDPath>99:319:320</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

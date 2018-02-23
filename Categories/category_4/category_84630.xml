@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:25:22.923Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>84630</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ashton Drake</CategoryName>
+     <CategoryParentID>15987</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ashton Drake</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84630</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1033</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gene</CategoryName>
+     <CategoryParentID>84630</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ashton Drake:Gene</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84630:1033</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160847</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>So Truly Real</CategoryName>
+     <CategoryParentID>84630</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ashton Drake:So Truly Real</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84630:160847</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15990</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Ashton Drake Dolls</CategoryName>
+     <CategoryParentID>84630</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ashton Drake:Other Ashton Drake Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:84630:15990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

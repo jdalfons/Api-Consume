@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:37:36.987Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>109296</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Post Hole Diggers</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Post Hole Diggers</CategoryNamePath>
+     <CategoryIDPath>12576:177647:109296</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

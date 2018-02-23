@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:44:50.110Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>50980</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Women&apos;s Accessories</CategoryName>
+     <CategoryParentID>41964</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Women&apos;s Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50980</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45055</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bags and Handbags</CategoryName>
+     <CategoryParentID>50980</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Women&apos;s Accessories:Bags and Handbags</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50980:45055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50981</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hair Accessories</CategoryName>
+     <CategoryParentID>50980</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Women&apos;s Accessories:Hair Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50980:50981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50982</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scarves Wraps</CategoryName>
+     <CategoryParentID>50980</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Women&apos;s Accessories:Scarves Wraps</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50980:50982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50983</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wholesale Women&apos;s Accs</CategoryName>
+     <CategoryParentID>50980</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Women&apos;s Accessories:Other Wholesale Women&apos;s Accs</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50980:50983</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

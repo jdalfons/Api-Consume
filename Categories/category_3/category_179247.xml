@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:43:51.423Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179247</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sunglasses and Fashion Eyewear</CategoryName>
+     <CategoryParentID>4251</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Sunglasses and Fashion Eyewear</CategoryNamePath>
+     <CategoryIDPath>11450:4251:179247</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45246</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sunglasses</CategoryName>
+     <CategoryParentID>179247</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Sunglasses and Fashion Eyewear:Sunglasses</CategoryNamePath>
+     <CategoryIDPath>11450:4251:179247:45246</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179196</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sunglass Lens Replacements</CategoryName>
+     <CategoryParentID>179247</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Sunglasses and Fashion Eyewear:Sunglass Lens Replacements</CategoryNamePath>
+     <CategoryIDPath>11450:4251:179247:179196</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179248</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fashion Eyewear/Clear Glasses</CategoryName>
+     <CategoryParentID>179247</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Sunglasses and Fashion Eyewear:Fashion Eyewear/Clear Glasses</CategoryNamePath>
+     <CategoryIDPath>11450:4251:179247:179248</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179249</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Eyewear Accessories</CategoryName>
+     <CategoryParentID>179247</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Sunglasses and Fashion Eyewear:Eyewear Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:4251:179247:179249</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179250</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Women&apos;s Eyewear</CategoryName>
+     <CategoryParentID>179247</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories:Sunglasses and Fashion Eyewear:Other Women&apos;s Eyewear</CategoryNamePath>
+     <CategoryIDPath>11450:4251:179247:179250</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

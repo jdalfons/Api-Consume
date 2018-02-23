@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:38:40.549Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>46576</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hand Tools</CategoryName>
+     <CategoryParentID>61573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63913</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chalk Lines</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Chalk Lines</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:63913</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66916</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clamps</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Clamps</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:66916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56964</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Concrete Tools</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Concrete Tools</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:56964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46579</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Crescent Wrenches</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Crescent Wrenches</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:46579</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56965</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Crimpers</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Crimpers</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:56965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63914</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hammers - Professional</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Hammers - Professional</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:63914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46578</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Knives and Cutters</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Knives and Cutters</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:46578</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73115</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Knockout and Punch Sets</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Knockout and Punch Sets</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:73115</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63915</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Measuring Tapes and Tools</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Measuring Tapes and Tools</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:63915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63916</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pipe Cutters</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Pipe Cutters</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:63916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58154</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pipe Wrenches</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Pipe Wrenches</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:58154</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111477</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Propane Torches</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Propane Torches</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:111477</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63917</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Screwdrivers - Professional</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Screwdrivers - Professional</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:63917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109565</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sockets and Socket Sets</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Sockets and Socket Sets</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:109565</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109566</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wire Strippers and Crimpers</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Wire Strippers and Crimpers</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:109566</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159702</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wrenches</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Wrenches</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:159702</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42337</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Hand Tools</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Other Hand Tools</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:42337</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

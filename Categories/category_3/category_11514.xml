@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:43:59.438Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11514</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Intimates and Sleep</CategoryName>
+     <CategoryParentID>15724</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63853</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bras and Bra Sets</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Bras and Bra Sets</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:63853</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163593</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Breast Forms Enhancers</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Breast Forms Enhancers</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:163593</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11521</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Camisoles and Camisole Sets</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Camisoles and Camisole Sets</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:11521</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11522</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Corsets and Bustiers</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Corsets and Bustiers</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:11522</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163586</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garter Belts</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Garter Belts</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:163586</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63854</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Panties</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Panties</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:63854</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11530</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shapewear</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Shapewear</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:11530</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63855</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sleepwear and Robes</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Sleepwear and Robes</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:63855</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11532</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slips</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Slips</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:11532</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45279</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Teddies</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Teddies</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:45279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15746</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Intimate Items</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Mixed Intimate Items</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:15746</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4844</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Women&apos;s Intimates</CategoryName>
+     <CategoryParentID>11514</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Intimates and Sleep:Other Women&apos;s Intimates</CategoryNamePath>
+     <CategoryIDPath>11450:15724:11514:4844</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

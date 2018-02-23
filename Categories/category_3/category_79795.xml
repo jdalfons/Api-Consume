@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:51.751Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>79795</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wrestling</CategoryName>
+     <CategoryParentID>159049</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Wrestling</CategoryNamePath>
+     <CategoryIDPath>888:159049:79795</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79800</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books and Video</CategoryName>
+     <CategoryParentID>79795</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Wrestling:Books and Video</CategoryNamePath>
+     <CategoryIDPath>888:159049:79795:79800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79796</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing</CategoryName>
+     <CategoryParentID>79795</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Wrestling:Clothing</CategoryNamePath>
+     <CategoryIDPath>888:159049:79795:79796</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79799</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Footwear</CategoryName>
+     <CategoryParentID>79795</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Wrestling:Footwear</CategoryNamePath>
+     <CategoryIDPath>888:159049:79795:79799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159174</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Protective Gear</CategoryName>
+     <CategoryParentID>79795</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Wrestling:Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:159049:79795:159174</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36306</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>79795</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Wrestling:Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159049:79795:36306</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159173</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wrestling</CategoryName>
+     <CategoryParentID>79795</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Wrestling:Other Wrestling</CategoryNamePath>
+     <CategoryIDPath>888:159049:79795:159173</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

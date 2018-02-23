@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:32.301Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20433</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Baby Safety and Health</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health</CategoryNamePath>
+     <CategoryIDPath>2984:20433</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20435</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Monitors</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Baby Monitors</CategoryNamePath>
+     <CategoryIDPath>2984:20433:20435</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184339</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Proofing</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Baby Proofing</CategoryNamePath>
+     <CategoryIDPath>2984:20433:184339</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117026</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Thermometers</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Baby Thermometers</CategoryNamePath>
+     <CategoryIDPath>2984:20433:117026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162183</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bed Rails</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Bed Rails</CategoryNamePath>
+     <CategoryIDPath>2984:20433:162183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134762</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Car Window Signs and Decals</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Car Window Signs and Decals</CategoryNamePath>
+     <CategoryIDPath>2984:20433:134762</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184343</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hearing Protection Earmuffs</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Hearing Protection Earmuffs</CategoryNamePath>
+     <CategoryIDPath>2984:20433:184343</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117029</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Safety Gates</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Safety Gates</CategoryNamePath>
+     <CategoryIDPath>2984:20433:117029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73470</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shopping Cart Covers</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Shopping Cart Covers</CategoryNamePath>
+     <CategoryIDPath>2984:20433:73470</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134761</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Toddler Safety Harnesses</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Toddler Safety Harnesses</CategoryNamePath>
+     <CategoryIDPath>2984:20433:134761</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20436</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Baby Safety and Health</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Other Baby Safety and Health</CategoryNamePath>
+     <CategoryIDPath>2984:20433:20436</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

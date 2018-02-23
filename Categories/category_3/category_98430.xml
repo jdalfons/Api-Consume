@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:31:57.517Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>98430</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chests and Trunks</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Chests and Trunks</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98430</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98431</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1800</CategoryName>
+     <CategoryParentID>98430</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Chests and Trunks:Pre-1800</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98430:98431</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66842</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1800-1899</CategoryName>
+     <CategoryParentID>98430</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Chests and Trunks:1800-1899</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98430:66842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66854</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1900-1950</CategoryName>
+     <CategoryParentID>98430</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Chests and Trunks:1900-1950</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98430:66854</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162890</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Post-1950</CategoryName>
+     <CategoryParentID>98430</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Chests and Trunks:Post-1950</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98430:162890</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162891</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown</CategoryName>
+     <CategoryParentID>98430</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Chests and Trunks:Unknown</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98430:162891</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

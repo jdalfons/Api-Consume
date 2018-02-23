@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:01:39.473Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183503</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>1500</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175735</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baluns and Chokes</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Baluns and Chokes</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:175735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48703</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Batteries and Chargers</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Batteries and Chargers</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48703</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48704</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coax. Cables and Connectors</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Coax. Cables and Connectors</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48704</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48706</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Code Keyers and Keys</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Code Keyers and Keys</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48706</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175736</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Filters</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Filters</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:175736</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48705</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Headsets and Earpieces</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Headsets and Earpieces</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48705</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15050</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals and Magazines</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Manuals and Magazines</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:15050</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48701</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Meters</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Meters</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48701</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48707</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Microphones</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Microphones</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48707</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48694</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mounts</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Mounts</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48694</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175737</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Oscillators</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Oscillators</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:175737</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48708</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Power Supplies</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Power Supplies</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48708</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175738</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Radio and Scanner Crystals</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Radio and Scanner Crystals</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:175738</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48709</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Speakers</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Speakers</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48709</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48710</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tubes</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Tubes</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48710</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48711</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tuners</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Tuners</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:48711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40059</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Radio Communication Accs</CategoryName>
+     <CategoryParentID>183503</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories:Other Radio Communication Accs</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503:40059</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

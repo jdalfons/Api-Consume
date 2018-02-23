@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:46:53.658Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184252</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Envelopes and Mailers</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Envelopes and Mailers</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184252</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184253</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Postal Envelopes</CategoryName>
+     <CategoryParentID>184252</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Envelopes and Mailers:Postal Envelopes</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184252:184253</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184258</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Padded Envelopes</CategoryName>
+     <CategoryParentID>184252</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Envelopes and Mailers:Padded Envelopes</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184252:184258</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184259</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Catalog Envelopes</CategoryName>
+     <CategoryParentID>184252</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Envelopes and Mailers:Catalog Envelopes</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184252:184259</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184260</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Envelope Bags</CategoryName>
+     <CategoryParentID>184252</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Envelopes and Mailers:Envelope Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184252:184260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184261</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Specialty Mailers</CategoryName>
+     <CategoryParentID>184252</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Envelopes and Mailers:Specialty Mailers</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184252:184261</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118810</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Packing List Envelopes</CategoryName>
+     <CategoryParentID>184252</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Envelopes and Mailers:Packing List Envelopes</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184252:118810</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116673</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mailing Tubes</CategoryName>
+     <CategoryParentID>184252</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Envelopes and Mailers:Mailing Tubes</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184252:116673</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184267</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Envelopes and Mailers</CategoryName>
+     <CategoryParentID>184252</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Envelopes and Mailers:Other Envelopes and Mailers</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184252:184267</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

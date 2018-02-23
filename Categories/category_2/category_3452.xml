@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:51.863Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3452</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Exonumia</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia</CategoryNamePath>
+     <CategoryIDPath>11116:3452</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3453</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Elongated Coins</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Elongated Coins</CategoryNamePath>
+     <CategoryIDPath>11116:3452:3453</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7109</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Encased Coins</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Encased Coins</CategoryNamePath>
+     <CategoryIDPath>11116:3452:7109</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162135</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fantasy Issue Coins</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Fantasy Issue Coins</CategoryNamePath>
+     <CategoryIDPath>11116:3452:162135</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178967</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hobo Nickels</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Hobo Nickels</CategoryNamePath>
+     <CategoryIDPath>11116:3452:178967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3454</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Medals</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Medals</CategoryNamePath>
+     <CategoryIDPath>11116:3452:3454</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139967</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>So-Called Dollars</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:So-Called Dollars</CategoryNamePath>
+     <CategoryIDPath>11116:3452:139967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27444</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Canada (1861-Now)</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Canada (1861-Now)</CategoryNamePath>
+     <CategoryIDPath>11116:3452:27444</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173621</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Car Wash</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Car Wash</CategoryNamePath>
+     <CategoryIDPath>11116:3452:173621</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3456</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Civil War</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Civil War</CategoryNamePath>
+     <CategoryIDPath>11116:3452:3456</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175662</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Good Luck</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Good Luck</CategoryNamePath>
+     <CategoryIDPath>11116:3452:175662</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>142503</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Hard Times</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Hard Times</CategoryNamePath>
+     <CategoryIDPath>11116:3452:142503</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4370</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Love</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Love</CategoryNamePath>
+     <CategoryIDPath>11116:3452:4370</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167951</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Parking</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Parking</CategoryNamePath>
+     <CategoryIDPath>11116:3452:167951</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167952</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Recovery Programs</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Recovery Programs</CategoryNamePath>
+     <CategoryIDPath>11116:3452:167952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162137</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Tax</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Tax</CategoryNamePath>
+     <CategoryIDPath>11116:3452:162137</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3457</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Transit</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Transit</CategoryNamePath>
+     <CategoryIDPath>11116:3452:3457</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3458</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: US Trade</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: US Trade</CategoryNamePath>
+     <CategoryIDPath>11116:3452:3458</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3455</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Other</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Other</CategoryNamePath>
+     <CategoryIDPath>11116:3452:3455</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162138</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wooden Nickels</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Wooden Nickels</CategoryNamePath>
+     <CategoryIDPath>11116:3452:162138</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3182</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>World</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:World</CategoryNamePath>
+     <CategoryIDPath>11116:3452:3182</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>259</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Exonumia</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Other Exonumia</CategoryNamePath>
+     <CategoryIDPath>11116:3452:259</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>22</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

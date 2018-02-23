@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:17:59.129Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>118974</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Brass</CategoryName>
+     <CategoryParentID>181162</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181158</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baritones</CategoryName>
+     <CategoryParentID>118974</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass:Baritones</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974:181158</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181159</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bugles</CategoryName>
+     <CategoryParentID>118974</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass:Bugles</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974:181159</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159946</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cornets</CategoryName>
+     <CategoryParentID>118974</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass:Cornets</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974:159946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181156</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mellophones</CategoryName>
+     <CategoryParentID>118974</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass:Mellophones</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974:181156</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181157</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sousaphones</CategoryName>
+     <CategoryParentID>118974</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass:Sousaphones</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974:181157</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118976</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trombones</CategoryName>
+     <CategoryParentID>118974</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass:Trombones</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974:118976</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118975</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trumpets</CategoryName>
+     <CategoryParentID>118974</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass:Trumpets</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974:118975</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181160</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tubas</CategoryName>
+     <CategoryParentID>118974</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass:Tubas</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974:181160</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>118974</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974:181161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118977</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Brass</CategoryName>
+     <CategoryParentID>118974</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass:Other Vintage Brass</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974:118977</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

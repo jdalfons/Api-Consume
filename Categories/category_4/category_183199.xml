@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:23:22.907Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183199</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Embr Patterns and Magazines</CategoryName>
+     <CategoryParentID>28141</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embr Patterns and Magazines</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183199</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183200</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Crewel Patterns</CategoryName>
+     <CategoryParentID>183199</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embr Patterns and Magazines:Crewel Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183199:183200</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34032</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cross Stitch Patterns</CategoryName>
+     <CategoryParentID>183199</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embr Patterns and Magazines:Cross Stitch Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183199:34032</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183201</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hardanger Patterns</CategoryName>
+     <CategoryParentID>183199</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embr Patterns and Magazines:Hardanger Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183199:183201</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3108</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Needlepoint Patterns</CategoryName>
+     <CategoryParentID>183199</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embr Patterns and Magazines:Needlepoint Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183199:3108</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183202</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Punch Needle Patterns</CategoryName>
+     <CategoryParentID>183199</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embr Patterns and Magazines:Punch Needle Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183199:183202</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183203</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ribbon Embroidery Patterns</CategoryName>
+     <CategoryParentID>183199</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embr Patterns and Magazines:Ribbon Embroidery Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183199:183203</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183204</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Smocking Patterns</CategoryName>
+     <CategoryParentID>183199</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embr Patterns and Magazines:Smocking Patterns</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183199:183204</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28143</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Patterns and Magazines</CategoryName>
+     <CategoryParentID>183199</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch:Hand Embr Patterns and Magazines:Other Patterns and Magazines</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141:183199:28143</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

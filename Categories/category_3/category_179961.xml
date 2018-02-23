@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:19.018Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179961</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baits Lures and Flies</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179962</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Attractants and Scents</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Attractants and Scents</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:179962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7300</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Crankbaits</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Crankbaits</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:7300</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31690</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jigs</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Jigs</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:31690</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179963</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Live Bait</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Live Bait</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:179963</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36153</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saltwater Lures</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Saltwater Lures</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:36153</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31691</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Soft Plastics</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Soft Plastics</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:31691</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1493</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spinners and Spinnerbaits</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Spinners and Spinnerbaits</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:1493</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31692</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spoons</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Spoons</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:31692</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165930</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swimbaits</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Swimbaits</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:165930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Topwater</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Topwater</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:108161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23812</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flies</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Flies</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:23812</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44912</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fly Tying Materials</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Fly Tying Materials</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:44912</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44916</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fly Tying Vises and Tools</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Fly Tying Vises and Tools</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:44916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179964</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:179964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165931</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tackle Craft</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Tackle Craft</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:165931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31693</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Baits Lures and Flies</CategoryName>
+     <CategoryParentID>179961</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies:Other Baits Lures and Flies</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961:31693</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

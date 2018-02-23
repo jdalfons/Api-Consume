@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:13.457Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>31786</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Makeup</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup</CategoryNamePath>
+     <CategoryIDPath>26395:31786</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172016</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Body</CategoryName>
+     <CategoryParentID>31786</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Body</CategoryNamePath>
+     <CategoryIDPath>26395:31786:172016</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172020</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Eyes</CategoryName>
+     <CategoryParentID>31786</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Eyes</CategoryNamePath>
+     <CategoryIDPath>26395:31786:172020</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172025</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Face</CategoryName>
+     <CategoryParentID>31786</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Face</CategoryNamePath>
+     <CategoryIDPath>26395:31786:172025</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172027</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lips</CategoryName>
+     <CategoryParentID>31786</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Lips</CategoryNamePath>
+     <CategoryIDPath>26395:31786:172027</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36413</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Makeup Bags and Cases</CategoryName>
+     <CategoryParentID>31786</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Bags and Cases</CategoryNamePath>
+     <CategoryIDPath>26395:31786:36413</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>107956</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Makeup Sets and Kits</CategoryName>
+     <CategoryParentID>31786</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Sets and Kits</CategoryNamePath>
+     <CategoryIDPath>26395:31786:107956</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36409</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Makeup Tools and Accessories</CategoryName>
+     <CategoryParentID>31786</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Tools and Accessories</CategoryNamePath>
+     <CategoryIDPath>26395:31786:36409</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11985</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mixed Makeup Lots</CategoryName>
+     <CategoryParentID>31786</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Mixed Makeup Lots</CategoryNamePath>
+     <CategoryIDPath>26395:31786:11985</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31811</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Makeup</CategoryName>
+     <CategoryParentID>31786</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Other Makeup</CategoryNamePath>
+     <CategoryIDPath>26395:31786:31811</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

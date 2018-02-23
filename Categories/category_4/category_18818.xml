@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:26:17.032Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>18818</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trolls</CategoryName>
+     <CategoryParentID>16000</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Trolls</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:18818</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18819</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vintage (Pre-1975)</CategoryName>
+     <CategoryParentID>18818</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Trolls:Vintage (Pre-1975)</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:18818:18819</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1206</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Modern (1975-Now)</CategoryName>
+     <CategoryParentID>18818</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Type:Trolls:Modern (1975-Now)</CategoryNamePath>
+     <CategoryIDPath>237:238:16000:18818:1206</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

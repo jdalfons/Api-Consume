@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:09:01.721Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179841</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Razors and Razor Blades</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Razors and Razor Blades</CategoryNamePath>
+     <CategoryIDPath>26395:31762:179841</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47921</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Men&apos;s Razors</CategoryName>
+     <CategoryParentID>179841</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Razors and Razor Blades:Men&apos;s Razors</CategoryNamePath>
+     <CategoryIDPath>26395:31762:179841:47921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47931</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Men&apos;s Razor Blades</CategoryName>
+     <CategoryParentID>179841</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Razors and Razor Blades:Men&apos;s Razor Blades</CategoryNamePath>
+     <CategoryIDPath>26395:31762:179841:47931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178964</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Women&apos;s Razors</CategoryName>
+     <CategoryParentID>179841</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Razors and Razor Blades:Women&apos;s Razors</CategoryNamePath>
+     <CategoryIDPath>26395:31762:179841:178964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178965</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Women&apos;s Razor Blades</CategoryName>
+     <CategoryParentID>179841</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Razors and Razor Blades:Women&apos;s Razor Blades</CategoryNamePath>
+     <CategoryIDPath>26395:31762:179841:178965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

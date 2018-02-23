@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:30:57.735Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>37911</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hardware</CategoryName>
+     <CategoryParentID>4707</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37912</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Door Bells and Knockers</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Door Bells and Knockers</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:37912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37914</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Door Knobs and Handles</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Door Knobs and Handles</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:37914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37916</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Door Plates and Backplates</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Door Plates and Backplates</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:37916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162933</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Drawer Pulls</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Drawer Pulls</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:162933</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162934</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Escutcheons and Key Hole Covers</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Escutcheons and Key Hole Covers</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:162934</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162935</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heating Grates and Vents</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Heating Grates and Vents</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:162935</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184487</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hinges</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Hinges</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:184487</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37913</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hooks Brackets and Curtain Rods</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Hooks Brackets and Curtain Rods</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:37913</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37915</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Locks Latches and Keys</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Locks Latches and Keys</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:37915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162930</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nails</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Nails</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:162930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162931</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Screws</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Screws</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:162931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162932</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Switch Plates and Outlet Covers</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Switch Plates and Outlet Covers</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:162932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66637</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Hardware</CategoryName>
+     <CategoryParentID>37911</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden:Hardware:Other Antique Hardware</CategoryNamePath>
+     <CategoryIDPath>20081:4707:37911:66637</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

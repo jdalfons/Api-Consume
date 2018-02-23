@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:13:02.563Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13999</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fountain Pens</CategoryName>
+     <CategoryParentID>7278</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165619</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Handmade Pens</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Handmade Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165619</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165620</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aurora</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Aurora</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165620</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165621</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Caran d&apos;Ache</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Caran d&apos;Ache</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165621</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73535</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Conklin</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Conklin</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:73535</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60819</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Conway Stewart</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Conway Stewart</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:60819</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150124</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cross</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Cross</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:150124</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73536</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dunhill</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Dunhill</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:73536</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20267</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Esterbrook</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Esterbrook</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:20267</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165622</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Faber Castell</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Faber Castell</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165622</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29831</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lamy</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Lamy</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:29831</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165623</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Marlen</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Marlen</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165623</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14000</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Montblanc</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Montblanc</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:14000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165628</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Namiki</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Namiki</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165628</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165629</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Omas</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Omas</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165629</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14001</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Parker</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Parker</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:14001</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14002</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pelikan</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Pelikan</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:14002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73537</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pilot</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Pilot</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:73537</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73538</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rotring</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Rotring</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:73538</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165624</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>S.T. Dupont</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:S.T. Dupont</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165624</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165625</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sailor</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Sailor</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165625</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14003</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sheaffer</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Sheaffer</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:14003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165626</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Visconti</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Visconti</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165626</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20268</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wahl Eversharp</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Wahl Eversharp</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:20268</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14004</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Waterman</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Waterman</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:14004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165627</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Unbranded</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Unbranded</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:165627</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7281</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Fountain Pens</CategoryName>
+     <CategoryParentID>13999</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens:Other Fountain Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999:7281</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>27</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

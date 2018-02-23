@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:10.707Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>28015</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Uniforms and Work Clothing</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:28015</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175628</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Aprons</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Aprons</CategoryNamePath>
+     <CategoryIDPath>11450:28015:175628</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178962</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Coveralls and Jumpsuits</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Coveralls and Jumpsuits</CategoryNamePath>
+     <CategoryIDPath>11450:28015:178962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163526</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hats</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Hats</CategoryNamePath>
+     <CategoryIDPath>11450:28015:163526</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175629</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jackets and Vests</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Jackets and Vests</CategoryNamePath>
+     <CategoryIDPath>11450:28015:175629</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105417</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lab Coats</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Lab Coats</CategoryNamePath>
+     <CategoryIDPath>11450:28015:105417</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163525</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pants and Shorts</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Pants and Shorts</CategoryNamePath>
+     <CategoryIDPath>11450:28015:163525</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105418</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scouting Uniforms</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Scouting Uniforms</CategoryNamePath>
+     <CategoryIDPath>11450:28015:105418</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105419</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scrubs</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Scrubs</CategoryNamePath>
+     <CategoryIDPath>11450:28015:105419</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175630</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shirts</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Shirts</CategoryNamePath>
+     <CategoryIDPath>11450:28015:175630</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163528</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Uniforms and Work Clothing</CategoryName>
+     <CategoryParentID>28015</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing:Other Uniforms and Work Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:28015:163528</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

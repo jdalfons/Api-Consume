@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:40:23.129Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>71465</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Point of Sale Equipment</CategoryName>
+     <CategoryParentID>11890</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46706</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Barcode Scanners</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Barcode Scanners</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:46706</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71478</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Encoders and Readers</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Card Encoders and Readers</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:71478</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46708</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cash Drawers and Inserts</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Cash Drawers and Inserts</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:46708</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11891</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cash Registers</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Cash Registers</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:11891</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71476</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Check Readers</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Check Readers</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:71476</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104246</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete PC-Based Systems</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Complete PC-Based Systems</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:104246</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46714</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Credit Card Imprinters</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Credit Card Imprinters</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:46714</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11892</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Credit Card Terminals Readers</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Credit Card Terminals Readers</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:11892</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71466</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Money Handling and Counting</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Money Handling and Counting</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:71466</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46710</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pin Pads and Keyboards</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Pin Pads and Keyboards</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:46710</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46709</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pole Displays</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Pole Displays</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:46709</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121275</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Printers Ribbon and Paper</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Printers Ribbon and Paper</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:121275</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71475</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>POS Scales</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:POS Scales</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:71475</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46711</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>POS Software</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:POS Software</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:46711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71474</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Point of Sale Equipment</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Other Point of Sale Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:71474</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

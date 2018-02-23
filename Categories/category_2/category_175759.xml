@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:30.582Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>175759</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vintage</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage</CategoryNamePath>
+     <CategoryIDPath>11450:175759</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182059</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Accessories</CategoryName>
+     <CategoryParentID>175759</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage:Vintage Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:175759:182059</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182025</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Children&apos;s Vintage Clothing</CategoryName>
+     <CategoryParentID>175759</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage:Children&apos;s Vintage Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:175759:182025</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182034</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Children&apos;s Vintage Shoes</CategoryName>
+     <CategoryParentID>175759</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage:Children&apos;s Vintage Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:175759:182034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182044</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Men&apos;s Vintage Clothing</CategoryName>
+     <CategoryParentID>175759</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage:Men&apos;s Vintage Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:175759:182044</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163628</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Men&apos;s Vintage Shoes</CategoryName>
+     <CategoryParentID>175759</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage:Men&apos;s Vintage Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:175759:163628</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182047</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Women&apos;s Vintage Clothing</CategoryName>
+     <CategoryParentID>175759</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage:Women&apos;s Vintage Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:175759:182047</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74976</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Women&apos;s Vintage Shoes</CategoryName>
+     <CategoryParentID>175759</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage:Women&apos;s Vintage Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:175759:74976</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>91247</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Vintage Clothing</CategoryName>
+     <CategoryParentID>175759</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage:Other Vintage Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:175759:91247</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

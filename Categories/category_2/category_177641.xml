@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:28.488Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177641</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Heavy Equipment</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:177641</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95493</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Backhoe Loaders</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Backhoe Loaders</CategoryNamePath>
+     <CategoryIDPath>12576:177641:95493</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26257</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chemical and Petrochemical Equip</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Chemical and Petrochemical Equip</CategoryNamePath>
+     <CategoryIDPath>12576:177641:26257</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73094</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Combines</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Combines</CategoryNamePath>
+     <CategoryIDPath>12576:177641:73094</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41492</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Compactors and Rollers - Riding</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Compactors and Rollers - Riding</CategoryNamePath>
+     <CategoryIDPath>12576:177641:41492</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25253</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cranes</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Cranes</CategoryNamePath>
+     <CategoryIDPath>12576:177641:25253</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97121</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Crawler Dozers and Loaders</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Crawler Dozers and Loaders</CategoryNamePath>
+     <CategoryIDPath>12576:177641:97121</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73120</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Directional Drills</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Directional Drills</CategoryNamePath>
+     <CategoryIDPath>12576:177641:73120</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12579</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Drilling and Tapping Machines</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Drilling and Tapping Machines</CategoryNamePath>
+     <CategoryIDPath>12576:177641:12579</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25277</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>EDM Machines</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:EDM Machines</CategoryNamePath>
+     <CategoryIDPath>12576:177641:25277</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97122</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Excavators</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Excavators</CategoryNamePath>
+     <CategoryIDPath>12576:177641:97122</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25279</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Finishing Machines</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Finishing Machines</CategoryNamePath>
+     <CategoryIDPath>12576:177641:25279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97185</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Forklifts</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Forklifts</CategoryNamePath>
+     <CategoryIDPath>12576:177641:97185</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61568</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Graders</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Graders</CategoryNamePath>
+     <CategoryIDPath>12576:177641:61568</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12580</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Grinding Machines</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Grinding Machines</CategoryNamePath>
+     <CategoryIDPath>12576:177641:12580</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45040</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Heating and Cooling Equipment</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Heating and Cooling Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:177641:45040</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45042</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Material Handling and Processing</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Material Handling and Processing</CategoryNamePath>
+     <CategoryIDPath>12576:177641:45042</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42147</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Metal Bending Machines</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Metal Bending Machines</CategoryNamePath>
+     <CategoryIDPath>12576:177641:42147</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97230</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Metalworking Lathes</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Metalworking Lathes</CategoryNamePath>
+     <CategoryIDPath>12576:177641:97230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12584</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Milling Machines</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Milling Machines</CategoryNamePath>
+     <CategoryIDPath>12576:177641:12584</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73121</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pavers - Asphalt and Concrete</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Pavers - Asphalt and Concrete</CategoryNamePath>
+     <CategoryIDPath>12576:177641:73121</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41957</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Press Brakes</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Press Brakes</CategoryNamePath>
+     <CategoryIDPath>12576:177641:41957</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31372</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Punch Presses</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Punch Presses</CategoryNamePath>
+     <CategoryIDPath>12576:177641:31372</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97123</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scissor and Boom Lifts</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Scissor and Boom Lifts</CategoryNamePath>
+     <CategoryIDPath>12576:177641:97123</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117484</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scrapers</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Scrapers</CategoryNamePath>
+     <CategoryIDPath>12576:177641:117484</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41958</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sheet Metal Shears</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Sheet Metal Shears</CategoryNamePath>
+     <CategoryIDPath>12576:177641:41958</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95494</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Skid Steer Loaders</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Skid Steer Loaders</CategoryNamePath>
+     <CategoryIDPath>12576:177641:95494</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>91953</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tractors</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Tractors</CategoryNamePath>
+     <CategoryIDPath>12576:177641:91953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95495</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trailers</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Trailers</CategoryNamePath>
+     <CategoryIDPath>12576:177641:95495</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97125</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trenchers - Riding</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Trenchers - Riding</CategoryNamePath>
+     <CategoryIDPath>12576:177641:97125</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58178</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Utility Vehicles</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Utility Vehicles</CategoryNamePath>
+     <CategoryIDPath>12576:177641:58178</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58161</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wheel Loaders</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Wheel Loaders</CategoryNamePath>
+     <CategoryIDPath>12576:177641:58161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63924</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wood Chippers and Stump Grinders</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Wood Chippers and Stump Grinders</CategoryNamePath>
+     <CategoryIDPath>12576:177641:63924</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177642</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Antique and Vintage Farm Equip</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Antique and Vintage Farm Equip</CategoryNamePath>
+     <CategoryIDPath>12576:177641:177642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177643</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Heavy Equipment</CategoryName>
+     <CategoryParentID>177641</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment:Other Heavy Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:177641:177643</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>35</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

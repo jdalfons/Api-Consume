@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:19:26.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>69851</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vintage Retro Mid-Century</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vintage Retro Mid-Century</CategoryNamePath>
+     <CategoryIDPath>1:69851</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69852</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1940s</CategoryName>
+     <CategoryParentID>69851</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vintage Retro Mid-Century:1940s</CategoryNamePath>
+     <CategoryIDPath>1:69851:69852</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69853</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1950s</CategoryName>
+     <CategoryParentID>69851</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vintage Retro Mid-Century:1950s</CategoryNamePath>
+     <CategoryIDPath>1:69851:69853</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69854</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1960s</CategoryName>
+     <CategoryParentID>69851</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vintage Retro Mid-Century:1960s</CategoryNamePath>
+     <CategoryIDPath>1:69851:69854</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69855</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1970s</CategoryName>
+     <CategoryParentID>69851</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vintage Retro Mid-Century:1970s</CategoryNamePath>
+     <CategoryIDPath>1:69851:69855</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69856</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1980s</CategoryName>
+     <CategoryParentID>69851</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vintage Retro Mid-Century:1980s</CategoryNamePath>
+     <CategoryIDPath>1:69851:69856</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72397</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bakelite</CategoryName>
+     <CategoryParentID>69851</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vintage Retro Mid-Century:Bakelite</CategoryNamePath>
+     <CategoryIDPath>1:69851:72397</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108962</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Plastic</CategoryName>
+     <CategoryParentID>69851</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vintage Retro Mid-Century:Plastic</CategoryNamePath>
+     <CategoryIDPath>1:69851:108962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156532</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Unknown</CategoryName>
+     <CategoryParentID>69851</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vintage Retro Mid-Century:Unknown</CategoryNamePath>
+     <CategoryIDPath>1:69851:156532</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:54.457Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>23798</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Olympics</CategoryName>
+     <CategoryParentID>51</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Olympics</CategoryNamePath>
+     <CategoryIDPath>64482:51:23798</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2842</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Summer</CategoryName>
+     <CategoryParentID>23798</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Olympics:Summer</CategoryNamePath>
+     <CategoryIDPath>64482:51:23798:2842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1224</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Winter</CategoryName>
+     <CategoryParentID>23798</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Olympics:Winter</CategoryNamePath>
+     <CategoryIDPath>64482:51:23798:1224</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

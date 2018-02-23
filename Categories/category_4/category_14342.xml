@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:04:52.270Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>14342</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mexico</CategoryName>
+     <CategoryParentID>13740</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29461</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Blankets Rugs and Textiles</CategoryName>
+     <CategoryParentID>14342</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico:Blankets Rugs and Textiles</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342:29461</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165480</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Boxes</CategoryName>
+     <CategoryParentID>14342</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico:Boxes</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342:165480</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149366</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Day of the Dead</CategoryName>
+     <CategoryParentID>14342</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico:Day of the Dead</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342:149366</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149367</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Folk Art</CategoryName>
+     <CategoryParentID>14342</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico:Folk Art</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342:149367</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149368</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Huichol Art</CategoryName>
+     <CategoryParentID>14342</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico:Huichol Art</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342:149368</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35806</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Masks</CategoryName>
+     <CategoryParentID>14342</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico:Masks</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342:35806</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14343</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pottery</CategoryName>
+     <CategoryParentID>14342</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico:Pottery</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342:14343</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165481</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Prints Posters and Paintings</CategoryName>
+     <CategoryParentID>14342</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico:Prints Posters and Paintings</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342:165481</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149369</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tile</CategoryName>
+     <CategoryParentID>14342</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico:Tile</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342:149369</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13741</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Mexican Collectibles</CategoryName>
+     <CategoryParentID>14342</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Mexico:Other Mexican Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:14342:13741</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

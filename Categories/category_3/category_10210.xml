@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:15:28.643Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10210</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Loose Diamonds</CategoryName>
+     <CategoryParentID>491</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Diamonds and Gemstones:Loose Diamonds</CategoryNamePath>
+     <CategoryIDPath>281:491:10210</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3824</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Natural Diamonds</CategoryName>
+     <CategoryParentID>10210</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Diamonds and Gemstones:Loose Diamonds:Natural Diamonds</CategoryNamePath>
+     <CategoryIDPath>281:491:10210:3824</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152810</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Enhanced Natural Diamonds</CategoryName>
+     <CategoryParentID>10210</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Diamonds and Gemstones:Loose Diamonds:Enhanced Natural Diamonds</CategoryNamePath>
+     <CategoryIDPath>281:491:10210:152810</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152823</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lab-Created Diamonds</CategoryName>
+     <CategoryParentID>10210</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Diamonds and Gemstones:Loose Diamonds:Lab-Created Diamonds</CategoryNamePath>
+     <CategoryIDPath>281:491:10210:152823</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>110733</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rough Natural Diamonds</CategoryName>
+     <CategoryParentID>10210</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Diamonds and Gemstones:Loose Diamonds:Rough Natural Diamonds</CategoryNamePath>
+     <CategoryIDPath>281:491:10210:110733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

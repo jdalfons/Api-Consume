@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:55:33.785Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>50787</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pinbacks</CategoryName>
+     <CategoryParentID>39507</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149377</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Advertising</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Advertising</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149377</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149378</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Animals</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Animals</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149378</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149379</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Awards</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Awards</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149379</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50790</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Campaigns Elections Politics</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Campaigns Elections Politics</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:50790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149382</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Carnivals Fairs</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Carnivals Fairs</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149382</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149383</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Celebrities</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Celebrities</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149383</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149384</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clubs Memberships</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Clubs Memberships</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149384</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50788</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Comic Books Cartoons</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Comic Books Cartoons</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:50788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165655</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Humorous</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Humorous</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:165655</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73545</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Media Press</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Media Press</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:73545</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149380</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Movies Television</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Movies Television</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149380</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149381</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Music Musicians</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Music Musicians</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149381</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63802</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Olympic</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Olympic</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:63802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50789</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Patriotic</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Patriotic</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:50789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63803</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Red Cross</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Red Cross</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:63803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149385</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Religious</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Religious</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149385</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63804</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Restaurant</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Restaurant</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:63804</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149388</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ribbons</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Ribbons</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149388</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149389</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slogans</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Slogans</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149389</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149390</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Souvenirs Travel</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Souvenirs Travel</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149390</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149391</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sports</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Sports</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149391</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73546</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>U.S. States</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:U.S. States</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:73546</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63807</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wal-Mart</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Wal-Mart</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:63807</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149386</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vehicles</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Vehicles</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:149386</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73547</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:73547</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2036</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Pinbacks</CategoryName>
+     <CategoryParentID>50787</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pinbacks Bobbles Lunchboxes:Pinbacks:Other Collectible Pinbacks</CategoryNamePath>
+     <CategoryIDPath>1:39507:50787:2036</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>27</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:21:00.985Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>175741</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Parts and Accessories</CategoryName>
+     <CategoryParentID>175740</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vintage Electronics:Vintage Audio and Video:Vintage Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>293:183077:175740:175741</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163851</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vintage Blank Media</CategoryName>
+     <CategoryParentID>175741</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vintage Electronics:Vintage Audio and Video:Vintage Parts and Accessories:Vintage Blank Media</CategoryNamePath>
+     <CategoryIDPath>293:183077:175740:175741:163851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71573</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vintage Capacitors</CategoryName>
+     <CategoryParentID>175741</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vintage Electronics:Vintage Audio and Video:Vintage Parts and Accessories:Vintage Capacitors</CategoryNamePath>
+     <CategoryIDPath>293:183077:175740:175741:71573</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39996</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vintage Manuals</CategoryName>
+     <CategoryParentID>175741</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vintage Electronics:Vintage Audio and Video:Vintage Parts and Accessories:Vintage Manuals</CategoryNamePath>
+     <CategoryIDPath>293:183077:175740:175741:39996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73372</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vintage Speaker and Horn Drivers</CategoryName>
+     <CategoryParentID>175741</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vintage Electronics:Vintage Audio and Video:Vintage Parts and Accessories:Vintage Speaker and Horn Drivers</CategoryNamePath>
+     <CategoryIDPath>293:183077:175740:175741:73372</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67815</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vintage Transformers</CategoryName>
+     <CategoryParentID>175741</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vintage Electronics:Vintage Audio and Video:Vintage Parts and Accessories:Vintage Transformers</CategoryNamePath>
+     <CategoryIDPath>293:183077:175740:175741:67815</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64627</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vintage Tubes and Tube Sockets</CategoryName>
+     <CategoryParentID>175741</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vintage Electronics:Vintage Audio and Video:Vintage Parts and Accessories:Vintage Tubes and Tube Sockets</CategoryNamePath>
+     <CategoryIDPath>293:183077:175740:175741:64627</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168088</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Vintage A/V Parts and Accs</CategoryName>
+     <CategoryParentID>175741</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vintage Electronics:Vintage Audio and Video:Vintage Parts and Accessories:Other Vintage A/V Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>293:183077:175740:175741:168088</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

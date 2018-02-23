@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:11:51.268Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182984</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Lots</CategoryName>
+     <CategoryParentID>182983</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Batman Trading Cards:Trading Card Lots</CategoryNamePath>
+     <CategoryIDPath>1:182982:182983:182984</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

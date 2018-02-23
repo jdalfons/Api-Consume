@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:32:46.270Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38219</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fireplaces and Stoves</CategoryName>
+     <CategoryParentID>41986</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175756</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fireplaces</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Fireplaces</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:175756</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84184</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Heating Stoves</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Heating Stoves</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:84184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79648</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Andirons Grates and Firedogs</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Andirons Grates and Firedogs</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:79648</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38220</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Decorative Logs Stone and Glass</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Decorative Logs Stone and Glass</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:38220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175824</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fireplace Hearths</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Fireplace Hearths</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:175824</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79650</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fireplace Mantels and Surrounds</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Fireplace Mantels and Surrounds</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:79650</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38221</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fireplace Screens and Doors</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Fireplace Screens and Doors</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:38221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175755</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fuel and Firewood</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Fuel and Firewood</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:175755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79649</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Log Holders and Carriers</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Log Holders and Carriers</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:79649</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38222</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pokers Tools and Sets</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Pokers Tools and Sets</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:38222</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159895</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Replacement Parts</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Replacement Parts</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:159895</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175803</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stove and Chimney Pipes</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Stove and Chimney Pipes</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:175803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20564</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Fireplaces and Stoves</CategoryName>
+     <CategoryParentID>38219</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves:Other Fireplaces and Stoves</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41986:38219:20564</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

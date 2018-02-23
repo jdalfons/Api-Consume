@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:20.362Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183868</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Surveillance and Alarm Equipment</CategoryName>
+     <CategoryParentID>11897</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53144</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Alarm Systems and Accessories</CategoryName>
+     <CategoryParentID>183868</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Alarm Systems and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53144</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46539</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Two-Way Radios</CategoryName>
+     <CategoryParentID>183868</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radios</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:46539</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53106</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Two-Way Radio Parts and Accs</CategoryName>
+     <CategoryParentID>183868</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66971</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Commercial Pagers</CategoryName>
+     <CategoryParentID>183868</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Commercial Pagers</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:66971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183874</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Portable and Worksite Radios</CategoryName>
+     <CategoryParentID>183868</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Portable and Worksite Radios</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:183874</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183875</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Facility Surveillance</CategoryName>
+     <CategoryParentID>183868</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Other Facility Surveillance</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:183875</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

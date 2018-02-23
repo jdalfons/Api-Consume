@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:04:16.879Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>32749</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Superhero</CategoryName>
+     <CategoryParentID>900</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82488</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Alpha Flight</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Alpha Flight</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:82488</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155289</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aquaman</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Aquaman</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:155289</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32750</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Avengers</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Avengers</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32750</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99948</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Batgirl</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Batgirl</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:99948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>17076</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Batman</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Batman</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:17076</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32751</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Captain America</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Captain America</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32751</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32752</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Catwoman</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Catwoman</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32752</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>17077</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Conan</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Conan</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:17077</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32753</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Daredevil</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Daredevil</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66506</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Darkness</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Darkness</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:66506</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182968</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Deadpool</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Deadpool</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:182968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73492</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Deathlok</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Deathlok</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:73492</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88869</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Defenders</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Defenders</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:88869</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73493</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dr. Strange</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Dr. Strange</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:73493</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32754</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fantastic Four</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Fantastic Four</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73494</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fathom</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Fathom</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:73494</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32755</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flash</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Flash</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82489</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ghost Rider</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Ghost Rider</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:82489</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35762</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>GI Joe</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:GI Joe</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:35762</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66507</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Green Arrow</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Green Arrow</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:66507</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32756</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Green Lantern</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Green Lantern</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32756</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103933</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hawkman</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Hawkman</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:103933</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66508</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hellboy</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Hellboy</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:66508</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82490</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Identity Crisis</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Identity Crisis</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:82490</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32757</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Incredible Hulk</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Incredible Hulk</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32757</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73495</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Iron Man</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Iron Man</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:73495</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32758</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Justice League of America</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Justice League of America</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32758</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99955</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Justice Society of America</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Justice Society of America</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:99955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82491</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lady Death</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Lady Death</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:82491</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82492</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Legion of Superheroes</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Legion of Superheroes</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:82492</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82493</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lobo</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Lobo</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:82493</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73496</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Magneto</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Magneto</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:73496</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98022</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Moon Knight</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Moon Knight</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:98022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32759</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Phantom</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Phantom</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32759</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32760</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Punisher</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Punisher</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32760</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82494</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sandman</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Sandman</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:82494</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82495</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Secret Wars</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Secret Wars</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:82495</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74704</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Shi</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Shi</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:74704</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32761</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Silver Surfer</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Silver Surfer</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32761</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>17079</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spawn</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Spawn</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:17079</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>17082</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spider-Man</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Spider-Man</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:17082</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32762</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Star Wars</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Star Wars</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32762</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>17084</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Superman</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Superman</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:17084</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82496</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Swamp Thing</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Swamp Thing</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:82496</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>17081</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Teen Titans</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Teen Titans</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:17081</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>17080</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thor</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Thor</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:17080</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32763</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tomb Raider</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Tomb Raider</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32763</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32764</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Transformers</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Transformers</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32764</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32765</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ultimates</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Ultimates</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32765</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74705</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ultraverse</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Ultraverse</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:74705</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32766</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Witchblade</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Witchblade</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32766</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32767</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wolverine</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Wolverine</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32767</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32768</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wonder Woman</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Wonder Woman</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32768</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>17085</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>X-Men</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:X-Men</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:17085</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32769</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Items</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Mixed Items</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:32769</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155290</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Modern Age Superheroes</CategoryName>
+     <CategoryParentID>32749</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Modern Age (1992-Now):Superhero:Other Modern Age Superheroes</CategoryNamePath>
+     <CategoryIDPath>1:63:900:32749:155290</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>57</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

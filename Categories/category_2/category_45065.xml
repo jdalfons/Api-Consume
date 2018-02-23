@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:50.129Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45065</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>15032</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>15032:45065</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45071</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cell Phones</CategoryName>
+     <CategoryParentID>45065</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phones</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45071</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45066</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cell Phone Accessories</CategoryName>
+     <CategoryParentID>45065</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182072</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cell Phone Parts</CategoryName>
+     <CategoryParentID>45065</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Parts</CategoryNamePath>
+     <CategoryIDPath>15032:45065:182072</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45073</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Cell Phone Lots</CategoryName>
+     <CategoryParentID>45065</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Other Cell Phone Lots</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45073</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

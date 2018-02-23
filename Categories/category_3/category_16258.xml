@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:20.705Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>16258</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Inline and Roller Skating</CategoryName>
+     <CategoryParentID>159043</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Inline and Roller Skating</CategoryNamePath>
+     <CategoryIDPath>888:159043:16258</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47344</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Inline Skates</CategoryName>
+     <CategoryParentID>16258</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Inline and Roller Skating:Inline Skates</CategoryNamePath>
+     <CategoryIDPath>888:159043:16258:47344</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16260</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Protective Gear</CategoryName>
+     <CategoryParentID>16258</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Inline and Roller Skating:Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:159043:16258:16260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71154</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Roller Skates</CategoryName>
+     <CategoryParentID>16258</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Inline and Roller Skating:Roller Skates</CategoryNamePath>
+     <CategoryIDPath>888:159043:16258:71154</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159063</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Skate Parts and Tools</CategoryName>
+     <CategoryParentID>16258</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Inline and Roller Skating:Skate Parts and Tools</CategoryNamePath>
+     <CategoryIDPath>888:159043:16258:159063</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159064</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wheels</CategoryName>
+     <CategoryParentID>16258</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Inline and Roller Skating:Wheels</CategoryNamePath>
+     <CategoryIDPath>888:159043:16258:159064</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1301</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Inline and Roller Skating</CategoryName>
+     <CategoryParentID>16258</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Inline and Roller Skating:Other Inline and Roller Skating</CategoryNamePath>
+     <CategoryIDPath>888:159043:16258:1301</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

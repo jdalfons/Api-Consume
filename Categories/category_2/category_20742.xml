@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:21.298Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20742</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Dog Supplies</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:20742</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20744</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beds</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Beds</CategoryNamePath>
+     <CategoryIDPath>1281:20742:20744</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46453</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bike Baskets and Trailers</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Bike Baskets and Trailers</CategoryNamePath>
+     <CategoryIDPath>1281:20742:46453</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116377</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blankets</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Blankets</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116377</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121851</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cages and Crates</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Cages and Crates</CategoryNamePath>
+     <CategoryIDPath>1281:20742:121851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177788</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Carriers and Totes</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Carriers and Totes</CategoryNamePath>
+     <CategoryIDPath>1281:20742:177788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46454</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Car Seats and Barriers</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Car Seats and Barriers</CategoryNamePath>
+     <CategoryIDPath>1281:20742:46454</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117426</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Car Seat Covers</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Car Seat Covers</CategoryNamePath>
+     <CategoryIDPath>1281:20742:117426</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177796</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing and Shoes</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Clothing and Shoes</CategoryNamePath>
+     <CategoryIDPath>1281:20742:177796</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63057</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collars</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Collars</CategoryNamePath>
+     <CategoryIDPath>1281:20742:63057</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52352</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Costumes</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Costumes</CategoryNamePath>
+     <CategoryIDPath>1281:20742:52352</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116373</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Diapers and Belly Bands</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Diapers and Belly Bands</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116373</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177789</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dishes Feeders and Fountains</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Dishes Feeders and Fountains</CategoryNamePath>
+     <CategoryIDPath>1281:20742:177789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>77664</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dog Chews and Treats</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Dog Chews and Treats</CategoryNamePath>
+     <CategoryIDPath>1281:20742:77664</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66780</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dog Food</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Dog Food</CategoryNamePath>
+     <CategoryIDPath>1281:20742:66780</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108884</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dog Houses</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Dog Houses</CategoryNamePath>
+     <CategoryIDPath>1281:20742:108884</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116378</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dog Lover Products</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Dog Lover Products</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116378</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116379</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Doors and Flaps</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Doors and Flaps</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116379</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20748</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fences and Exercise Pens</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Fences and Exercise Pens</CategoryNamePath>
+     <CategoryIDPath>1281:20742:20748</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20749</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flea and Tick Remedies</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Flea and Tick Remedies</CategoryNamePath>
+     <CategoryIDPath>1281:20742:20749</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177792</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Grooming</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Grooming</CategoryNamePath>
+     <CategoryIDPath>1281:20742:177792</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66783</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Harnesses</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Harnesses</CategoryNamePath>
+     <CategoryIDPath>1281:20742:66783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134752</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Health Care</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Health Care</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134752</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146247</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Leashes and Head Collars</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Leashes and Head Collars</CategoryNamePath>
+     <CategoryIDPath>1281:20742:146247</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134755</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Odor and Stain Removal</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Odor and Stain Removal</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116392</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pooper Scoopers and Bags</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Pooper Scoopers and Bags</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116392</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116389</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ramps and Stairs</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Ramps and Stairs</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116389</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117427</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Safety Vests and Life Preservers</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Safety Vests and Life Preservers</CategoryNamePath>
+     <CategoryIDPath>1281:20742:117427</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46299</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Signs and Plaques</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Signs and Plaques</CategoryNamePath>
+     <CategoryIDPath>1281:20742:46299</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116380</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Strollers</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Strollers</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116380</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116376</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sunglasses and Goggles</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Sunglasses and Goggles</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116376</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177790</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tags and Charms</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Tags and Charms</CategoryNamePath>
+     <CategoryIDPath>1281:20742:177790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177791</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Toys</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Toys</CategoryNamePath>
+     <CategoryIDPath>1281:20742:177791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116381</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Training and Obedience</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Training and Obedience</CategoryNamePath>
+     <CategoryIDPath>1281:20742:116381</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134793</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Whelping Supplies</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Whelping Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:20742:134793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11286</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Dog Supplies</CategoryName>
+     <CategoryParentID>20742</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies:Other Dog Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:20742:11286</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>36</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

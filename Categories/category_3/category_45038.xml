@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:38:58.629Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45038</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Process Equipment</CategoryName>
+     <CategoryParentID>11804</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Process Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11804:45038</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159707</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Filtration Equipment</CategoryName>
+     <CategoryParentID>45038</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Process Equipment:Filtration Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11804:45038:159707</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36350</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plastics Equipment and Supplies</CategoryName>
+     <CategoryParentID>45038</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Process Equipment:Plastics Equipment and Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11804:45038:36350</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98119</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Process Mixers</CategoryName>
+     <CategoryParentID>45038</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Process Equipment:Process Mixers</CategoryNamePath>
+     <CategoryIDPath>12576:11804:45038:98119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11809</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Process Equipment</CategoryName>
+     <CategoryParentID>45038</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Process Equipment:Other Process Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11804:45038:11809</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

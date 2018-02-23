@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:33:44.315Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184339</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Proofing</CategoryName>
+     <CategoryParentID>20433</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Baby Proofing</CategoryNamePath>
+     <CategoryIDPath>2984:20433:184339</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117027</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baby Locks and Latches</CategoryName>
+     <CategoryParentID>184339</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Baby Proofing:Baby Locks and Latches</CategoryNamePath>
+     <CategoryIDPath>2984:20433:184339:117027</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162184</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Corner and Edge Cushions</CategoryName>
+     <CategoryParentID>184339</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Baby Proofing:Corner and Edge Cushions</CategoryNamePath>
+     <CategoryIDPath>2984:20433:184339:162184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134764</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outlet Covers</CategoryName>
+     <CategoryParentID>184339</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Baby Proofing:Outlet Covers</CategoryNamePath>
+     <CategoryIDPath>2984:20433:184339:134764</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106803</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stove Guards</CategoryName>
+     <CategoryParentID>184339</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Baby Proofing:Stove Guards</CategoryNamePath>
+     <CategoryIDPath>2984:20433:184339:106803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20434</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Baby Proofing</CategoryName>
+     <CategoryParentID>184339</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health:Baby Proofing:Other Baby Proofing</CategoryNamePath>
+     <CategoryIDPath>2984:20433:184339:20434</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

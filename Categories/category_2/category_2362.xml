@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:21:53.313Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2362</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Theater Memorabilia</CategoryName>
+     <CategoryParentID>45100</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia</CategoryNamePath>
+     <CategoryIDPath>45100:2362</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2369</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ads Flyers</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Ads Flyers</CategoryNamePath>
+     <CategoryIDPath>45100:2362:2369</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164127</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Brochures</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Brochures</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164127</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164126</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Merchandise and Promotional</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Merchandise and Promotional</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164126</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164128</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Photographs</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164128</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108931</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Playbills</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164131</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Postcards</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Postcards</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164131</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60419</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Posters</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Posters</CategoryNamePath>
+     <CategoryIDPath>45100:2362:60419</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2366</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Props and Wardrobe</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Props and Wardrobe</CategoryNamePath>
+     <CategoryIDPath>45100:2362:2366</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168127</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Publications</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Publications</CategoryNamePath>
+     <CategoryIDPath>45100:2362:168127</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164129</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scripts and Songbooks</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Scripts and Songbooks</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164129</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164890</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Souvenir Programs</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Souvenir Programs</CategoryNamePath>
+     <CategoryIDPath>45100:2362:164890</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2368</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Window Cards</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Window Cards</CategoryNamePath>
+     <CategoryIDPath>45100:2362:2368</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171206</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Price Guides</CategoryNamePath>
+     <CategoryIDPath>45100:2362:171206</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>778</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Theater Memorabilia</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Other Theater Memorabilia</CategoryNamePath>
+     <CategoryIDPath>45100:2362:778</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:45:54.626Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45991</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Australia and Oceania</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Australia and Oceania</CategoryNamePath>
+     <CategoryIDPath>11116:256:45991</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45142</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Australia</CategoryName>
+     <CategoryParentID>45991</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Australia and Oceania:Australia</CategoryNamePath>
+     <CategoryIDPath>11116:256:45991:45142</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48026</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>New Zealand</CategoryName>
+     <CategoryParentID>45991</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Australia and Oceania:New Zealand</CategoryNamePath>
+     <CategoryIDPath>11116:256:45991:48026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3392</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>South Pacific</CategoryName>
+     <CategoryParentID>45991</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Australia and Oceania:South Pacific</CategoryNamePath>
+     <CategoryIDPath>11116:256:45991:3392</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45143</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Oceania Coins</CategoryName>
+     <CategoryParentID>45991</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Australia and Oceania:Other Oceania Coins</CategoryNamePath>
+     <CategoryIDPath>11116:256:45991:45143</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

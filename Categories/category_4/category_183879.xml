@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:41:55.832Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183879</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hard Hats and Face Shields</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Hard Hats and Face Shields</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:183879</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183881</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hard Hats and Bump Caps</CategoryName>
+     <CategoryParentID>183879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Hard Hats and Face Shields:Hard Hats and Bump Caps</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:183879:183881</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183882</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hat Liners</CategoryName>
+     <CategoryParentID>183879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Hard Hats and Face Shields:Hat Liners</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:183879:183882</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183883</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Face Shields</CategoryName>
+     <CategoryParentID>183879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Hard Hats and Face Shields:Face Shields</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:183879:183883</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183884</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hat and Face Shield Parts and Accs</CategoryName>
+     <CategoryParentID>183879</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Hard Hats and Face Shields:Hat and Face Shield Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:183879:183884</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

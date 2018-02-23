@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:17:29.535Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156277</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Beads</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Beads</CategoryNamePath>
+     <CategoryIDPath>1:156277</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156278</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pre-1400</CategoryName>
+     <CategoryParentID>156277</CategoryParentID>
+     <CategoryNamePath>Collectibles:Beads:Pre-1400</CategoryNamePath>
+     <CategoryIDPath>1:156277:156278</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156279</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1400-1800</CategoryName>
+     <CategoryParentID>156277</CategoryParentID>
+     <CategoryNamePath>Collectibles:Beads:1400-1800</CategoryNamePath>
+     <CategoryIDPath>1:156277:156279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156280</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1800-1950</CategoryName>
+     <CategoryParentID>156277</CategoryParentID>
+     <CategoryNamePath>Collectibles:Beads:1800-1950</CategoryNamePath>
+     <CategoryIDPath>1:156277:156280</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156281</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>1950-Now</CategoryName>
+     <CategoryParentID>156277</CategoryParentID>
+     <CategoryNamePath>Collectibles:Beads:1950-Now</CategoryNamePath>
+     <CategoryIDPath>1:156277:156281</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171201</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>156277</CategoryParentID>
+     <CategoryNamePath>Collectibles:Beads:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:156277:171201</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

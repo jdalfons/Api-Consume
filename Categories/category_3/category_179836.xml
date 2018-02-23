@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:09:59.942Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179836</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Alcohol and Alcohol Mixers</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Alcohol and Alcohol Mixers</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179836</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>148495</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beer</CategoryName>
+     <CategoryParentID>179836</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Alcohol and Alcohol Mixers:Beer</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179836:148495</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182109</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cider</CategoryName>
+     <CategoryParentID>179836</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Alcohol and Alcohol Mixers:Cider</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179836:182109</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179837</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cocktail Mixers</CategoryName>
+     <CategoryParentID>179836</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Alcohol and Alcohol Mixers:Cocktail Mixers</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179836:179837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179838</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cocktail Rimming Salts Sugars</CategoryName>
+     <CategoryParentID>179836</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Alcohol and Alcohol Mixers:Cocktail Rimming Salts Sugars</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179836:179838</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179839</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coolers Flavored Alcohol</CategoryName>
+     <CategoryParentID>179836</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Alcohol and Alcohol Mixers:Coolers Flavored Alcohol</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179836:179839</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>8384</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spirits and Liqueurs</CategoryName>
+     <CategoryParentID>179836</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Alcohol and Alcohol Mixers:Spirits and Liqueurs</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179836:8384</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26270</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wine</CategoryName>
+     <CategoryParentID>179836</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Alcohol and Alcohol Mixers:Wine</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179836:26270</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

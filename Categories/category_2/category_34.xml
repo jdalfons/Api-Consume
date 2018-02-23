@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:17:08.926Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>34</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Advertising</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising</CategoryNamePath>
+     <CategoryIDPath>1:34</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>827</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Agriculture</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture</CategoryNamePath>
+     <CategoryIDPath>1:34:827</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1313</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Automobiles</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Automobiles</CategoryNamePath>
+     <CategoryIDPath>1:34:1313</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13583</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>1:34:13583</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13585</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Communication and Utilities</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Communication and Utilities</CategoryNamePath>
+     <CategoryIDPath>1:34:13585</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21092</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Computers and High Tech</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Computers and High Tech</CategoryNamePath>
+     <CategoryIDPath>1:34:21092</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18789</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>eBayana</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:eBayana</CategoryNamePath>
+     <CategoryIDPath>1:34:18789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13587</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Food and Beverage</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage</CategoryNamePath>
+     <CategoryIDPath>1:34:13587</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gas and Oil</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Gas and Oil</CategoryNamePath>
+     <CategoryIDPath>1:34:39</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>875</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Government</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Government</CategoryNamePath>
+     <CategoryIDPath>1:34:875</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21136</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Health and Beauty</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Health and Beauty</CategoryNamePath>
+     <CategoryIDPath>1:34:21136</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170068</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hotel and Motel</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Hotel and Motel</CategoryNamePath>
+     <CategoryIDPath>1:34:170068</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13595</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Household</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Household</CategoryNamePath>
+     <CategoryIDPath>1:34:13595</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165254</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jewelry and Watches</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Jewelry and Watches</CategoryNamePath>
+     <CategoryIDPath>1:34:165254</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165255</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Musical Instruments</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Musical Instruments</CategoryNamePath>
+     <CategoryIDPath>1:34:165255</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21097</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pets</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Pets</CategoryNamePath>
+     <CategoryIDPath>1:34:21097</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>849</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Restaurants and Fast Food</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Restaurants and Fast Food</CategoryNamePath>
+     <CategoryIDPath>1:34:849</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13598</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Retail Stores</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Retail Stores</CategoryNamePath>
+     <CategoryIDPath>1:34:13598</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Soda</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Soda</CategoryNamePath>
+     <CategoryIDPath>1:34:36</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13617</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tires</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Tires</CategoryNamePath>
+     <CategoryIDPath>1:34:13617</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13623</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Merchandise and Memorabilia</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:34:13623</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171180</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:34:171180</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165266</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Collectible Ads</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Other Collectible Ads</CategoryNamePath>
+     <CategoryIDPath>1:34:165266</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>23</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

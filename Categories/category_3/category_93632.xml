@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:03.205Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>93632</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ponds and Water Features</CategoryName>
+     <CategoryParentID>159912</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181120</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete Pond Kits</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Complete Pond Kits</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:181120</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20507</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outdoor Fountains</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Outdoor Fountains</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:20507</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139921</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond and Fountain Pumps</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond and Fountain Pumps</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:139921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181121</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond Décor</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond Décor</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:181121</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157813</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond De-icers</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond De-icers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:157813</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181122</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond Filtration Equipment</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond Filtration Equipment</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:181122</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85757</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond Filter Media and Accs</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond Filter Media and Accs</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:85757</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181123</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond Lighting</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond Lighting</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:181123</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181124</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond Liners</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond Liners</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:181124</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181125</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond Planting Accessories</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond Planting Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:181125</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157777</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond Vacuums</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond Vacuums</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:157777</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157810</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond Water Test Kits</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond Water Test Kits</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:157810</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157802</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond Water Treatments</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond Water Treatments</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:157802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42583</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>UV Sterilizers and Ionizers</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:UV Sterilizers and Ionizers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:42583</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181126</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Waterfall Boxes and Spillways</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Waterfall Boxes and Spillways</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:181126</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181127</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pond and Fountain Equip. Parts</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Pond and Fountain Equip. Parts</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:181127</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57230</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Ponds and Water Features</CategoryName>
+     <CategoryParentID>93632</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Ponds and Water Features:Other Ponds and Water Features</CategoryNamePath>
+     <CategoryIDPath>11700:159912:93632:57230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

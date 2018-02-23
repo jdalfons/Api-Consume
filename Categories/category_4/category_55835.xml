@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:48:48.658Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>55835</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Serving Buffet and Catering</CategoryName>
+     <CategoryParentID>25381</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Serving Buffet and Catering</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:55835</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55836</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Buffet Tables and Salad Bars</CategoryName>
+     <CategoryParentID>55835</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Serving Buffet and Catering:Buffet Tables and Salad Bars</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:55835:55836</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159704</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Carts</CategoryName>
+     <CategoryParentID>55835</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Serving Buffet and Catering:Carts</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:55835:159704</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55837</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Chafers and Accessories</CategoryName>
+     <CategoryParentID>55835</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Serving Buffet and Catering:Chafers and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:55835:55837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55838</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Insulated Food Containers</CategoryName>
+     <CategoryParentID>55835</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Serving Buffet and Catering:Insulated Food Containers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:55835:55838</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25356</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Buffet Equipment</CategoryName>
+     <CategoryParentID>55835</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Serving Buffet and Catering:Other Buffet Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:55835:25356</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

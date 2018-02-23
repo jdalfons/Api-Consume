@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:57:54.517Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4118</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pipes</CategoryName>
+     <CategoryParentID>593</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Pipes</CategoryNamePath>
+     <CategoryIDPath>1:593:4118</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4119</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Estate</CategoryName>
+     <CategoryParentID>4118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Pipes:Estate</CategoryNamePath>
+     <CategoryIDPath>1:593:4118:4119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30733</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Meerschaum</CategoryName>
+     <CategoryParentID>4118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Pipes:Meerschaum</CategoryNamePath>
+     <CategoryIDPath>1:593:4118:30733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156519</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unsmoked</CategoryName>
+     <CategoryParentID>4118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Pipes:Unsmoked</CategoryNamePath>
+     <CategoryIDPath>1:593:4118:156519</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>596</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Pipes</CategoryName>
+     <CategoryParentID>4118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Pipes:Other Collectible Pipes</CategoryNamePath>
+     <CategoryIDPath>1:593:4118:596</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

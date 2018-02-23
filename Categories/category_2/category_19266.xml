@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:30:30.751Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19266</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Metaphysical</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical</CategoryNamePath>
+     <CategoryIDPath>99:19266</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19267</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Astrology</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Astrology</CategoryNamePath>
+     <CategoryIDPath>99:19266:19267</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102493</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Crystal Healing</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Crystal Healing</CategoryNamePath>
+     <CategoryIDPath>99:19266:102493</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102502</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Feng Shui</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Feng Shui</CategoryNamePath>
+     <CategoryIDPath>99:19266:102502</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102507</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Goth</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Goth</CategoryNamePath>
+     <CategoryIDPath>99:19266:102507</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102513</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Psychic Paranormal</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Psychic Paranormal</CategoryNamePath>
+     <CategoryIDPath>99:19266:102513</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102518</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Reiki</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Reiki</CategoryNamePath>
+     <CategoryIDPath>99:19266:102518</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102519</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Runes</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Runes</CategoryNamePath>
+     <CategoryIDPath>99:19266:102519</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102520</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tarot</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Tarot</CategoryNamePath>
+     <CategoryIDPath>99:19266:102520</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116109</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wicca</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Wicca</CategoryNamePath>
+     <CategoryIDPath>99:19266:116109</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1523</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Metaphysical</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Other Metaphysical</CategoryNamePath>
+     <CategoryIDPath>99:19266:1523</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

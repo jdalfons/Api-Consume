@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:21:09.345Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183091</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Airbrushing Supplies</CategoryName>
+     <CategoryParentID>28110</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Airbrushing Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183091</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183092</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Airbrush Paints</CategoryName>
+     <CategoryParentID>183091</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Airbrushing Supplies:Airbrush Paints</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183091:183092</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183093</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Airbrush Parts</CategoryName>
+     <CategoryParentID>183091</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Airbrushing Supplies:Airbrush Parts</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183091:183093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183094</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spray Booths</CategoryName>
+     <CategoryParentID>183091</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Airbrushing Supplies:Spray Booths</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183091:183094</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183095</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Systems and Sets</CategoryName>
+     <CategoryParentID>183091</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Airbrushing Supplies:Systems and Sets</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183091:183095</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

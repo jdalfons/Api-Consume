@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:27:16.610Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>25469</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>18828</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Reproductions</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:25469</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25471</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pre-1940</CategoryName>
+     <CategoryParentID>25469</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Reproductions:Pre-1940</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:25469:25471</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60335</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1940-49</CategoryName>
+     <CategoryParentID>25469</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Reproductions:1940-49</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:25469:60335</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60336</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1950-59</CategoryName>
+     <CategoryParentID>25469</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Reproductions:1950-59</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:25469:60336</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60337</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1960-69</CategoryName>
+     <CategoryParentID>25469</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Reproductions:1960-69</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:25469:60337</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25473</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1970-79</CategoryName>
+     <CategoryParentID>25469</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Reproductions:1970-79</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:25469:25473</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60338</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1980-89</CategoryName>
+     <CategoryParentID>25469</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Reproductions:1980-89</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:25469:60338</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2323</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1990-99</CategoryName>
+     <CategoryParentID>25469</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Reproductions:1990-99</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:25469:2323</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60339</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>2000-Now</CategoryName>
+     <CategoryParentID>25469</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Reproductions:2000-Now</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:25469:60339</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163885</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Current Releases</CategoryName>
+     <CategoryParentID>25469</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Reproductions:Current Releases</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:25469:163885</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:41:11.268Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>36315</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Test Equipment Parts and Accs</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equipment Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:36315</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182015</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Test Equipment Cables</CategoryName>
+     <CategoryParentID>36315</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equipment Parts and Accs:Test Equipment Cables</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:36315:182015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73167</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Test Equipment Cases</CategoryName>
+     <CategoryParentID>36315</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equipment Parts and Accs:Test Equipment Cases</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:36315:73167</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25400</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Test Equipment Controllers</CategoryName>
+     <CategoryParentID>36315</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equipment Parts and Accs:Test Equipment Controllers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:36315:25400</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50966</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Test Equipment Plug-Ins</CategoryName>
+     <CategoryParentID>36315</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equipment Parts and Accs:Test Equipment Plug-Ins</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:36315:50966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182016</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Test Equip. Power Amplifiers</CategoryName>
+     <CategoryParentID>36315</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equipment Parts and Accs:Test Equip. Power Amplifiers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:36315:182016</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58284</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Test Equipment Software</CategoryName>
+     <CategoryParentID>36315</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equipment Parts and Accs:Test Equipment Software</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:36315:58284</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25425</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Test Equipment Waveguides</CategoryName>
+     <CategoryParentID>36315</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equipment Parts and Accs:Test Equipment Waveguides</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:36315:25425</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25414</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Test Equip. Parts and Accs</CategoryName>
+     <CategoryParentID>36315</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equipment Parts and Accs:Other Test Equip. Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:36315:25414</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

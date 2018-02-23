@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:11:21.735Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156427</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>13977</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156428</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Australia</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:Australia</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156428</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156429</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Canada</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:Canada</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156429</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156430</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>China</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:China</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156430</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156431</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>France</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:France</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156431</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156432</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Germany</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:Germany</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156432</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156433</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Great Britain</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:Great Britain</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156433</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156434</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Italy</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:Italy</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156434</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156435</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Japan</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:Japan</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156435</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156436</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Russia</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:Russia</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156436</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156437</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>United States</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:United States</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156437</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156438</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other WWII Reproductions</CategoryName>
+     <CategoryParentID>156427</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:WW II (1939-45):Reproductions:Other WWII Reproductions</CategoryNamePath>
+     <CategoryIDPath>1:13956:13977:156427:156438</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

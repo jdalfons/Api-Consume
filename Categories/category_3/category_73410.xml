@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:55.846Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>73410</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Racing-NASCAR</CategoryName>
+     <CategoryParentID>51</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Racing-NASCAR</CategoryNamePath>
+     <CategoryIDPath>64482:51:73410</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101811</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hats</CategoryName>
+     <CategoryParentID>73410</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Racing-NASCAR:Hats</CategoryNamePath>
+     <CategoryIDPath>64482:51:73410:101811</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101812</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Index Cards</CategoryName>
+     <CategoryParentID>73410</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Racing-NASCAR:Index Cards</CategoryNamePath>
+     <CategoryIDPath>64482:51:73410:101812</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73411</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lithographs Posters and Prints</CategoryName>
+     <CategoryParentID>73410</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Racing-NASCAR:Lithographs Posters and Prints</CategoryNamePath>
+     <CategoryIDPath>64482:51:73410:73411</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73412</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photos</CategoryName>
+     <CategoryParentID>73410</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Racing-NASCAR:Photos</CategoryNamePath>
+     <CategoryIDPath>64482:51:73410:73412</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2837</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Autographed NASCAR Items</CategoryName>
+     <CategoryParentID>73410</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Racing-NASCAR:Other Autographed NASCAR Items</CategoryNamePath>
+     <CategoryIDPath>64482:51:73410:2837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:21:10.720Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183302</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Sculpting Molding and Ceramics</CategoryName>
+     <CategoryParentID>14339</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics</CategoryNamePath>
+     <CategoryIDPath>14339:183302</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183303</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ceramics and Pottery</CategoryName>
+     <CategoryParentID>183302</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Ceramics and Pottery</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183303</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183308</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Modeling</CategoryName>
+     <CategoryParentID>183302</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Modeling</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183308</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183313</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Molding and Casting</CategoryName>
+     <CategoryParentID>183302</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Molding and Casting</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183313</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183316</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stone Carving</CategoryName>
+     <CategoryParentID>183302</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Stone Carving</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183316</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183319</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Sculpting Supplies</CategoryName>
+     <CategoryParentID>183302</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Other Sculpting Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183319</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

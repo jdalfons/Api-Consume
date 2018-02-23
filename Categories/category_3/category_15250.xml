@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:40:59.973Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>15250</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Slide and Movie Projection</CategoryName>
+     <CategoryParentID>69323</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Slide and Movie Projection</CategoryNamePath>
+     <CategoryIDPath>625:69323:15250</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15252</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Movie Projectors</CategoryName>
+     <CategoryParentID>15250</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Slide and Movie Projection:Movie Projectors</CategoryNamePath>
+     <CategoryIDPath>625:69323:15250:15252</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15256</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slide Projectors</CategoryName>
+     <CategoryParentID>15250</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Slide and Movie Projection:Slide Projectors</CategoryNamePath>
+     <CategoryIDPath>625:69323:15250:15256</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15251</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Projector Bulbs and Lamps</CategoryName>
+     <CategoryParentID>15250</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Slide and Movie Projection:Projector Bulbs and Lamps</CategoryNamePath>
+     <CategoryIDPath>625:69323:15250:15251</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83874</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Projection Lenses</CategoryName>
+     <CategoryParentID>15250</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Slide and Movie Projection:Projection Lenses</CategoryNamePath>
+     <CategoryIDPath>625:69323:15250:83874</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30089</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Projection Screens and Material</CategoryName>
+     <CategoryParentID>15250</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Slide and Movie Projection:Projection Screens and Material</CategoryNamePath>
+     <CategoryIDPath>625:69323:15250:30089</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83876</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slide Trays and Carousels</CategoryName>
+     <CategoryParentID>15250</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Slide and Movie Projection:Slide Trays and Carousels</CategoryNamePath>
+     <CategoryIDPath>625:69323:15250:83876</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83877</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slide Viewers</CategoryName>
+     <CategoryParentID>15250</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Slide and Movie Projection:Slide Viewers</CategoryNamePath>
+     <CategoryIDPath>625:69323:15250:83877</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15257</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Slide and Movie Projection</CategoryName>
+     <CategoryParentID>15250</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography:Slide and Movie Projection:Other Slide and Movie Projection</CategoryNamePath>
+     <CategoryIDPath>625:69323:15250:15257</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:08:46.813Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4100</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>US</CategoryName>
+     <CategoryParentID>13897</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4104</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>City and County</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:City and County</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:4104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4106</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>State</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:State</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:4106</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13898</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Presidents and First Ladies</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:Presidents and First Ladies</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:13898</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165560</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Presidential Candidates</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:Presidential Candidates</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:165560</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82500</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Democratic Party</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:Democratic Party</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:82500</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82504</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Republican Party</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:Republican Party</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:82504</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165561</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Third Party</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:Third Party</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:165561</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4102</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>US House of Representatives</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:US House of Representatives</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:4102</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4105</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>US Senate</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:US Senate</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:4105</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39722</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Peace and Anti-War Movements</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:Peace and Anti-War Movements</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:39722</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88899</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Reproduction and Fantasy Items</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:Reproduction and Fantasy Items</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:88899</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>367</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other US Politics Collectibles</CategoryName>
+     <CategoryParentID>4100</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US:Other US Politics Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100:367</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

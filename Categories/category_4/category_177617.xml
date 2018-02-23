@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:31:31.876Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177617</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chocolate Covered Fruit</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Chocolate Covered Fruit</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:177617</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

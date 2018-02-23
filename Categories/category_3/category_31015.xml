@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:02:25.442Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>31015</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Silk Painting</CategoryName>
+     <CategoryParentID>183118</CategoryParentID>
+     <CategoryNamePath>Crafts:Fabric Painting and Decorating:Silk Painting</CategoryNamePath>
+     <CategoryIDPath>14339:183118:31015</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31016</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Patterns and Instructions</CategoryName>
+     <CategoryParentID>31015</CategoryParentID>
+     <CategoryNamePath>Crafts:Fabric Painting and Decorating:Silk Painting:Patterns and Instructions</CategoryNamePath>
+     <CategoryIDPath>14339:183118:31015:31016</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31019</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Silk Painting Supplies</CategoryName>
+     <CategoryParentID>31015</CategoryParentID>
+     <CategoryNamePath>Crafts:Fabric Painting and Decorating:Silk Painting:Silk Painting Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:183118:31015:31019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:43:12.363Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104228</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Surgical</CategoryName>
+     <CategoryParentID>11823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Surgical</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104228</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159688</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Curettes</CategoryName>
+     <CategoryParentID>104228</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Surgical:Curettes</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104228:159688</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19327</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Forceps</CategoryName>
+     <CategoryParentID>104228</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Surgical:Forceps</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104228:19327</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159689</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Retractors</CategoryName>
+     <CategoryParentID>104228</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Surgical:Retractors</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104228:159689</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104229</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Scalpels</CategoryName>
+     <CategoryParentID>104228</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Surgical:Scalpels</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104228:104229</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104230</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Scissors and Needleholders</CategoryName>
+     <CategoryParentID>104228</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Surgical:Scissors and Needleholders</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104228:104230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104231</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Surgical Instruments</CategoryName>
+     <CategoryParentID>104228</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Surgical:Other Surgical Instruments</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104228:104231</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

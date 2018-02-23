@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:11:25.423Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20595</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electrical and Solar</CategoryName>
+     <CategoryParentID>159907</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41979</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Alternative and Solar Energy</CategoryName>
+     <CategoryParentID>20595</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Alternative and Solar Energy</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:41979</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20596</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Circuit Breakers and Fuse Boxes</CategoryName>
+     <CategoryParentID>20595</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Circuit Breakers and Fuse Boxes</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:20596</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41982</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Connectors and Ties</CategoryName>
+     <CategoryParentID>20595</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Connectors and Ties</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:41982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75577</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Extension Cords</CategoryName>
+     <CategoryParentID>20595</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Extension Cords</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:75577</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43412</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Switch Plates and Outlet Covers</CategoryName>
+     <CategoryParentID>20595</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Switch Plates and Outlet Covers</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:43412</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41983</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Switches and Outlets</CategoryName>
+     <CategoryParentID>20595</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Switches and Outlets</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:41983</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3188</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Electrical and Solar</CategoryName>
+     <CategoryParentID>20595</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Electrical and Solar:Other Electrical and Solar</CategoryNamePath>
+     <CategoryIDPath>11700:159907:20595:3188</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:42:37.471Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>155242</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Asia and Pacific Islands</CategoryName>
+     <CategoryParentID>155240</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:Asia and Pacific Islands</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155242</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155243</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cheong-sam</CategoryName>
+     <CategoryParentID>155242</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:Asia and Pacific Islands:Cheong-sam</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155242:155243</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163141</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jackets</CategoryName>
+     <CategoryParentID>155242</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:Asia and Pacific Islands:Jackets</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155242:163141</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155244</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kimono</CategoryName>
+     <CategoryParentID>155242</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:Asia and Pacific Islands:Kimono</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155242:155244</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155245</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Asian and Pacific Clothing</CategoryName>
+     <CategoryParentID>155242</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:Asia and Pacific Islands:Other Asian and Pacific Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155242:155245</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

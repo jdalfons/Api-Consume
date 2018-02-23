@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:10:00.754Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>29801</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bakeware</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Bakeware</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:29801</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29802</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cake Pans</CategoryName>
+     <CategoryParentID>29801</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Bakeware:Cake Pans</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:29801:29802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29803</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pie Plates</CategoryName>
+     <CategoryParentID>29801</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Bakeware:Pie Plates</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:29801:29803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13920</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Collectible Bakeware</CategoryName>
+     <CategoryParentID>29801</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Bakeware:Other Collectible Bakeware</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:29801:13920</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

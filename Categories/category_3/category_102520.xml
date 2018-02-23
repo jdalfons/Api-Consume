@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:34:42.188Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>102520</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tarot</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Tarot</CategoryNamePath>
+     <CategoryIDPath>99:19266:102520</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102521</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cards Decks</CategoryName>
+     <CategoryParentID>102520</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Tarot:Cards Decks</CategoryNamePath>
+     <CategoryIDPath>99:19266:102520:102521</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102523</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sets Kits</CategoryName>
+     <CategoryParentID>102520</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Tarot:Sets Kits</CategoryNamePath>
+     <CategoryIDPath>99:19266:102520:102523</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116108</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Single Cards</CategoryName>
+     <CategoryParentID>102520</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Tarot:Single Cards</CategoryNamePath>
+     <CategoryIDPath>99:19266:102520:116108</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19271</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Tarot</CategoryName>
+     <CategoryParentID>102520</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Tarot:Other Tarot</CategoryNamePath>
+     <CategoryIDPath>99:19266:102520:19271</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:04:57.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>150004</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1600-1799</CategoryName>
+     <CategoryParentID>713</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:1600-1799</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:150004</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150005</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Baskets</CategoryName>
+     <CategoryParentID>150004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:1600-1799:Baskets</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:150004:150005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150006</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beads and Beadwork</CategoryName>
+     <CategoryParentID>150004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:1600-1799:Beads and Beadwork</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:150004:150006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150007</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pottery</CategoryName>
+     <CategoryParentID>150004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:1600-1799:Pottery</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:150004:150007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150008</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Nat. Am. Items 1600-1799</CategoryName>
+     <CategoryParentID>150004</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US:1600-1799:Other Nat. Am. Items 1600-1799</CategoryNamePath>
+     <CategoryIDPath>1:3913:713:150004:150008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

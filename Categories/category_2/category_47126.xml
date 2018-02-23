@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:45.282Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>47126</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Artistic Services</CategoryName>
+     <CategoryParentID>316</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Artistic Services</CategoryNamePath>
+     <CategoryIDPath>316:47126</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47127</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Custom Crafts</CategoryName>
+     <CategoryParentID>47126</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Artistic Services:Custom Crafts</CategoryNamePath>
+     <CategoryIDPath>316:47126:47127</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50342</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Interior Design</CategoryName>
+     <CategoryParentID>47126</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Artistic Services:Interior Design</CategoryNamePath>
+     <CategoryIDPath>316:47126:50342</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47128</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Music Composition and Poetry</CategoryName>
+     <CategoryParentID>47126</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Artistic Services:Music Composition and Poetry</CategoryNamePath>
+     <CategoryIDPath>316:47126:47128</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47129</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Painting and Drawing</CategoryName>
+     <CategoryParentID>47126</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Artistic Services:Painting and Drawing</CategoryNamePath>
+     <CategoryIDPath>316:47126:47129</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165993</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Photography</CategoryName>
+     <CategoryParentID>47126</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Artistic Services:Photography</CategoryNamePath>
+     <CategoryIDPath>316:47126:165993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45208</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Artistic Services</CategoryName>
+     <CategoryParentID>47126</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Artistic Services:Other Artistic Services</CategoryNamePath>
+     <CategoryIDPath>316:47126:45208</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

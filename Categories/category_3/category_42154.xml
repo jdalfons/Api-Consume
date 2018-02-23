@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:13:52.112Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>42154</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Outdoor Lighting</CategoryName>
+     <CategoryParentID>159912</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Lighting</CategoryNamePath>
+     <CategoryIDPath>11700:159912:42154</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183391</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garden and Patio Torches</CategoryName>
+     <CategoryParentID>42154</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Lighting:Garden and Patio Torches</CategoryNamePath>
+     <CategoryIDPath>11700:159912:42154:183391</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>94940</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Landscape and Walkway Lights</CategoryName>
+     <CategoryParentID>42154</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Lighting:Landscape and Walkway Lights</CategoryNamePath>
+     <CategoryIDPath>11700:159912:42154:94940</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183392</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outdoor Décor Candle Lanterns</CategoryName>
+     <CategoryParentID>42154</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Lighting:Outdoor Décor Candle Lanterns</CategoryNamePath>
+     <CategoryIDPath>11700:159912:42154:183392</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183393</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outdoor Security and Floodlights</CategoryName>
+     <CategoryParentID>42154</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Lighting:Outdoor Security and Floodlights</CategoryNamePath>
+     <CategoryIDPath>11700:159912:42154:183393</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183394</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outdoor String Lights</CategoryName>
+     <CategoryParentID>42154</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Lighting:Outdoor String Lights</CategoryNamePath>
+     <CategoryIDPath>11700:159912:42154:183394</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>94939</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outdoor Wall and Porch Lights</CategoryName>
+     <CategoryParentID>42154</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Lighting:Outdoor Wall and Porch Lights</CategoryNamePath>
+     <CategoryIDPath>11700:159912:42154:94939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20509</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Outdoor Lighting</CategoryName>
+     <CategoryParentID>42154</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Outdoor Lighting:Other Outdoor Lighting</CategoryNamePath>
+     <CategoryIDPath>11700:159912:42154:20509</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

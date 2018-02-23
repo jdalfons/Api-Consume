@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:43.518Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>166663</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Alternative Fuel and Energy</CategoryName>
+     <CategoryParentID>159693</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy:Alternative Fuel and Energy</CategoryNamePath>
+     <CategoryIDPath>12576:159693:166663</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159694</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Biodiesel Equipment</CategoryName>
+     <CategoryParentID>166663</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy:Alternative Fuel and Energy:Biodiesel Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:159693:166663:159694</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166664</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hydrogen Power</CategoryName>
+     <CategoryParentID>166663</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy:Alternative Fuel and Energy:Hydrogen Power</CategoryNamePath>
+     <CategoryIDPath>12576:159693:166663:166664</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166665</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Solar Power</CategoryName>
+     <CategoryParentID>166663</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy:Alternative Fuel and Energy:Solar Power</CategoryNamePath>
+     <CategoryIDPath>12576:159693:166663:166665</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166666</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wind Power</CategoryName>
+     <CategoryParentID>166663</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy:Alternative Fuel and Energy:Wind Power</CategoryNamePath>
+     <CategoryIDPath>12576:159693:166663:166666</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166667</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Alt Fuel and Energy</CategoryName>
+     <CategoryParentID>166663</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy:Alternative Fuel and Energy:Other Alt Fuel and Energy</CategoryNamePath>
+     <CategoryIDPath>12576:159693:166663:166667</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

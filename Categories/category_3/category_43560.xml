@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:13:48.393Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>43560</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lawnmowers</CategoryName>
+     <CategoryParentID>159912</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Lawnmowers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:43560</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177021</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Riding Mowers</CategoryName>
+     <CategoryParentID>43560</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Lawnmowers:Riding Mowers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:43560:177021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71272</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Walk-Behind Mowers</CategoryName>
+     <CategoryParentID>43560</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Lawnmowers:Walk-Behind Mowers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:43560:71272</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82248</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>43560</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Lawnmowers:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159912:43560:82248</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159929</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Lawnmowers</CategoryName>
+     <CategoryParentID>43560</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Lawnmowers:Other Lawnmowers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:43560:159929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

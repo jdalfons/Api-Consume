@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:36:52.238Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181027</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Landscaping and Garden Materials</CategoryName>
+     <CategoryParentID>2032</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Landscaping and Garden Materials</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181027</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181028</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Anchor Pins Staples and Stakes</CategoryName>
+     <CategoryParentID>181027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Landscaping and Garden Materials:Anchor Pins Staples and Stakes</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181027:181028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>161008</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Edging and Borders</CategoryName>
+     <CategoryParentID>181027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Landscaping and Garden Materials:Edging and Borders</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181027:161008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181029</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ground Reinforcement Grids</CategoryName>
+     <CategoryParentID>181027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Landscaping and Garden Materials:Ground Reinforcement Grids</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181027:181029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181030</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Landscape Fabric</CategoryName>
+     <CategoryParentID>181027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Landscaping and Garden Materials:Landscape Fabric</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181027:181030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118861</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Landscape Rocks and Pebbles</CategoryName>
+     <CategoryParentID>181027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Landscaping and Garden Materials:Landscape Rocks and Pebbles</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181027:118861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118858</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Paving and Decking</CategoryName>
+     <CategoryParentID>181027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Landscaping and Garden Materials:Paving and Decking</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181027:118858</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112585</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Railroad Ties</CategoryName>
+     <CategoryParentID>181027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Landscaping and Garden Materials:Railroad Ties</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181027:112585</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181031</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Synthetic Grass</CategoryName>
+     <CategoryParentID>181027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Landscaping and Garden Materials:Synthetic Grass</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181027:181031</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181032</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Landscaping Materials</CategoryName>
+     <CategoryParentID>181027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Landscaping and Garden Materials:Other Landscaping Materials</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181027:181032</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

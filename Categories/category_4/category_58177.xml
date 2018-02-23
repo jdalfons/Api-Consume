@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:45:27.485Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>58177</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Stationary Engines</CategoryName>
+     <CategoryParentID>58175</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Stationary Engines:Other Stationary Engines</CategoryNamePath>
+     <CategoryIDPath>12576:61573:58175:58177</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:17.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>64482</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Sports Mem Cards and Fan Shop</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop</CategoryNamePath>
+     <CategoryIDPath>64482</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Autographs-Original</CategoryName>
+     <CategoryParentID>64482</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original</CategoryNamePath>
+     <CategoryIDPath>64482:51</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50115</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Autographs-Reprints</CategoryName>
+     <CategoryParentID>64482</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Reprints</CategoryNamePath>
+     <CategoryIDPath>64482:50115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>24409</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fan Apparel and Souvenirs</CategoryName>
+     <CategoryParentID>64482</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs</CategoryNamePath>
+     <CategoryIDPath>64482:24409</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50116</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Game Used Memorabilia</CategoryName>
+     <CategoryParentID>64482</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Game Used Memorabilia</CategoryNamePath>
+     <CategoryIDPath>64482:50116</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50123</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vintage Sports Memorabilia</CategoryName>
+     <CategoryParentID>64482</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Vintage Sports Memorabilia</CategoryNamePath>
+     <CategoryIDPath>64482:50123</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56080</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>64482</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>64482:56080</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>141755</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Sports Stickers Sets and Albums</CategoryName>
+     <CategoryParentID>64482</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Sports Stickers Sets and Albums</CategoryNamePath>
+     <CategoryIDPath>64482:141755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>212</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Sports Trading Cards</CategoryName>
+     <CategoryParentID>64482</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Sports Trading Cards</CategoryNamePath>
+     <CategoryIDPath>64482:212</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

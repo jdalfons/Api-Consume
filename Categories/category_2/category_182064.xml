@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:41.379Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182064</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Smart Watch Accessories</CategoryName>
+     <CategoryParentID>15032</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Smart Watch Accessories</CategoryNamePath>
+     <CategoryIDPath>15032:182064</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182065</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chargers and Docking Stations</CategoryName>
+     <CategoryParentID>182064</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Smart Watch Accessories:Chargers and Docking Stations</CategoryNamePath>
+     <CategoryIDPath>15032:182064:182065</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182066</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Screen Protectors</CategoryName>
+     <CategoryParentID>182064</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Smart Watch Accessories:Screen Protectors</CategoryNamePath>
+     <CategoryIDPath>15032:182064:182066</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182067</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Smart Watch Cases</CategoryName>
+     <CategoryParentID>182064</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Smart Watch Accessories:Smart Watch Cases</CategoryNamePath>
+     <CategoryIDPath>15032:182064:182067</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182068</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Watch Bands</CategoryName>
+     <CategoryParentID>182064</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Smart Watch Accessories:Watch Bands</CategoryNamePath>
+     <CategoryIDPath>15032:182064:182068</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182069</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Smart Watch Accessories</CategoryName>
+     <CategoryParentID>182064</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Smart Watch Accessories:Other Smart Watch Accessories</CategoryNamePath>
+     <CategoryIDPath>15032:182064:182069</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

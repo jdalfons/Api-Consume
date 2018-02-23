@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:28.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20754</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fish and Aquariums</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums</CategoryNamePath>
+     <CategoryIDPath>1281:20754</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100355</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Air Stones</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Air Stones</CategoryNamePath>
+     <CategoryIDPath>1281:20754:100355</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20755</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Aquariums and Tanks</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Aquariums and Tanks</CategoryNamePath>
+     <CategoryIDPath>1281:20754:20755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>148983</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cleaning and Maintenance</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Cleaning and Maintenance</CategoryNamePath>
+     <CategoryIDPath>1281:20754:148983</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100345</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>CO2 Equipment</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:CO2 Equipment</CategoryNamePath>
+     <CategoryIDPath>1281:20754:100345</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177797</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Coral and Live Rock</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Coral and Live Rock</CategoryNamePath>
+     <CategoryIDPath>1281:20754:177797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66789</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Decorations</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Decorations</CategoryNamePath>
+     <CategoryIDPath>1281:20754:66789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63034</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Feeders</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Feeders</CategoryNamePath>
+     <CategoryIDPath>1281:20754:63034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46310</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Filters</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Filters</CategoryNamePath>
+     <CategoryIDPath>1281:20754:46310</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>126476</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Filter Media and Accessories</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Filter Media and Accessories</CategoryNamePath>
+     <CategoryIDPath>1281:20754:126476</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134750</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fish Pond Supplies</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Fish Pond Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:20754:134750</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20759</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Food</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Food</CategoryNamePath>
+     <CategoryIDPath>1281:20754:20759</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46439</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gravel and Substrate</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Gravel and Substrate</CategoryNamePath>
+     <CategoryIDPath>1281:20754:46439</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177798</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Health Care</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Health Care</CategoryNamePath>
+     <CategoryIDPath>1281:20754:177798</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177799</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Heaters and Chillers</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Heaters and Chillers</CategoryNamePath>
+     <CategoryIDPath>1281:20754:177799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46314</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lighting and Bulbs</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Lighting and Bulbs</CategoryNamePath>
+     <CategoryIDPath>1281:20754:46314</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168141</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Live Fish</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Live Fish</CategoryNamePath>
+     <CategoryIDPath>1281:20754:168141</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66788</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Live Invertebrates</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Live Invertebrates</CategoryNamePath>
+     <CategoryIDPath>1281:20754:66788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66794</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Live Plants</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Live Plants</CategoryNamePath>
+     <CategoryIDPath>1281:20754:66794</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117435</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Meters and Controllers</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Meters and Controllers</CategoryNamePath>
+     <CategoryIDPath>1281:20754:117435</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100351</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pumps (Air)</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Pumps (Air)</CategoryNamePath>
+     <CategoryIDPath>1281:20754:100351</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>77641</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pumps (Water)</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Pumps (Water)</CategoryNamePath>
+     <CategoryIDPath>1281:20754:77641</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>77658</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Reverse Osmosis and Deionization</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Reverse Osmosis and Deionization</CategoryNamePath>
+     <CategoryIDPath>1281:20754:77658</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177800</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tubing and Valves</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Tubing and Valves</CategoryNamePath>
+     <CategoryIDPath>1281:20754:177800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117434</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>UV Sterilizers</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:UV Sterilizers</CategoryNamePath>
+     <CategoryIDPath>1281:20754:117434</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>77659</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Water Tests and Treatment</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Water Tests and Treatment</CategoryNamePath>
+     <CategoryIDPath>1281:20754:77659</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>8444</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Fish and Aquarium Supplies</CategoryName>
+     <CategoryParentID>20754</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums:Other Fish and Aquarium Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:20754:8444</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>27</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

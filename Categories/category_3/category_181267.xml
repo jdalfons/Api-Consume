@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:17:47.595Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181267</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Band and Orchestral</CategoryName>
+     <CategoryParentID>10181</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Band and Orchestral</CategoryNamePath>
+     <CategoryIDPath>619:10181:181267</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16227</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bassoons</CategoryName>
+     <CategoryParentID>181267</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Band and Orchestral:Bassoons</CategoryNamePath>
+     <CategoryIDPath>619:10181:181267:16227</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47096</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clarinets</CategoryName>
+     <CategoryParentID>181267</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Band and Orchestral:Clarinets</CategoryNamePath>
+     <CategoryIDPath>619:10181:181267:47096</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10183</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flutes</CategoryName>
+     <CategoryParentID>181267</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Band and Orchestral:Flutes</CategoryNamePath>
+     <CategoryIDPath>619:10181:181267:10183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112678</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Oboes</CategoryName>
+     <CategoryParentID>181267</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Band and Orchestral:Oboes</CategoryNamePath>
+     <CategoryIDPath>619:10181:181267:112678</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16229</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Piccolos</CategoryName>
+     <CategoryParentID>181267</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Band and Orchestral:Piccolos</CategoryNamePath>
+     <CategoryIDPath>619:10181:181267:16229</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16230</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Recorders</CategoryName>
+     <CategoryParentID>181267</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Band and Orchestral:Recorders</CategoryNamePath>
+     <CategoryIDPath>619:10181:181267:16230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16231</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saxophones</CategoryName>
+     <CategoryParentID>181267</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Band and Orchestral:Saxophones</CategoryNamePath>
+     <CategoryIDPath>619:10181:181267:16231</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

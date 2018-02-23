@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:23:54.598Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63514</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Window Treatments and Hardware</CategoryName>
+     <CategoryParentID>11700</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Window Treatments and Hardware</CategoryNamePath>
+     <CategoryIDPath>11700:63514</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20585</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blinds and Shades</CategoryName>
+     <CategoryParentID>63514</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Window Treatments and Hardware:Blinds and Shades</CategoryNamePath>
+     <CategoryIDPath>11700:63514:20585</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45515</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Curtains Drapes and Valances</CategoryName>
+     <CategoryParentID>63514</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Window Treatments and Hardware:Curtains Drapes and Valances</CategoryNamePath>
+     <CategoryIDPath>11700:63514:45515</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103459</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Curtain Rods and Finials</CategoryName>
+     <CategoryParentID>63514</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Window Treatments and Hardware:Curtain Rods and Finials</CategoryNamePath>
+     <CategoryIDPath>11700:63514:103459</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66799</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shutters</CategoryName>
+     <CategoryParentID>63514</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Window Treatments and Hardware:Shutters</CategoryNamePath>
+     <CategoryIDPath>11700:63514:66799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175757</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Window Film</CategoryName>
+     <CategoryParentID>63514</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Window Treatments and Hardware:Window Film</CategoryNamePath>
+     <CategoryIDPath>11700:63514:175757</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103458</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Window Treatment Hardware</CategoryName>
+     <CategoryParentID>63514</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Window Treatments and Hardware:Window Treatment Hardware</CategoryNamePath>
+     <CategoryIDPath>11700:63514:103458</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63515</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Window Treatments</CategoryName>
+     <CategoryParentID>63514</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Window Treatments and Hardware:Other Window Treatments</CategoryNamePath>
+     <CategoryIDPath>11700:63514:63515</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

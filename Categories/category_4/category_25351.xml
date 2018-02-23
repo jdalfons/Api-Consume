@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:47:36.298Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>25351</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pens and Pencils</CategoryName>
+     <CategoryParentID>58271</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61779</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ballpoint Pens</CategoryName>
+     <CategoryParentID>25351</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils:Ballpoint Pens</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351:61779</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61778</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Calligraphy and Fountain Pens</CategoryName>
+     <CategoryParentID>25351</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils:Calligraphy and Fountain Pens</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351:61778</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61784</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fine Pens and Pencils</CategoryName>
+     <CategoryParentID>25351</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils:Fine Pens and Pencils</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351:61784</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119128</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Highlighters</CategoryName>
+     <CategoryParentID>25351</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils:Highlighters</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351:119128</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25353</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Markers</CategoryName>
+     <CategoryParentID>25351</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils:Markers</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351:25353</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25354</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pencils</CategoryName>
+     <CategoryParentID>25351</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils:Pencils</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351:25354</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67107</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Refills</CategoryName>
+     <CategoryParentID>25351</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils:Refills</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351:67107</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25352</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rollerball Pens</CategoryName>
+     <CategoryParentID>25351</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils:Rollerball Pens</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351:25352</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25355</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sets</CategoryName>
+     <CategoryParentID>25351</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils:Sets</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351:25355</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11835</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Office Pens and Pencils</CategoryName>
+     <CategoryParentID>25351</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Supplies:Pens and Pencils:Other Office Pens and Pencils</CategoryNamePath>
+     <CategoryIDPath>12576:25298:58271:25351:11835</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

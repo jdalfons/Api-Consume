@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:24:41.723Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>153913</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Moldmaking and Casting Materials</CategoryName>
+     <CategoryParentID>183313</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Molding and Casting:Moldmaking and Casting Materials</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183313:153913</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

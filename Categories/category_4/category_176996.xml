@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:30:23.676Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>176996</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fantasy Fetish and Accessories</CategoryName>
+     <CategoryParentID>176992</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness:Fantasy Fetish and Accessories</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992:176996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

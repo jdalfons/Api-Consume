@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:45:36.970Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>41949</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals Books and Plans</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Manuals Books and Plans</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:41949</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41950</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal Cutting</CategoryName>
+     <CategoryParentID>41949</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Manuals Books and Plans:Metal Cutting</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:41949:41950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42148</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal Fabrication</CategoryName>
+     <CategoryParentID>41949</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Manuals Books and Plans:Metal Fabrication</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:41949:42148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45046</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Plans</CategoryName>
+     <CategoryParentID>41949</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Manuals Books and Plans:Plans</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:41949:45046</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41951</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Welding</CategoryName>
+     <CategoryParentID>41949</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Manuals Books and Plans:Welding</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:41949:41951</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25281</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Metalworking Manuals</CategoryName>
+     <CategoryParentID>41949</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Manuals Books and Plans:Other Metalworking Manuals</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:41949:25281</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:29:59.940Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180269</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boats and Ships</CategoryName>
+     <CategoryParentID>222</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Boats and Ships</CategoryNamePath>
+     <CategoryIDPath>220:222:180269</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19033</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Contemporary Manufacture</CategoryName>
+     <CategoryParentID>180269</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Boats and Ships:Contemporary Manufacture</CategoryNamePath>
+     <CategoryIDPath>220:222:180269:19033</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19034</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Manufacture</CategoryName>
+     <CategoryParentID>180269</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Boats and Ships:Vintage Manufacture</CategoryNamePath>
+     <CategoryIDPath>220:222:180269:19034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

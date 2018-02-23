@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:57.832Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180014</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Pro Audio Equipment</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment</CategoryNamePath>
+     <CategoryIDPath>619:180014</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168129</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Acoustical Treatments</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Acoustical Treatments</CategoryNamePath>
+     <CategoryIDPath>619:180014:168129</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163896</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Amplifiers</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Amplifiers</CategoryNamePath>
+     <CategoryIDPath>619:180014:163896</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159955</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Audio Power Conditioners</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Audio Power Conditioners</CategoryNamePath>
+     <CategoryIDPath>619:180014:159955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123445</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Audio/MIDI Interfaces</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Audio/MIDI Interfaces</CategoryNamePath>
+     <CategoryIDPath>619:180014:123445</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41459</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cables Snakes and Interconnects</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Cables Snakes and Interconnects</CategoryNamePath>
+     <CategoryIDPath>619:180014:41459</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23789</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cases Racks and Bags</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Cases Racks and Bags</CategoryNamePath>
+     <CategoryIDPath>619:180014:23789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4785</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Live and Studio Mixers</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Live and Studio Mixers</CategoryNamePath>
+     <CategoryIDPath>619:180014:4785</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29946</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Microphones and Wireless Systems</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Microphones and Wireless Systems</CategoryNamePath>
+     <CategoryIDPath>619:180014:29946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178896</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>MIDI Keyboards and Controllers</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:MIDI Keyboards and Controllers</CategoryNamePath>
+     <CategoryIDPath>619:180014:178896</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119018</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Preamps and Channel Strips</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Preamps and Channel Strips</CategoryNamePath>
+     <CategoryIDPath>619:180014:119018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15199</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Recorders</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Recorders</CategoryNamePath>
+     <CategoryIDPath>619:180014:15199</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38070</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Samplers and Sequencers</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Samplers and Sequencers</CategoryNamePath>
+     <CategoryIDPath>619:180014:38070</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23791</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Signal Processors/Rack Effects</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Signal Processors/Rack Effects</CategoryNamePath>
+     <CategoryIDPath>619:180014:23791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177027</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Software Loops and Samples</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Software Loops and Samples</CategoryNamePath>
+     <CategoryIDPath>619:180014:177027</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47092</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Speaker Drivers and Horns</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Speaker Drivers and Horns</CategoryNamePath>
+     <CategoryIDPath>619:180014:47092</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47091</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Speakers and Monitors</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Speakers and Monitors</CategoryNamePath>
+     <CategoryIDPath>619:180014:47091</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29948</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stands Mounts and Holders</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Stands Mounts and Holders</CategoryNamePath>
+     <CategoryIDPath>619:180014:29948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177028</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Studio/Live Equipment Packages</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Studio/Live Equipment Packages</CategoryNamePath>
+     <CategoryIDPath>619:180014:177028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38071</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Synthesizers</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Synthesizers</CategoryNamePath>
+     <CategoryIDPath>619:180014:38071</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113484</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>619:180014:113484</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119019</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Pro Audio Equipment</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Vintage Pro Audio Equipment</CategoryNamePath>
+     <CategoryIDPath>619:180014:119019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3278</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Pro Audio Equipment</CategoryName>
+     <CategoryParentID>180014</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Pro Audio Equipment:Other Pro Audio Equipment</CategoryNamePath>
+     <CategoryIDPath>619:180014:3278</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>23</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

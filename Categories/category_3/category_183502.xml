@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:01:34.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183502</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Antennas</CategoryName>
+     <CategoryParentID>1500</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Antennas</CategoryNamePath>
+     <CategoryIDPath>293:1500:183502</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48692</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>CB Radio Antennas</CategoryName>
+     <CategoryParentID>183502</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Antennas:CB Radio Antennas</CategoryNamePath>
+     <CategoryIDPath>293:1500:183502:48692</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4672</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ham Amateur Radio Antennas</CategoryName>
+     <CategoryParentID>183502</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Antennas:Ham Amateur Radio Antennas</CategoryNamePath>
+     <CategoryIDPath>293:1500:183502:4672</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175731</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Marine/Air Band Radio Antennas</CategoryName>
+     <CategoryParentID>183502</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Antennas:Marine/Air Band Radio Antennas</CategoryNamePath>
+     <CategoryIDPath>293:1500:183502:175731</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175732</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Walkie Talkie/Two-Way Antennas</CategoryName>
+     <CategoryParentID>183502</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Antennas:Walkie Talkie/Two-Way Antennas</CategoryNamePath>
+     <CategoryIDPath>293:1500:183502:175732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175733</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Radio Antennas</CategoryName>
+     <CategoryParentID>183502</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Antennas:Other Radio Antennas</CategoryNamePath>
+     <CategoryIDPath>293:1500:183502:175733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

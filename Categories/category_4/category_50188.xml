@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:08:16.829Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>50188</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Masonic Freemasonry</CategoryName>
+     <CategoryParentID>402</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50193</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aprons and Regalia</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Aprons and Regalia</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:50193</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165544</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Belts and Belt Buckles</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Belts and Belt Buckles</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:165544</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69666</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Books and Publications</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Books and Publications</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:69666</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60619</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cufflinks Studs and Lapel Pins</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Cufflinks Studs and Lapel Pins</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:60619</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165545</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Decals and Stickers</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Decals and Stickers</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:165545</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50191</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jewels and Medals</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Jewels and Medals</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:50191</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165546</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mugs and Cups</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Mugs and Cups</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:165546</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90680</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:90680</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165547</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Patches</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Patches</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:165547</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112464</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rings and Watches</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Rings and Watches</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:112464</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165548</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ties and Tie Tacks</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Ties and Tie Tacks</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:165548</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165549</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tokens and Masonic Coins</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Tokens and Masonic Coins</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:165549</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>518</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Freemason Collectibles</CategoryName>
+     <CategoryParentID>50188</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fraternal Organizations:Masonic Freemasonry:Other Freemason Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:13877:402:50188:518</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

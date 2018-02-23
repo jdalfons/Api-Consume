@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:32:23.410Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180983</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flooring and Tiles</CategoryName>
+     <CategoryParentID>3187</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Flooring and Tiles</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180983</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45800</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Floor and Wall Tiles</CategoryName>
+     <CategoryParentID>180983</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Flooring and Tiles:Floor and Wall Tiles</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180983:45800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85914</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Laminate and Vinyl Flooring</CategoryName>
+     <CategoryParentID>180983</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Flooring and Tiles:Laminate and Vinyl Flooring</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180983:85914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84221</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wood Flooring</CategoryName>
+     <CategoryParentID>180983</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Flooring and Tiles:Wood Flooring</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180983:84221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>129788</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flooring Moldings and Trims</CategoryName>
+     <CategoryParentID>180983</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Flooring and Tiles:Flooring Moldings and Trims</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180983:129788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>130118</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flooring Underlayment</CategoryName>
+     <CategoryParentID>180983</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Flooring and Tiles:Flooring Underlayment</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180983:130118</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>130122</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flooring and Tiling Accessories</CategoryName>
+     <CategoryParentID>180983</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Flooring and Tiles:Flooring and Tiling Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180983:130122</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20604</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Flooring</CategoryName>
+     <CategoryParentID>180983</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Flooring and Tiles:Other Flooring</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180983:20604</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:17:13.004Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38042</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Zippo</CategoryName>
+     <CategoryParentID>951</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38043</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Animals</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Animals</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:38043</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38044</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Automobiles</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Automobiles</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:38044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38045</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beers</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Beers</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:38045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70994</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Celebrities</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Celebrities</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:70994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38046</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cigarettes</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Cigarettes</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:38046</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38047</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Distilleries</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Distilleries</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:38047</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104029</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flags Patriotic</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Flags Patriotic</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:104029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38048</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Military</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Military</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:38048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38049</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Motorcycles</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Motorcycles</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:38049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70995</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Movies</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Movies</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:70995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38050</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Music</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Music</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:38050</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104030</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nautical Ships</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Nautical Ships</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:104030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70996</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Playboy Pinups</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Playboy Pinups</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:70996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104031</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Police Firefighting</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Police Firefighting</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:104031</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104032</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Skulls Gothic</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Skulls Gothic</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:104032</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38051</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sports</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Sports</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:38051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>952</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Zippo Lighters</CategoryName>
+     <CategoryParentID>38042</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tobacciana:Lighters:Zippo:Other Zippo Lighters</CategoryNamePath>
+     <CategoryIDPath>1:593:951:38042:952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

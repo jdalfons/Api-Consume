@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:42:32.157Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>155344</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>163147</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175641</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bags and Pouches</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Bags and Pouches</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:175641</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175642</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belts and Sashes</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Belts and Sashes</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:175642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175643</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boas Scarves and Leis</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Boas Scarves and Leis</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:175643</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155345</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Capes Coats and Cloaks</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Capes Coats and Cloaks</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:155345</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155346</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Crowns and Tiaras</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Crowns and Tiaras</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:155346</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175644</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Face Paint and Stage Makeup</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Face Paint and Stage Makeup</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:175644</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175645</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fans and Parasols</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Fans and Parasols</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:175645</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175646</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glasses</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Glasses</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:175646</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155348</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gloves</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Gloves</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:155348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163148</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Handhelds and Props</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Handhelds and Props</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:163148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155349</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hats and Headgear</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Hats and Headgear</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:155349</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116724</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Masks and Eye Masks</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Masks and Eye Masks</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:116724</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175647</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prosthetics</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Prosthetics</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:175647</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155347</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shoes and Footwear</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Shoes and Footwear</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:155347</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155350</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wigs and Facial Hair</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Wigs and Facial Hair</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:155350</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155351</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wings Tails Ears and Noses</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Wings Tails Ears and Noses</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:155351</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Costume Accessories</CategoryName>
+     <CategoryParentID>155344</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater:Accessories:Other Costume Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:163147:155344:82161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

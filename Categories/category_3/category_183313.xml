@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:04:28.926Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183313</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Molding and Casting</CategoryName>
+     <CategoryParentID>183302</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Molding and Casting</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183313</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>153913</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Moldmaking and Casting Materials</CategoryName>
+     <CategoryParentID>183313</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Molding and Casting:Moldmaking and Casting Materials</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183313:153913</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183314</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Release Agents</CategoryName>
+     <CategoryParentID>183313</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Molding and Casting:Release Agents</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183313:183314</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150133</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ready-Made Molds</CategoryName>
+     <CategoryParentID>183313</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Molding and Casting:Ready-Made Molds</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183313:150133</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183315</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Molding and Casting</CategoryName>
+     <CategoryParentID>183313</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Molding and Casting:Other Molding and Casting</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183313:183315</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

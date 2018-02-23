@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:10:32.345Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>32254</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beds and Mattresses</CategoryName>
+     <CategoryParentID>3197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Furniture:Beds and Mattresses</CategoryNamePath>
+     <CategoryIDPath>11700:3197:32254</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175758</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beds and Bed Frames</CategoryName>
+     <CategoryParentID>32254</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Furniture:Beds and Mattresses:Beds and Bed Frames</CategoryNamePath>
+     <CategoryIDPath>11700:3197:32254:175758</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109064</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Headboards and Footboards</CategoryName>
+     <CategoryParentID>32254</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Furniture:Beds and Mattresses:Headboards and Footboards</CategoryNamePath>
+     <CategoryIDPath>11700:3197:32254:109064</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>131598</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Inflatable Mattresses Airbeds</CategoryName>
+     <CategoryParentID>32254</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Furniture:Beds and Mattresses:Inflatable Mattresses Airbeds</CategoryNamePath>
+     <CategoryIDPath>11700:3197:32254:131598</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>131588</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mattresses</CategoryName>
+     <CategoryParentID>32254</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Furniture:Beds and Mattresses:Mattresses</CategoryNamePath>
+     <CategoryIDPath>11700:3197:32254:131588</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66737</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bed and Waterbed Accessories</CategoryName>
+     <CategoryParentID>32254</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Furniture:Beds and Mattresses:Bed and Waterbed Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:3197:32254:66737</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122759</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Beds and Mattresses</CategoryName>
+     <CategoryParentID>32254</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Furniture:Beds and Mattresses:Other Beds and Mattresses</CategoryNamePath>
+     <CategoryIDPath>11700:3197:32254:122759</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

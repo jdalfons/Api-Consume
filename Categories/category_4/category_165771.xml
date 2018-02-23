@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:28.407Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165771</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Japanese</CategoryName>
+     <CategoryParentID>10958</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Japanese</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165771</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165772</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Honda</CategoryName>
+     <CategoryParentID>165771</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Japanese:Honda</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165771:165772</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165773</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kawasaki</CategoryName>
+     <CategoryParentID>165771</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Japanese:Kawasaki</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165771:165773</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165774</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Suzuki</CategoryName>
+     <CategoryParentID>165771</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Japanese:Suzuki</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165771:165774</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165775</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Yamaha</CategoryName>
+     <CategoryParentID>165771</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Japanese:Yamaha</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165771:165775</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10961</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other JPN Motorcycle Items</CategoryName>
+     <CategoryParentID>165771</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Japanese:Other JPN Motorcycle Items</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165771:10961</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:32:06.767Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>98444</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sideboards and Buffets</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Sideboards and Buffets</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98444</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98445</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1800</CategoryName>
+     <CategoryParentID>98444</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Sideboards and Buffets:Pre-1800</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98444:98445</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66848</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1800-1899</CategoryName>
+     <CategoryParentID>98444</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Sideboards and Buffets:1800-1899</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98444:66848</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66862</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1900-1950</CategoryName>
+     <CategoryParentID>98444</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Sideboards and Buffets:1900-1950</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98444:66862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162914</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Post-1950</CategoryName>
+     <CategoryParentID>98444</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Sideboards and Buffets:Post-1950</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98444:162914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162915</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown</CategoryName>
+     <CategoryParentID>98444</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Sideboards and Buffets:Unknown</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98444:162915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

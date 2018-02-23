@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:26:21.923Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>36274</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Indoor Games</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games</CategoryNamePath>
+     <CategoryIDPath>888:36274</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36275</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Air Hockey</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Air Hockey</CategoryNamePath>
+     <CategoryIDPath>888:36274:36275</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21567</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Billiards</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Billiards</CategoryNamePath>
+     <CategoryIDPath>888:36274:21567</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26328</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Darts</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Darts</CategoryNamePath>
+     <CategoryIDPath>888:36274:26328</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36276</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Foosball</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Foosball</CategoryNamePath>
+     <CategoryIDPath>888:36274:36276</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165938</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Indoor Roller Skating</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Indoor Roller Skating</CategoryNamePath>
+     <CategoryIDPath>888:36274:165938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79777</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shuffleboard</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Shuffleboard</CategoryNamePath>
+     <CategoryIDPath>888:36274:79777</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97072</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Table Tennis Ping Pong</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Table Tennis Ping Pong</CategoryNamePath>
+     <CategoryIDPath>888:36274:97072</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36278</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Indoor Games</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Other Indoor Games</CategoryNamePath>
+     <CategoryIDPath>888:36274:36278</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

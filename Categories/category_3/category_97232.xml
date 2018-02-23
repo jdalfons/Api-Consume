@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:46.002Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>97232</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Commercial Printing Essentials</CategoryName>
+     <CategoryParentID>26238</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Commercial Printing Essentials</CategoryNamePath>
+     <CategoryIDPath>12576:26238:97232</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97234</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books and Manuals</CategoryName>
+     <CategoryParentID>97232</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Commercial Printing Essentials:Books and Manuals</CategoryNamePath>
+     <CategoryIDPath>12576:26238:97232:97234</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26251</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Letter Presses and Die Cutters</CategoryName>
+     <CategoryParentID>97232</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Commercial Printing Essentials:Letter Presses and Die Cutters</CategoryNamePath>
+     <CategoryIDPath>12576:26238:97232:26251</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46696</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts Feeders and Attachments</CategoryName>
+     <CategoryParentID>97232</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Commercial Printing Essentials:Parts Feeders and Attachments</CategoryNamePath>
+     <CategoryIDPath>12576:26238:97232:46696</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97233</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Commercial Print Accs</CategoryName>
+     <CategoryParentID>97232</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Commercial Printing Essentials:Other Commercial Print Accs</CategoryNamePath>
+     <CategoryIDPath>12576:26238:97232:97233</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

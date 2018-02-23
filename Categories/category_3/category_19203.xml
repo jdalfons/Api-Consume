@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:29:28.345Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19203</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ty</CategoryName>
+     <CategoryParentID>49019</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1627</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Attic</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Attic</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:1627</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95270</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baby Ty</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Baby Ty</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:95270</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158681</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Basket Beanies</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Basket Beanies</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:158681</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19205</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beanie Babies-Original</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Beanie Babies-Original</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:19205</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165958</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beanie Babies 2.0</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Beanie Babies 2.0</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:165958</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16479</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beanie Boppers</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Beanie Boppers</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:16479</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19206</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beanie Buddies</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Beanie Buddies</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:19206</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7111</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beanie Kids</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Beanie Kids</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:7111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1608</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Classic</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Classic</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:1608</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95273</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Custom Decorated</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Custom Decorated</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:95273</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95274</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jingle Beanies</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Jingle Beanies</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:95274</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1633</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pillow Pals</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Pillow Pals</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:1633</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95271</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pluffies</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Pluffies</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:95271</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95272</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Punkies</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Punkies</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:95272</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1637</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sports Commemorative</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Sports Commemorative</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:1637</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>441</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Teenie Beanies</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Teenie Beanies</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:441</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1496</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Cards</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Trading Cards</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:1496</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1037</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Ty Beanbag Plush</CategoryName>
+     <CategoryParentID>19203</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty:Other Ty Beanbag Plush</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203:1037</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>19</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

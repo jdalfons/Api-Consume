@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:58:26.813Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35976</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trucks</CategoryName>
+     <CategoryParentID>417</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Trucks</CategoryNamePath>
+     <CategoryIDPath>1:417:35976</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35977</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Advertising-Print</CategoryName>
+     <CategoryParentID>35976</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Trucks:Advertising-Print</CategoryNamePath>
+     <CategoryIDPath>1:417:35976:35977</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35978</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brochures and Pamphlets</CategoryName>
+     <CategoryParentID>35976</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Trucks:Brochures and Pamphlets</CategoryNamePath>
+     <CategoryIDPath>1:417:35976:35978</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36083</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pins</CategoryName>
+     <CategoryParentID>35976</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Trucks:Pins</CategoryNamePath>
+     <CategoryIDPath>1:417:35976:36083</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10963</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Truck Collectibles</CategoryName>
+     <CategoryParentID>35976</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Trucks:Other Truck Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:417:35976:10963</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

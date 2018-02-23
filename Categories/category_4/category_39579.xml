@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:05:23.692Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>39579</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boyds</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Boyds</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39579</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41114</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>39579</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Boyds:Figurines</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39579:41114</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39581</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>39579</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Boyds:Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39579:39581</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39582</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Villages</CategoryName>
+     <CategoryParentID>39579</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Boyds:Villages</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39579:39582</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1348</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Boyds</CategoryName>
+     <CategoryParentID>39579</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Boyds:Other Boyds</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39579:1348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:46:27.190Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184170</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Conveyor Parts and Accessories</CategoryName>
+     <CategoryParentID>184165</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Conveyors and Conveyor Parts:Conveyor Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184165:184170</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184290</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Conveyor Belts</CategoryName>
+     <CategoryParentID>184170</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Conveyors and Conveyor Parts:Conveyor Parts and Accessories:Conveyor Belts</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184165:184170:184290</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184171</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Conveyor Motors</CategoryName>
+     <CategoryParentID>184170</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Conveyors and Conveyor Parts:Conveyor Parts and Accessories:Conveyor Motors</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184165:184170:184171</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184172</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Conveyor Rollers</CategoryName>
+     <CategoryParentID>184170</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Conveyors and Conveyor Parts:Conveyor Parts and Accessories:Conveyor Rollers</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184165:184170:184172</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184173</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Conveyor Parts</CategoryName>
+     <CategoryParentID>184170</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Conveyors and Conveyor Parts:Conveyor Parts and Accessories:Other Conveyor Parts</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184165:184170:184173</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

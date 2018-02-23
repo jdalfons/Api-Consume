@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:27:37.813Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>163953</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ads Flyers</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Ads Flyers</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:163953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

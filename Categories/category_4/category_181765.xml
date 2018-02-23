@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:38:59.785Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181765</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clutches</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Clutches</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181765</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181766</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Electric/Magnetic Clutches</CategoryName>
+     <CategoryParentID>181765</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Clutches:Electric/Magnetic Clutches</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181765:181766</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181767</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hydraulic and Pneumatic Clutches</CategoryName>
+     <CategoryParentID>181765</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Clutches:Hydraulic and Pneumatic Clutches</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181765:181767</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

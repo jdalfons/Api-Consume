@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:04.846Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180276</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Motorcycles and ATVs</CategoryName>
+     <CategoryParentID>222</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Motorcycles and ATVs</CategoryNamePath>
+     <CategoryIDPath>220:222:180276</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45348</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Contemporary Manufacture</CategoryName>
+     <CategoryParentID>180276</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Motorcycles and ATVs:Contemporary Manufacture</CategoryNamePath>
+     <CategoryIDPath>220:222:180276:45348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>742</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Manufacture</CategoryName>
+     <CategoryParentID>180276</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Motorcycles and ATVs:Vintage Manufacture</CategoryNamePath>
+     <CategoryIDPath>220:222:180276:742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

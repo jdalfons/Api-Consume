@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:06:17.235Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13823</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Royal Doulton</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Royal Doulton</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13823</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64964</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Animals</CategoryName>
+     <CategoryParentID>13823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Royal Doulton:Animals</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13823:64964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156294</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bunnykins Figurines</CategoryName>
+     <CategoryParentID>13823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Royal Doulton:Bunnykins Figurines</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13823:156294</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64967</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Character Toby Jugs</CategoryName>
+     <CategoryParentID>13823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Royal Doulton:Character Toby Jugs</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13823:64967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101664</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Collector Plates</CategoryName>
+     <CategoryParentID>13823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Royal Doulton:Collector Plates</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13823:101664</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64968</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>13823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Royal Doulton:Figurines</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13823:64968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64969</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Series Ware</CategoryName>
+     <CategoryParentID>13823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Royal Doulton:Series Ware</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13823:64969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4027</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Royal Doulton</CategoryName>
+     <CategoryParentID>13823</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Royal Doulton:Other Royal Doulton</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13823:4027</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

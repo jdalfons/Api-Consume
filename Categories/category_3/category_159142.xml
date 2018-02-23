@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:59.454Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>159142</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fins Footwear and Gloves</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Fins Footwear and Gloves</CategoryNamePath>
+     <CategoryIDPath>888:159136:159142</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>114234</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boots Booties</CategoryName>
+     <CategoryParentID>159142</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Fins Footwear and Gloves:Boots Booties</CategoryNamePath>
+     <CategoryIDPath>888:159136:159142:114234</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16054</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fins</CategoryName>
+     <CategoryParentID>159142</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Fins Footwear and Gloves:Fins</CategoryNamePath>
+     <CategoryIDPath>888:159136:159142:16054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>114235</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gloves</CategoryName>
+     <CategoryParentID>159142</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Fins Footwear and Gloves:Gloves</CategoryNamePath>
+     <CategoryIDPath>888:159136:159142:114235</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159143</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Water Shoes</CategoryName>
+     <CategoryParentID>159142</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Fins Footwear and Gloves:Water Shoes</CategoryNamePath>
+     <CategoryIDPath>888:159136:159142:159143</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159147</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fins Footwear and Gloves</CategoryName>
+     <CategoryParentID>159142</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Fins Footwear and Gloves:Other Fins Footwear and Gloves</CategoryNamePath>
+     <CategoryIDPath>888:159136:159142:159147</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

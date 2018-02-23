@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:41:41.158Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183855</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Police and Turnout Gear</CategoryName>
+     <CategoryParentID>183853</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109509</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Decals and Patches</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Decals and Patches</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:109509</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183856</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Police Security and Fire Badges</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Police Security and Fire Badges</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:183856</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159701</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Police and Security Bags and Packs</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Police and Security Bags and Packs</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:159701</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109512</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Police and Security Belts</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Police and Security Belts</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:109512</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109514</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Police and Security Handcuffs</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Police and Security Handcuffs</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:109514</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109515</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Police and Security Holsters</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Police and Security Holsters</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:109515</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109513</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Police and Turnout Gloves</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Police and Turnout Gloves</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:109513</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183859</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Turnout Coats</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Turnout Coats</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:183859</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183860</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Turnout Hats and Helmets</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Turnout Hats and Helmets</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:183860</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183861</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Turnout Pants</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Turnout Pants</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:183861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183862</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Turnout Shoes and Boots</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Turnout Shoes and Boots</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:183862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53294</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Police and Turnout Gear</CategoryName>
+     <CategoryParentID>183855</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear:Other Police and Turnout Gear</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855:53294</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

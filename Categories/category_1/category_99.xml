@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:33.426Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>99</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Everything Else</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Everything Else</CategoryNamePath>
+     <CategoryIDPath>99</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>319</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Adult Only</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only</CategoryNamePath>
+     <CategoryIDPath>99:319</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3143</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Career Development and Education</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Career Development and Education</CategoryNamePath>
+     <CategoryIDPath>99:3143</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177600</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>eBay Special Offers</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:eBay Special Offers</CategoryNamePath>
+     <CategoryIDPath>99:177600</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20924</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>eBay User Tools</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:eBay User Tools</CategoryNamePath>
+     <CategoryIDPath>99:20924</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88739</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Funeral and Cemetery</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Funeral and Cemetery</CategoryNamePath>
+     <CategoryIDPath>99:88739</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20925</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Genealogy</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy</CategoryNamePath>
+     <CategoryIDPath>99:20925</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102480</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Information Products</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products</CategoryNamePath>
+     <CategoryIDPath>99:102480</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19266</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Metaphysical</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical</CategoryNamePath>
+     <CategoryIDPath>99:19266</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102329</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Personal Development</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Personal Development</CategoryNamePath>
+     <CategoryIDPath>99:102329</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102535</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Personal Security</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Personal Security</CategoryNamePath>
+     <CategoryIDPath>99:102535</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102545</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Religious Products and Supplies</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Religious Products and Supplies</CategoryNamePath>
+     <CategoryIDPath>99:102545</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102553</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Reward Points and Incentives</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Reward Points and Incentives</CategoryNamePath>
+     <CategoryIDPath>99:102553</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1466</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Weird Stuff</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Weird Stuff</CategoryNamePath>
+     <CategoryIDPath>99:1466</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88433</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Every Other Thing</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Every Other Thing</CategoryNamePath>
+     <CategoryIDPath>99:88433</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14112</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Test Category For Internal Use Only Parent Level 2</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2</CategoryNamePath>
+     <CategoryIDPath>99:14112</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

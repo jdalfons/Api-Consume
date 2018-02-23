@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:09:38.563Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>70967</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage (Pre-1960)</CategoryName>
+     <CategoryParentID>70966</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Easter:Vintage (Pre-1960)</CategoryNamePath>
+     <CategoryIDPath>1:907:70966:70967</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70968</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bunnies Rabbits</CategoryName>
+     <CategoryParentID>70967</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Easter:Vintage (Pre-1960):Bunnies Rabbits</CategoryNamePath>
+     <CategoryIDPath>1:907:70966:70967:70968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70969</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ducks Chicks</CategoryName>
+     <CategoryParentID>70967</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Easter:Vintage (Pre-1960):Ducks Chicks</CategoryNamePath>
+     <CategoryIDPath>1:907:70966:70967:70969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70970</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Eggs</CategoryName>
+     <CategoryParentID>70967</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Easter:Vintage (Pre-1960):Eggs</CategoryNamePath>
+     <CategoryIDPath>1:907:70966:70967:70970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70971</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Vintage Easter Décor</CategoryName>
+     <CategoryParentID>70967</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Easter:Vintage (Pre-1960):Other Vintage Easter Décor</CategoryNamePath>
+     <CategoryIDPath>1:907:70966:70967:70971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

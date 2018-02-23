@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:37.221Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184297</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Laundry Carts Bags and Cleaners</CategoryName>
+     <CategoryParentID>46534</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Laundry Carts Bags and Cleaners</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184297</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184298</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Laundry Carts Hampers and Bags</CategoryName>
+     <CategoryParentID>184297</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Laundry Carts Bags and Cleaners:Laundry Carts Hampers and Bags</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184297:184298</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184299</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Laundry Detergents and Softeners</CategoryName>
+     <CategoryParentID>184297</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Laundry Carts Bags and Cleaners:Laundry Detergents and Softeners</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184297:184299</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

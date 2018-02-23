@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:32:01.282Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>164785</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>2616</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars:Accessories</CategoryNamePath>
+     <CategoryIDPath>220:2616:164785</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7319</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1970</CategoryName>
+     <CategoryParentID>164785</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars:Accessories:Pre-1970</CategoryNamePath>
+     <CategoryIDPath>220:2616:164785:7319</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7318</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1970-Now</CategoryName>
+     <CategoryParentID>164785</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars:Accessories:1970-Now</CategoryNamePath>
+     <CategoryIDPath>220:2616:164785:7318</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164786</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown</CategoryName>
+     <CategoryParentID>164785</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Slot Cars:Accessories:Unknown</CategoryNamePath>
+     <CategoryIDPath>220:2616:164785:164786</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

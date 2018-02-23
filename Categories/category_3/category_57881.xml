@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:42:12.002Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>57881</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boys&apos; Accessories</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57882</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Backpacks and Bags</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Backpacks and Bags</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:57882</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57883</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belts and Belt Buckles</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Belts and Belt Buckles</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:57883</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57885</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gloves and Mittens</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Gloves and Mittens</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:57885</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57884</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hats</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Hats</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:57884</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175524</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Key Chains</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Key Chains</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:175524</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122321</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scarves</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Scarves</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:122321</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>131411</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sunglasses</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Sunglasses</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:131411</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122320</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Suspenders</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Suspenders</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:122320</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57886</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ties</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Ties</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:57886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175525</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Umbrellas</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Umbrellas</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:175525</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57887</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wallets</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Wallets</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:57887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122322</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wristbands</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Wristbands</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:122322</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156789</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Items and Lots</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Mixed Items and Lots</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:156789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3075</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Boys&apos; Accessories</CategoryName>
+     <CategoryParentID>57881</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories:Other Boys&apos; Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881:3075</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

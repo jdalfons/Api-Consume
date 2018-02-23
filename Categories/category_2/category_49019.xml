@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:28:40.705Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>49019</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Beanbag Plush</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush</CategoryNamePath>
+     <CategoryIDPath>220:49019</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>437</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>49019</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Accessories</CategoryNamePath>
+     <CategoryIDPath>220:49019:437</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1522</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bammers Bamm Beanos</CategoryName>
+     <CategoryParentID>49019</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Bammers Bamm Beanos</CategoryNamePath>
+     <CategoryIDPath>220:49019:1522</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>49021</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Celebrity Bears</CategoryName>
+     <CategoryParentID>49019</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Celebrity Bears</CategoryNamePath>
+     <CategoryIDPath>220:49019:49021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>439</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Disney</CategoryName>
+     <CategoryParentID>49019</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Disney</CategoryNamePath>
+     <CategoryIDPath>220:49019:439</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1620</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Grateful Dead</CategoryName>
+     <CategoryParentID>49019</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Grateful Dead</CategoryNamePath>
+     <CategoryIDPath>220:49019:1620</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1621</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Meanies</CategoryName>
+     <CategoryParentID>49019</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Meanies</CategoryNamePath>
+     <CategoryIDPath>220:49019:1621</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19203</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ty</CategoryName>
+     <CategoryParentID>49019</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Ty</CategoryNamePath>
+     <CategoryIDPath>220:49019:19203</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>49020</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Beanbag Plush</CategoryName>
+     <CategoryParentID>49019</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Beanbag Plush:Other Beanbag Plush</CategoryNamePath>
+     <CategoryIDPath>220:49019:49020</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

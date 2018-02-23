@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:09.910Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11748</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Agriculture and Forestry</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Agriculture and Forestry</CategoryNamePath>
+     <CategoryIDPath>12576:11748</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61787</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Forestry Equipment and Supplies</CategoryName>
+     <CategoryParentID>11748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Agriculture and Forestry:Forestry Equipment and Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11748:61787</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159685</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>GPS and Guidance Equipment</CategoryName>
+     <CategoryParentID>11748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Agriculture and Forestry:GPS and Guidance Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11748:159685</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46526</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Livestock Supplies</CategoryName>
+     <CategoryParentID>11748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Agriculture and Forestry:Livestock Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11748:46526</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1269</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Agriculture and Forestry</CategoryName>
+     <CategoryParentID>11748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Agriculture and Forestry:Other Agriculture and Forestry</CategoryNamePath>
+     <CategoryIDPath>12576:11748:1269</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45013</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>11748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Agriculture and Forestry:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>12576:11748:45013</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

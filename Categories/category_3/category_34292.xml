@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:06:44.660Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>34292</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jazz and Big Band</CategoryName>
+     <CategoryParentID>2329</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Jazz and Big Band</CategoryNamePath>
+     <CategoryIDPath>45100:2329:34292</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163963</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ads Flyers</CategoryName>
+     <CategoryParentID>34292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Jazz and Big Band:Ads Flyers</CategoryNamePath>
+     <CategoryIDPath>45100:2329:34292:163963</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108744</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Apparel</CategoryName>
+     <CategoryParentID>34292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Jazz and Big Band:Apparel</CategoryNamePath>
+     <CategoryIDPath>45100:2329:34292:108744</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108745</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Concert Memorabilia</CategoryName>
+     <CategoryParentID>34292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Jazz and Big Band:Concert Memorabilia</CategoryNamePath>
+     <CategoryIDPath>45100:2329:34292:108745</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108746</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Novelties</CategoryName>
+     <CategoryParentID>34292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Jazz and Big Band:Novelties</CategoryNamePath>
+     <CategoryIDPath>45100:2329:34292:108746</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108747</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>34292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Jazz and Big Band:Photographs</CategoryNamePath>
+     <CategoryIDPath>45100:2329:34292:108747</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108748</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Posters</CategoryName>
+     <CategoryParentID>34292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Jazz and Big Band:Posters</CategoryNamePath>
+     <CategoryIDPath>45100:2329:34292:108748</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168119</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Publications</CategoryName>
+     <CategoryParentID>34292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Jazz and Big Band:Publications</CategoryNamePath>
+     <CategoryIDPath>45100:2329:34292:168119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108749</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Jazz Memorabilia</CategoryName>
+     <CategoryParentID>34292</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Jazz and Big Band:Other Jazz Memorabilia</CategoryNamePath>
+     <CategoryIDPath>45100:2329:34292:108749</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

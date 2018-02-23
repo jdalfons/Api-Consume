@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:12:34.579Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>41394</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unspecified Unknown Date</CategoryName>
+     <CategoryParentID>41183</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Calendars:Unspecified Unknown Date</CategoryNamePath>
+     <CategoryIDPath>1:124:41183:41394</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

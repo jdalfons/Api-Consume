@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:02:44.395Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183683</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Candle Making and Soap Making</CategoryName>
+     <CategoryParentID>160667</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134295</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle Wax</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle Wax</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:134295</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41207</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle Molds</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle Molds</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:41207</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28120</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle Wicks</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle Wicks</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:28120</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28118</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Soap Bases</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Soap Bases</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:28118</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48094</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Soap Butters and Carrier Oils</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Soap Butters and Carrier Oils</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:48094</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28116</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Soap Molds</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Soap Molds</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:28116</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48093</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle and Soap Botanicals</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle and Soap Botanicals</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:48093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134300</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle and Soap Dyes and Pigments</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle and Soap Dyes and Pigments</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:134300</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83896</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle and Soap Making Chemicals</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle and Soap Making Chemicals</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:83896</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183675</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle and Soap Pouring Pots</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle and Soap Pouring Pots</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:183675</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28115</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle Embeds and Soap Embeds</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle Embeds and Soap Embeds</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:28115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41268</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Essential Oils and Fragrances</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Essential Oils and Fragrances</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:41268</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41368</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jars and Containers</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Jars and Containers</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:41368</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183674</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle and Soap Making Tools</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle and Soap Making Tools</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:183674</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41205</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle and Soap Making Kits</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle and Soap Making Kits</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:41205</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83895</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bags and Packaging</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Bags and Packaging</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:83895</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146309</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle and Soap Making Guides</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Candle and Soap Making Guides</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:146309</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3089</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Candle and Soap Supplies</CategoryName>
+     <CategoryParentID>183683</CategoryParentID>
+     <CategoryNamePath>Crafts:Home Arts and Crafts:Candle Making and Soap Making:Other Candle and Soap Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:160667:183683:3089</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>19</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

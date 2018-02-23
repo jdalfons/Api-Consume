@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:11.035Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156440</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Korea (1950-53)</CategoryName>
+     <CategoryParentID>13956</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Korea (1950-53)</CategoryNamePath>
+     <CategoryIDPath>1:13956:156440</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>586</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Original Period Items</CategoryName>
+     <CategoryParentID>156440</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Korea (1950-53):Original Period Items</CategoryNamePath>
+     <CategoryIDPath>1:13956:156440:586</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156441</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>156440</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Korea (1950-53):Reproductions</CategoryNamePath>
+     <CategoryIDPath>1:13956:156440:156441</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

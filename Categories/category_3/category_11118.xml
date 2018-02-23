@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:49:08.095Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11118</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Japanese Anime</CategoryName>
+     <CategoryParentID>13658</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106883</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>.Hack//</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:.Hack//</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106883</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39555</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ah My Goddess</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Ah My Goddess</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39555</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99994</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Akira</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Akira</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:99994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70955</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Astro Boy</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Astro Boy</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:70955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99992</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Berserk</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Berserk</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:99992</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106884</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bleach</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Bleach</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106884</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31374</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Captor Sakura</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Card Captor Sakura</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:31374</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39556</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chobits</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Chobits</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39556</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106885</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clamp</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Clamp</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106885</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31375</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cowboy Bebop</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Cowboy Bebop</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:31375</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106886</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dead or Alive</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Dead or Alive</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106887</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Doraemon</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Doraemon</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13666</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>DragonBall Z</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:DragonBall Z</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:13666</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31377</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Escaflowne</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Escaflowne</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:31377</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11424</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Evangelion</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Evangelion</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:11424</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88923</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Final Fantasy</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Final Fantasy</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:88923</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99993</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fruits Basket</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Fruits Basket</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:99993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106890</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fullmetal Alchemist</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Fullmetal Alchemist</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106890</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31378</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fushigi Yuugi</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Fushigi Yuugi</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:31378</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73573</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ghost in the Shell</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Ghost in the Shell</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:73573</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11117</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gundam</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Gundam</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:11117</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50727</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hamtaro</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Hamtaro</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:50727</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88929</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hellsing</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Hellsing</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:88929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106896</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hikaru no Go</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Hikaru no Go</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106896</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106897</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hunter x Hunter</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Hunter x Hunter</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106897</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73574</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Initial D</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Initial D</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:73574</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106898</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>InuYasha</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:InuYasha</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106898</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39558</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>King of Fighters</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:King of Fighters</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39558</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106903</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Legend of Zelda</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Legend of Zelda</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106903</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39559</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Love Hina</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Love Hina</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39559</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106904</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lupin</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Lupin</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106904</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13668</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Macross Robotech</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Macross Robotech</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:13668</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106905</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mazinger</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Mazinger</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106905</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106906</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Monchhichi</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Monchhichi</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106907</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Naruto</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Naruto</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106907</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73576</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>One Piece</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:One Piece</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:73576</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73577</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pokémon</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Pokémon</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:73577</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88930</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pucca</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Pucca</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:88930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39560</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ranma</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Ranma</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39560</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39561</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rurouni Kenshin</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Rurouni Kenshin</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39561</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39562</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sailor Moon</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sailor Moon</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39562</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39565</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saint Seiya</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Saint Seiya</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39565</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104062</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saiyuki</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Saiyuki</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:104062</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73578</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sakura Wars</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sakura Wars</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:73578</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13669</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>San-X</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:San-X</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:13669</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39566</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sanrio Hello Kitty</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106925</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shaman King</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Shaman King</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106925</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31380</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slayers</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Slayers</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:31380</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106926</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Street Fighter</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Street Fighter</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31381</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tenchi Muyo</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Tenchi Muyo</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:31381</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39573</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Totoro</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Totoro</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39573</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31382</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trigun</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Trigun</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:31382</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106927</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wolf&apos;s Rain</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Wolf&apos;s Rain</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50728</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Yu-Gi-Oh!</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Yu-Gi-Oh!</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:50728</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39574</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Yu Yu Hakusho</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Yu Yu Hakusho</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39574</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1345</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Anime Collectibles</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Other Anime Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:1345</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>57</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

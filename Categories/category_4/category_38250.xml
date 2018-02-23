@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:34:54.251Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38250</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coffee and Tea Makers</CategoryName>
+     <CategoryParentID>20667</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32882</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coffee Grinders</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Coffee Grinders</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:32882</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65635</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coffee Makers (Automatic)</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Coffee Makers (Automatic)</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:65635</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177752</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coffee Makers (Specialty)</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Coffee Makers (Specialty)</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:177752</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177753</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coffee Roasters</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Coffee Roasters</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:177753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38252</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Espresso Machines</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Espresso Machines</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:38252</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98851</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>French Presses</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:French Presses</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:98851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171754</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Milk Frothers</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Milk Frothers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:171754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116012</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Percolators and Moka Pots</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Percolators and Moka Pots</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:116012</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156775</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Single Serve Brewers</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Single Serve Brewers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:156775</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177754</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tea Infusers</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Tea Infusers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:177754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>133705</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tea Kettles</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Tea Kettles</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:133705</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101424</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tea Makers</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Tea Makers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:101424</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99565</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Replacement Parts and Accs</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Replacement Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:99565</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159902</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Coffee and Tea Makers</CategoryName>
+     <CategoryParentID>38250</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Coffee and Tea Makers:Other Coffee and Tea Makers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:38250:159902</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

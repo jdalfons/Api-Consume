@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:31:34.035Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>145994</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tents Tunnels and Playhuts</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Tents Tunnels and Playhuts</CategoryNamePath>
+     <CategoryIDPath>220:11743:145994</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145995</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Permanent Playhouses</CategoryName>
+     <CategoryParentID>145994</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Tents Tunnels and Playhuts:Permanent Playhouses</CategoryNamePath>
+     <CategoryIDPath>220:11743:145994:145995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145996</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pit Balls</CategoryName>
+     <CategoryParentID>145994</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Tents Tunnels and Playhuts:Pit Balls</CategoryNamePath>
+     <CategoryIDPath>220:11743:145994:145996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Play Tents</CategoryName>
+     <CategoryParentID>145994</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Tents Tunnels and Playhuts:Play Tents</CategoryNamePath>
+     <CategoryIDPath>220:11743:145994:145997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tunnels</CategoryName>
+     <CategoryParentID>145994</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Tents Tunnels and Playhuts:Tunnels</CategoryNamePath>
+     <CategoryIDPath>220:11743:145994:145998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11744</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Play Tents and Tunnels</CategoryName>
+     <CategoryParentID>145994</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Tents Tunnels and Playhuts:Other Play Tents and Tunnels</CategoryNamePath>
+     <CategoryIDPath>220:11743:145994:11744</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

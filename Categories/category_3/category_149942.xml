@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:46:31.329Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>149942</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Large Size Notes</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Large Size Notes</CategoryNamePath>
+     <CategoryIDPath>11116:3412:149942</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149943</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Federal Reserve Notes</CategoryName>
+     <CategoryParentID>149942</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Large Size Notes:Federal Reserve Notes</CategoryNamePath>
+     <CategoryIDPath>11116:3412:149942:149943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149944</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gold Certificates</CategoryName>
+     <CategoryParentID>149942</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Large Size Notes:Gold Certificates</CategoryNamePath>
+     <CategoryIDPath>11116:3412:149942:149944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149945</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Silver Certificates</CategoryName>
+     <CategoryParentID>149942</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Large Size Notes:Silver Certificates</CategoryNamePath>
+     <CategoryIDPath>11116:3412:149942:149945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173623</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>United States Notes</CategoryName>
+     <CategoryParentID>149942</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Large Size Notes:United States Notes</CategoryNamePath>
+     <CategoryIDPath>11116:3412:149942:173623</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149946</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>149942</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Large Size Notes:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>11116:3412:149942:149946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3417</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Large Size US Notes</CategoryName>
+     <CategoryParentID>149942</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Large Size Notes:Other Large Size US Notes</CategoryNamePath>
+     <CategoryIDPath>11116:3412:149942:3417</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

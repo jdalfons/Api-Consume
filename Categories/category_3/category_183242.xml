@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:03:54.142Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183242</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Paper Crafts</CategoryName>
+     <CategoryParentID>11788</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Paper Crafts</CategoryNamePath>
+     <CategoryIDPath>14339:11788:183242</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134594</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Making</CategoryName>
+     <CategoryParentID>183242</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Paper Crafts:Card Making</CategoryNamePath>
+     <CategoryIDPath>14339:11788:183242:134594</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134596</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Origami</CategoryName>
+     <CategoryParentID>183242</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Paper Crafts:Origami</CategoryNamePath>
+     <CategoryIDPath>14339:11788:183242:134596</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134595</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quilling</CategoryName>
+     <CategoryParentID>183242</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Paper Crafts:Quilling</CategoryNamePath>
+     <CategoryIDPath>14339:11788:183242:134595</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183243</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Paper Crafts</CategoryName>
+     <CategoryParentID>183242</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Paper Crafts:Other Paper Crafts</CategoryNamePath>
+     <CategoryIDPath>14339:11788:183242:183243</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

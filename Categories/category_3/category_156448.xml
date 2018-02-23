@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:14.563Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156448</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Desert Storm (1990-91)</CategoryName>
+     <CategoryParentID>13956</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Desert Storm (1990-91)</CategoryNamePath>
+     <CategoryIDPath>1:13956:156448</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10953</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Original Period Items</CategoryName>
+     <CategoryParentID>156448</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Desert Storm (1990-91):Original Period Items</CategoryNamePath>
+     <CategoryIDPath>1:13956:156448:10953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156449</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>156448</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Desert Storm (1990-91):Reproductions</CategoryNamePath>
+     <CategoryIDPath>1:13956:156448:156449</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:46:46.362Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183971</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Packing and Shipping Bags</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109695</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Anti-Static Bags</CategoryName>
+     <CategoryParentID>183971</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags:Anti-Static Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971:109695</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109697</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Drawstring Bags</CategoryName>
+     <CategoryParentID>183971</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags:Drawstring Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971:109697</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118787</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Merchandise Bags</CategoryName>
+     <CategoryParentID>183971</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags:Merchandise Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971:118787</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184239</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Open-Top Plastic Bags</CategoryName>
+     <CategoryParentID>183971</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags:Open-Top Plastic Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971:184239</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184240</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Paper Bags</CategoryName>
+     <CategoryParentID>183971</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags:Paper Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971:184240</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184241</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Poly Tubing</CategoryName>
+     <CategoryParentID>183971</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags:Poly Tubing</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971:184241</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86174</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Reclosable and Zipper Bags</CategoryName>
+     <CategoryParentID>183971</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags:Reclosable and Zipper Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971:86174</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184242</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Security Mailing Bags</CategoryName>
+     <CategoryParentID>183971</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags:Security Mailing Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971:184242</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184243</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Valve Bags</CategoryName>
+     <CategoryParentID>183971</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags:Valve Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971:184243</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109698</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Packing and Shipping Bags</CategoryName>
+     <CategoryParentID>183971</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Packing and Shipping Bags:Other Packing and Shipping Bags</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:183971:109698</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

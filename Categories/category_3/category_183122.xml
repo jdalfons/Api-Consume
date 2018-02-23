@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:03:16.520Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183122</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Adhesives and Tape</CategoryName>
+     <CategoryParentID>28102</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Adhesives and Tape</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183122</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122694</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Craft Tape</CategoryName>
+     <CategoryParentID>183122</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Adhesives and Tape:Craft Tape</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183122:122694</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183123</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mounting Tape</CategoryName>
+     <CategoryParentID>183122</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Adhesives and Tape:Mounting Tape</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183122:183123</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183124</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glue Guns and Sticks</CategoryName>
+     <CategoryParentID>183122</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Adhesives and Tape:Glue Guns and Sticks</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183122:183124</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>161586</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glues and Pastes</CategoryName>
+     <CategoryParentID>183122</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Adhesives and Tape:Glues and Pastes</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183122:161586</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183125</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Adhesives and Tape</CategoryName>
+     <CategoryParentID>183122</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Adhesives and Tape:Other Adhesives and Tape</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183122:183125</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

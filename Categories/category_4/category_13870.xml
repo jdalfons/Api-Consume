@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:17:22.317Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13870</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Carpentry Woodworking</CategoryName>
+     <CategoryParentID>4121</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39729</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Axes Hatchets</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Axes Hatchets</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:39729</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13871</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Chisels</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Chisels</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:13871</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13872</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Drills</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Drills</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:13872</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104036</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gauges</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Gauges</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:104036</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39730</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hammers</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Hammers</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:39730</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104037</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Knives</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Knives</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:104037</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13873</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Levels Plumb Bobs</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Levels Plumb Bobs</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:13873</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13874</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Planes</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Planes</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:13874</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104038</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rules Tapes</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Rules Tapes</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:104038</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13875</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Saws</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Saws</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:13875</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104039</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Screwdrivers</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Screwdrivers</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:104039</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104040</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Squares</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Squares</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:104040</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104041</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vises Clamps</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Vises Clamps</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:104041</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4123</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Collectible Carpentry</CategoryName>
+     <CategoryParentID>13870</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Carpentry Woodworking:Other Collectible Carpentry</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:13870:4123</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

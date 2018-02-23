@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:30.879Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>14324</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Watches Parts and Accessories</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>281:14324</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31387</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wristwatches</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Wristwatches</CategoryNamePath>
+     <CategoryIDPath>281:14324:31387</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3937</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pocket Watches</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Pocket Watches</CategoryNamePath>
+     <CategoryIDPath>281:14324:3937</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173699</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Key Ring Watches</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Key Ring Watches</CategoryNamePath>
+     <CategoryIDPath>281:14324:173699</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10329</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Necklace Watches</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Necklace Watches</CategoryNamePath>
+     <CategoryIDPath>281:14324:10329</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173697</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Nurse Watches</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Nurse Watches</CategoryNamePath>
+     <CategoryIDPath>281:14324:173697</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173698</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ring Watches</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Ring Watches</CategoryNamePath>
+     <CategoryIDPath>281:14324:173698</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98625</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Watch Batteries</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Watch Batteries</CategoryNamePath>
+     <CategoryIDPath>281:14324:98625</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98624</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wristwatch Bands</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Wristwatch Bands</CategoryNamePath>
+     <CategoryIDPath>281:14324:98624</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173695</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boxes Cases and Watch Winders</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Boxes Cases and Watch Winders</CategoryNamePath>
+     <CategoryIDPath>281:14324:173695</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173696</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts Tools and Guides</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Parts Tools and Guides</CategoryNamePath>
+     <CategoryIDPath>281:14324:173696</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166739</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Watches</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Other Watches</CategoryNamePath>
+     <CategoryIDPath>281:14324:166739</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

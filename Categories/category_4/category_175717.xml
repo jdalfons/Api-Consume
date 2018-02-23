@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:20:26.127Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>175717</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Car Audio</CategoryName>
+     <CategoryParentID>175716</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Audio:Other Car Audio</CategoryNamePath>
+     <CategoryIDPath>293:3270:175716:175717</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

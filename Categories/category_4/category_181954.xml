@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:55.879Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181954</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leads and Probes</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Leads and Probes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181954</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181955</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Current Probes</CategoryName>
+     <CategoryParentID>181954</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Leads and Probes:Current Probes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181954:181955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181956</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>High Frequency/RF Probes</CategoryName>
+     <CategoryParentID>181954</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Leads and Probes:High Frequency/RF Probes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181954:181956</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181957</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>High Voltage Probes</CategoryName>
+     <CategoryParentID>181954</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Leads and Probes:High Voltage Probes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181954:181957</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181958</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Logic Probes</CategoryName>
+     <CategoryParentID>181954</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Leads and Probes:Logic Probes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181954:181958</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181959</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Multimeter Test Leads</CategoryName>
+     <CategoryParentID>181954</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Leads and Probes:Multimeter Test Leads</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181954:181959</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181960</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Piercing Probes</CategoryName>
+     <CategoryParentID>181954</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Leads and Probes:Piercing Probes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181954:181960</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181961</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Transducer Probes</CategoryName>
+     <CategoryParentID>181954</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Leads and Probes:Transducer Probes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181954:181961</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181962</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Leads and Probes</CategoryName>
+     <CategoryParentID>181954</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Leads and Probes:Other Leads and Probes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181954:181962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

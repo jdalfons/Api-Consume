@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:34:12.283Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>157325</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cups Dishes and Utensils</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Cups Dishes and Utensils</CategoryNamePath>
+     <CategoryIDPath>2984:20400:157325</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184341</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bowls and Plates</CategoryName>
+     <CategoryParentID>157325</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Cups Dishes and Utensils:Bowls and Plates</CategoryNamePath>
+     <CategoryIDPath>2984:20400:157325:184341</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117387</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sippy Cups and Mugs</CategoryName>
+     <CategoryParentID>157325</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Cups Dishes and Utensils:Sippy Cups and Mugs</CategoryNamePath>
+     <CategoryIDPath>2984:20400:157325:117387</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117385</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Utensils</CategoryName>
+     <CategoryParentID>157325</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Cups Dishes and Utensils:Utensils</CategoryNamePath>
+     <CategoryIDPath>2984:20400:157325:117385</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117386</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Feeding Sets</CategoryName>
+     <CategoryParentID>157325</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Cups Dishes and Utensils:Feeding Sets</CategoryNamePath>
+     <CategoryIDPath>2984:20400:157325:117386</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106776</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Baby Dishes</CategoryName>
+     <CategoryParentID>157325</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Cups Dishes and Utensils:Other Baby Dishes</CategoryNamePath>
+     <CategoryIDPath>2984:20400:157325:106776</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

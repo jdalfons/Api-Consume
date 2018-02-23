@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:02:40.520Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modern (1900-Now)</CategoryName>
+     <CategoryParentID>39491</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now)</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39492</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beer</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Beer</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:39492</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158421</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bottle Caps</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Bottle Caps</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:158421</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165332</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Figurals</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Figurals</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:165332</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165333</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Food Sauces and Condiments</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Food Sauces and Condiments</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:165333</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13912</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flasks</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Flasks</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:13912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13913</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jars</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Jars</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:13913</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13916</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Liquor</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Liquor</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:13916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13914</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Medicine</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Medicine</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:13914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10906</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Milk</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Milk</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:10906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3914</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Miniatures</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Miniatures</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:3914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39498</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Perfume</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Perfume</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:39498</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165331</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Seltzer</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Seltzer</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:165331</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13915</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sodas</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Sodas</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:13915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39502</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wine</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Wine</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:39502</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>369</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Modern Bottles</CategoryName>
+     <CategoryParentID>13911</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now):Other Modern Bottles</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911:369</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

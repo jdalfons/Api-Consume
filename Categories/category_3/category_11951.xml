@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:45:08.813Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11951</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Nickels</CategoryName>
+     <CategoryParentID>253</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Nickels</CategoryNamePath>
+     <CategoryIDPath>11116:253:11951</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11952</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shield (1866-83)</CategoryName>
+     <CategoryParentID>11951</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Nickels:Shield (1866-83)</CategoryNamePath>
+     <CategoryIDPath>11116:253:11951:11952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11953</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Liberty (1883-1913)</CategoryName>
+     <CategoryParentID>11951</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Nickels:Liberty (1883-1913)</CategoryNamePath>
+     <CategoryIDPath>11116:253:11951:11953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139806</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Buffalo (1913-38)</CategoryName>
+     <CategoryParentID>11951</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Nickels:Buffalo (1913-38)</CategoryNamePath>
+     <CategoryIDPath>11116:253:11951:139806</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41087</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jefferson (1938-Now)</CategoryName>
+     <CategoryParentID>11951</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Nickels:Jefferson (1938-Now)</CategoryNamePath>
+     <CategoryIDPath>11116:253:11951:41087</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176960</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>11951</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Nickels:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>11116:253:11951:176960</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

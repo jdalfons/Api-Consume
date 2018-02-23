@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:16:27.237Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165809</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Delaware</CategoryName>
+     <CategoryParentID>165801</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:United States:Delaware</CategoryNamePath>
+     <CategoryIDPath>1:165800:165801:165809</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

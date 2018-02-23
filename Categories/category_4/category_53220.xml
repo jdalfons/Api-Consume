@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:48:27.971Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>53220</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cooking and Warming Equipment</CategoryName>
+     <CategoryParentID>25367</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113742</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fryers</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Fryers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:113742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53216</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Grills Griddles and Broilers</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Grills Griddles and Broilers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:53216</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67155</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Outdoor Barbecue and Smokers</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Outdoor Barbecue and Smokers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:67155</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53217</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ovens and Ranges</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Ovens and Ranges</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:53217</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57083</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sandwich and Panini Grills</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Sandwich and Panini Grills</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:57083</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57084</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Soup and Steam Kettles</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Soup and Steam Kettles</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:57084</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67156</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Steamers and Steam Cooking</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Steamers and Steam Cooking</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:67156</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67159</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Toasters</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Toasters</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:67159</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57086</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Waffle Irons and Crepe Machines</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Waffle Irons and Crepe Machines</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:57086</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40116</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:40116</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25370</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Commercial Warming Equip</CategoryName>
+     <CategoryParentID>53220</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Cooking and Warming Equipment:Other Commercial Warming Equip</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:53220:25370</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

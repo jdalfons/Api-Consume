@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:16:56.799Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>64605</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Karaoke Mixers</CategoryName>
+     <CategoryParentID>175696</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Karaoke Entertainment:Karaoke Mixers</CategoryNamePath>
+     <CategoryIDPath>619:175696:64605</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

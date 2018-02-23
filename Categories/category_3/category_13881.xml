@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:52:31.645Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13881</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flags and Pennants</CategoryName>
+     <CategoryParentID>13877</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Flags and Pennants</CategoryNamePath>
+     <CategoryIDPath>1:13877:13881</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40126</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decorative Flags</CategoryName>
+     <CategoryParentID>13881</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Flags and Pennants:Decorative Flags</CategoryNamePath>
+     <CategoryIDPath>1:13877:13881:40126</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39642</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>International Country Flags</CategoryName>
+     <CategoryParentID>13881</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Flags and Pennants:International Country Flags</CategoryNamePath>
+     <CategoryIDPath>1:13877:13881:39642</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82499</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pennants</CategoryName>
+     <CategoryParentID>13881</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Flags and Pennants:Pennants</CategoryNamePath>
+     <CategoryIDPath>1:13877:13881:82499</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39646</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>United States Country Flags</CategoryName>
+     <CategoryParentID>13881</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Flags and Pennants:United States Country Flags</CategoryNamePath>
+     <CategoryIDPath>1:13877:13881:39646</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13884</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>United States State Flags</CategoryName>
+     <CategoryParentID>13881</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Flags and Pennants:United States State Flags</CategoryNamePath>
+     <CategoryIDPath>1:13877:13881:13884</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4042</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Flags and Pennants</CategoryName>
+     <CategoryParentID>13881</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Flags and Pennants:Other Flags and Pennants</CategoryNamePath>
+     <CategoryIDPath>1:13877:13881:4042</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

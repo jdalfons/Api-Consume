@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:00:01.954Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>175709</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wireless Access Points</CategoryName>
+     <CategoryParentID>11176</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Home Networking and Connectivity:Wireless Access Points</CategoryNamePath>
+     <CategoryIDPath>58058:11176:175709</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

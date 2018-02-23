@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:03:28.285Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183171</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Crafting Tools</CategoryName>
+     <CategoryParentID>28102</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Tools</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183171</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71176</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Badge/ Button Makers</CategoryName>
+     <CategoryParentID>183171</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Tools:Badge/ Button Makers</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183171:71176</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183172</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bone Folders</CategoryName>
+     <CategoryParentID>183171</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Tools:Bone Folders</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183171:183172</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122718</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Craft Tweezers</CategoryName>
+     <CategoryParentID>183171</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Tools:Craft Tweezers</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183171:122718</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183173</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cutting Tools</CategoryName>
+     <CategoryParentID>183171</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Tools:Cutting Tools</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183171:183173</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134628</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Eyelet Setters</CategoryName>
+     <CategoryParentID>183171</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Tools:Eyelet Setters</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183171:134628</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183179</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Crafting Tools</CategoryName>
+     <CategoryParentID>183171</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Tools:Other Crafting Tools</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183171:183179</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

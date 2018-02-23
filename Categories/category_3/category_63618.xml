@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:32:48.532Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63618</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Maritime Portholes and Hatches</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Maritime Portholes and Hatches</CategoryNamePath>
+     <CategoryIDPath>20081:37965:63618</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

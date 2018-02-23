@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:41:48.440Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>42425</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Cell Phone Accessories</CategoryName>
+     <CategoryParentID>9394</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Cell Phone Accessories:Other Cell Phone Accessories</CategoryNamePath>
+     <CategoryIDPath>15032:9394:42425</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

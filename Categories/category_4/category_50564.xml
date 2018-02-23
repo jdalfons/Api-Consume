@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:20:33.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>50564</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Speaker/Sub. Enclosures</CategoryName>
+     <CategoryParentID>32806</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Audio and Video Installation:Speaker/Sub. Enclosures</CategoryNamePath>
+     <CategoryIDPath>293:3270:32806:50564</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

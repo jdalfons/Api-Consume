@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:17:38.723Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181281</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Orchestral</CategoryName>
+     <CategoryParentID>180016</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:String:Orchestral</CategoryNamePath>
+     <CategoryIDPath>619:180016:181281</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16222</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Upright Basses</CategoryName>
+     <CategoryParentID>181281</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:String:Orchestral:Upright Basses</CategoryNamePath>
+     <CategoryIDPath>619:180016:181281:16222</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10178</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cellos</CategoryName>
+     <CategoryParentID>181281</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:String:Orchestral:Cellos</CategoryNamePath>
+     <CategoryIDPath>619:180016:181281:10178</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16225</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Violas</CategoryName>
+     <CategoryParentID>181281</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:String:Orchestral:Violas</CategoryNamePath>
+     <CategoryIDPath>619:180016:181281:16225</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38107</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Violins</CategoryName>
+     <CategoryParentID>181281</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:String:Orchestral:Violins</CategoryNamePath>
+     <CategoryIDPath>619:180016:181281:38107</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

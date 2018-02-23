@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:20:44.346Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179784</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Training Equipment and Supplies</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179785</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bag Stands Platforms and Accs</CategoryName>
+     <CategoryParentID>179784</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies:Bag Stands Platforms and Accs</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784:179785</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179786</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dummies</CategoryName>
+     <CategoryParentID>179784</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies:Dummies</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784:179786</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179787</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Elevation Training Masks</CategoryName>
+     <CategoryParentID>179784</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies:Elevation Training Masks</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784:179787</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123468</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jump Ropes</CategoryName>
+     <CategoryParentID>179784</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies:Jump Ropes</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784:123468</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179788</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Floor Mats and Pads</CategoryName>
+     <CategoryParentID>179784</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies:Floor Mats and Pads</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784:179788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30101</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Punching Bags</CategoryName>
+     <CategoryParentID>179784</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies:Punching Bags</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784:30101</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179789</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Strike Pads and Mitts</CategoryName>
+     <CategoryParentID>179784</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies:Strike Pads and Mitts</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784:179789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179790</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Corner Supplies</CategoryName>
+     <CategoryParentID>179784</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies:Corner Supplies</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784:179790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179791</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Combat Sport Training</CategoryName>
+     <CategoryParentID>179784</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Training Equipment and Supplies:Other Combat Sport Training</CategoryNamePath>
+     <CategoryIDPath>888:179767:179784:179791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:26:28.657Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>168110</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>DVD Covers</CategoryName>
+     <CategoryParentID>32987</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Autographs-Original:Movies:DVD Covers</CategoryNamePath>
+     <CategoryIDPath>45100:57:32987:168110</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

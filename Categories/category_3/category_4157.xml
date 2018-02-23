@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:57:19.923Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4157</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Patterns</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Patterns</CategoryNamePath>
+     <CategoryIDPath>1:113:4157</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4159</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>4157</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Patterns:Accessories</CategoryNamePath>
+     <CategoryIDPath>1:113:4157:4159</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4158</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Children</CategoryName>
+     <CategoryParentID>4157</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Patterns:Children</CategoryNamePath>
+     <CategoryIDPath>1:113:4157:4158</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38057</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dolls Toys Animals</CategoryName>
+     <CategoryParentID>4157</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Patterns:Dolls Toys Animals</CategoryNamePath>
+     <CategoryIDPath>1:113:4157:38057</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4160</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Men</CategoryName>
+     <CategoryParentID>4157</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Patterns:Men</CategoryNamePath>
+     <CategoryIDPath>1:113:4157:4160</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Women</CategoryName>
+     <CategoryParentID>4157</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Patterns:Women</CategoryNamePath>
+     <CategoryIDPath>1:113:4157:4161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>606</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Sewing Patterns</CategoryName>
+     <CategoryParentID>4157</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Patterns:Other Vintage Sewing Patterns</CategoryNamePath>
+     <CategoryIDPath>1:113:4157:606</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:53:05.238Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>14285</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Halloween</CategoryName>
+     <CategoryParentID>907</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween</CategoryNamePath>
+     <CategoryIDPath>1:907:14285</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10942</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage (Pre-1960)</CategoryName>
+     <CategoryParentID>14285</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Vintage (Pre-1960)</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:10942</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168013</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modern (1960-1990)</CategoryName>
+     <CategoryParentID>14285</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990)</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33795</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Current (1991-Now)</CategoryName>
+     <CategoryParentID>14285</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Current (1991-Now)</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:33795</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

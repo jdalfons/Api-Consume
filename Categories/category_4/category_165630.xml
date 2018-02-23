@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:13:08.315Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165630</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rollerball Pens</CategoryName>
+     <CategoryParentID>7278</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Rollerball Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:165630</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165631</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cross</CategoryName>
+     <CategoryParentID>165630</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Rollerball Pens:Cross</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:165630:165631</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165632</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Montblanc</CategoryName>
+     <CategoryParentID>165630</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Rollerball Pens:Montblanc</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:165630:165632</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165633</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Parker</CategoryName>
+     <CategoryParentID>165630</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Rollerball Pens:Parker</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:165630:165633</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165634</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rotring</CategoryName>
+     <CategoryParentID>165630</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Rollerball Pens:Rotring</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:165630:165634</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165635</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Waterman</CategoryName>
+     <CategoryParentID>165630</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Rollerball Pens:Waterman</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:165630:165635</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165636</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Unbranded</CategoryName>
+     <CategoryParentID>165630</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Rollerball Pens:Unbranded</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:165630:165636</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165637</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rollerball Pens</CategoryName>
+     <CategoryParentID>165630</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Rollerball Pens:Other Rollerball Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:165630:165637</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

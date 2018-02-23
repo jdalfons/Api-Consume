@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:55:21.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>7282</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pencils</CategoryName>
+     <CategoryParentID>966</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pencils</CategoryNamePath>
+     <CategoryIDPath>1:966:7282</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7283</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bullet</CategoryName>
+     <CategoryParentID>7282</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pencils:Bullet</CategoryNamePath>
+     <CategoryIDPath>1:966:7282:7283</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7284</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mechanical</CategoryName>
+     <CategoryParentID>7282</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pencils:Mechanical</CategoryNamePath>
+     <CategoryIDPath>1:966:7282:7284</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>968</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Pencils</CategoryName>
+     <CategoryParentID>7282</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pencils:Other Collectible Pencils</CategoryNamePath>
+     <CategoryIDPath>1:966:7282:968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:17:42.192Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>397</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Clocks</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Clocks</CategoryNamePath>
+     <CategoryIDPath>1:397</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13851</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Antique (Pre-1930)</CategoryName>
+     <CategoryParentID>397</CategoryParentID>
+     <CategoryNamePath>Collectibles:Clocks:Antique (Pre-1930)</CategoryNamePath>
+     <CategoryIDPath>1:397:13851</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13855</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage (1930-69)</CategoryName>
+     <CategoryParentID>397</CategoryParentID>
+     <CategoryNamePath>Collectibles:Clocks:Vintage (1930-69)</CategoryNamePath>
+     <CategoryIDPath>1:397:13855</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13860</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Modern (1970-Now)</CategoryName>
+     <CategoryParentID>397</CategoryParentID>
+     <CategoryNamePath>Collectibles:Clocks:Modern (1970-Now)</CategoryNamePath>
+     <CategoryIDPath>1:397:13860</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10027</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts and Tools</CategoryName>
+     <CategoryParentID>397</CategoryParentID>
+     <CategoryNamePath>Collectibles:Clocks:Parts and Tools</CategoryNamePath>
+     <CategoryIDPath>1:397:10027</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171188</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>397</CategoryParentID>
+     <CategoryNamePath>Collectibles:Clocks:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:397:171188</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

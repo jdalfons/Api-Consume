@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:58:58.657Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>111422</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Apple Laptops</CategoryName>
+     <CategoryParentID>175672</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptops and Netbooks:Apple Laptops</CategoryNamePath>
+     <CategoryIDPath>58058:175672:111422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

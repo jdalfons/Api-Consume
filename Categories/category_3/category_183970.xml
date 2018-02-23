@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:22.221Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183970</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Personal Protective Equip/PPE</CategoryName>
+     <CategoryParentID>11897</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109674</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Work Boots and Shoes</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Work Boots and Shoes</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:109674</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53151</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Protective Suits and Coveralls</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Protective Suits and Coveralls</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:53151</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67019</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Safety Glasses and Goggles</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Safety Glasses and Goggles</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:67019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67023</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Work Gloves</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Work Gloves</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:67023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183876</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ear Plugs and Ear Muffs</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Ear Plugs and Ear Muffs</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:183876</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183879</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hard Hats and Face Shields</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Hard Hats and Face Shields</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:183879</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183885</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Protective Jackets</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Protective Jackets</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:183885</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67024</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Masks and Respirators</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Masks and Respirators</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:67024</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183886</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Protective Pants</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Protective Pants</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:183886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53153</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Safety Harnesses</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Safety Harnesses</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:53153</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109677</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Safety Vests</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Safety Vests</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:109677</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11900</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other PPE</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Other PPE</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:11900</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

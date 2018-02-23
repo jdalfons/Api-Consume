@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:59.379Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181963</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PXI and VXI Systems</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:PXI and VXI Systems</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181963</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181964</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PXI and VXI Boards and Modules</CategoryName>
+     <CategoryParentID>181963</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:PXI and VXI Systems:PXI and VXI Boards and Modules</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181963:181964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181965</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PXI and VXI Controllers</CategoryName>
+     <CategoryParentID>181963</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:PXI and VXI Systems:PXI and VXI Controllers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181963:181965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181966</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PXI and VXI Mainframes and Chassis</CategoryName>
+     <CategoryParentID>181963</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:PXI and VXI Systems:PXI and VXI Mainframes and Chassis</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181963:181966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181967</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other PXI and VXI Equipment</CategoryName>
+     <CategoryParentID>181963</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:PXI and VXI Systems:Other PXI and VXI Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181963:181967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:49:50.438Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>39491</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bottles</CategoryName>
+     <CategoryParentID>29797</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>889</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Antique (Pre-1900)</CategoryName>
+     <CategoryParentID>39491</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Antique (Pre-1900)</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:889</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modern (1900-Now)</CategoryName>
+     <CategoryParentID>39491</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Modern (1900-Now)</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13911</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13917</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproduction</CategoryName>
+     <CategoryParentID>39491</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Reproduction</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13917</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:04:37.345Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>134783</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stamp Handles and Mounts</CategoryName>
+     <CategoryParentID>3122</CategoryParentID>
+     <CategoryNamePath>Crafts:Stamping and Embossing:Stamp Handles and Mounts</CategoryNamePath>
+     <CategoryIDPath>14339:3122:134783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

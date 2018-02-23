@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:25:11.254Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2451</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Friends and Family</CategoryName>
+     <CategoryParentID>15949</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Friends and Family</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:2451</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15961</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kelly and Same-Size Friends</CategoryName>
+     <CategoryParentID>2451</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Friends and Family:Kelly and Same-Size Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:2451:15961</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15962</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ken and Same-Size Friends</CategoryName>
+     <CategoryParentID>2451</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Friends and Family:Ken and Same-Size Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:2451:15962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48946</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Midge and Same-Size Friends</CategoryName>
+     <CategoryParentID>2451</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Friends and Family:Midge and Same-Size Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:2451:48946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15963</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Skipper and Same-Size Friends</CategoryName>
+     <CategoryParentID>2451</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Friends and Family:Skipper and Same-Size Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:2451:15963</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15964</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tommy and Same-Size Friends</CategoryName>
+     <CategoryParentID>2451</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Friends and Family:Tommy and Same-Size Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:2451:15964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2450</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Contemp. Barbie Friends</CategoryName>
+     <CategoryParentID>2451</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Barbie Contemporary (1973-Now):Friends and Family:Other Contemp. Barbie Friends</CategoryNamePath>
+     <CategoryIDPath>237:238:15949:2451:2450</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

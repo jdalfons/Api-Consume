@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:18:47.895Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>914</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Postcards</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards</CategoryNamePath>
+     <CategoryIDPath>1:914</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3634</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Advertising</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Advertising</CategoryNamePath>
+     <CategoryIDPath>1:914:3634</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13996</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Amusement Parks</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Amusement Parks</CategoryNamePath>
+     <CategoryIDPath>1:914:13996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29468</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Animals</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Animals</CategoryNamePath>
+     <CategoryIDPath>1:914:29468</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63808</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Art</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Art</CategoryNamePath>
+     <CategoryIDPath>1:914:63808</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>916</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Artist Signed</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Artist Signed</CategoryNamePath>
+     <CategoryIDPath>1:914:916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156356</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Buildings Architecture</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Buildings Architecture</CategoryNamePath>
+     <CategoryIDPath>1:914:156356</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4093</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Comic</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Comic</CategoryNamePath>
+     <CategoryIDPath>1:914:4093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>927</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cowboy Western Motifs</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Cowboy Western Motifs</CategoryNamePath>
+     <CategoryIDPath>1:914:927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36079</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cultures and Ethnicities</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Cultures and Ethnicities</CategoryNamePath>
+     <CategoryIDPath>1:914:36079</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>918</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Exposition</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Exposition</CategoryNamePath>
+     <CategoryIDPath>1:914:918</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156336</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Events</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Events</CategoryNamePath>
+     <CategoryIDPath>1:914:156336</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>919</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Greetings</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Greetings</CategoryNamePath>
+     <CategoryIDPath>1:914:919</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29474</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Holidays</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Holidays</CategoryNamePath>
+     <CategoryIDPath>1:914:29474</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156344</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Landscapes/Mountains</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Landscapes/Mountains</CategoryNamePath>
+     <CategoryIDPath>1:914:156344</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>921</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Military</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Military</CategoryNamePath>
+     <CategoryIDPath>1:914:921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4095</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>National Parks</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:National Parks</CategoryNamePath>
+     <CategoryIDPath>1:914:4095</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3635</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Patriotic</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Patriotic</CategoryNamePath>
+     <CategoryIDPath>1:914:3635</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156345</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>People</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:People</CategoryNamePath>
+     <CategoryIDPath>1:914:156345</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29480</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Real Photo</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Real Photo</CategoryNamePath>
+     <CategoryIDPath>1:914:29480</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156346</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Religions</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Religions</CategoryNamePath>
+     <CategoryIDPath>1:914:156346</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156351</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Risqué</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Risqué</CategoryNamePath>
+     <CategoryIDPath>1:914:156351</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156337</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Roadside America</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Roadside America</CategoryNamePath>
+     <CategoryIDPath>1:914:156337</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13998</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Royalty</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Royalty</CategoryNamePath>
+     <CategoryIDPath>1:914:13998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4094</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sports</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Sports</CategoryNamePath>
+     <CategoryIDPath>1:914:4094</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29485</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Transportation</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Transportation</CategoryNamePath>
+     <CategoryIDPath>1:914:29485</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63809</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Universities</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Universities</CategoryNamePath>
+     <CategoryIDPath>1:914:63809</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20193</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>US States Cities and Towns</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:US States Cities and Towns</CategoryNamePath>
+     <CategoryIDPath>1:914:20193</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20245</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>International Cities and Towns</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:International Cities and Towns</CategoryNamePath>
+     <CategoryIDPath>1:914:20245</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156357</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Uncirculated Postcards</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Uncirculated Postcards</CategoryNamePath>
+     <CategoryIDPath>1:914:156357</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167981</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Supplies and Reference</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Supplies and Reference</CategoryNamePath>
+     <CategoryIDPath>1:914:167981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>127</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Collectible Postcards</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Other Collectible Postcards</CategoryNamePath>
+     <CategoryIDPath>1:914:127</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>32</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

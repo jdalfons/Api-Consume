@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:05:42.301Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>160865</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dolls-Interactive</CategoryName>
+     <CategoryParentID>238</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Dolls-Interactive</CategoryNamePath>
+     <CategoryIDPath>237:238:160865</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11694</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Amazing Ally Babies</CategoryName>
+     <CategoryParentID>160865</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Dolls-Interactive:Amazing Ally Babies</CategoryNamePath>
+     <CategoryIDPath>237:238:160865:11694</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160866</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baby Alive</CategoryName>
+     <CategoryParentID>160865</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Dolls-Interactive:Baby Alive</CategoryNamePath>
+     <CategoryIDPath>237:238:160865:160866</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160867</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Diva Starz</CategoryName>
+     <CategoryParentID>160865</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Dolls-Interactive:Diva Starz</CategoryNamePath>
+     <CategoryIDPath>237:238:160865:160867</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160868</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Little Mommy</CategoryName>
+     <CategoryParentID>160865</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Dolls-Interactive:Little Mommy</CategoryNamePath>
+     <CategoryIDPath>237:238:160865:160868</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160869</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Zapf</CategoryName>
+     <CategoryParentID>160865</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Dolls-Interactive:Zapf</CategoryNamePath>
+     <CategoryIDPath>237:238:160865:160869</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160870</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Interactive Dolls</CategoryName>
+     <CategoryParentID>160865</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Dolls-Interactive:Other Interactive Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:160865:160870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

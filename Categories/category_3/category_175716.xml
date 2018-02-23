@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:01:04.379Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>175716</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Car Audio</CategoryName>
+     <CategoryParentID>3270</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Audio</CategoryNamePath>
+     <CategoryIDPath>293:3270:175716</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18795</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Car Amplifiers</CategoryName>
+     <CategoryParentID>175716</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Audio:Car Amplifiers</CategoryNamePath>
+     <CategoryIDPath>293:3270:175716:18795</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39754</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Car Audio In-Dash Units</CategoryName>
+     <CategoryParentID>175716</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Audio:Car Audio In-Dash Units</CategoryNamePath>
+     <CategoryIDPath>293:3270:175716:39754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39746</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Car CD Changers</CategoryName>
+     <CategoryParentID>175716</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Audio:Car CD Changers</CategoryNamePath>
+     <CategoryIDPath>293:3270:175716:39746</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14936</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Car Speakers and Speaker Systems</CategoryName>
+     <CategoryParentID>175716</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Audio:Car Speakers and Speaker Systems</CategoryNamePath>
+     <CategoryIDPath>293:3270:175716:14936</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18805</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Car Subwoofers</CategoryName>
+     <CategoryParentID>175716</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Audio:Car Subwoofers</CategoryNamePath>
+     <CategoryIDPath>293:3270:175716:18805</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79839</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signal Processors</CategoryName>
+     <CategoryParentID>175716</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Audio:Signal Processors</CategoryNamePath>
+     <CategoryIDPath>293:3270:175716:79839</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175717</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Car Audio</CategoryName>
+     <CategoryParentID>175716</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Audio:Other Car Audio</CategoryNamePath>
+     <CategoryIDPath>293:3270:175716:175717</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

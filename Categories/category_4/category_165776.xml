@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:29.892Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165776</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Motorcycle Memorabilia</CategoryName>
+     <CategoryParentID>10958</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165777</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Diecast and Models</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:Diecast and Models</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165777</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165778</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>License Plates</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:License Plates</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165778</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165779</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Magazines</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:Magazines</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165779</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165780</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Motorcycle Gear</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:Motorcycle Gear</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165780</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165781</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Newspapers</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:Newspapers</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165781</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165782</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Patches</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:Patches</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165782</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165783</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:Photographs</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165784</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pins and Buttons</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:Pins and Buttons</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165784</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165785</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signs</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:Signs</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165785</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165786</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stickers and Decals</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:Stickers and Decals</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165786</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165787</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Motorcycle Memorabilia</CategoryName>
+     <CategoryParentID>165776</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:Motorcycle Memorabilia:Other Motorcycle Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165776:165787</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

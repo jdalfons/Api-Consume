@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:11:51.020Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>26395</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Health and Beauty</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Health and Beauty</CategoryNamePath>
+     <CategoryIDPath>26395</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11838</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bath and Body</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Bath and Body</CategoryNamePath>
+     <CategoryIDPath>26395:11838</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180345</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fragrances</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Fragrances</CategoryNamePath>
+     <CategoryIDPath>26395:180345</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11854</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Hair Care and Styling</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling</CategoryNamePath>
+     <CategoryIDPath>26395:11854</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67588</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Health Care</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care</CategoryNamePath>
+     <CategoryIDPath>26395:67588</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31786</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Makeup</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup</CategoryNamePath>
+     <CategoryIDPath>26395:31786</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36447</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Massage</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Massage</CategoryNamePath>
+     <CategoryIDPath>26395:36447</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11778</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Medical Mobility and Disability</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Medical Mobility and Disability</CategoryNamePath>
+     <CategoryIDPath>26395:11778</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47945</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Nail Care Manicure and Pedicure</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Nail Care Manicure and Pedicure</CategoryNamePath>
+     <CategoryIDPath>26395:47945</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67659</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Natural and Alternative Remedies</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies</CategoryNamePath>
+     <CategoryIDPath>26395:67659</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31769</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Oral Care</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Oral Care</CategoryNamePath>
+     <CategoryIDPath>26395:31769</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177731</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Salon and Spa Equipment</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Salon and Spa Equipment</CategoryNamePath>
+     <CategoryIDPath>26395:177731</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31762</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Shaving and Hair Removal</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal</CategoryNamePath>
+     <CategoryIDPath>26395:31762</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11863</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Skin Care</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care</CategoryNamePath>
+     <CategoryIDPath>26395:11863</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31772</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Sun Protection and Tanning</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning</CategoryNamePath>
+     <CategoryIDPath>26395:31772</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33914</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Tattoos and Body Art</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Tattoos and Body Art</CategoryNamePath>
+     <CategoryIDPath>26395:33914</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31414</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vision Care</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vision Care</CategoryNamePath>
+     <CategoryIDPath>26395:31414</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180959</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vitamins and Dietary Supplements</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Vitamins and Dietary Supplements</CategoryNamePath>
+     <CategoryIDPath>26395:180959</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40965</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>26395:40965</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1277</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Health and Beauty</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Other Health and Beauty</CategoryNamePath>
+     <CategoryIDPath>26395:1277</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

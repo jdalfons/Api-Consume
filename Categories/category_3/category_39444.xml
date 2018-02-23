@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:32:27.142Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>39444</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lace Crochet and Doilies</CategoryName>
+     <CategoryParentID>181677</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Lace Crochet and Doilies</CategoryNamePath>
+     <CategoryIDPath>20081:181677:39444</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163109</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Collars and Cuffs</CategoryName>
+     <CategoryParentID>39444</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Lace Crochet and Doilies:Collars and Cuffs</CategoryNamePath>
+     <CategoryIDPath>20081:181677:39444:163109</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39445</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Doilies</CategoryName>
+     <CategoryParentID>39444</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Lace Crochet and Doilies:Doilies</CategoryNamePath>
+     <CategoryIDPath>20081:181677:39444:39445</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39446</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Runners</CategoryName>
+     <CategoryParentID>39444</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Lace Crochet and Doilies:Runners</CategoryNamePath>
+     <CategoryIDPath>20081:181677:39444:39446</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39447</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tablecloths</CategoryName>
+     <CategoryParentID>39444</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Lace Crochet and Doilies:Tablecloths</CategoryNamePath>
+     <CategoryIDPath>20081:181677:39444:39447</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39448</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trim and Edging</CategoryName>
+     <CategoryParentID>39444</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Lace Crochet and Doilies:Trim and Edging</CategoryNamePath>
+     <CategoryIDPath>20081:181677:39444:39448</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2219</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Lace and Crochet</CategoryName>
+     <CategoryParentID>39444</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930):Lace Crochet and Doilies:Other Antique Lace and Crochet</CategoryNamePath>
+     <CategoryIDPath>20081:181677:39444:2219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

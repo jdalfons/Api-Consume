@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:05:19.657Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13779</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Avon</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13780</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bells</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Bells</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:13780</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1349</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bottles</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Bottles</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:1349</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86891</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bowls</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Bowls</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:86891</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39576</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Candle Holders</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Candle Holders</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:39576</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11121</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Collector Plates</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Collector Plates</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:11121</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13781</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Decanters</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Decanters</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:13781</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39577</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Figurines</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:39577</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13782</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Goblets Tumblers</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Goblets Tumblers</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:13782</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39578</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mugs Cups Saucers</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Mugs Cups Saucers</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:39578</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13783</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:13783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86892</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Soap Accessories</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Soap Accessories</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:86892</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86893</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Steins</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Steins</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:86893</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86894</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vases</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Vases</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:86894</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Avon</CategoryName>
+     <CategoryParentID>13779</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon:Other Avon</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779:97</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

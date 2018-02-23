@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:33.517Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>98495</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Native American</CategoryName>
+     <CategoryParentID>11312</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Native American</CategoryNamePath>
+     <CategoryIDPath>281:11312:98495</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98496</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bracelets</CategoryName>
+     <CategoryParentID>98495</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Native American:Bracelets</CategoryNamePath>
+     <CategoryIDPath>281:11312:98495:98496</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98497</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Earrings</CategoryName>
+     <CategoryParentID>98495</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Native American:Earrings</CategoryNamePath>
+     <CategoryIDPath>281:11312:98495:98497</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98498</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Necklaces and Pendants</CategoryName>
+     <CategoryParentID>98495</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Native American:Necklaces and Pendants</CategoryNamePath>
+     <CategoryIDPath>281:11312:98495:98498</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98499</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pins Brooches</CategoryName>
+     <CategoryParentID>98495</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Native American:Pins Brooches</CategoryNamePath>
+     <CategoryIDPath>281:11312:98495:98499</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98500</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rings</CategoryName>
+     <CategoryParentID>98495</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Native American:Rings</CategoryNamePath>
+     <CategoryIDPath>281:11312:98495:98500</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98501</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sets</CategoryName>
+     <CategoryParentID>98495</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Native American:Sets</CategoryNamePath>
+     <CategoryIDPath>281:11312:98495:98501</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98502</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Watches</CategoryName>
+     <CategoryParentID>98495</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Native American:Watches</CategoryNamePath>
+     <CategoryIDPath>281:11312:98495:98502</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166733</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unsigned Artisan Jewelry</CategoryName>
+     <CategoryParentID>98495</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Native American:Unsigned Artisan Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:11312:98495:166733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11315</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Native American Jewelry</CategoryName>
+     <CategoryParentID>98495</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:Native American:Other Native American Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:11312:98495:11315</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

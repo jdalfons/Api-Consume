@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:16:58.393Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181227</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Drums</CategoryName>
+     <CategoryParentID>180012</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Drums</CategoryNamePath>
+     <CategoryIDPath>619:180012:181227</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38093</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bass Drums</CategoryName>
+     <CategoryParentID>181227</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Drums:Bass Drums</CategoryNamePath>
+     <CategoryIDPath>619:180012:181227:38093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38069</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Electronic Drums</CategoryName>
+     <CategoryParentID>181227</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Drums:Electronic Drums</CategoryNamePath>
+     <CategoryIDPath>619:180012:181227:38069</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38095</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Snare Drums</CategoryName>
+     <CategoryParentID>181227</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Drums:Snare Drums</CategoryNamePath>
+     <CategoryIDPath>619:180012:181227:38095</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38096</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Toms</CategoryName>
+     <CategoryParentID>181227</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Drums:Toms</CategoryNamePath>
+     <CategoryIDPath>619:180012:181227:38096</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38097</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sets and Kits</CategoryName>
+     <CategoryParentID>181227</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Drums:Sets and Kits</CategoryNamePath>
+     <CategoryIDPath>619:180012:181227:38097</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10175</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Drums</CategoryName>
+     <CategoryParentID>181227</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Drums:Other Drums</CategoryNamePath>
+     <CategoryIDPath>619:180012:181227:10175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

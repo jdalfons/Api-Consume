@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:04:11.424Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183274</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Foundations and Undergarments</CategoryName>
+     <CategoryParentID>160737</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Foundations and Undergarments</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183274</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183275</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bonings</CategoryName>
+     <CategoryParentID>183274</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Foundations and Undergarments:Bonings</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183274:183275</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183276</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bra Cup Pads</CategoryName>
+     <CategoryParentID>183274</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Foundations and Undergarments:Bra Cup Pads</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183274:183276</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183277</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Elastics</CategoryName>
+     <CategoryParentID>183274</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Foundations and Undergarments:Elastics</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183274:183277</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183278</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hat Bodies</CategoryName>
+     <CategoryParentID>183274</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Foundations and Undergarments:Hat Bodies</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183274:183278</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183279</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hat Frames</CategoryName>
+     <CategoryParentID>183274</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Foundations and Undergarments:Hat Frames</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183274:183279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183280</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Piping and Strings</CategoryName>
+     <CategoryParentID>183274</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Foundations and Undergarments:Piping and Strings</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183274:183280</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146289</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Purse Handles Frames and Feet</CategoryName>
+     <CategoryParentID>183274</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Foundations and Undergarments:Purse Handles Frames and Feet</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183274:146289</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

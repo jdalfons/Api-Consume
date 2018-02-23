@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:29:22.001Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2562</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Radio Control and Control Line</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line</CategoryNamePath>
+     <CategoryIDPath>220:2562</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84912</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Remote-Controlled Toys</CategoryName>
+     <CategoryParentID>2562</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:Remote-Controlled Toys</CategoryNamePath>
+     <CategoryIDPath>220:2562:84912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182181</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>RC Model Vehicles and Kits</CategoryName>
+     <CategoryParentID>2562</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicles and Kits</CategoryNamePath>
+     <CategoryIDPath>220:2562:182181</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182187</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>RC Model Vehicle Parts and Accs</CategoryName>
+     <CategoryParentID>2562</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:RC Model Vehicle Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>220:2562:182187</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34054</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Control Line and Free Flight</CategoryName>
+     <CategoryParentID>2562</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:Control Line and Free Flight</CategoryNamePath>
+     <CategoryIDPath>220:2562:34054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168247</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tether Cars</CategoryName>
+     <CategoryParentID>2562</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:Tether Cars</CategoryNamePath>
+     <CategoryIDPath>220:2562:168247</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171145</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Simulators</CategoryName>
+     <CategoryParentID>2562</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:Simulators</CategoryNamePath>
+     <CategoryIDPath>220:2562:171145</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168248</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other RC and Control Line</CategoryName>
+     <CategoryParentID>2562</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Radio Control and Control Line:Other RC and Control Line</CategoryNamePath>
+     <CategoryIDPath>220:2562:168248</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

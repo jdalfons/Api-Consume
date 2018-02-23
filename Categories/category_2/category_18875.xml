@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:40.954Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>18875</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Pottery and China</CategoryName>
+     <CategoryParentID>870</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China</CategoryNamePath>
+     <CategoryIDPath>870:18875</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Art Pottery</CategoryName>
+     <CategoryParentID>18875</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>24</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>China and Dinnerware</CategoryName>
+     <CategoryParentID>18875</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:China and Dinnerware</CategoryNamePath>
+     <CategoryIDPath>870:18875:24</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60102</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>18875</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>870:18875:60102</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

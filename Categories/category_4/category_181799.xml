@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:39:15.473Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181799</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signals and Components</CategoryName>
+     <CategoryParentID>181793</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181800</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signal Lamps</CategoryName>
+     <CategoryParentID>181799</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components:Signal Lamps</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799:181800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181801</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signal Cables</CategoryName>
+     <CategoryParentID>181799</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components:Signal Cables</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799:181801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181802</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signal Lamp Bulbs</CategoryName>
+     <CategoryParentID>181799</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components:Signal Lamp Bulbs</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799:181802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181803</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signal Lampholders</CategoryName>
+     <CategoryParentID>181799</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components:Signal Lampholders</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799:181803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181804</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signal Lenses</CategoryName>
+     <CategoryParentID>181799</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components:Signal Lenses</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799:181804</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181805</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signal Lamp and Siren Combos</CategoryName>
+     <CategoryParentID>181799</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components:Signal Lamp and Siren Combos</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799:181805</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181806</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signal Towers</CategoryName>
+     <CategoryParentID>181799</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components:Signal Towers</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799:181806</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181807</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sirens</CategoryName>
+     <CategoryParentID>181799</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components:Sirens</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799:181807</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181808</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signal Accessories</CategoryName>
+     <CategoryParentID>181799</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components:Signal Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799:181808</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181809</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Signals</CategoryName>
+     <CategoryParentID>181799</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components:Other Signals</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799:181809</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

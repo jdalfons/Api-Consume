@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:45:33.893Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>12582</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Inspection and Measurement</CategoryName>
+     <CategoryParentID>92084</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25269</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Calipers</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Calipers</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:25269</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25271</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>CMM Machines and Comparators</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:CMM Machines and Comparators</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:25271</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41934</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gauge Blocks</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Gauge Blocks</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:41934</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58239</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Indicators</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Indicators</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:58239</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58235</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Inspection Gauges</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Inspection Gauges</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:58235</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58240</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Magnetic Holders</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Magnetic Holders</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:58240</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41938</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Micrometers</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Micrometers</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:41938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58245</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rules</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Rules</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:58245</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58246</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Squares</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Squares</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:58246</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58247</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Surface Plates</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Surface Plates</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:58247</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58248</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Protractors</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Protractors</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:58248</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12581</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Inspection and Measurement</CategoryName>
+     <CategoryParentID>12582</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Metalworking Tooling:Inspection and Measurement:Other Inspection and Measurement</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92084:12582:12581</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

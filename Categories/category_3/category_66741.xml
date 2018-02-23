@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:11:56.393Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>66741</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Furniture</CategoryName>
+     <CategoryParentID>176988</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108428</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bean Bags and Inflatables</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Bean Bags and Inflatables</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:108428</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66742</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bedroom Furniture</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Bedroom Furniture</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:66742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183321</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Benches</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Benches</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:183321</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115749</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bookcases</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Bookcases</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:115749</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115750</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Desks</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Desks</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:115750</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66743</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Play Tables and Chairs</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Play Tables and Chairs</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:66743</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134649</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shelves</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Shelves</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:134649</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134648</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sofas and Armchairs</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Sofas and Armchairs</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:134648</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134650</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stools</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Stools</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:134650</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134651</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Storage Units</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Storage Units</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:134651</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>94932</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Toy Boxes</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Toy Boxes</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:94932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66744</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Kids&apos; and Teens&apos; Furniture</CategoryName>
+     <CategoryParentID>66741</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:Furniture:Other Kids&apos; and Teens&apos; Furniture</CategoryNamePath>
+     <CategoryIDPath>11700:176988:66741:66744</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:58.754Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156488</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Correspondence</CategoryName>
+     <CategoryParentID>124</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Correspondence</CategoryNamePath>
+     <CategoryIDPath>1:124:156488</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156489</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1900</CategoryName>
+     <CategoryParentID>156488</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Correspondence:Pre-1900</CategoryNamePath>
+     <CategoryIDPath>1:124:156488:156489</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156490</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1900-49</CategoryName>
+     <CategoryParentID>156488</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Correspondence:1900-49</CategoryNamePath>
+     <CategoryIDPath>1:124:156488:156490</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156491</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1950-Now</CategoryName>
+     <CategoryParentID>156488</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Correspondence:1950-Now</CategoryNamePath>
+     <CategoryIDPath>1:124:156488:156491</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165661</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unspecified Unknown Date</CategoryName>
+     <CategoryParentID>156488</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Correspondence:Unspecified Unknown Date</CategoryNamePath>
+     <CategoryIDPath>1:124:156488:165661</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

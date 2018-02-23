@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:11.158Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>116998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals and Brochures</CategoryName>
+     <CategoryParentID>116996</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Vintage Construction:Manuals and Brochures</CategoryNamePath>
+     <CategoryIDPath>12576:11765:116996:116998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

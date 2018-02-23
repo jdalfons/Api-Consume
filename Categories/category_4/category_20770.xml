@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:35:37.705Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20770</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wrenches</CategoryName>
+     <CategoryParentID>3244</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Hand Tools:Wrenches</CategoryNamePath>
+     <CategoryIDPath>11700:631:3244:20770</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20771</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Adjustable Wrenches</CategoryName>
+     <CategoryParentID>20770</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Hand Tools:Wrenches:Adjustable Wrenches</CategoryNamePath>
+     <CategoryIDPath>11700:631:3244:20770:20771</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42258</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hex Keys and Wrenches</CategoryName>
+     <CategoryParentID>20770</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Hand Tools:Wrenches:Hex Keys and Wrenches</CategoryNamePath>
+     <CategoryIDPath>11700:631:3244:20770:42258</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20772</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pipe Wrenches</CategoryName>
+     <CategoryParentID>20770</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Hand Tools:Wrenches:Pipe Wrenches</CategoryNamePath>
+     <CategoryIDPath>11700:631:3244:20770:20772</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29527</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wrench Sets</CategoryName>
+     <CategoryParentID>20770</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Hand Tools:Wrenches:Wrench Sets</CategoryNamePath>
+     <CategoryIDPath>11700:631:3244:20770:29527</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84237</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Socket Wrenches</CategoryName>
+     <CategoryParentID>20770</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Hand Tools:Wrenches:Socket Wrenches</CategoryNamePath>
+     <CategoryIDPath>11700:631:3244:20770:84237</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42265</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Torque Wrenches</CategoryName>
+     <CategoryParentID>20770</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Hand Tools:Wrenches:Torque Wrenches</CategoryNamePath>
+     <CategoryIDPath>11700:631:3244:20770:42265</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19785</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Wrenches</CategoryName>
+     <CategoryParentID>20770</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Hand Tools:Wrenches:Other Wrenches</CategoryNamePath>
+     <CategoryIDPath>11700:631:3244:20770:19785</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

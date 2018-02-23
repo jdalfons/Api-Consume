@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:39.595Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>31772</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Sun Protection and Tanning</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning</CategoryNamePath>
+     <CategoryIDPath>26395:31772</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74996</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>After Sun Skin Care</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:After Sun Skin Care</CategoryNamePath>
+     <CategoryIDPath>26395:31772:74996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180922</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Airbrush Compressors and Guns</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Airbrush Compressors and Guns</CategoryNamePath>
+     <CategoryIDPath>26395:31772:180922</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180921</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Airbrush Tanning Kits</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Airbrush Tanning Kits</CategoryNamePath>
+     <CategoryIDPath>26395:31772:180921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180923</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Airbrush Tents</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Airbrush Tents</CategoryNamePath>
+     <CategoryIDPath>26395:31772:180923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31773</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sunless Tanning Products</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Sunless Tanning Products</CategoryNamePath>
+     <CategoryIDPath>26395:31772:31773</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31774</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sunscreen</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Sunscreen</CategoryNamePath>
+     <CategoryIDPath>26395:31772:31774</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50102</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tanning Lamps Bulbs</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Tanning Lamps Bulbs</CategoryNamePath>
+     <CategoryIDPath>26395:31772:50102</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50101</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tanning Beds and Booths</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Tanning Beds and Booths</CategoryNamePath>
+     <CategoryIDPath>26395:31772:50101</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180919</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tanning Body Stickers</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Tanning Body Stickers</CategoryNamePath>
+     <CategoryIDPath>26395:31772:180919</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180920</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tanning Disposables</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Tanning Disposables</CategoryNamePath>
+     <CategoryIDPath>26395:31772:180920</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31776</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tanning Lotion</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Tanning Lotion</CategoryNamePath>
+     <CategoryIDPath>26395:31772:31776</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29583</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Sun Protection and Tanning</CategoryName>
+     <CategoryParentID>31772</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Sun Protection and Tanning:Other Sun Protection and Tanning</CategoryNamePath>
+     <CategoryIDPath>26395:31772:29583</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:42:15.532Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11462</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Girls&apos; Clothing (Sizes 4 and Up)</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up)</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51581</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dresses</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Dresses</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:51581</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>77411</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jeans</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Jeans</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:77411</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175528</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jumpsuits and Rompers</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Jumpsuits and Rompers</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:175528</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152719</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leggings</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Leggings</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:152719</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51580</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outerwear</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Outerwear</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:51580</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156801</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outfits and Sets</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Outfits and Sets</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:156801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51568</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pants</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Pants</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:51568</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15648</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shorts</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Shorts</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:15648</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51583</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Skirts</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Skirts</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:51583</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152553</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Skorts</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Skorts</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:152553</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99735</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sleepwear</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Sleepwear</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:99735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>153797</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Socks and Tights</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Socks and Tights</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:153797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51582</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sweaters</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Sweaters</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:51582</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152554</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sweatshirts and Hoodies</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Sweatshirts and Hoodies</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:152554</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51567</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swimwear</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Swimwear</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:51567</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175529</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tops Shirts and T-Shirts</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Tops Shirts and T-Shirts</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:175529</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51586</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Underwear</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Underwear</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:51586</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28017</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Uniforms</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Uniforms</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:28017</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15652</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Items and Lots</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Mixed Items and Lots</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:15652</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51587</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Girls&apos; Clothes Sizes 4+</CategoryName>
+     <CategoryParentID>11462</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up):Other Girls&apos; Clothes Sizes 4+</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462:51587</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>21</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

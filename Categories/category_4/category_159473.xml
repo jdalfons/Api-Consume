@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:36:36.283Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>159473</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garden Clothing and Gear</CategoryName>
+     <CategoryParentID>2032</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Clothing and Gear</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:159473</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20545</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Clothing and Protective Gear</CategoryName>
+     <CategoryParentID>159473</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Clothing and Gear:Clothing and Protective Gear</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:159473:20545</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75669</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Garden Kneelers Pads and Seats</CategoryName>
+     <CategoryParentID>159473</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Clothing and Gear:Garden Kneelers Pads and Seats</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:159473:75669</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139861</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gardening Boots and Shoes</CategoryName>
+     <CategoryParentID>159473</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Clothing and Gear:Gardening Boots and Shoes</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:159473:139861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139864</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gardening Gloves</CategoryName>
+     <CategoryParentID>159473</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Clothing and Gear:Gardening Gloves</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:159473:139864</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75668</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tool Carriers Aprons and Belts</CategoryName>
+     <CategoryParentID>159473</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Clothing and Gear:Tool Carriers Aprons and Belts</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:159473:75668</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25873</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Garden Clothing and Gear</CategoryName>
+     <CategoryParentID>159473</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Clothing and Gear:Other Garden Clothing and Gear</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:159473:25873</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

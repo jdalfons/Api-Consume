@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:16.379Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35962</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cruise Ships and Ocean Liners</CategoryName>
+     <CategoryParentID>14052</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35963</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cunard</CategoryName>
+     <CategoryParentID>35962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners:Cunard</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962:35963</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35964</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Holland America</CategoryName>
+     <CategoryParentID>35962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners:Holland America</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962:35964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101179</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>PandO</CategoryName>
+     <CategoryParentID>35962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners:PandO</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962:101179</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165751</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Princess Cruise Line</CategoryName>
+     <CategoryParentID>35962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners:Princess Cruise Line</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962:165751</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165752</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Royal Caribbean</CategoryName>
+     <CategoryParentID>35962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners:Royal Caribbean</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962:165752</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165753</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>SS Normandie</CategoryName>
+     <CategoryParentID>35962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners:SS Normandie</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962:165753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165754</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>SS Norway</CategoryName>
+     <CategoryParentID>35962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners:SS Norway</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962:165754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165755</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>SS United States</CategoryName>
+     <CategoryParentID>35962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners:SS United States</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962:165755</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35965</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>White Star and Titanic</CategoryName>
+     <CategoryParentID>35962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners:White Star and Titanic</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962:35965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14053</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Cruise Ship Collectibles</CategoryName>
+     <CategoryParentID>35962</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Cruise Ships and Ocean Liners:Other Cruise Ship Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:35962:14053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

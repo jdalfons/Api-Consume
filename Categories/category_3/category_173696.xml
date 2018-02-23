@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:16:08.973Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>173696</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts Tools and Guides</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Parts Tools and Guides</CategoryNamePath>
+     <CategoryIDPath>281:14324:173696</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63200</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts</CategoryName>
+     <CategoryParentID>173696</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Parts Tools and Guides:Parts</CategoryNamePath>
+     <CategoryIDPath>281:14324:173696:63200</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117039</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tools and Repair Kits</CategoryName>
+     <CategoryParentID>173696</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Parts Tools and Guides:Tools and Repair Kits</CategoryNamePath>
+     <CategoryIDPath>281:14324:173696:117039</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165144</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Watches for Parts</CategoryName>
+     <CategoryParentID>173696</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Parts Tools and Guides:Watches for Parts</CategoryNamePath>
+     <CategoryIDPath>281:14324:173696:165144</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>93720</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals and Guides</CategoryName>
+     <CategoryParentID>173696</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Parts Tools and Guides:Manuals and Guides</CategoryNamePath>
+     <CategoryIDPath>281:14324:173696:93720</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180246</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Watch Parts and Tools</CategoryName>
+     <CategoryParentID>173696</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Parts Tools and Guides:Other Watch Parts and Tools</CategoryNamePath>
+     <CategoryIDPath>281:14324:173696:180246</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:44:25.129Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184067</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Drum Coolant and Grease Pumps</CategoryName>
+     <CategoryParentID>184062</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Drum Coolant and Grease Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184067</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184069</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Drum and Barrel Pumps</CategoryName>
+     <CategoryParentID>184067</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Drum Coolant and Grease Pumps:Drum and Barrel Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184067:184069</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184070</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coolant Pumps</CategoryName>
+     <CategoryParentID>184067</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Drum Coolant and Grease Pumps:Coolant Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184067:184070</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184071</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Grease Pumps</CategoryName>
+     <CategoryParentID>184067</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Drum Coolant and Grease Pumps:Grease Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184067:184071</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

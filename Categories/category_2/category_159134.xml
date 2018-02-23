@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:26:32.563Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>159134</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Tennis and Racquet Sports</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports</CategoryNamePath>
+     <CategoryIDPath>888:159134</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106460</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Badminton</CategoryName>
+     <CategoryParentID>159134</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Badminton</CategoryNamePath>
+     <CategoryIDPath>888:159134:106460</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62229</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>159134</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159134:62229</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62168</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Racquetball</CategoryName>
+     <CategoryParentID>159134</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Racquetball</CategoryNamePath>
+     <CategoryIDPath>888:159134:62168</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62166</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Squash</CategoryName>
+     <CategoryParentID>159134</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Squash</CategoryNamePath>
+     <CategoryIDPath>888:159134:62166</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13340</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tennis</CategoryName>
+     <CategoryParentID>159134</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Tennis</CategoryNamePath>
+     <CategoryIDPath>888:159134:13340</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159135</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Tennis and Racquet Sports</CategoryName>
+     <CategoryParentID>159134</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Other Tennis and Racquet Sports</CategoryNamePath>
+     <CategoryIDPath>888:159134:159135</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

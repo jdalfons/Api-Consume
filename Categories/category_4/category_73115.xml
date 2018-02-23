@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:45:11.846Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>73115</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Knockout and Punch Sets</CategoryName>
+     <CategoryParentID>46576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Knockout and Punch Sets</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:73115</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73116</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Punches and Dies</CategoryName>
+     <CategoryParentID>73115</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Knockout and Punch Sets:Punches and Dies</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:73115:73116</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73117</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sets - Hydraulic</CategoryName>
+     <CategoryParentID>73115</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Knockout and Punch Sets:Sets - Hydraulic</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:73115:73117</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55810</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sets - Manual</CategoryName>
+     <CategoryParentID>73115</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Knockout and Punch Sets:Sets - Manual</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:73115:55810</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73118</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Knockout and Punch Sets</CategoryName>
+     <CategoryParentID>73115</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Hand Tools:Knockout and Punch Sets:Other Knockout and Punch Sets</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46576:73115:73118</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

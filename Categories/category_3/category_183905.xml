@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:29.283Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183905</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fastener Nuts</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastener Nuts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183905</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183906</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Acorn Nuts and Cap Nuts</CategoryName>
+     <CategoryParentID>183905</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastener Nuts:Acorn Nuts and Cap Nuts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183905:183906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183907</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Castle Nuts and Slotted Nuts</CategoryName>
+     <CategoryParentID>183905</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastener Nuts:Castle Nuts and Slotted Nuts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183905:183907</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183908</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hex Nuts</CategoryName>
+     <CategoryParentID>183905</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastener Nuts:Hex Nuts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183905:183908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183909</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Keps Nuts and Washer Nuts</CategoryName>
+     <CategoryParentID>183905</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastener Nuts:Keps Nuts and Washer Nuts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183905:183909</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183910</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Square Nuts</CategoryName>
+     <CategoryParentID>183905</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastener Nuts:Square Nuts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183905:183910</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tee Nuts</CategoryName>
+     <CategoryParentID>183905</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastener Nuts:Tee Nuts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183905:183911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183912</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wing Nuts</CategoryName>
+     <CategoryParentID>183905</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastener Nuts:Wing Nuts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183905:183912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

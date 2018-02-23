@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:33:23.502Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2213</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sterling Silver (.925)</CategoryName>
+     <CategoryParentID>20096</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925)</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105908</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ash Trays</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Ash Trays</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:105908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163056</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottles Decanters and Flasks</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Bottles Decanters and Flasks</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:163056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37991</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bowls</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Bowls</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:37991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37992</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxes</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Boxes</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:37992</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brushes and Grooming Sets</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Brushes and Grooming Sets</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:105911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20103</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candlesticks and Candelabra</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Candlesticks and Candelabra</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:20103</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105899</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Cases</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Card Cases</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:105899</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105900</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cigarette and Vesta Cases</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Cigarette and Vesta Cases</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:105900</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163055</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Creamers and Sugar Bowls</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Creamers and Sugar Bowls</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:163055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37993</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cups and Goblets</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Cups and Goblets</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:37993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63620</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dishes and Coasters</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Dishes and Coasters</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:63620</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20104</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flatware and Silverware</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Flatware and Silverware</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:20104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63623</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Miniatures</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Miniatures</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:63623</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113310</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mustard Pots</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Mustard Pots</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:113310</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39440</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Napkin Rings and Clips</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Napkin Rings and Clips</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:39440</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37995</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pitchers and Jugs</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Pitchers and Jugs</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:37995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163272</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plates and Chargers</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Plates and Chargers</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:163272</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39441</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Platters and Trays</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Platters and Trays</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:39441</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39442</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Salt and Pepper Shakers</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Salt and Pepper Shakers</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:39442</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163273</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Salt Cellars</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Salt Cellars</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:163273</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105914</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sauce Boats</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Sauce Boats</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:105914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63621</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Souvenir Spoons</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Souvenir Spoons</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:63621</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63622</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sugar Bowls and Tongs</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Sugar Bowls and Tongs</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:63622</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tea/Coffee Pots and Sets</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Tea/Coffee Pots and Sets</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:37998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>107440</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thimbles</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Thimbles</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:107440</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39443</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vases and Urns</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Vases and Urns</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:39443</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>107441</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vinaigrettes</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Vinaigrettes</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:107441</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163271</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:163271</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1215</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Sterling Silver</CategoryName>
+     <CategoryParentID>2213</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Sterling Silver (.925):Other Antique Sterling Silver</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2213:1215</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>30</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

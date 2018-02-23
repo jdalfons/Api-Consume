@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:33:35.362Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>151726</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Non-U.S. Silver</CategoryName>
+     <CategoryParentID>20096</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151732</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Asia</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:Asia</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:151732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151727</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canada</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:Canada</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:151727</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151729</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>France</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:France</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:151729</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151730</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Germany</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:Germany</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:151730</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151733</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mexico</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:Mexico</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:151733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156333</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Middle East</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:Middle East</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:156333</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151736</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Russia</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:Russia</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:151736</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156334</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scandinavia</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:Scandinavia</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:156334</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151735</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spain</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:Spain</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:151735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151728</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>United Kingdom</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:United Kingdom</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:151728</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156335</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:Unknown</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:156335</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151737</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Non-U.S. Silver</CategoryName>
+     <CategoryParentID>151726</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Non-U.S. Silver:Other Antique Non-U.S. Silver</CategoryNamePath>
+     <CategoryIDPath>20081:20096:151726:151737</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:27:59.485Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104658</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists A</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85945</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aaliyah</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Aaliyah</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:85945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53238</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>ABBA</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:ABBA</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:53238</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85957</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Abdul Paula</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Abdul Paula</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:85957</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104660</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>AC/DC</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:AC/DC</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:104660</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85971</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Adams Bryan</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Adams Bryan</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:85971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86008</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Adams Ryan</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Adams Ryan</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:86008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163976</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>AFI</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:AFI</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:163976</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163977</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Against Me!</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Against Me!</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:163977</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163978</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Alkaline Trio</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Alkaline Trio</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:163978</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163979</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>All-American Rejects</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:All-American Rejects</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:163979</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104666</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aerosmith</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Aerosmith</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:104666</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53243</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aguilera Christina</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Aguilera Christina</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:53243</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85950</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aiken Clay</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Aiken Clay</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:85950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85963</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Alice in Chains</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Alice in Chains</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:85963</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108768</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Allman Brothers</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Allman Brothers</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:108768</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105052</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Amos Tori</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Amos Tori</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:105052</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104671</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Anthrax</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Anthrax</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:104671</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163971</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Arcade Fire</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Arcade Fire</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:163971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163972</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Arctic Monkeys</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Arctic Monkeys</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:163972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163973</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Audioslave</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Audioslave</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:163973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163974</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Atreyu</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Atreyu</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:163974</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163975</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Avenged Sevenfold</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Avenged Sevenfold</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:163975</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104672</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists A</CategoryName>
+     <CategoryParentID>104658</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists A:Other Rock and Pop Artists A</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104658:104672</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>24</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

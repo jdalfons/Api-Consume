@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:36.754Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>25319</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Presentation A/V and Projectors</CategoryName>
+     <CategoryParentID>25298</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Presentation A/V and Projectors</CategoryNamePath>
+     <CategoryIDPath>12576:25298:25319</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61770</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dry Erase Boards</CategoryName>
+     <CategoryParentID>25319</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Presentation A/V and Projectors:Dry Erase Boards</CategoryNamePath>
+     <CategoryIDPath>12576:25298:25319:61770</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3301</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Laser Pointers</CategoryName>
+     <CategoryParentID>25319</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Presentation A/V and Projectors:Laser Pointers</CategoryNamePath>
+     <CategoryIDPath>12576:25298:25319:3301</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25320</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Microphones and Speakers</CategoryName>
+     <CategoryParentID>25319</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Presentation A/V and Projectors:Microphones and Speakers</CategoryNamePath>
+     <CategoryIDPath>12576:25298:25319:25320</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67094</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Overhead Projectors</CategoryName>
+     <CategoryParentID>25319</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Presentation A/V and Projectors:Overhead Projectors</CategoryNamePath>
+     <CategoryIDPath>12576:25298:25319:67094</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58270</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Projector Bulbs</CategoryName>
+     <CategoryParentID>25319</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Presentation A/V and Projectors:Projector Bulbs</CategoryNamePath>
+     <CategoryIDPath>12576:25298:25319:58270</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25323</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Screens</CategoryName>
+     <CategoryParentID>25319</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Presentation A/V and Projectors:Screens</CategoryNamePath>
+     <CategoryIDPath>12576:25298:25319:25323</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159708</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Transparency Film</CategoryName>
+     <CategoryParentID>25319</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Presentation A/V and Projectors:Transparency Film</CategoryNamePath>
+     <CategoryIDPath>12576:25298:25319:159708</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3307</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Presentation Equipment</CategoryName>
+     <CategoryParentID>25319</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Presentation A/V and Projectors:Other Presentation Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:25298:25319:3307</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

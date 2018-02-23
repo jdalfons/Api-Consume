@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:10.408Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183838</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Facility Lighting</CategoryName>
+     <CategoryParentID>11897</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Facility Lighting</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183838</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66915</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lighting Ballasts and Starters</CategoryName>
+     <CategoryParentID>183838</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Facility Lighting:Lighting Ballasts and Starters</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183838:66915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65474</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bench Machine and Work Lights</CategoryName>
+     <CategoryParentID>183838</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Facility Lighting:Bench Machine and Work Lights</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183838:65474</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42883</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Light Bulbs and Lamps</CategoryName>
+     <CategoryParentID>183838</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Facility Lighting:Light Bulbs and Lamps</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183838:42883</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26219</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Industrial Lighting Fixtures</CategoryName>
+     <CategoryParentID>183838</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Facility Lighting:Industrial Lighting Fixtures</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183838:26219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42884</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Facility Lighting</CategoryName>
+     <CategoryParentID>183838</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Facility Lighting:Other Facility Lighting</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183838:42884</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

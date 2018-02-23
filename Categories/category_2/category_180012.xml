@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:54.067Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180012</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Percussion</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion</CategoryNamePath>
+     <CategoryIDPath>619:180012</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41441</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cymbals</CategoryName>
+     <CategoryParentID>180012</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Cymbals</CategoryNamePath>
+     <CategoryIDPath>619:180012:41441</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181227</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Drums</CategoryName>
+     <CategoryParentID>180012</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Drums</CategoryNamePath>
+     <CategoryIDPath>619:180012:181227</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181228</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Folk and World Drums</CategoryName>
+     <CategoryParentID>180012</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Folk and World Drums</CategoryNamePath>
+     <CategoryIDPath>619:180012:181228</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181246</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hand Percussion</CategoryName>
+     <CategoryParentID>180012</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Hand Percussion</CategoryNamePath>
+     <CategoryIDPath>619:180012:181246</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181249</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Orchestral Percussion</CategoryName>
+     <CategoryParentID>180012</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Orchestral Percussion</CategoryNamePath>
+     <CategoryIDPath>619:180012:181249</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181254</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>180012</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>619:180012:181254</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>622</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Percussion</CategoryName>
+     <CategoryParentID>180012</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Other Percussion</CategoryNamePath>
+     <CategoryIDPath>619:180012:622</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

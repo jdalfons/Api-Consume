@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:28:58.845Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19071</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Electronic Battery and Wind-Up</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up</CategoryNamePath>
+     <CategoryIDPath>220:19071</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19072</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Battery Operated</CategoryName>
+     <CategoryParentID>19071</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Battery Operated</CategoryNamePath>
+     <CategoryIDPath>220:19071:19072</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1082</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electronic and Interactive</CategoryName>
+     <CategoryParentID>19071</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19073</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Friction</CategoryName>
+     <CategoryParentID>19071</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Friction</CategoryNamePath>
+     <CategoryIDPath>220:19071:19073</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19075</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wind-Up Walking Toys</CategoryName>
+     <CategoryParentID>19071</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Wind-Up Walking Toys</CategoryNamePath>
+     <CategoryIDPath>220:19071:19075</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

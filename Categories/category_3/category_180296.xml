@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:31:06.938Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180296</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rare Scales</CategoryName>
+     <CategoryParentID>180250</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Rare Scales</CategoryNamePath>
+     <CategoryIDPath>220:180250:180296</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180301</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Freight Cars</CategoryName>
+     <CategoryParentID>180296</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Rare Scales:Freight Cars</CategoryNamePath>
+     <CategoryIDPath>220:180250:180296:180301</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180298</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Locomotives</CategoryName>
+     <CategoryParentID>180296</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Rare Scales:Locomotives</CategoryNamePath>
+     <CategoryIDPath>220:180250:180296:180298</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180297</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Passenger Cars</CategoryName>
+     <CategoryParentID>180296</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Rare Scales:Passenger Cars</CategoryNamePath>
+     <CategoryIDPath>220:180250:180296:180297</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180299</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Track</CategoryName>
+     <CategoryParentID>180296</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Rare Scales:Track</CategoryNamePath>
+     <CategoryIDPath>220:180250:180296:180299</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180300</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Starter Sets and Packs</CategoryName>
+     <CategoryParentID>180296</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Rare Scales:Starter Sets and Packs</CategoryNamePath>
+     <CategoryIDPath>220:180250:180296:180300</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180302</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>180296</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Rare Scales:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>220:180250:180296:180302</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180313</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Rare Scale</CategoryName>
+     <CategoryParentID>180296</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Rare Scales:Other Rare Scale</CategoryNamePath>
+     <CategoryIDPath>220:180250:180296:180313</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

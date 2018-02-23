@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:56.002Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181814</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Circuit Breakers and Fuses</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181815</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Circuit Breakers</CategoryName>
+     <CategoryParentID>181814</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Circuit Breakers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181815</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181823</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fuses</CategoryName>
+     <CategoryParentID>181814</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181832</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fuse Accessories</CategoryName>
+     <CategoryParentID>181814</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuse Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181832</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

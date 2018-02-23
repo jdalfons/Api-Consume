@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:42:16.049Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183923</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Staple Gun Staples</CategoryName>
+     <CategoryParentID>183920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Nails and Staples:Staple Gun Staples</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183920:183923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:17:49.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3913</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Cultures and Ethnicities</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities</CategoryNamePath>
+     <CategoryIDPath>1:3913</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149360</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>African</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:African</CategoryNamePath>
+     <CategoryIDPath>1:3913:149360</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149362</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Asian</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Asian</CategoryNamePath>
+     <CategoryIDPath>1:3913:149362</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4002</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Australian</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Australian</CategoryNamePath>
+     <CategoryIDPath>1:3913:4002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29457</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Black Americana</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4000</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>British</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:British</CategoryNamePath>
+     <CategoryIDPath>1:3913:4000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179530</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Canada: Aboriginal</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Canada: Aboriginal</CategoryNamePath>
+     <CategoryIDPath>1:3913:179530</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13739</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Celtic</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Celtic</CategoryNamePath>
+     <CategoryIDPath>1:3913:13739</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10911</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Egyptian</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Egyptian</CategoryNamePath>
+     <CategoryIDPath>1:3913:10911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165476</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ethnic Americana</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Ethnic Americana</CategoryNamePath>
+     <CategoryIDPath>1:3913:165476</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4001</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>European</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:European</CategoryNamePath>
+     <CategoryIDPath>1:3913:4001</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2000</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hawaiian</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13740</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Latin American</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165484</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Middle Eastern</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Middle Eastern</CategoryNamePath>
+     <CategoryIDPath>1:3913:165484</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>713</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Native American: US</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Native American: US</CategoryNamePath>
+     <CategoryIDPath>1:3913:713</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13765</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pacific Islands</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Pacific Islands</CategoryNamePath>
+     <CategoryIDPath>1:3913:13765</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4006</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Russian</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Russian</CategoryNamePath>
+     <CategoryIDPath>1:3913:4006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4007</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Western Americana</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171189</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:3913:171189</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>128</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Cultural Collectibles</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Other Cultural Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:3913:128</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

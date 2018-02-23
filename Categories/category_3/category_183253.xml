@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:04:04.488Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183253</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Closures and Connectors</CategoryName>
+     <CategoryParentID>160737</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183254</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Buckles and Straps</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Buckles and Straps</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183254</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7320</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Buttons</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Buttons</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:7320</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183255</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Button Covering Machines</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Button Covering Machines</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183255</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183256</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Eyelets</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Eyelets</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183256</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183257</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Frogs</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Frogs</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183257</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183258</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Grommets</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Grommets</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183258</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180927</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hook and Loop Tape</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Hook and Loop Tape</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:180927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183259</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hooks and Eyes</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Hooks and Eyes</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183259</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183260</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lock Ends/Cord Stoppers</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Lock Ends/Cord Stoppers</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183261</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rings</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Rings</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183261</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183262</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Snaps</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Snaps</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183262</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183263</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Suspender/Pacifier Clips</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Suspender/Pacifier Clips</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183263</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183264</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Toggles</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Toggles</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:183264</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28173</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Zippers</CategoryName>
+     <CategoryParentID>183253</CategoryParentID>
+     <CategoryNamePath>Crafts:Sewing:Closures and Connectors:Zippers</CategoryNamePath>
+     <CategoryIDPath>14339:160737:183253:28173</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

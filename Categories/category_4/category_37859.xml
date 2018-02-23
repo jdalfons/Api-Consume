@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:59:15.798Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>37859</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Posters Prints and Paintings</CategoryName>
+     <CategoryParentID>10818</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Cats:Posters Prints and Paintings</CategoryNamePath>
+     <CategoryIDPath>1:1335:10818:37859</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

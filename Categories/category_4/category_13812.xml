@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:05:52.692Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13812</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lenox</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86902</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Candle Holders Votives</CategoryName>
+     <CategoryParentID>13812</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox:Candle Holders Votives</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812:86902</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13813</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Collector Plates</CategoryName>
+     <CategoryParentID>13812</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox:Collector Plates</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812:13813</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103942</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Decorative Bowls</CategoryName>
+     <CategoryParentID>13812</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox:Decorative Bowls</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812:103942</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13814</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>13812</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox:Figurines</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812:13814</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86903</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>13812</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox:Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812:86903</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86904</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Picture Frames</CategoryName>
+     <CategoryParentID>13812</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox:Picture Frames</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812:86904</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86905</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Salt and Pepper Shakers</CategoryName>
+     <CategoryParentID>13812</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox:Salt and Pepper Shakers</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812:86905</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86906</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Trinkets Hinged Boxes</CategoryName>
+     <CategoryParentID>13812</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox:Trinkets Hinged Boxes</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812:86906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86907</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vases</CategoryName>
+     <CategoryParentID>13812</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox:Vases</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812:86907</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13810</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Lenox</CategoryName>
+     <CategoryParentID>13812</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox:Other Lenox</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812:13810</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

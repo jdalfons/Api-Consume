@@ -43,8 +43,8 @@ header2 = """ this is the test of categories From EBAY</center></h1>
                     <table class="table table-striped">
                       <thead>
                         <tr>
-                          <th>Category ID</th>
                           <th>Level</th>
+                          <th>Category ID</th>
                           <th>Name</th>
                           <th>Parent ID</th>
                         </tr>
@@ -74,7 +74,7 @@ header4 = """<table class="table table-striped">
                       </thead>
                       <tbody>"""
 
-footer = """</table>
+footer = """</tr></table>
                   </div>
                   <!--....-->
                   <div id="interests" class="detail">

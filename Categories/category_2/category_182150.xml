@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:50.363Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182150</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Instruction Books CDs and Video</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video</CategoryNamePath>
+     <CategoryIDPath>619:182150</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41778</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Brass</CategoryName>
+     <CategoryParentID>182150</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video:Brass</CategoryNamePath>
+     <CategoryIDPath>619:182150:41778</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41779</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Guitar</CategoryName>
+     <CategoryParentID>182150</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video:Guitar</CategoryNamePath>
+     <CategoryIDPath>619:182150:41779</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38101</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Keyboard and Piano</CategoryName>
+     <CategoryParentID>182150</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video:Keyboard and Piano</CategoryNamePath>
+     <CategoryIDPath>619:182150:38101</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117051</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Music Theory and Ear Training</CategoryName>
+     <CategoryParentID>182150</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video:Music Theory and Ear Training</CategoryNamePath>
+     <CategoryIDPath>619:182150:117051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41782</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Percussion</CategoryName>
+     <CategoryParentID>182150</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video:Percussion</CategoryNamePath>
+     <CategoryIDPath>619:182150:41782</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38102</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Strings</CategoryName>
+     <CategoryParentID>182150</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video:Strings</CategoryNamePath>
+     <CategoryIDPath>619:182150:38102</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159982</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Voice</CategoryName>
+     <CategoryParentID>182150</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video:Voice</CategoryNamePath>
+     <CategoryIDPath>619:182150:159982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41788</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wind and Woodwinds</CategoryName>
+     <CategoryParentID>182150</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video:Wind and Woodwinds</CategoryNamePath>
+     <CategoryIDPath>619:182150:41788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23308</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Music Instruction</CategoryName>
+     <CategoryParentID>182150</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Instruction Books CDs and Video:Other Music Instruction</CategoryNamePath>
+     <CategoryIDPath>619:182150:23308</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

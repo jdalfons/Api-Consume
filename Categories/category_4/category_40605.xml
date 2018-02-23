@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:37:32.692Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>40605</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seeds and Bulbs</CategoryName>
+     <CategoryParentID>181003</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20531</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Annual and Biennial Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Annual and Biennial Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:20531</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183390</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bamboo Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Bamboo Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:183390</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20525</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bonsai Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Bonsai Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:20525</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122891</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bulbs Roots and Rhizomes</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Bulbs Roots and Rhizomes</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:122891</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20533</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bush and Shrub Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Bush and Shrub Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:20533</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115100</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cacti and Succulent Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Cacti and Succulent Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:115100</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119636</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Carnivorous Plant Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Carnivorous Plant Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:119636</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181117</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fern Spores</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Fern Spores</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:181117</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>120967</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fruit Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Fruit Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:120967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42215</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Herb Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Herb Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:42215</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40606</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Houseplant Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Houseplant Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:40606</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19618</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lawn Grass Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Lawn Grass Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:19618</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181112</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Orchid Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Orchid Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:181112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181113</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornamental Grass Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Ornamental Grass Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:181113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181114</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Perennial Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Perennial Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:181114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181115</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rose Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Rose Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:181115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181116</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tree Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Tree Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:181116</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42221</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vegetable Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Vegetable Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:42221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57224</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vine Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Vine Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:57224</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181118</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Water Plant Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Water Plant Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:181118</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181119</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bulk Seeds</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Bulk Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:181119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>8439</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Seeds and Bulbs</CategoryName>
+     <CategoryParentID>40605</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs:Other Seeds and Bulbs</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605:8439</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>23</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

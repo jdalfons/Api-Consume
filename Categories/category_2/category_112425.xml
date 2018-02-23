@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:58.738Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>112425</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Dancewear</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear</CategoryNamePath>
+     <CategoryIDPath>11450:112425</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175638</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Adult Dancewear</CategoryName>
+     <CategoryParentID>112425</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Adult Dancewear</CategoryNamePath>
+     <CategoryIDPath>11450:112425:175638</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172007</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby and Toddler Dancewear</CategoryName>
+     <CategoryParentID>112425</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Baby and Toddler Dancewear</CategoryNamePath>
+     <CategoryIDPath>11450:112425:172007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152345</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kids&apos; Dancewear</CategoryName>
+     <CategoryParentID>112425</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Kids&apos; Dancewear</CategoryNamePath>
+     <CategoryIDPath>11450:112425:152345</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175639</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dance Shoes</CategoryName>
+     <CategoryParentID>112425</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Dance Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:112425:175639</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

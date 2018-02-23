@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:01:59.330Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>106898</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>InuYasha</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:InuYasha</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106898</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106899</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Books Manga Doujinshi</CategoryName>
+     <CategoryParentID>106898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:InuYasha:Books Manga Doujinshi</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106898:106899</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106900</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>CDs Soundtracks</CategoryName>
+     <CategoryParentID>106898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:InuYasha:CDs Soundtracks</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106898:106900</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106901</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Figures Plush</CategoryName>
+     <CategoryParentID>106898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:InuYasha:Figures Plush</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106898:106901</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106902</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Posters Wall Scrolls</CategoryName>
+     <CategoryParentID>106898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:InuYasha:Posters Wall Scrolls</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106898:106902</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39557</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other InuYasha</CategoryName>
+     <CategoryParentID>106898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:InuYasha:Other InuYasha</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:106898:39557</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

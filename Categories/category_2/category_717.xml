@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:29:50.329Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>717</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vintage and Antique Toys</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys</CategoryNamePath>
+     <CategoryIDPath>220:717</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2660</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cap Guns</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Cap Guns</CategoryNamePath>
+     <CategoryIDPath>220:717:2660</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165968</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Card Games</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Card Games</CategoryNamePath>
+     <CategoryIDPath>220:717:165968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>721</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cast Iron</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Cast Iron</CategoryNamePath>
+     <CategoryIDPath>220:717:721</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>722</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Celluloid</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Celluloid</CategoryNamePath>
+     <CategoryIDPath>220:717:722</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>723</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Character</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Character</CategoryNamePath>
+     <CategoryIDPath>220:717:723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19252</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cowboy Western</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Cowboy Western</CategoryNamePath>
+     <CategoryIDPath>220:717:19252</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166801</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kitchen Sets</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Kitchen Sets</CategoryNamePath>
+     <CategoryIDPath>220:717:166801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152938</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lead Toys and Figures</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Lead Toys and Figures</CategoryNamePath>
+     <CategoryIDPath>220:717:152938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>725</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Paper Toys</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Paper Toys</CategoryNamePath>
+     <CategoryIDPath>220:717:725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>727</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Play Sets</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Play Sets</CategoryNamePath>
+     <CategoryIDPath>220:717:727</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>728</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pull Toys</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Pull Toys</CategoryNamePath>
+     <CategoryIDPath>220:717:728</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158798</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spinning Tops</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Spinning Tops</CategoryNamePath>
+     <CategoryIDPath>220:717:158798</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166802</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tea Sets</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Tea Sets</CategoryNamePath>
+     <CategoryIDPath>220:717:166802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>735</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tin</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Tin</CategoryNamePath>
+     <CategoryIDPath>220:717:735</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1198</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Toy Parts</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Toy Parts</CategoryNamePath>
+     <CategoryIDPath>220:717:1198</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74986</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wind-up Toys</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Wind-up Toys</CategoryNamePath>
+     <CategoryIDPath>220:717:74986</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168250</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Reproductions</CategoryNamePath>
+     <CategoryIDPath>220:717:168250</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Vintage and Antique Toys</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Other Vintage and Antique Toys</CategoryNamePath>
+     <CategoryIDPath>220:717:30</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>19</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

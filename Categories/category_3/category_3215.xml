@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:56:39.098Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3215</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fossils</CategoryName>
+     <CategoryParentID>3213</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165705</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Arthropods</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Arthropods</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165705</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165709</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brachiopods</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Brachiopods</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165709</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165715</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coral</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Coral</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165715</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165716</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Echinoderms</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Echinoderms</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165716</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165710</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mollusks</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Mollusks</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165710</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165719</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vegetation</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Vegetation</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165719</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165722</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vertebrates</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Vertebrates</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165722</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165725</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Unknown</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165726</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tools and Supplies</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Tools and Supplies</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:165726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155295</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Reproductions</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:155295</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3214</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Fossils</CategoryName>
+     <CategoryParentID>3215</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Fossils:Other Collectible Fossils</CategoryNamePath>
+     <CategoryIDPath>1:3213:3215:3214</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

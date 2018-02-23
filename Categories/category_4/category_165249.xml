@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:57:51.579Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165249</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Merchandise and Memorabilia</CategoryName>
+     <CategoryParentID>39</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Gas and Oil:Merchandise and Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:34:39:165249</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35680</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Advertising-Print</CategoryName>
+     <CategoryParentID>165249</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Gas and Oil:Merchandise and Memorabilia:Advertising-Print</CategoryNamePath>
+     <CategoryIDPath>1:34:39:165249:35680</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35681</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Banks</CategoryName>
+     <CategoryParentID>165249</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Gas and Oil:Merchandise and Memorabilia:Banks</CategoryNamePath>
+     <CategoryIDPath>1:34:39:165249:35681</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35682</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cans and Buckets</CategoryName>
+     <CategoryParentID>165249</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Gas and Oil:Merchandise and Memorabilia:Cans and Buckets</CategoryNamePath>
+     <CategoryIDPath>1:34:39:165249:35682</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50711</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Patches</CategoryName>
+     <CategoryParentID>165249</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Gas and Oil:Merchandise and Memorabilia:Patches</CategoryNamePath>
+     <CategoryIDPath>1:34:39:165249:50711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35684</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signs</CategoryName>
+     <CategoryParentID>165249</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Gas and Oil:Merchandise and Memorabilia:Signs</CategoryNamePath>
+     <CategoryIDPath>1:34:39:165249:35684</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156205</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stickers and Decals</CategoryName>
+     <CategoryParentID>165249</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Gas and Oil:Merchandise and Memorabilia:Stickers and Decals</CategoryNamePath>
+     <CategoryIDPath>1:34:39:165249:156205</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35683</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Trucks and Cars</CategoryName>
+     <CategoryParentID>165249</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Gas and Oil:Merchandise and Memorabilia:Trucks and Cars</CategoryNamePath>
+     <CategoryIDPath>1:34:39:165249:35683</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165250</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Gas and Oil Memorabilia</CategoryName>
+     <CategoryParentID>165249</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Gas and Oil:Merchandise and Memorabilia:Other Gas and Oil Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:34:39:165249:165250</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

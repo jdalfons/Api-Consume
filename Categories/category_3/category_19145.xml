@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:58.424Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19145</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>O Scale</CategoryName>
+     <CategoryParentID>180250</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:O Scale</CategoryNamePath>
+     <CategoryIDPath>220:180250:19145</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122596</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Freight Cars</CategoryName>
+     <CategoryParentID>19145</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:O Scale:Freight Cars</CategoryNamePath>
+     <CategoryIDPath>220:180250:19145:122596</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122591</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Locomotives</CategoryName>
+     <CategoryParentID>19145</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:O Scale:Locomotives</CategoryNamePath>
+     <CategoryIDPath>220:180250:19145:122591</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122586</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Passenger Cars</CategoryName>
+     <CategoryParentID>19145</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:O Scale:Passenger Cars</CategoryNamePath>
+     <CategoryIDPath>220:180250:19145:122586</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47437</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Track</CategoryName>
+     <CategoryParentID>19145</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:O Scale:Track</CategoryNamePath>
+     <CategoryIDPath>220:180250:19145:47437</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81042</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Starter Sets and Packs</CategoryName>
+     <CategoryParentID>19145</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:O Scale:Starter Sets and Packs</CategoryNamePath>
+     <CategoryIDPath>220:180250:19145:81042</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81043</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>19145</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:O Scale:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>220:180250:19145:81043</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>485</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other O Scale</CategoryName>
+     <CategoryParentID>19145</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:O Scale:Other O Scale</CategoryNamePath>
+     <CategoryIDPath>220:180250:19145:485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

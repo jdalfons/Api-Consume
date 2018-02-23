@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:27:10.454Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>60327</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>2000-Now</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:2000-Now</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60327</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60328</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Black and White</CategoryName>
+     <CategoryParentID>60327</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:2000-Now:Black and White</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60327:60328</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60329</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Color</CategoryName>
+     <CategoryParentID>60327</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:2000-Now:Color</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60327:60329</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

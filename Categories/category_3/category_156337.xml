@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:55:51.629Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156337</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Roadside America</CategoryName>
+     <CategoryParentID>914</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Roadside America</CategoryNamePath>
+     <CategoryIDPath>1:914:156337</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156338</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gas Stations</CategoryName>
+     <CategoryParentID>156337</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Roadside America:Gas Stations</CategoryNamePath>
+     <CategoryIDPath>1:914:156337:156338</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hotels Motels and Hostels</CategoryName>
+     <CategoryParentID>156337</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Roadside America:Hotels Motels and Hostels</CategoryNamePath>
+     <CategoryIDPath>1:914:156337:13997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156339</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Restaurants and Diners</CategoryName>
+     <CategoryParentID>156337</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Roadside America:Restaurants and Diners</CategoryNamePath>
+     <CategoryIDPath>1:914:156337:156339</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165514</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Roads and Highways</CategoryName>
+     <CategoryParentID>156337</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Roadside America:Roads and Highways</CategoryNamePath>
+     <CategoryIDPath>1:914:156337:165514</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165515</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Roadside Attractions</CategoryName>
+     <CategoryParentID>156337</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Roadside America:Roadside Attractions</CategoryNamePath>
+     <CategoryIDPath>1:914:156337:165515</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156340</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other US Roadside Postcards</CategoryName>
+     <CategoryParentID>156337</CategoryParentID>
+     <CategoryNamePath>Collectibles:Postcards:Roadside America:Other US Roadside Postcards</CategoryNamePath>
+     <CategoryIDPath>1:914:156337:156340</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

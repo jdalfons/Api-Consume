@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:06:59.660Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>90733</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Merchandise and Promotional</CategoryName>
+     <CategoryParentID>1424</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60376</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Apparel</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Apparel</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:60376</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Badges Pins and Buttons</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Badges Pins and Buttons</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:32997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90734</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bags and Backpacks</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Bags and Backpacks</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:90734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168125</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books Comics and Magazines</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Books Comics and Magazines</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:168125</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61082</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Calendars</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Calendars</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:61082</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61083</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figures and Dolls</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Figures and Dolls</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:61083</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61084</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fridge Magnets</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Fridge Magnets</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:61084</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164108</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Jewelry</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:164108</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82285</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Keyrings</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Keyrings</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:82285</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164109</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>License Plates and Signs</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:License Plates and Signs</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:164109</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164110</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mouse Pads Mats</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Mouse Pads Mats</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:164110</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61085</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mugs and Coasters</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Mugs and Coasters</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:61085</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164111</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Patches</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Patches</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:164111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164112</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plates</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Plates</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:164112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82286</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Postcards and Collector Cards</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Postcards and Collector Cards</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:82286</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164113</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stickers and Decals</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Stickers and Decals</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:164113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168124</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Watches and Clocks</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Watches and Clocks</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:168124</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98830</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other TV Show Merchandise</CategoryName>
+     <CategoryParentID>90733</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Merchandise and Promotional:Other TV Show Merchandise</CategoryNamePath>
+     <CategoryIDPath>45100:1424:90733:98830</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>19</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

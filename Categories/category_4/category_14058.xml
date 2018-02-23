@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:25.110Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>14058</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>American</CategoryName>
+     <CategoryParentID>10958</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:American</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:14058</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35966</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Harley-Davidson</CategoryName>
+     <CategoryParentID>14058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:American:Harley-Davidson</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:14058:35966</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10962</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Indian</CategoryName>
+     <CategoryParentID>14058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:American:Indian</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:14058:10962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95162</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Orange County Choppers</CategoryName>
+     <CategoryParentID>14058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:American:Orange County Choppers</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:14058:95162</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14059</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other US Motorcycle Items</CategoryName>
+     <CategoryParentID>14058</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:American:Other US Motorcycle Items</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:14058:14059</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

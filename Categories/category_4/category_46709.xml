@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:49:26.362Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>46709</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pole Displays</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Pole Displays</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:46709</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

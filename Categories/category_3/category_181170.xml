@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:18:04.535Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181170</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Percussion</CategoryName>
+     <CategoryParentID>181162</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Percussion</CategoryNamePath>
+     <CategoryIDPath>619:181162:181170</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181171</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cymbals</CategoryName>
+     <CategoryParentID>181170</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Percussion:Cymbals</CategoryNamePath>
+     <CategoryIDPath>619:181162:181170:181171</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181172</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Drums</CategoryName>
+     <CategoryParentID>181170</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Percussion:Drums</CategoryNamePath>
+     <CategoryIDPath>619:181162:181170:181172</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181179</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Folk and World Drums</CategoryName>
+     <CategoryParentID>181170</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Percussion:Folk and World Drums</CategoryNamePath>
+     <CategoryIDPath>619:181162:181170:181179</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181180</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Percussion</CategoryName>
+     <CategoryParentID>181170</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Percussion:Hand Percussion</CategoryNamePath>
+     <CategoryIDPath>619:181162:181170:181180</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181187</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Orchestral Percussion</CategoryName>
+     <CategoryParentID>181170</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Percussion:Orchestral Percussion</CategoryNamePath>
+     <CategoryIDPath>619:181162:181170:181187</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182214</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>181170</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Percussion:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>619:181162:181170:182214</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181192</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Percussion</CategoryName>
+     <CategoryParentID>181170</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Percussion:Other Vintage Percussion</CategoryNamePath>
+     <CategoryIDPath>619:181162:181170:181192</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

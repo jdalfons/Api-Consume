@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:02:11.848Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>39566</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sanrio Hello Kitty</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39567</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Badtz Maru</CategoryName>
+     <CategoryParentID>39566</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty:Badtz Maru</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566:39567</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106920</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Chococat</CategoryName>
+     <CategoryParentID>39566</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty:Chococat</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566:106920</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106921</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cinnamoroll</CategoryName>
+     <CategoryParentID>39566</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty:Cinnamoroll</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566:106921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88931</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hello Kitty</CategoryName>
+     <CategoryParentID>39566</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty:Hello Kitty</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566:88931</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39569</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Keroppi</CategoryName>
+     <CategoryParentID>39566</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty:Keroppi</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566:39569</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39570</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Little Twin Stars</CategoryName>
+     <CategoryParentID>39566</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty:Little Twin Stars</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566:39570</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39571</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>My Melody</CategoryName>
+     <CategoryParentID>39566</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty:My Melody</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566:39571</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39572</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pochacco</CategoryName>
+     <CategoryParentID>39566</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty:Pochacco</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566:39572</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11120</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Sanrio</CategoryName>
+     <CategoryParentID>39566</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sanrio Hello Kitty:Other Sanrio</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39566:11120</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

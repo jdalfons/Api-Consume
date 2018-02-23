@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:17:27.488Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104042</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plumbing Steam Fitting</CategoryName>
+     <CategoryParentID>4121</CategoryParentID>
+     <CategoryNamePath>Collectibles:Tools Hardware and Locks:Tools:Plumbing Steam Fitting</CategoryNamePath>
+     <CategoryIDPath>1:13849:4121:104042</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:07:59.942Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>75042</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Smoking Cessation</CategoryName>
+     <CategoryParentID>67588</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Smoking Cessation</CategoryNamePath>
+     <CategoryIDPath>26395:67588:75042</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75043</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Alternative Therapies</CategoryName>
+     <CategoryParentID>75042</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Smoking Cessation:Alternative Therapies</CategoryNamePath>
+     <CategoryIDPath>26395:67588:75042:75043</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75044</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gum and Lozenges</CategoryName>
+     <CategoryParentID>75042</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Smoking Cessation:Gum and Lozenges</CategoryNamePath>
+     <CategoryIDPath>26395:67588:75042:75044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75046</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Patches</CategoryName>
+     <CategoryParentID>75042</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Smoking Cessation:Patches</CategoryNamePath>
+     <CategoryIDPath>26395:67588:75042:75046</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75047</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Smoking Cessation</CategoryName>
+     <CategoryParentID>75042</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Smoking Cessation:Other Smoking Cessation</CategoryNamePath>
+     <CategoryIDPath>26395:67588:75042:75047</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

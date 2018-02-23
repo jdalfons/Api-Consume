@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:29:56.971Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183460</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>CCG Supplies and Accessories</CategoryName>
+     <CategoryParentID>2536</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:CCG Supplies and Accessories</CategoryNamePath>
+     <CategoryIDPath>220:2536:183460</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183461</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>CCG Card Sleeves</CategoryName>
+     <CategoryParentID>183460</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:CCG Supplies and Accessories:CCG Card Sleeves</CategoryNamePath>
+     <CategoryIDPath>220:2536:183460:183461</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183462</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>CCG Deck Boxes</CategoryName>
+     <CategoryParentID>183460</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:CCG Supplies and Accessories:CCG Deck Boxes</CategoryNamePath>
+     <CategoryIDPath>220:2536:183460:183462</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183463</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>CCG Dice and Counters</CategoryName>
+     <CategoryParentID>183460</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:CCG Supplies and Accessories:CCG Dice and Counters</CategoryNamePath>
+     <CategoryIDPath>220:2536:183460:183463</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183464</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>CCG Playmats</CategoryName>
+     <CategoryParentID>183460</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:CCG Supplies and Accessories:CCG Playmats</CategoryNamePath>
+     <CategoryIDPath>220:2536:183460:183464</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183465</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>CCG Albums and Pages</CategoryName>
+     <CategoryParentID>183460</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:CCG Supplies and Accessories:CCG Albums and Pages</CategoryNamePath>
+     <CategoryIDPath>220:2536:183460:183465</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

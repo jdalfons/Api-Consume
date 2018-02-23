@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:44:21.504Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184060</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flow Controllers and Meters</CategoryName>
+     <CategoryParentID>184055</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pump and Flow Controllers:Flow Controllers and Meters</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184055:184060</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184061</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mass Flow Controllers</CategoryName>
+     <CategoryParentID>184060</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pump and Flow Controllers:Flow Controllers and Meters:Mass Flow Controllers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184055:184060:184061</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67070</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flow Meters</CategoryName>
+     <CategoryParentID>184060</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pump and Flow Controllers:Flow Controllers and Meters:Flow Meters</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184055:184060:67070</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65457</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flow Sensors</CategoryName>
+     <CategoryParentID>184060</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pump and Flow Controllers:Flow Controllers and Meters:Flow Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184055:184060:65457</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

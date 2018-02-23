@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:34.018Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>21194</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Basketball</CategoryName>
+     <CategoryParentID>159049</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Basketball</CategoryNamePath>
+     <CategoryIDPath>888:159049:21194</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158963</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>21194</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Basketball:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159049:21194:158963</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21196</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Backboard Systems</CategoryName>
+     <CategoryParentID>21194</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Basketball:Backboard Systems</CategoryNamePath>
+     <CategoryIDPath>888:159049:21194:21196</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21208</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Balls</CategoryName>
+     <CategoryParentID>21194</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Basketball:Balls</CategoryNamePath>
+     <CategoryIDPath>888:159049:21194:21208</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158962</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rims and Nets</CategoryName>
+     <CategoryParentID>21194</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Basketball:Rims and Nets</CategoryNamePath>
+     <CategoryIDPath>888:159049:21194:158962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64642</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Training Aids</CategoryName>
+     <CategoryParentID>21194</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Basketball:Training Aids</CategoryNamePath>
+     <CategoryIDPath>888:159049:21194:64642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2023</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Basketball</CategoryName>
+     <CategoryParentID>21194</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Basketball:Other Basketball</CategoryNamePath>
+     <CategoryIDPath>888:159049:21194:2023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

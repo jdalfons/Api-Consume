@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:13.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184165</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Conveyors and Conveyor Parts</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Conveyors and Conveyor Parts</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184165</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184166</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Conveyor Systems</CategoryName>
+     <CategoryParentID>184165</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Conveyors and Conveyor Parts:Conveyor Systems</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184165:184166</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184170</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Conveyor Parts and Accessories</CategoryName>
+     <CategoryParentID>184165</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Conveyors and Conveyor Parts:Conveyor Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184165:184170</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

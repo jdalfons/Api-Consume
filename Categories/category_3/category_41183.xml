@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:56.751Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>41183</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Calendars</CategoryName>
+     <CategoryParentID>124</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Calendars</CategoryNamePath>
+     <CategoryIDPath>1:124:41183</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41184</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1940</CategoryName>
+     <CategoryParentID>41183</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Calendars:Pre-1940</CategoryNamePath>
+     <CategoryIDPath>1:124:41183:41184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41190</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1940-59</CategoryName>
+     <CategoryParentID>41183</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Calendars:1940-59</CategoryNamePath>
+     <CategoryIDPath>1:124:41183:41190</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>556</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1960-79</CategoryName>
+     <CategoryParentID>41183</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Calendars:1960-79</CategoryNamePath>
+     <CategoryIDPath>1:124:41183:556</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156485</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1980-Last Year</CategoryName>
+     <CategoryParentID>41183</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Calendars:1980-Last Year</CategoryNamePath>
+     <CategoryIDPath>1:124:41183:156485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156486</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Current Year Next Year</CategoryName>
+     <CategoryParentID>41183</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Calendars:Current Year Next Year</CategoryNamePath>
+     <CategoryIDPath>1:124:41183:156486</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156487</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Perpetual Calendars</CategoryName>
+     <CategoryParentID>41183</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Calendars:Perpetual Calendars</CategoryNamePath>
+     <CategoryIDPath>1:124:41183:156487</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41394</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unspecified Unknown Date</CategoryName>
+     <CategoryParentID>41183</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Calendars:Unspecified Unknown Date</CategoryNamePath>
+     <CategoryIDPath>1:124:41183:41394</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

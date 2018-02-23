@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:07:03.035Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>95118</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Housewares</CategoryName>
+     <CategoryParentID>1369</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95120</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bath Beach Towels</CategoryName>
+     <CategoryParentID>95118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares:Bath Beach Towels</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118:95120</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95121</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bedding</CategoryName>
+     <CategoryParentID>95118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares:Bedding</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118:95121</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95122</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Candles Candle Holders</CategoryName>
+     <CategoryParentID>95118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares:Candles Candle Holders</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118:95122</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95123</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cookie Jars</CategoryName>
+     <CategoryParentID>95118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares:Cookie Jars</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118:95123</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95124</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dinnerware</CategoryName>
+     <CategoryParentID>95118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares:Dinnerware</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118:95124</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95125</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lamps</CategoryName>
+     <CategoryParentID>95118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares:Lamps</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118:95125</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95126</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Night Lights</CategoryName>
+     <CategoryParentID>95118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares:Night Lights</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118:95126</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88893</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pillows Cushions</CategoryName>
+     <CategoryParentID>95118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares:Pillows Cushions</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118:88893</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95119</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Salt and Pepper Shakers</CategoryName>
+     <CategoryParentID>95118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares:Salt and Pepper Shakers</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118:95119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1377</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Contemp Disney Houseware</CategoryName>
+     <CategoryParentID>95118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Disneyana:Contemporary (1968-Now):Housewares:Other Contemp Disney Houseware</CategoryNamePath>
+     <CategoryIDPath>1:137:1369:95118:1377</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

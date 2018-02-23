@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:02:43.783Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13917</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproduction</CategoryName>
+     <CategoryParentID>39491</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Reproduction</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13917</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165334</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Clevenger</CategoryName>
+     <CategoryParentID>13917</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Reproduction:Clevenger</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13917:165334</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13918</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wheaton</CategoryName>
+     <CategoryParentID>13917</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Reproduction:Wheaton</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13917:13918</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10907</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Reproduction Bottles</CategoryName>
+     <CategoryParentID>13917</CategoryParentID>
+     <CategoryNamePath>Collectibles:Bottles and Insulators:Bottles:Reproduction:Other Reproduction Bottles</CategoryNamePath>
+     <CategoryIDPath>1:29797:39491:13917:10907</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

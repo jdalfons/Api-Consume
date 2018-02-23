@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:06:24.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>18823</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>196</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60310</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1940</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:Pre-1940</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60310</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60312</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1940-49</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:1940-49</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60312</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60314</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1950-59</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:1950-59</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60314</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60317</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1960-69</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:1960-69</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60317</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60320</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1970-79</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:1970-79</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60320</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60322</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1980-89</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:1980-89</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60322</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60325</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1990-99</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:1990-99</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60325</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60327</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>2000-Now</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:2000-Now</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60327</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163881</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Current Releases</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:Current Releases</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:163881</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67903</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Collections and Bulk Lots</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:Collections and Bulk Lots</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:67903</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

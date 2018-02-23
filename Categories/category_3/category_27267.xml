@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:40.127Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>27267</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Basketball-NBA</CategoryName>
+     <CategoryParentID>51</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Basketball-NBA</CategoryNamePath>
+     <CategoryIDPath>64482:51:27267</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27268</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Balls</CategoryName>
+     <CategoryParentID>27267</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Basketball-NBA:Balls</CategoryNamePath>
+     <CategoryIDPath>64482:51:27267:27268</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95054</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Floor Floorboard</CategoryName>
+     <CategoryParentID>27267</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Basketball-NBA:Floor Floorboard</CategoryNamePath>
+     <CategoryIDPath>64482:51:27267:95054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95055</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Index Cards</CategoryName>
+     <CategoryParentID>27267</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Basketball-NBA:Index Cards</CategoryNamePath>
+     <CategoryIDPath>64482:51:27267:95055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27269</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jerseys</CategoryName>
+     <CategoryParentID>27267</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Basketball-NBA:Jerseys</CategoryNamePath>
+     <CategoryIDPath>64482:51:27267:27269</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73397</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lithographs Posters and Prints</CategoryName>
+     <CategoryParentID>27267</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Basketball-NBA:Lithographs Posters and Prints</CategoryNamePath>
+     <CategoryIDPath>64482:51:27267:73397</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73398</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Magazines</CategoryName>
+     <CategoryParentID>27267</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Basketball-NBA:Magazines</CategoryNamePath>
+     <CategoryIDPath>64482:51:27267:73398</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27270</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photos</CategoryName>
+     <CategoryParentID>27267</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Basketball-NBA:Photos</CategoryNamePath>
+     <CategoryIDPath>64482:51:27267:27270</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2826</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Autographed NBA Items</CategoryName>
+     <CategoryParentID>27267</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Basketball-NBA:Other Autographed NBA Items</CategoryNamePath>
+     <CategoryIDPath>64482:51:27267:2826</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

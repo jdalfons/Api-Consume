@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:31.893Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11828</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Office Furniture</CategoryName>
+     <CategoryParentID>25298</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Furniture</CategoryNamePath>
+     <CategoryIDPath>12576:25298:11828</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11829</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bookshelves</CategoryName>
+     <CategoryParentID>11828</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Furniture:Bookshelves</CategoryNamePath>
+     <CategoryIDPath>12576:25298:11828:11829</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61677</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chairs</CategoryName>
+     <CategoryParentID>11828</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Furniture:Chairs</CategoryNamePath>
+     <CategoryIDPath>12576:25298:11828:61677</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11831</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Computer Furniture</CategoryName>
+     <CategoryParentID>11828</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Furniture:Computer Furniture</CategoryNamePath>
+     <CategoryIDPath>12576:25298:11828:11831</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61681</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cubicles and Systems Furniture</CategoryName>
+     <CategoryParentID>11828</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Furniture:Cubicles and Systems Furniture</CategoryNamePath>
+     <CategoryIDPath>12576:25298:11828:61681</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11832</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Desks and Tables</CategoryName>
+     <CategoryParentID>11828</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Furniture:Desks and Tables</CategoryNamePath>
+     <CategoryIDPath>12576:25298:11828:11832</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3299</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Filing Cabinets</CategoryName>
+     <CategoryParentID>11828</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Furniture:Filing Cabinets</CategoryNamePath>
+     <CategoryIDPath>12576:25298:11828:3299</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113748</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stools</CategoryName>
+     <CategoryParentID>11828</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Furniture:Stools</CategoryNamePath>
+     <CategoryIDPath>12576:25298:11828:113748</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3300</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Office Furniture</CategoryName>
+     <CategoryParentID>11828</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Furniture:Other Office Furniture</CategoryNamePath>
+     <CategoryIDPath>12576:25298:11828:3300</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

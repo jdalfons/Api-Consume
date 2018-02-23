@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:20:40.985Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179792</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Martial Arts Weapons</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Martial Arts Weapons</CategoryNamePath>
+     <CategoryIDPath>888:179767:179792</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179793</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Knives</CategoryName>
+     <CategoryParentID>179792</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Martial Arts Weapons:Knives</CategoryNamePath>
+     <CategoryIDPath>888:179767:179792:179793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179794</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sticks</CategoryName>
+     <CategoryParentID>179792</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Martial Arts Weapons:Sticks</CategoryNamePath>
+     <CategoryIDPath>888:179767:179792:179794</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179795</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swords</CategoryName>
+     <CategoryParentID>179792</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Martial Arts Weapons:Swords</CategoryNamePath>
+     <CategoryIDPath>888:179767:179792:179795</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179796</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Martial Arts Weapons</CategoryName>
+     <CategoryParentID>179792</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Martial Arts Weapons:Other Martial Arts Weapons</CategoryNamePath>
+     <CategoryIDPath>888:179767:179792:179796</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

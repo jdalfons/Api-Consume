@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:09.190Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184355</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Disc Golf</CategoryName>
+     <CategoryParentID>159043</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Disc Golf</CategoryNamePath>
+     <CategoryIDPath>888:159043:184355</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184356</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Disc Golf Discs</CategoryName>
+     <CategoryParentID>184355</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Disc Golf:Disc Golf Discs</CategoryNamePath>
+     <CategoryIDPath>888:159043:184355:184356</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184357</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Disc Golf Baskets</CategoryName>
+     <CategoryParentID>184355</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Disc Golf:Disc Golf Baskets</CategoryNamePath>
+     <CategoryIDPath>888:159043:184355:184357</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184358</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Disc Golf Sets</CategoryName>
+     <CategoryParentID>184355</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Disc Golf:Disc Golf Sets</CategoryNamePath>
+     <CategoryIDPath>888:159043:184355:184358</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184359</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Disc Bags/Caddies</CategoryName>
+     <CategoryParentID>184355</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Disc Golf:Disc Bags/Caddies</CategoryNamePath>
+     <CategoryIDPath>888:159043:184355:184359</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184360</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Disc Golf Accessories</CategoryName>
+     <CategoryParentID>184355</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Disc Golf:Disc Golf Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:184355:184360</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

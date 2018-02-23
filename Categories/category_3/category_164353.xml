@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:15:09.424Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>164353</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jewelry Findings</CategoryName>
+     <CategoryParentID>164352</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67715</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bead Caps</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Bead Caps</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:67715</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10322</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chains</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Chains</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:10322</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67716</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clasps and Hooks</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Clasps and Hooks</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:67716</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67717</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Connectors</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Connectors</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:67717</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67718</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cord</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Cord</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:67718</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164354</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Crimp and End Beads</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Crimp and End Beads</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:164354</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164355</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jump Rings and Split Rings</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Jump Rings and Split Rings</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:164355</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67712</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pins and Needles</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Pins and Needles</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:67712</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67713</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spacers</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Spacers</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:67713</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67714</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wire</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Wire</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:67714</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164356</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Jewelry Design Findings</CategoryName>
+     <CategoryParentID>164353</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Findings:Other Jewelry Design Findings</CategoryNamePath>
+     <CategoryIDPath>281:164352:164353:164356</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

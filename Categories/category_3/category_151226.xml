@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:41:17.143Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>151226</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shooting Tables and Light Tents</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Shooting Tables and Light Tents</CategoryNamePath>
+     <CategoryIDPath>625:30078:151226</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

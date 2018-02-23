@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:02:08.549Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>39562</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sailor Moon</CategoryName>
+     <CategoryParentID>11118</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sailor Moon</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39562</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106919</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Books Manga Doujinshi</CategoryName>
+     <CategoryParentID>39562</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sailor Moon:Books Manga Doujinshi</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39562:106919</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39563</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Figures Plush</CategoryName>
+     <CategoryParentID>39562</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sailor Moon:Figures Plush</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39562:39563</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39564</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Posters Prints</CategoryName>
+     <CategoryParentID>39562</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sailor Moon:Posters Prints</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39562:39564</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11119</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Sailor Moon</CategoryName>
+     <CategoryParentID>39562</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Japanese Anime:Sailor Moon:Other Sailor Moon</CategoryNamePath>
+     <CategoryIDPath>1:13658:11118:39562:11119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:09:44.926Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>168013</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modern (1960-1990)</CategoryName>
+     <CategoryParentID>14285</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990)</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168014</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Candles and Candleholders</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Candles and Candleholders</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168014</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168015</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Costumes</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Costumes</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168016</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Decorations</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Decorations</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168016</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168017</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lanterns</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Lanterns</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168017</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168018</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lights</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Lights</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168019</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Masks</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Masks</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168020</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168020</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168021</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Props</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Props</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168022</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Yard Décor</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Yard Décor</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168023</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168024</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Modern Halloween Décor</CategoryName>
+     <CategoryParentID>168013</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Halloween:Modern (1960-1990):Other Modern Halloween Décor</CategoryNamePath>
+     <CategoryIDPath>1:907:14285:168013:168024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

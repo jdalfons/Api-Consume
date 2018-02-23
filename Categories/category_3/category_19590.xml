@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:41:10.408Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19590</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Continuous Lighting</CategoryName>
+     <CategoryParentID>30078</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Continuous Lighting</CategoryNamePath>
+     <CategoryIDPath>625:30078:19590</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19591</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lighting Kits</CategoryName>
+     <CategoryParentID>19590</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Continuous Lighting:Lighting Kits</CategoryNamePath>
+     <CategoryIDPath>625:30078:19590:19591</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69341</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lighting Units</CategoryName>
+     <CategoryParentID>19590</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Continuous Lighting:Lighting Units</CategoryNamePath>
+     <CategoryIDPath>625:30078:19590:69341</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172516</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Light Bulbs and Tubes</CategoryName>
+     <CategoryParentID>19590</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Continuous Lighting:Light Bulbs and Tubes</CategoryNamePath>
+     <CategoryIDPath>625:30078:19590:172516</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3860</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Continuous Lighting</CategoryName>
+     <CategoryParentID>19590</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Continuous Lighting:Other Continuous Lighting</CategoryNamePath>
+     <CategoryIDPath>625:30078:19590:3860</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

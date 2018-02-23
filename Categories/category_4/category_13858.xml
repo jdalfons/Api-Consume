@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:03:18.301Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13858</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shelf Mantel</CategoryName>
+     <CategoryParentID>13855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Clocks:Vintage (1930-69):Shelf Mantel</CategoryNamePath>
+     <CategoryIDPath>1:397:13855:13858</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

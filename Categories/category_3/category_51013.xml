@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:16:14.692Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>51013</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Earrings</CategoryName>
+     <CategoryParentID>40131</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Earrings</CategoryNamePath>
+     <CategoryIDPath>281:40131:51013</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64507</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Diamond</CategoryName>
+     <CategoryParentID>51013</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Earrings:Diamond</CategoryNamePath>
+     <CategoryIDPath>281:40131:51013:64507</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14884</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gemstone</CategoryName>
+     <CategoryParentID>51013</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Earrings:Gemstone</CategoryNamePath>
+     <CategoryIDPath>281:40131:51013:14884</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56145</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gold (w/o Stone)</CategoryName>
+     <CategoryParentID>51013</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Earrings:Gold (w/o Stone)</CategoryNamePath>
+     <CategoryIDPath>281:40131:51013:56145</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97682</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gold Plate/Fill (w/o Stone)</CategoryName>
+     <CategoryParentID>51013</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Earrings:Gold Plate/Fill (w/o Stone)</CategoryNamePath>
+     <CategoryIDPath>281:40131:51013:97682</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51014</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sterling Silver (w/o Stone)</CategoryName>
+     <CategoryParentID>51013</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Earrings:Sterling Silver (w/o Stone)</CategoryNamePath>
+     <CategoryIDPath>281:40131:51013:51014</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64508</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>51013</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Earrings:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>281:40131:51013:64508</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51015</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wholesale Earrings</CategoryName>
+     <CategoryParentID>51013</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Earrings:Other Wholesale Earrings</CategoryNamePath>
+     <CategoryIDPath>281:40131:51013:51015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

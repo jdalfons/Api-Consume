@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:47:53.954Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>57049</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paper Cutters and Trimmers</CategoryName>
+     <CategoryParentID>26240</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment:Paper Cutters and Trimmers</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240:57049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

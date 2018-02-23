@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:23:45.563Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>631</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Tools</CategoryName>
+     <CategoryParentID>11700</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools</CategoryNamePath>
+     <CategoryIDPath>11700:631</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30506</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Air Compressors</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Compressors</CategoryNamePath>
+     <CategoryIDPath>11700:631:30506</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22659</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Air Tools</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20760</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flashlights</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Flashlights</CategoryNamePath>
+     <CategoryIDPath>11700:631:20760</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33082</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Generators</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Generators</CategoryNamePath>
+     <CategoryIDPath>11700:631:33082</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3244</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hand Tools</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Hand Tools</CategoryNamePath>
+     <CategoryIDPath>11700:631:3244</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112567</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ladders</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Ladders</CategoryNamePath>
+     <CategoryIDPath>11700:631:112567</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29523</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Measuring and Layout Tools</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Measuring and Layout Tools</CategoryNamePath>
+     <CategoryIDPath>11700:631:29523</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3247</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Power Tools</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Power Tools</CategoryNamePath>
+     <CategoryIDPath>11700:631:3247</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43614</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Safety and Protective Gear</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Safety and Protective Gear</CategoryNamePath>
+     <CategoryIDPath>11700:631:43614</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85917</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tie Downs and Straps</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Tie Downs and Straps</CategoryNamePath>
+     <CategoryIDPath>11700:631:85917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42361</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tool Boxes Belts and Storage</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Tool Boxes Belts and Storage</CategoryNamePath>
+     <CategoryIDPath>11700:631:42361</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46413</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Welding and Soldering Tools</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Welding and Soldering Tools</CategoryNamePath>
+     <CategoryIDPath>11700:631:46413</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184337</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wet/Dry and Shop Vacuums</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Wet/Dry and Shop Vacuums</CategoryNamePath>
+     <CategoryIDPath>11700:631:184337</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171208</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Manuals and Guides</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Manuals and Guides</CategoryNamePath>
+     <CategoryIDPath>11700:631:171208</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11704</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Home Improvement Tools</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Other Home Improvement Tools</CategoryNamePath>
+     <CategoryIDPath>11700:631:11704</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

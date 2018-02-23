@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:31:59.454Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19197</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Robots</CategoryName>
+     <CategoryParentID>19192</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Robots Monsters and Space Toys:Robots</CategoryNamePath>
+     <CategoryIDPath>220:19192:19197</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19199</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1970</CategoryName>
+     <CategoryParentID>19197</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Robots Monsters and Space Toys:Robots:Pre-1970</CategoryNamePath>
+     <CategoryIDPath>220:19192:19197:19199</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19198</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1970-Now</CategoryName>
+     <CategoryParentID>19197</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Robots Monsters and Space Toys:Robots:1970-Now</CategoryNamePath>
+     <CategoryIDPath>220:19192:19197:19198</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

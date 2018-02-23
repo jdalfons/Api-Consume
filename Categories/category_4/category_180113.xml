@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:32:36.567Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180113</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Windows and Window Hardware</CategoryName>
+     <CategoryParentID>3187</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Windows and Window Hardware</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180113</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45794</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Windows</CategoryName>
+     <CategoryParentID>180113</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Windows and Window Hardware:Windows</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180113:45794</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45812</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Window Hardware</CategoryName>
+     <CategoryParentID>180113</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Windows and Window Hardware:Window Hardware</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180113:45812</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180982</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Window Screens</CategoryName>
+     <CategoryParentID>180113</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Windows and Window Hardware:Window Screens</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180113:180982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>129782</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Window Sills</CategoryName>
+     <CategoryParentID>180113</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Windows and Window Hardware:Window Sills</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180113:129782</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124978</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Weather Stripping</CategoryName>
+     <CategoryParentID>180113</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Windows and Window Hardware:Weather Stripping</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180113:124978</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180114</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Window Accessories</CategoryName>
+     <CategoryParentID>180113</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Windows and Window Hardware:Other Window Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180113:180114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

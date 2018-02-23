@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:12:17.627Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20652</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kitchen Storage and Organization</CategoryName>
+     <CategoryParentID>20625</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20482</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baker&apos;s Racks</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Baker&apos;s Racks</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:20482</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20654</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canisters and Jars</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Canisters and Jars</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:20654</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20653</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Food Storage Bags</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Food Storage Bags</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:20653</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20655</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Food Storage Containers</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Food Storage Containers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:20655</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179206</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Food Storage Wraps</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Food Storage Wraps</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:179206</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101428</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lunch Containers</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Lunch Containers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:101428</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20643</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paper Towel Holders</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Paper Towel Holders</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:20643</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46283</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Racks and Holders</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Racks and Holders</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:46283</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20646</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spice Jars and Racks</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Spice Jars and Racks</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:20646</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63510</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vacuum Sealers</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Vacuum Sealers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:63510</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11703</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Kitchen Storage</CategoryName>
+     <CategoryParentID>20652</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Storage and Organization:Other Kitchen Storage</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20652:11703</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

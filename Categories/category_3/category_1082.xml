@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:23.049Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1082</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electronic and Interactive</CategoryName>
+     <CategoryParentID>19071</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158700</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cameras</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Cameras</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:158700</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1083</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Furby</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Furby</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:1083</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38288</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>FurReal Friends</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:FurReal Friends</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:38288</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158701</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Giga Pets</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Giga Pets</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:158701</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119394</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>iDog iCat and iFish</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:iDog iCat and iFish</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:119394</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168245</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Laser Tag</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Laser Tag</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:168245</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52341</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Micropets</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Micropets</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:52341</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158702</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nohohon</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Nohohon</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:158702</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119396</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pixel Chix</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Pixel Chix</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:119396</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159220</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Radica IM-ME</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Radica IM-ME</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:159220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166797</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Smart-e-bear and Friends</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Smart-e-bear and Friends</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:166797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1084</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tamagotchi</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Tamagotchi</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:1084</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158703</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>UB Funkeys</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:UB Funkeys</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:158703</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101611</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Video Now</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Video Now</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:101611</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171529</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Zhu Zhu Pets</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Zhu Zhu Pets</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:171529</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>232</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Interactive Toys</CategoryName>
+     <CategoryParentID>1082</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Electronic Battery and Wind-Up:Electronic and Interactive:Other Interactive Toys</CategoryNamePath>
+     <CategoryIDPath>220:19071:1082:232</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

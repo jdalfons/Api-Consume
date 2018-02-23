@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:34:06.299Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184344</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bottle Feeding</CategoryName>
+     <CategoryParentID>20400</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20402</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baby Bottles</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Baby Bottles</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:20402</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106777</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottle Bags</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Bottle Bags</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:106777</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184345</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottle Brushes</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Bottle Brushes</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:184345</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184346</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottle Drying Racks</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Bottle Drying Racks</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:184346</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162035</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottle Nipples</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Bottle Nipples</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:162035</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106789</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottle Sterilizers</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Bottle Sterilizers</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:106789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20403</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Formula</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Formula</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:20403</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82228</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Formula Coupons</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Formula Coupons</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:82228</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184347</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Formula Dispensers</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Formula Dispensers</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:184347</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184348</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sterilizing/Cleaning Supplies</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Sterilizing/Cleaning Supplies</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:184348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184349</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Bottle Feeding</CategoryName>
+     <CategoryParentID>184344</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding:Bottle Feeding:Other Bottle Feeding</CategoryNamePath>
+     <CategoryIDPath>2984:20400:184344:184349</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

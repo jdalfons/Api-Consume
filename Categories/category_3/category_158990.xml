@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:05.032Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>158990</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cycling Clothing</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85045</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Arm Knee and Leg Warmers</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Arm Knee and Leg Warmers</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:85045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177850</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Base Layers</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Base Layers</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:177850</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177851</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Casual T-Shirts and Tops</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Casual T-Shirts and Tops</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:177851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22683</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gloves</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Gloves</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:22683</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158994</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hats Caps and Headbands</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Hats Caps and Headbands</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:158994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36124</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jackets</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Jackets</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:36124</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177852</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jersey and Pant/Short Sets</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Jersey and Pant/Short Sets</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:177852</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56183</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jerseys</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Jerseys</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:56183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177853</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shorts</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Shorts</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:177853</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85068</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Socks</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Socks</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:85068</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177854</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tights and Pants</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Tights and Pants</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:177854</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177856</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vests</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Vests</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:177856</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177857</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Cycling Clothing</CategoryName>
+     <CategoryParentID>158990</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing:Other Cycling Clothing</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990:177857</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

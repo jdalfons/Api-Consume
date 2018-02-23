@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:21:01.845Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>160706</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Needlecrafts and Yarn</CategoryName>
+     <CategoryParentID>14339</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn</CategoryNamePath>
+     <CategoryIDPath>14339:160706</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3094</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Crocheting and Knitting</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Crocheting and Knitting</CategoryNamePath>
+     <CategoryIDPath>14339:160706:3094</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28141</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Embroidery and Cross Stitch</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Embroidery and Cross Stitch</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28141</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183205</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Macramé</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Macramé</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183205</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28147</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rug Making</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183209</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spinning and Felting</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Spinning and Felting</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183209</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183231</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tatting and Lacemaking</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Tatting and Lacemaking</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183231</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183233</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Weaving</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Weaving</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183233</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36589</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Yarn</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Yarn</CategoryNamePath>
+     <CategoryIDPath>14339:160706:36589</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160715</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Needlecraft Supplies</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Other Needlecraft Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:160706:160715</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:31:49.017Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19182</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Contemporary Puzzles</CategoryName>
+     <CategoryParentID>2613</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Puzzles:Contemporary Puzzles</CategoryNamePath>
+     <CategoryIDPath>220:2613:19182</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19186</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>3D Puzzles</CategoryName>
+     <CategoryParentID>19182</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Puzzles:Contemporary Puzzles:3D Puzzles</CategoryNamePath>
+     <CategoryIDPath>220:2613:19182:19186</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19187</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brain Teasers and Cube/Twist</CategoryName>
+     <CategoryParentID>19182</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Puzzles:Contemporary Puzzles:Brain Teasers and Cube/Twist</CategoryNamePath>
+     <CategoryIDPath>220:2613:19182:19187</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19183</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jigsaw</CategoryName>
+     <CategoryParentID>19182</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Puzzles:Contemporary Puzzles:Jigsaw</CategoryNamePath>
+     <CategoryIDPath>220:2613:19182:19183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180021</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Storage Mats and Glue</CategoryName>
+     <CategoryParentID>19182</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Puzzles:Contemporary Puzzles:Storage Mats and Glue</CategoryNamePath>
+     <CategoryIDPath>220:2613:19182:180021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2615</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Contemporary Puzzles</CategoryName>
+     <CategoryParentID>19182</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Puzzles:Contemporary Puzzles:Other Contemporary Puzzles</CategoryNamePath>
+     <CategoryIDPath>220:2613:19182:2615</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

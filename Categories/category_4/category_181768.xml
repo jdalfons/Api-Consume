@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:39:00.723Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181768</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Couplings and Joints</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Couplings and Joints</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181768</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181769</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rigid Couplings</CategoryName>
+     <CategoryParentID>181768</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Couplings and Joints:Rigid Couplings</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181768:181769</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181770</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flexible Couplings</CategoryName>
+     <CategoryParentID>181768</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Couplings and Joints:Flexible Couplings</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181768:181770</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181771</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Universal Joints</CategoryName>
+     <CategoryParentID>181768</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Couplings and Joints:Universal Joints</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181768:181771</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:28.957Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183001</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Garbage Pail Kids</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Garbage Pail Kids</CategoryNamePath>
+     <CategoryIDPath>1:182982:183001</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60235</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Singles</CategoryName>
+     <CategoryParentID>183001</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Garbage Pail Kids:Trading Card Singles</CategoryNamePath>
+     <CategoryIDPath>1:182982:183001:60235</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183002</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Lots</CategoryName>
+     <CategoryParentID>183001</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Garbage Pail Kids:Trading Card Lots</CategoryNamePath>
+     <CategoryIDPath>1:182982:183001:183002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183003</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete Trading Card Sets</CategoryName>
+     <CategoryParentID>183001</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Garbage Pail Kids:Complete Trading Card Sets</CategoryNamePath>
+     <CategoryIDPath>1:182982:183001:183003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183004</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sealed Trading Cards</CategoryName>
+     <CategoryParentID>183001</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Garbage Pail Kids:Sealed Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183001:183004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183005</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garbage Pail Kids Merchandise</CategoryName>
+     <CategoryParentID>183001</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Garbage Pail Kids:Garbage Pail Kids Merchandise</CategoryNamePath>
+     <CategoryIDPath>1:182982:183001:183005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:48.424Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63991</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dental Equipment</CategoryName>
+     <CategoryParentID>11815</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63992</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air and Vacuum Systems</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Air and Vacuum Systems</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:63992</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63993</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Amalgamators</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Amalgamators</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:63993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99996</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Burs and Bur Blocks</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Burs and Bur Blocks</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:99996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63994</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Curing-Light</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Curing-Light</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:63994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63995</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dental Chairs and Stools</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Dental Chairs and Stools</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:63995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71376</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dental Delivery Units- Control</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Dental Delivery Units- Control</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:71376</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63996</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dental Imaging and X-Ray</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Dental Imaging and X-Ray</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:63996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106366</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dental Lab</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Dental Lab</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:106366</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106371</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dental Supplies</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Dental Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:106371</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71378</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Handpieces</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Handpieces</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:71378</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113731</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Instruments</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Instruments</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:113731</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71379</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scalers</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Scalers</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:71379</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31458</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Dental Equipment</CategoryName>
+     <CategoryParentID>63991</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Dental Equipment:Other Dental Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11815:63991:31458</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

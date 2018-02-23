@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:32:21.442Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>158769</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Webkinz and Lil&apos;Kinz</CategoryName>
+     <CategoryParentID>436</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Webkinz and Lil&apos;Kinz</CategoryNamePath>
+     <CategoryIDPath>220:436:158769</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150106</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Animals</CategoryName>
+     <CategoryParentID>158769</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Webkinz and Lil&apos;Kinz:Animals</CategoryNamePath>
+     <CategoryIDPath>220:436:158769:150106</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158773</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bookmarks</CategoryName>
+     <CategoryParentID>158769</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Webkinz and Lil&apos;Kinz:Bookmarks</CategoryNamePath>
+     <CategoryIDPath>220:436:158769:158773</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158774</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Carriers</CategoryName>
+     <CategoryParentID>158769</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Webkinz and Lil&apos;Kinz:Carriers</CategoryNamePath>
+     <CategoryIDPath>220:436:158769:158774</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158775</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Charms</CategoryName>
+     <CategoryParentID>158769</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Webkinz and Lil&apos;Kinz:Charms</CategoryNamePath>
+     <CategoryIDPath>220:436:158769:158775</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158776</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing</CategoryName>
+     <CategoryParentID>158769</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Webkinz and Lil&apos;Kinz:Clothing</CategoryNamePath>
+     <CategoryIDPath>220:436:158769:158776</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158777</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>158769</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Webkinz and Lil&apos;Kinz:Figurines</CategoryNamePath>
+     <CategoryIDPath>220:436:158769:158777</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158772</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Webkinz and Lil&apos;Kinz</CategoryName>
+     <CategoryParentID>158769</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Stuffed Animals:Webkinz and Lil&apos;Kinz:Other Webkinz and Lil&apos;Kinz</CategoryNamePath>
+     <CategoryIDPath>220:436:158769:158772</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

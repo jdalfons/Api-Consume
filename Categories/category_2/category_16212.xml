@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:41.395Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>16212</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Brass</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass</CategoryNamePath>
+     <CategoryIDPath>619:16212</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101554</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Alto Horns</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Alto Horns</CategoryNamePath>
+     <CategoryIDPath>619:16212:101554</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179014</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baritones</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Baritones</CategoryNamePath>
+     <CategoryIDPath>619:16212:179014</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75557</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bugles</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Bugles</CategoryNamePath>
+     <CategoryIDPath>619:16212:75557</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41396</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cornets</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Cornets</CategoryNamePath>
+     <CategoryIDPath>619:16212:41396</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159943</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Euphoniums</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Euphoniums</CategoryNamePath>
+     <CategoryIDPath>619:16212:159943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64374</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flugelhorns</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Flugelhorns</CategoryNamePath>
+     <CategoryIDPath>619:16212:64374</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16215</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>French Horns</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:French Horns</CategoryNamePath>
+     <CategoryIDPath>619:16212:16215</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159945</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mellophones</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Mellophones</CategoryNamePath>
+     <CategoryIDPath>619:16212:159945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159944</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sousaphones</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Sousaphones</CategoryNamePath>
+     <CategoryIDPath>619:16212:159944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16216</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trombones</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Trombones</CategoryNamePath>
+     <CategoryIDPath>619:16212:16216</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16214</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trumpets</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Trumpets</CategoryNamePath>
+     <CategoryIDPath>619:16212:16214</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179015</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tubas</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Tubas</CategoryNamePath>
+     <CategoryIDPath>619:16212:179015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182138</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>619:16212:182138</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>620</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Brass Instruments</CategoryName>
+     <CategoryParentID>16212</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Brass:Other Brass Instruments</CategoryNamePath>
+     <CategoryIDPath>619:16212:620</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

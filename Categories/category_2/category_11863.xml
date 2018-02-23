@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:35.629Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11863</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Skin Care</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care</CategoryNamePath>
+     <CategoryIDPath>26395:11863</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29618</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Acne and Blemish Treatments</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Acne and Blemish Treatments</CategoryNamePath>
+     <CategoryIDPath>26395:11863:29618</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33164</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Anti-Aging Products</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Anti-Aging Products</CategoryNamePath>
+     <CategoryIDPath>26395:11863:33164</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75006</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blotting Paper</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Blotting Paper</CategoryNamePath>
+     <CategoryIDPath>26395:11863:75006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177765</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cleansers and Toners</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Cleansers and Toners</CategoryNamePath>
+     <CategoryIDPath>26395:11863:177765</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182112</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cotton Swabs</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Cotton Swabs</CategoryNamePath>
+     <CategoryIDPath>26395:11863:182112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29582</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Exfoliators and Scrubs</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Exfoliators and Scrubs</CategoryNamePath>
+     <CategoryIDPath>26395:11863:29582</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177764</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Eye Treatments and Masks</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Eye Treatments and Masks</CategoryNamePath>
+     <CategoryIDPath>26395:11863:177764</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177767</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Home Skin Care Devices</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Home Skin Care Devices</CategoryNamePath>
+     <CategoryIDPath>26395:11863:177767</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40088</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lightening Cream</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Lightening Cream</CategoryNamePath>
+     <CategoryIDPath>26395:11863:40088</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36870</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lip Balm and Treatments</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Lip Balm and Treatments</CategoryNamePath>
+     <CategoryIDPath>26395:11863:36870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172032</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Makeup Remover</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Makeup Remover</CategoryNamePath>
+     <CategoryIDPath>26395:11863:172032</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21022</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Masks and Peels</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Masks and Peels</CategoryNamePath>
+     <CategoryIDPath>26395:11863:21022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101925</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Microdermabrasion Tools</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Microdermabrasion Tools</CategoryNamePath>
+     <CategoryIDPath>26395:11863:101925</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21205</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Moisturizers</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Moisturizers</CategoryNamePath>
+     <CategoryIDPath>26395:11863:21205</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101926</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Night Treatments</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Night Treatments</CategoryNamePath>
+     <CategoryIDPath>26395:11863:101926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67500</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sets and Kits</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Sets and Kits</CategoryNamePath>
+     <CategoryIDPath>26395:11863:67500</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11862</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Skin Care</CategoryName>
+     <CategoryParentID>11863</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Skin Care:Other Skin Care</CategoryNamePath>
+     <CategoryIDPath>26395:11863:11862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

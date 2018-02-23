@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:25:54.485Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183436</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Storage and Display Supplies</CategoryName>
+     <CategoryParentID>212</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Sports Trading Cards:Storage and Display Supplies</CategoryNamePath>
+     <CategoryIDPath>64482:212:183436</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183437</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Sleeves and Bags</CategoryName>
+     <CategoryParentID>183436</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Sports Trading Cards:Storage and Display Supplies:Card Sleeves and Bags</CategoryNamePath>
+     <CategoryIDPath>64482:212:183436:183437</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183438</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Toploaders and Holders</CategoryName>
+     <CategoryParentID>183436</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Sports Trading Cards:Storage and Display Supplies:Card Toploaders and Holders</CategoryNamePath>
+     <CategoryIDPath>64482:212:183436:183438</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183439</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Albums Binders and Pages</CategoryName>
+     <CategoryParentID>183436</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Sports Trading Cards:Storage and Display Supplies:Albums Binders and Pages</CategoryNamePath>
+     <CategoryIDPath>64482:212:183436:183439</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183440</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Storage Boxes</CategoryName>
+     <CategoryParentID>183436</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Sports Trading Cards:Storage and Display Supplies:Card Storage Boxes</CategoryNamePath>
+     <CategoryIDPath>64482:212:183436:183440</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183441</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Sorting Trays</CategoryName>
+     <CategoryParentID>183436</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Sports Trading Cards:Storage and Display Supplies:Card Sorting Trays</CategoryNamePath>
+     <CategoryIDPath>64482:212:183436:183441</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183442</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Card Display Cases and Cabinets</CategoryName>
+     <CategoryParentID>183436</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Sports Trading Cards:Storage and Display Supplies:Card Display Cases and Cabinets</CategoryNamePath>
+     <CategoryIDPath>64482:212:183436:183442</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183443</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Supplies</CategoryName>
+     <CategoryParentID>183436</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Sports Trading Cards:Storage and Display Supplies:Other Supplies</CategoryNamePath>
+     <CategoryIDPath>64482:212:183436:183443</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

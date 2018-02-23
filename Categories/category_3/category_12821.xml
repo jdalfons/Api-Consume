@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:46:38.520Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>12821</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Africa</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167964</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Angola</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Angola</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:167964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162218</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Botswana</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Botswana</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162218</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162219</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Congo</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Congo</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162220</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Egypt</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Egypt</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167965</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ethiopia</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Ethiopia</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:167965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162221</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ghana</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Ghana</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162222</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Guinea</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Guinea</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162222</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167966</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kenya</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Kenya</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:167966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167967</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Liberia</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Liberia</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:167967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162223</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Malawi</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Malawi</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162223</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167968</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mauritius</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Mauritius</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:167968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167969</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Morocco</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Morocco</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:167969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167970</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seychelles</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Seychelles</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:167970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162224</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Somalia</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Somalia</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162224</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162225</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>South Africa</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:South Africa</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162225</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162226</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tanzania</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Tanzania</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162226</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167972</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tunisia</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Tunisia</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:167972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162227</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Uganda</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Uganda</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162227</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167973</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Zambia</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Zambia</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:167973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162228</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Zimbabwe</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Zimbabwe</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:162228</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3422</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other African Paper Money</CategoryName>
+     <CategoryParentID>12821</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa:Other African Paper Money</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821:3422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>22</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

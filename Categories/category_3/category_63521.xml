@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:31:27.345Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63521</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ceramics and Porcelain</CategoryName>
+     <CategoryParentID>20086</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63522</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bowls</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Bowls</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63522</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63523</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxes</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Boxes</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63523</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162999</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Butter Pats</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Butter Pats</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:162999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163000</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candle Holders</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Candle Holders</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:163000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163001</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candlesticks</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Candlesticks</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:163001</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163002</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chamber Pots</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Chamber Pots</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:163002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63524</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Creamers and Sugar Bowls</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Creamers and Sugar Bowls</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63524</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163003</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Crocks</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Crocks</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:163003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63525</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cups and Saucers</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Cups and Saucers</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63525</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63526</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Figurines</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63526</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63527</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jars</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Jars</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63527</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163004</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jugs</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Jugs</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:163004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63529</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mugs and Tankards</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Mugs and Tankards</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63529</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63528</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pitchers</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Pitchers</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63528</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163006</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Planters</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Planters</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:163006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63531</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plates and Chargers</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Plates and Chargers</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63531</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63532</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Platters and Trays</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Platters and Trays</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63532</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63533</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Salt and Pepper Shakers</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Salt and Pepper Shakers</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63533</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63534</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Teapots and Tea Sets</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Teapots and Tea Sets</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63535</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tiles</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Tiles</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63535</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63536</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tureens</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Tureens</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63536</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163005</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Urns</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Urns</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:163005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63530</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vases</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Vases</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:63530</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2203</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Ceramics</CategoryName>
+     <CategoryParentID>63521</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts:Ceramics and Porcelain:Other Antique Ceramics</CategoryNamePath>
+     <CategoryIDPath>20081:20086:63521:2203</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>25</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

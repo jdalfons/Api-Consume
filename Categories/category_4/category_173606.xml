@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:54:59.174Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>173606</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Philippines</CategoryName>
+     <CategoryParentID>40711</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Asia:Philippines</CategoryNamePath>
+     <CategoryIDPath>11116:256:40711:173606</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173607</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spanish (up to 1898)</CategoryName>
+     <CategoryParentID>173606</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Asia:Philippines:Spanish (up to 1898)</CategoryNamePath>
+     <CategoryIDPath>11116:256:40711:173606:173607</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173608</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>U.S. (1898-1946)</CategoryName>
+     <CategoryParentID>173606</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Asia:Philippines:U.S. (1898-1946)</CategoryNamePath>
+     <CategoryIDPath>11116:256:40711:173606:173608</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173609</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Republic (1946-Now)</CategoryName>
+     <CategoryParentID>173606</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Asia:Philippines:Republic (1946-Now)</CategoryNamePath>
+     <CategoryIDPath>11116:256:40711:173606:173609</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173690</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>173606</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Asia:Philippines:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>11116:256:40711:173606:173690</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

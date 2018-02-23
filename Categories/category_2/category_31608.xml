@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:40.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>31608</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>11233</CategoryParentID>
+     <CategoryNamePath>Music:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>11233:31608</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46497</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>CDs</CategoryName>
+     <CategoryParentID>31608</CategoryParentID>
+     <CategoryNamePath>Music:Wholesale Lots:CDs</CategoryNamePath>
+     <CategoryIDPath>11233:31608:46497</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46501</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Records</CategoryName>
+     <CategoryParentID>31608</CategoryParentID>
+     <CategoryNamePath>Music:Wholesale Lots:Records</CategoryNamePath>
+     <CategoryIDPath>11233:31608:46501</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31610</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cassettes</CategoryName>
+     <CategoryParentID>31608</CategoryParentID>
+     <CategoryNamePath>Music:Wholesale Lots:Cassettes</CategoryNamePath>
+     <CategoryIDPath>11233:31608:31610</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45104</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Wholesale Music</CategoryName>
+     <CategoryParentID>31608</CategoryParentID>
+     <CategoryNamePath>Music:Wholesale Lots:Other Wholesale Music</CategoryNamePath>
+     <CategoryIDPath>11233:31608:45104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

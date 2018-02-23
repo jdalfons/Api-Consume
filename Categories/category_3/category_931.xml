@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:56:17.348Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>931</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Radios</CategoryName>
+     <CategoryParentID>29832</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios</CategoryNamePath>
+     <CategoryIDPath>1:29832:931</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165665</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Crystal Radios</CategoryName>
+     <CategoryParentID>931</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Crystal Radios</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:165665</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>934</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals</CategoryName>
+     <CategoryParentID>931</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Manuals</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:934</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7275</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Tubes</CategoryName>
+     <CategoryParentID>931</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Parts and Tubes</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:7275</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38031</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>QSL Cards</CategoryName>
+     <CategoryParentID>931</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:QSL Cards</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:38031</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>932</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Transistor Radios</CategoryName>
+     <CategoryParentID>931</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Transistor Radios</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38032</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tube Radios</CategoryName>
+     <CategoryParentID>931</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Tube Radios</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:38032</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>132</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Radios</CategoryName>
+     <CategoryParentID>931</CategoryParentID>
+     <CategoryNamePath>Collectibles:Radio Phonograph TV Phone:Radios:Other Collectible Radios</CategoryNamePath>
+     <CategoryIDPath>1:29832:931:132</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:51:00.142Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>29457</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Black Americana</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35795</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Banks</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Banks</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:35795</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165473</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Books</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:165473</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35796</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cards</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Cards</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:35796</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35797</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dolls and Bears</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Dolls and Bears</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:35797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29458</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figures and Sculptures</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Figures and Sculptures</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:29458</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29459</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Housewares and Kitchenwares</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Housewares and Kitchenwares</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:29459</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165474</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Magazines</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Magazines</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:165474</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165475</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paper</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Paper</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:165475</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35798</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photos</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Photos</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:35798</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35799</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prints Posters and Paintings</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Prints Posters and Paintings</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:35799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35800</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signs</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Signs</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:35800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152539</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Reproductions</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:152539</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>394</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Black Americana</CategoryName>
+     <CategoryParentID>29457</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Black Americana:Other Black Americana</CategoryNamePath>
+     <CategoryIDPath>1:3913:29457:394</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

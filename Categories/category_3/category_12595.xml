@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:15:54.830Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>12595</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fine</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52562</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Charms and Charm Bracelets</CategoryName>
+     <CategoryParentID>12595</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine:Charms and Charm Bracelets</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595:52562</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58551</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Georgian Pre-1837</CategoryName>
+     <CategoryParentID>12595</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine:Georgian Pre-1837</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595:58551</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58552</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Victorian Edwardian 1837-1910</CategoryName>
+     <CategoryParentID>12595</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine:Victorian Edwardian 1837-1910</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595:58552</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58555</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Art Nouveau/Art Deco 1895-1935</CategoryName>
+     <CategoryParentID>12595</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine:Art Nouveau/Art Deco 1895-1935</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595:58555</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58557</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Retro Vintage 1930s-1980s</CategoryName>
+     <CategoryParentID>12595</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine:Retro Vintage 1930s-1980s</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595:58557</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165070</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Designer Signed</CategoryName>
+     <CategoryParentID>12595</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine:Designer Signed</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595:165070</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52576</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Men&apos;s Vintage Fine Jewelry</CategoryName>
+     <CategoryParentID>12595</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine:Men&apos;s Vintage Fine Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595:52576</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101495</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown Period</CategoryName>
+     <CategoryParentID>12595</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine:Unknown Period</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595:101495</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>91440</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fine Vintage Jewelry</CategoryName>
+     <CategoryParentID>12595</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine:Other Fine Vintage Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595:91440</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

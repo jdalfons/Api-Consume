@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:23:00.004Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>14308</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Food and Beverages</CategoryName>
+     <CategoryParentID>11700</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages</CategoryNamePath>
+     <CategoryIDPath>11700:14308</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179836</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Alcohol and Alcohol Mixers</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Alcohol and Alcohol Mixers</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179836</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179190</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baking Chips</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Baking Chips</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179190</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179191</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baking Chocolate</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Baking Chocolate</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179191</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62695</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baking Mixes</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Baking Mixes</CategoryNamePath>
+     <CategoryIDPath>11700:14308:62695</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38172</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beer and Wine Making</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Beer and Wine Making</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38172</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62694</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bread</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Bread</CategoryNamePath>
+     <CategoryIDPath>11700:14308:62694</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115716</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Buffalo Beef and Turkey Jerky</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Buffalo Beef and Turkey Jerky</CategoryNamePath>
+     <CategoryIDPath>11700:14308:115716</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38173</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Candy Gum and Chocolate</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62717</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cereals and Breakfast Foods</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Cereals and Breakfast Foods</CategoryNamePath>
+     <CategoryIDPath>11700:14308:62717</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62706</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cheese</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Cheese</CategoryNamePath>
+     <CategoryIDPath>11700:14308:62706</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179175</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Coconut Water</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Coconut Water</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38178</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Coffee</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Coffee</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38178</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79628</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Coffee and Soda Syrups</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Coffee and Soda Syrups</CategoryNamePath>
+     <CategoryIDPath>11700:14308:79628</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134645</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Condiments</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Condiments</CategoryNamePath>
+     <CategoryIDPath>11700:14308:134645</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20473</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cookies and Biscotti</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Cookies and Biscotti</CategoryNamePath>
+     <CategoryIDPath>11700:14308:20473</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14310</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Desserts</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Desserts</CategoryNamePath>
+     <CategoryIDPath>11700:14308:14310</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179192</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Drink Mixes</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Drink Mixes</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179192</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60096</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fake Food</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Fake Food</CategoryNamePath>
+     <CategoryIDPath>11700:14308:60096</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57742</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Food Coupons</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Food Coupons</CategoryNamePath>
+     <CategoryIDPath>11700:14308:57742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179176</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fruit Juices</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Fruit Juices</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179176</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179237</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fruits</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Fruits</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179237</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20472</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Grains and Pasta</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Grains and Pasta</CategoryNamePath>
+     <CategoryIDPath>11700:14308:20472</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20474</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Honey Syrup and Sweeteners</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Honey Syrup and Sweeteners</CategoryNamePath>
+     <CategoryIDPath>11700:14308:20474</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179834</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ice Cream</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Ice Cream</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179834</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43401</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>International Foods</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:International Foods</CategoryNamePath>
+     <CategoryIDPath>11700:14308:43401</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14311</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jams Jellies and Preserves</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Jams Jellies and Preserves</CategoryNamePath>
+     <CategoryIDPath>11700:14308:14311</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14312</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Meat Poultry and Seafood</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Meat Poultry and Seafood</CategoryNamePath>
+     <CategoryIDPath>11700:14308:14312</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179177</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Milk and Non-Dairy Milks</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Milk and Non-Dairy Milks</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179177</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115722</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mushrooms and Truffles</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Mushrooms and Truffles</CategoryNamePath>
+     <CategoryIDPath>11700:14308:115722</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25460</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Nuts and Seeds</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Nuts and Seeds</CategoryNamePath>
+     <CategoryIDPath>11700:14308:25460</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134646</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Oils</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Oils</CategoryNamePath>
+     <CategoryIDPath>11700:14308:134646</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179835</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Prepared Foods</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Prepared Foods</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179835</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14313</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sauces</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Sauces</CategoryNamePath>
+     <CategoryIDPath>11700:14308:14313</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179178</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Snack Foods</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Snack Foods</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179178</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179188</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Soft Drinks</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Soft Drinks</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179188</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43399</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Soups and Stews</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Soups and Stews</CategoryNamePath>
+     <CategoryIDPath>11700:14308:43399</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14314</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spices Seasonings and Extracts</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Spices Seasonings and Extracts</CategoryNamePath>
+     <CategoryIDPath>11700:14308:14314</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38181</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tea</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Tea</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38181</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179193</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trail Mix</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Trail Mix</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179193</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43400</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vegetables</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Vegetables</CategoryNamePath>
+     <CategoryIDPath>11700:14308:43400</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48318</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Water</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Water</CategoryNamePath>
+     <CategoryIDPath>11700:14308:48318</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179189</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Water Flavor Enhancers</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Water Flavor Enhancers</CategoryNamePath>
+     <CategoryIDPath>11700:14308:179189</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79631</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Food and Beverages</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Other Food and Beverages</CategoryNamePath>
+     <CategoryIDPath>11700:14308:79631</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>44</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

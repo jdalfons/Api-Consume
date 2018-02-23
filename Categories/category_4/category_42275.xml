@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:35:49.488Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>42275</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Grinders</CategoryName>
+     <CategoryParentID>3247</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Power Tools:Grinders</CategoryNamePath>
+     <CategoryIDPath>11700:631:3247:42275</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42276</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Angle Grinders</CategoryName>
+     <CategoryParentID>42275</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Power Tools:Grinders:Angle Grinders</CategoryNamePath>
+     <CategoryIDPath>11700:631:3247:42275:42276</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42277</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bench Grinders</CategoryName>
+     <CategoryParentID>42275</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Power Tools:Grinders:Bench Grinders</CategoryNamePath>
+     <CategoryIDPath>11700:631:3247:42275:42277</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79703</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Grinding Wheels and Accessories</CategoryName>
+     <CategoryParentID>42275</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Power Tools:Grinders:Grinding Wheels and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:631:3247:42275:79703</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20778</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Power Grinders and Accs</CategoryName>
+     <CategoryParentID>42275</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Power Tools:Grinders:Other Power Grinders and Accs</CategoryNamePath>
+     <CategoryIDPath>11700:631:3247:42275:20778</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:53.598Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>171146</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Kids&apos; Clothing Shoes and Accs</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs</CategoryNamePath>
+     <CategoryIDPath>11450:171146</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11452</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boys&apos; Clothing (Sizes 4 and Up)</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Clothing (Sizes 4 and Up)</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11452</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57929</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boys&apos; Shoes</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57881</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boys&apos; Accessories</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Boys&apos; Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57881</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11462</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Girls&apos; Clothing (Sizes 4 and Up)</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Clothing (Sizes 4 and Up)</CategoryNamePath>
+     <CategoryIDPath>11450:171146:11462</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57974</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Girls&apos; Shoes</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:171146:57974</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15628</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Girls&apos; Accessories</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Girls&apos; Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:171146:15628</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155198</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Unisex Clothing</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Unisex Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:171146:155198</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155202</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Unisex Shoes</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Unisex Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:171146:155202</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175640</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Kids&apos; Clothing and Accs</CategoryName>
+     <CategoryParentID>171146</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs:Other Kids&apos; Clothing and Accs</CategoryNamePath>
+     <CategoryIDPath>11450:171146:175640</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

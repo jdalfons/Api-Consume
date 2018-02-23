@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:30:40.329Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1466</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Weird Stuff</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Weird Stuff</CategoryNamePath>
+     <CategoryIDPath>99:1466</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1467</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Slightly Unusual</CategoryName>
+     <CategoryParentID>1466</CategoryParentID>
+     <CategoryNamePath>Everything Else:Weird Stuff:Slightly Unusual</CategoryNamePath>
+     <CategoryIDPath>99:1466:1467</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1468</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Really Weird</CategoryName>
+     <CategoryParentID>1466</CategoryParentID>
+     <CategoryNamePath>Everything Else:Weird Stuff:Really Weird</CategoryNamePath>
+     <CategoryIDPath>99:1466:1468</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1469</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Totally Bizarre</CategoryName>
+     <CategoryParentID>1466</CategoryParentID>
+     <CategoryNamePath>Everything Else:Weird Stuff:Totally Bizarre</CategoryNamePath>
+     <CategoryIDPath>99:1466:1469</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

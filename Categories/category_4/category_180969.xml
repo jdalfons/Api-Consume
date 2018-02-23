@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:32:27.082Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180969</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lumber and Composites</CategoryName>
+     <CategoryParentID>3187</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Lumber and Composites</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180969</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180970</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lumber</CategoryName>
+     <CategoryParentID>180969</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Lumber and Composites:Lumber</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180969:180970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30562</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wall Paneling</CategoryName>
+     <CategoryParentID>180969</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Lumber and Composites:Wall Paneling</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180969:30562</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180971</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wood Composite Panels and Sheets</CategoryName>
+     <CategoryParentID>180969</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Lumber and Composites:Wood Composite Panels and Sheets</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180969:180971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>126201</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wood Veneer Sheets</CategoryName>
+     <CategoryParentID>180969</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Lumber and Composites:Wood Veneer Sheets</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180969:126201</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30564</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Lumber and Composites</CategoryName>
+     <CategoryParentID>180969</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Lumber and Composites:Other Lumber and Composites</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180969:30564</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

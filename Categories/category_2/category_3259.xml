@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:14.770Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3259</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wedding and Formal Occasion</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion</CategoryNamePath>
+     <CategoryIDPath>11450:3259</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15720</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wedding Dresses</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Wedding Dresses</CategoryNamePath>
+     <CategoryIDPath>11450:3259:15720</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105471</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bridal Shoes</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105471</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106127</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bridal Accessories</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridal Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:3259:106127</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175633</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bridesmaids&apos; and Formal Dresses</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Bridesmaids&apos; and Formal Dresses</CategoryNamePath>
+     <CategoryIDPath>11450:3259:175633</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>131474</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mother of the Bride</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Mother of the Bride</CategoryNamePath>
+     <CategoryIDPath>11450:3259:131474</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>131476</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Women&apos;s Formal Hats</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Women&apos;s Formal Hats</CategoryNamePath>
+     <CategoryIDPath>11450:3259:131476</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105508</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Men&apos;s Formal Occasion</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Men&apos;s Formal Occasion</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105508</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105520</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boys&apos; Formal Occasion</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Boys&apos; Formal Occasion</CategoryNamePath>
+     <CategoryIDPath>11450:3259:105520</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3263</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Girls&apos; Formal Occasion</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Girls&apos; Formal Occasion</CategoryNamePath>
+     <CategoryIDPath>11450:3259:3263</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175632</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Novelty Attire</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Novelty Attire</CategoryNamePath>
+     <CategoryIDPath>11450:3259:175632</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1265</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Wedding and Formal Wear</CategoryName>
+     <CategoryParentID>3259</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion:Other Wedding and Formal Wear</CategoryNamePath>
+     <CategoryIDPath>11450:3259:1265</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

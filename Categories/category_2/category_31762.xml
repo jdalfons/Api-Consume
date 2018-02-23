@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:32.470Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>31762</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Shaving and Hair Removal</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal</CategoryNamePath>
+     <CategoryIDPath>26395:31762</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47920</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Aftershave and Pre-Shave</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Aftershave and Pre-Shave</CategoryNamePath>
+     <CategoryIDPath>26395:31762:47920</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67408</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clippers and Trimmers</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Clippers and Trimmers</CategoryNamePath>
+     <CategoryIDPath>26395:31762:67408</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159789</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clipper and Trimmer Parts</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Clipper and Trimmer Parts</CategoryNamePath>
+     <CategoryIDPath>26395:31762:159789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180512</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electric Shavers</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Electric Shavers</CategoryNamePath>
+     <CategoryIDPath>26395:31762:180512</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37802</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Epilators and Electrolysis</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Epilators and Electrolysis</CategoryNamePath>
+     <CategoryIDPath>26395:31762:37802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47925</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hair Removal Creams and Sprays</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Hair Removal Creams and Sprays</CategoryNamePath>
+     <CategoryIDPath>26395:31762:47925</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159795</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Laser Hair Removal and IPL</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Laser Hair Removal and IPL</CategoryNamePath>
+     <CategoryIDPath>26395:31762:159795</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179841</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Razors and Razor Blades</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Razors and Razor Blades</CategoryNamePath>
+     <CategoryIDPath>26395:31762:179841</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106315</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shaving and Grooming Kits and Sets</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Shaving and Grooming Kits and Sets</CategoryNamePath>
+     <CategoryIDPath>26395:31762:106315</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168191</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shaving Brushes and Mugs</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Shaving Brushes and Mugs</CategoryNamePath>
+     <CategoryIDPath>26395:31762:168191</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31763</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shaving Creams Foams and Gels</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Shaving Creams Foams and Gels</CategoryNamePath>
+     <CategoryIDPath>26395:31762:31763</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159756</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Straight Razors</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Straight Razors</CategoryNamePath>
+     <CategoryIDPath>26395:31762:159756</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67416</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tweezers</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Tweezers</CategoryNamePath>
+     <CategoryIDPath>26395:31762:67416</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82565</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Waxing Supplies</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Waxing Supplies</CategoryNamePath>
+     <CategoryIDPath>26395:31762:82565</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11840</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Shaving and Hair Removal</CategoryName>
+     <CategoryParentID>31762</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Shaving and Hair Removal:Other Shaving and Hair Removal</CategoryNamePath>
+     <CategoryIDPath>26395:31762:11840</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:49:55.817Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3915</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cans: US</CategoryName>
+     <CategoryParentID>562</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Cans: US</CategoryNamePath>
+     <CategoryIDPath>1:562:3915</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3916</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cone Tops</CategoryName>
+     <CategoryParentID>3915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Cans: US:Cone Tops</CategoryNamePath>
+     <CategoryIDPath>1:562:3915:3916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3917</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flat Tops</CategoryName>
+     <CategoryParentID>3915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Cans: US:Flat Tops</CategoryNamePath>
+     <CategoryIDPath>1:562:3915:3917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3918</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pull Tabs</CategoryName>
+     <CategoryParentID>3915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Cans: US:Pull Tabs</CategoryNamePath>
+     <CategoryIDPath>1:562:3915:3918</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>564</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible US Beer Cans</CategoryName>
+     <CategoryParentID>3915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Cans: US:Other Collectible US Beer Cans</CategoryNamePath>
+     <CategoryIDPath>1:562:3915:564</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

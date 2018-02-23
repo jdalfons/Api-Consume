@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:45:55.924Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182937</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Graphite Raw Materials</CategoryName>
+     <CategoryParentID>182919</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Graphite Raw Materials</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182937</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182938</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Graphite Round Rods</CategoryName>
+     <CategoryParentID>182937</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Graphite Raw Materials:Graphite Round Rods</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182937:182938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182939</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Graphite Square Bars</CategoryName>
+     <CategoryParentID>182937</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Graphite Raw Materials:Graphite Square Bars</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182937:182939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182940</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Graphite Sheets</CategoryName>
+     <CategoryParentID>182937</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Graphite Raw Materials:Graphite Sheets</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182937:182940</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

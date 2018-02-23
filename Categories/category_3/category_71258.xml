@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:12:47.673Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>71258</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Refrigerators and Freezers</CategoryName>
+     <CategoryParentID>20710</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Refrigerators and Freezers</CategoryNamePath>
+     <CategoryIDPath>11700:20710:71258</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122929</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Countertop Ice Makers</CategoryName>
+     <CategoryParentID>71258</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Refrigerators and Freezers:Countertop Ice Makers</CategoryNamePath>
+     <CategoryIDPath>11700:20710:71258:122929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71262</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mini Fridges</CategoryName>
+     <CategoryParentID>71258</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Refrigerators and Freezers:Mini Fridges</CategoryNamePath>
+     <CategoryIDPath>11700:20710:71258:71262</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20713</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Refrigerators</CategoryName>
+     <CategoryParentID>71258</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Refrigerators and Freezers:Refrigerators</CategoryNamePath>
+     <CategoryIDPath>11700:20710:71258:20713</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71260</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Upright and Chest Freezers</CategoryName>
+     <CategoryParentID>71258</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Refrigerators and Freezers:Upright and Chest Freezers</CategoryNamePath>
+     <CategoryIDPath>11700:20710:71258:71260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71259</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>71258</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Refrigerators and Freezers:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:20710:71258:71259</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159920</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Refrigerators and Freezers</CategoryName>
+     <CategoryParentID>71258</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Refrigerators and Freezers:Other Refrigerators and Freezers</CategoryNamePath>
+     <CategoryIDPath>11700:20710:71258:159920</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

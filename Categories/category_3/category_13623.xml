@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:47:49.157Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13623</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Merchandise and Memorabilia</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:34:13623</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37828</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Advertising-Print</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Advertising-Print</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:37828</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12505</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blotters</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Blotters</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:12505</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13624</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Calendars</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Calendars</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:13624</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>796</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Characters and Dolls</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Characters and Dolls</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:796</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>797</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clocks</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Clocks</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21148</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fans</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Fans</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:21148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>799</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Labels</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Labels</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10797</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mannequins</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Mannequins</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:10797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13625</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mirrors</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Mirrors</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:13625</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21147</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mugs and Cups</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Mugs and Cups</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:21147</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73471</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plates</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Plates</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:73471</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>800</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Premiums Prizes and Charms</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Premiums Prizes and Charms</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10804</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signs</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Signs</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:10804</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>798</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Store Displays</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Store Displays</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:798</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12506</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thermometers</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Thermometers</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:12506</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>801</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tins</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Tins</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>803</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trays</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Trays</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37842</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Victorian Trade Cards</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Victorian Trade Cards</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:37842</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Merch and Memorabilia Ads</CategoryName>
+     <CategoryParentID>13623</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Merchandise and Memorabilia:Other Merch and Memorabilia Ads</CategoryNamePath>
+     <CategoryIDPath>1:34:13623:35</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

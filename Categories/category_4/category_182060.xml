@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:53:02.598Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182060</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canes and Walking Sticks</CategoryName>
+     <CategoryParentID>182059</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage:Vintage Accessories:Canes and Walking Sticks</CategoryNamePath>
+     <CategoryIDPath>11450:175759:182059:182060</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

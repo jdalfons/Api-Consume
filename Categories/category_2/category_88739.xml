@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:30:24.954Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>88739</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Funeral and Cemetery</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Funeral and Cemetery</CategoryNamePath>
+     <CategoryIDPath>99:88739</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88740</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Caskets</CategoryName>
+     <CategoryParentID>88739</CategoryParentID>
+     <CategoryNamePath>Everything Else:Funeral and Cemetery:Caskets</CategoryNamePath>
+     <CategoryIDPath>99:88739:88740</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179691</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Casket Parts and Accessories</CategoryName>
+     <CategoryParentID>88739</CategoryParentID>
+     <CategoryNamePath>Everything Else:Funeral and Cemetery:Casket Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>99:88739:179691</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88741</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cemetery Plots</CategoryName>
+     <CategoryParentID>88739</CategoryParentID>
+     <CategoryNamePath>Everything Else:Funeral and Cemetery:Cemetery Plots</CategoryNamePath>
+     <CategoryIDPath>99:88739:88741</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88742</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cremation Urns</CategoryName>
+     <CategoryParentID>88739</CategoryParentID>
+     <CategoryNamePath>Everything Else:Funeral and Cemetery:Cremation Urns</CategoryNamePath>
+     <CategoryIDPath>99:88739:88742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179692</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Headstones Grave Markers</CategoryName>
+     <CategoryParentID>88739</CategoryParentID>
+     <CategoryNamePath>Everything Else:Funeral and Cemetery:Headstones Grave Markers</CategoryNamePath>
+     <CategoryIDPath>99:88739:179692</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88743</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mortuary Supplies</CategoryName>
+     <CategoryParentID>88739</CategoryParentID>
+     <CategoryNamePath>Everything Else:Funeral and Cemetery:Mortuary Supplies</CategoryNamePath>
+     <CategoryIDPath>99:88739:88743</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88744</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Funeral and Cemetery</CategoryName>
+     <CategoryParentID>88739</CategoryParentID>
+     <CategoryNamePath>Everything Else:Funeral and Cemetery:Other Funeral and Cemetery</CategoryNamePath>
+     <CategoryIDPath>99:88739:88744</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:26:05.407Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>7294</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Cycling</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling</CategoryNamePath>
+     <CategoryIDPath>888:7294</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177831</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bicycles</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycles</CategoryNamePath>
+     <CategoryIDPath>888:7294:177831</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74469</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electric Bicycles</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Electric Bicycles</CategoryNamePath>
+     <CategoryIDPath>888:7294:74469</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22679</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bicycle Frames</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Frames</CategoryNamePath>
+     <CategoryIDPath>888:7294:22679</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177832</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bicycle Accessories</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Accessories</CategoryNamePath>
+     <CategoryIDPath>888:7294:177832</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57262</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bicycle Components and Parts</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Components and Parts</CategoryNamePath>
+     <CategoryIDPath>888:7294:57262</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177840</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bicycle Electronics</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Electronics</CategoryNamePath>
+     <CategoryIDPath>888:7294:177840</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177844</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bicycle Maintenance and Tools</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Maintenance and Tools</CategoryNamePath>
+     <CategoryIDPath>888:7294:177844</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62130</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Books and Video</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Books and Video</CategoryNamePath>
+     <CategoryIDPath>888:7294:62130</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177849</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Car and Truck Racks</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Car and Truck Racks</CategoryNamePath>
+     <CategoryIDPath>888:7294:177849</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158990</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cycling Clothing</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Clothing</CategoryNamePath>
+     <CategoryIDPath>888:7294:158990</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177862</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cycling Shoes and Shoe Covers</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Cycling Shoes and Shoe Covers</CategoryNamePath>
+     <CategoryIDPath>888:7294:177862</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177864</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Helmets and Protective Gear</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Helmets and Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:7294:177864</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56185</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sunglasses and Goggles</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Sunglasses and Goggles</CategoryNamePath>
+     <CategoryIDPath>888:7294:56185</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158999</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Cycling</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Vintage Cycling</CategoryNamePath>
+     <CategoryIDPath>888:7294:158999</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2904</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Cycling</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Other Cycling</CategoryNamePath>
+     <CategoryIDPath>888:7294:2904</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:56.379Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>26221</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Material Handling</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling</CategoryNamePath>
+     <CategoryIDPath>12576:26221</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184149</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Carts and Trucks</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Carts and Trucks</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184149</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184161</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Casters and Wheels</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Casters and Wheels</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184161</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184165</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Conveyors and Conveyor Parts</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Conveyors and Conveyor Parts</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184165</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184174</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Warehouse Loading and Unloading</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Warehouse Loading and Unloading</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184174</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109551</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hoists Winches and Rigging</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Hoists Winches and Rigging</CategoryNamePath>
+     <CategoryIDPath>12576:26221:109551</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184227</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ladders Scaffold and Platforms</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Ladders Scaffold and Platforms</CategoryNamePath>
+     <CategoryIDPath>12576:26221:184227</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19273</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Packaging and Shipping</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57004</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shelving and Storage</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Shelving and Storage</CategoryNamePath>
+     <CategoryIDPath>12576:26221:57004</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>92079</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shipping Containers</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Shipping Containers</CategoryNamePath>
+     <CategoryIDPath>12576:26221:92079</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26220</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Manuals and Books</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Manuals and Books</CategoryNamePath>
+     <CategoryIDPath>12576:26221:26220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26224</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Material Handling Supply</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Other Material Handling Supply</CategoryNamePath>
+     <CategoryIDPath>12576:26221:26224</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31485</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>26221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>12576:26221:31485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:02.252Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181939</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Test Measurement and Inspection</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181940</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Analyzers and Data Acquisition</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Analyzers and Data Acquisition</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181940</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181948</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cameras and Imaging</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Cameras and Imaging</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181948</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181954</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leads and Probes</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Leads and Probes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181954</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183479</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>NIM and CAMAC Systems</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:NIM and CAMAC Systems</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:183479</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181963</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PXI and VXI Systems</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:PXI and VXI Systems</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181963</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181992</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signal Sources and Conditioning</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Signal Sources and Conditioning</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181992</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181968</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Test Meters and Detectors</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Testers and Calibrators</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Testers and Calibrators</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181998</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25409</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Test Equip. Manuals and Books</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equip. Manuals and Books</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:25409</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36315</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Test Equipment Parts and Accs</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Equipment Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:36315</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40004</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Test and Measurement</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Other Test and Measurement</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:40004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

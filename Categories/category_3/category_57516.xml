@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:14.377Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>57516</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Control Systems and PLCs</CategoryName>
+     <CategoryParentID>42892</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181708</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PLC Processors</CategoryName>
+     <CategoryParentID>57516</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Processors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181708</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181709</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HMI and Open Interface Panels</CategoryName>
+     <CategoryParentID>57516</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:HMI and Open Interface Panels</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181709</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181710</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PLC Cables</CategoryName>
+     <CategoryParentID>57516</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Cables</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181710</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181711</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PLC Chassis</CategoryName>
+     <CategoryParentID>57516</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Chassis</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181712</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PLC Software</CategoryName>
+     <CategoryParentID>57516</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Software</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181712</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181713</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PLC Peripheral Modules</CategoryName>
+     <CategoryParentID>57516</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:PLC Peripheral Modules</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181713</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

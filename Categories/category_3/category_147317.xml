@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:41:58.907Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>147317</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boys&apos; Clothing (Newborn-5T)</CategoryName>
+     <CategoryParentID>3082</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T)</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57793</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottoms</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Bottoms</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:57793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57784</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>One-Pieces</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):One-Pieces</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:57784</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147324</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outerwear</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Outerwear</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:147324</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147333</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outfits and Sets</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Outfits and Sets</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:147333</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147336</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sleepwear</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Sleepwear</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:147336</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163220</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Socks</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Socks</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:163220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147337</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Suits</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Suits</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:147337</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147338</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sweaters</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Sweaters</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:147338</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147339</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swimwear</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Swimwear</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:147339</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147340</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tops and T-Shirts</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Tops and T-Shirts</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:147340</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147341</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Underwear</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Underwear</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:147341</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147342</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Items and Lots</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Mixed Items and Lots</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:147342</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147343</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Newborn-5T Boys Clothes</CategoryName>
+     <CategoryParentID>147317</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T):Other Newborn-5T Boys Clothes</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317:147343</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:27:14.735Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35041</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Originals-International</CategoryName>
+     <CategoryParentID>18828</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Originals-International</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:35041</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25470</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pre-1940</CategoryName>
+     <CategoryParentID>35041</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Originals-International:Pre-1940</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:35041:25470</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60347</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1940-49</CategoryName>
+     <CategoryParentID>35041</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Originals-International:1940-49</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:35041:60347</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60348</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1950-59</CategoryName>
+     <CategoryParentID>35041</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Originals-International:1950-59</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:35041:60348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60349</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1960-69</CategoryName>
+     <CategoryParentID>35041</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Originals-International:1960-69</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:35041:60349</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61107</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1970-79</CategoryName>
+     <CategoryParentID>35041</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Originals-International:1970-79</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:35041:61107</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35043</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1980-89</CategoryName>
+     <CategoryParentID>35041</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Originals-International:1980-89</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:35041:35043</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35044</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1990-99</CategoryName>
+     <CategoryParentID>35041</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Originals-International:1990-99</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:35041:35044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61108</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>2000-Now</CategoryName>
+     <CategoryParentID>35041</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Originals-International:2000-Now</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:35041:61108</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163886</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Current Releases</CategoryName>
+     <CategoryParentID>35041</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Posters:Originals-International:Current Releases</CategoryNamePath>
+     <CategoryIDPath>45100:196:18828:35041:163886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

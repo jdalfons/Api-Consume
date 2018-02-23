@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:13.442Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>100927</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Periods and Styles</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Periods and Styles</CategoryNamePath>
+     <CategoryIDPath>20081:100927</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100928</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Aesthetic Movement</CategoryName>
+     <CategoryParentID>100927</CategoryParentID>
+     <CategoryNamePath>Antiques:Periods and Styles:Aesthetic Movement</CategoryNamePath>
+     <CategoryIDPath>20081:100927:100928</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69471</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Art Deco</CategoryName>
+     <CategoryParentID>100927</CategoryParentID>
+     <CategoryNamePath>Antiques:Periods and Styles:Art Deco</CategoryNamePath>
+     <CategoryIDPath>20081:100927:69471</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69472</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Art Nouveau</CategoryName>
+     <CategoryParentID>100927</CategoryParentID>
+     <CategoryNamePath>Antiques:Periods and Styles:Art Nouveau</CategoryNamePath>
+     <CategoryIDPath>20081:100927:69472</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>96768</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Arts and Crafts Movement</CategoryName>
+     <CategoryParentID>100927</CategoryParentID>
+     <CategoryNamePath>Antiques:Periods and Styles:Arts and Crafts Movement</CategoryNamePath>
+     <CategoryIDPath>20081:100927:96768</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69473</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mid-Century Modernism</CategoryName>
+     <CategoryParentID>100927</CategoryParentID>
+     <CategoryNamePath>Antiques:Periods and Styles:Mid-Century Modernism</CategoryNamePath>
+     <CategoryIDPath>20081:100927:69473</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151738</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Victorian</CategoryName>
+     <CategoryParentID>100927</CategoryParentID>
+     <CategoryNamePath>Antiques:Periods and Styles:Victorian</CategoryNamePath>
+     <CategoryIDPath>20081:100927:151738</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171179</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>100927</CategoryParentID>
+     <CategoryNamePath>Antiques:Periods and Styles:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>20081:100927:171179</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163128</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Antique Periods and Styles</CategoryName>
+     <CategoryParentID>100927</CategoryParentID>
+     <CategoryNamePath>Antiques:Periods and Styles:Other Antique Periods and Styles</CategoryNamePath>
+     <CategoryIDPath>20081:100927:163128</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

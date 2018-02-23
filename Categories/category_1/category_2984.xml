@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:11:04.738Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2984</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Baby</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Baby</CategoryNamePath>
+     <CategoryIDPath>2984</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100223</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Baby Gear</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Gear</CategoryNamePath>
+     <CategoryIDPath>2984:100223</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20433</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Baby Safety and Health</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Baby Safety and Health</CategoryNamePath>
+     <CategoryIDPath>2984:20433</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20394</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bathing and Grooming</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming</CategoryNamePath>
+     <CategoryIDPath>2984:20394</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66692</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Car Safety Seats</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Car Safety Seats</CategoryNamePath>
+     <CategoryIDPath>2984:66692</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100982</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Carriers Slings and Backpacks</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Carriers Slings and Backpacks</CategoryNamePath>
+     <CategoryIDPath>2984:100982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45455</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Diapering</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Diapering</CategoryNamePath>
+     <CategoryIDPath>2984:45455</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20400</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Feeding</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Feeding</CategoryNamePath>
+     <CategoryIDPath>2984:20400</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117388</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Keepsakes and Baby Announcements</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Keepsakes and Baby Announcements</CategoryNamePath>
+     <CategoryIDPath>2984:117388</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20416</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Nursery Bedding</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Bedding</CategoryNamePath>
+     <CategoryIDPath>2984:20416</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66697</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Nursery Décor</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor</CategoryNamePath>
+     <CategoryIDPath>2984:66697</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20422</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Nursery Furniture</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Furniture</CategoryNamePath>
+     <CategoryIDPath>2984:20422</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37631</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Potty Training</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Potty Training</CategoryNamePath>
+     <CategoryIDPath>2984:37631</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66698</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Strollers and Accessories</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories</CategoryNamePath>
+     <CategoryIDPath>2984:66698</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19068</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Toys for Baby</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Toys for Baby</CategoryNamePath>
+     <CategoryIDPath>2984:19068</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1261</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Baby</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Other Baby</CategoryNamePath>
+     <CategoryIDPath>2984:1261</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48757</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>2984:48757</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:36:57.301Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>29521</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Watering Equipment</CategoryName>
+     <CategoryParentID>2032</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181013</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Connectors Clamps and Fittings</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Connectors Clamps and Fittings</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:181013</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139909</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Drip Irrigation</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Drip Irrigation</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:139909</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151604</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hoses</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Hoses</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:151604</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46435</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hose Reels and Storage</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Hose Reels and Storage</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:46435</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181014</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hose Guides</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Hose Guides</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:181014</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181015</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hose Nozzles and Wands</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Hose Nozzles and Wands</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:181015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20542</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lawn Sprinklers</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Lawn Sprinklers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:20542</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181012</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spigots</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Spigots</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:181012</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75673</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Valves</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Valves</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:75673</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20547</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Watering Cans</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Watering Cans</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:20547</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118851</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Water Pumps and Pressure Tanks</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Water Pumps and Pressure Tanks</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:118851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139915</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Water Storage and Rain Barrels</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Water Storage and Rain Barrels</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:139915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75672</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Watering Timers and Controllers</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Watering Timers and Controllers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:75672</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29522</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Watering Equipment</CategoryName>
+     <CategoryParentID>29521</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Watering Equipment:Other Watering Equipment</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:29521:29522</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

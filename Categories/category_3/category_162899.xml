@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:32:03.376Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>162899</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hall Trees and Stands</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Hall Trees and Stands</CategoryNamePath>
+     <CategoryIDPath>20081:20091:162899</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162900</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1800</CategoryName>
+     <CategoryParentID>162899</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Hall Trees and Stands:Pre-1800</CategoryNamePath>
+     <CategoryIDPath>20081:20091:162899:162900</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162901</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1800-1899</CategoryName>
+     <CategoryParentID>162899</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Hall Trees and Stands:1800-1899</CategoryNamePath>
+     <CategoryIDPath>20081:20091:162899:162901</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162902</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1900-1950</CategoryName>
+     <CategoryParentID>162899</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Hall Trees and Stands:1900-1950</CategoryNamePath>
+     <CategoryIDPath>20081:20091:162899:162902</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162903</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Post-1950</CategoryName>
+     <CategoryParentID>162899</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Hall Trees and Stands:Post-1950</CategoryNamePath>
+     <CategoryIDPath>20081:20091:162899:162903</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162904</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown</CategoryName>
+     <CategoryParentID>162899</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Hall Trees and Stands:Unknown</CategoryNamePath>
+     <CategoryIDPath>20081:20091:162899:162904</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

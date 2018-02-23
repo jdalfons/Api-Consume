@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:39:42.301Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183754</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Floor and Carpet Sweepers</CategoryName>
+     <CategoryParentID>184312</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Floor and Upholstery Cleaning:Floor and Carpet Sweepers</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184312:183754</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66969</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ride-On Sweepers</CategoryName>
+     <CategoryParentID>183754</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Floor and Upholstery Cleaning:Floor and Carpet Sweepers:Ride-On Sweepers</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184312:183754:66969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53285</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Walk-Behind Sweepers</CategoryName>
+     <CategoryParentID>183754</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Floor and Upholstery Cleaning:Floor and Carpet Sweepers:Walk-Behind Sweepers</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184312:183754:53285</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183755</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sweeper Parts and Accessories</CategoryName>
+     <CategoryParentID>183754</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Floor and Upholstery Cleaning:Floor and Carpet Sweepers:Sweeper Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184312:183754:183755</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

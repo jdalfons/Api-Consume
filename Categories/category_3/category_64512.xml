@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:16:20.348Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>64512</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rings</CategoryName>
+     <CategoryParentID>40131</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Rings</CategoryNamePath>
+     <CategoryIDPath>281:40131:64512</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64513</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>CZ Diamond Simulants</CategoryName>
+     <CategoryParentID>64512</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Rings:CZ Diamond Simulants</CategoryNamePath>
+     <CategoryIDPath>281:40131:64512:64513</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64514</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Silver</CategoryName>
+     <CategoryParentID>64512</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Rings:Silver</CategoryNamePath>
+     <CategoryIDPath>281:40131:64512:64514</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64515</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>64512</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Rings:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>281:40131:64512:64515</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48761</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wholesale Rings</CategoryName>
+     <CategoryParentID>64512</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Rings:Other Wholesale Rings</CategoryNamePath>
+     <CategoryIDPath>281:40131:64512:48761</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

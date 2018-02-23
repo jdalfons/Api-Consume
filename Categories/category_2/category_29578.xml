@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:30:05.392Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>29578</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vacation Packages</CategoryName>
+     <CategoryParentID>3252</CategoryParentID>
+     <CategoryNamePath>Travel:Vacation Packages</CategoryNamePath>
+     <CategoryIDPath>3252:29578</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3256</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>With Air</CategoryName>
+     <CategoryParentID>29578</CategoryParentID>
+     <CategoryNamePath>Travel:Vacation Packages:With Air</CategoryNamePath>
+     <CategoryIDPath>3252:29578:3256</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29579</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Without Air</CategoryName>
+     <CategoryParentID>29578</CategoryParentID>
+     <CategoryNamePath>Travel:Vacation Packages:Without Air</CategoryNamePath>
+     <CategoryIDPath>3252:29578:29579</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

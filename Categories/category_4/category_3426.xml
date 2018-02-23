@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:56:43.848Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3426</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canada</CategoryName>
+     <CategoryParentID>45338</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Canada</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:3426</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3429</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bank of Canada</CategoryName>
+     <CategoryParentID>3426</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Canada:Bank of Canada</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:3426:3429</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27442</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Canadian Tire Money</CategoryName>
+     <CategoryParentID>3426</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Canada:Canadian Tire Money</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:3426:27442</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3430</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dominion of Canada</CategoryName>
+     <CategoryParentID>3426</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Canada:Dominion of Canada</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:3426:3430</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3425</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Canadian Paper Money</CategoryName>
+     <CategoryParentID>3426</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America:Canada:Other Canadian Paper Money</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338:3426:3425</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

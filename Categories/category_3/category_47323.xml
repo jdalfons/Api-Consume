@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:08.721Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>47323</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Golf Club Components</CategoryName>
+     <CategoryParentID>1513</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Club Components</CategoryNamePath>
+     <CategoryIDPath>888:1513:47323</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47324</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Club Grips</CategoryName>
+     <CategoryParentID>47323</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Club Components:Golf Club Grips</CategoryNamePath>
+     <CategoryIDPath>888:1513:47323:47324</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47325</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Club Heads</CategoryName>
+     <CategoryParentID>47323</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Club Components:Golf Club Heads</CategoryNamePath>
+     <CategoryIDPath>888:1513:47323:47325</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47326</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Club Shafts</CategoryName>
+     <CategoryParentID>47323</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Club Components:Golf Club Shafts</CategoryNamePath>
+     <CategoryIDPath>888:1513:47323:47326</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179281</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Equip. Tools and Supplies</CategoryName>
+     <CategoryParentID>47323</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Club Components:Golf Equip. Tools and Supplies</CategoryNamePath>
+     <CategoryIDPath>888:1513:47323:179281</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36192</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Golf Club Components</CategoryName>
+     <CategoryParentID>47323</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Club Components:Other Golf Club Components</CategoryNamePath>
+     <CategoryIDPath>888:1513:47323:36192</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

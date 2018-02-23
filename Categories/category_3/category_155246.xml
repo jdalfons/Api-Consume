@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:42:40.252Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>155246</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>India and Pakistan</CategoryName>
+     <CategoryParentID>155240</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:India and Pakistan</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155246</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155247</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Choli</CategoryName>
+     <CategoryParentID>155246</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:India and Pakistan:Choli</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155246:155247</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155248</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kurta</CategoryName>
+     <CategoryParentID>155246</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:India and Pakistan:Kurta</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155246:155248</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155249</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Salwar Kameez</CategoryName>
+     <CategoryParentID>155246</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:India and Pakistan:Salwar Kameez</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155246:155249</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155250</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sari Saree</CategoryName>
+     <CategoryParentID>155246</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:India and Pakistan:Sari Saree</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155246:155250</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155251</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Ind-Pak Clothes and Accs</CategoryName>
+     <CategoryParentID>155246</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:India and Pakistan:Other Ind-Pak Clothes and Accs</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155246:155251</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

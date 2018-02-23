@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:57:29.926Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10793</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coffee and Tea</CategoryName>
+     <CategoryParentID>13587</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Coffee and Tea</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10793</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165218</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Folger’s</CategoryName>
+     <CategoryParentID>10793</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Coffee and Tea:Folger’s</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10793:165218</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13584</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lipton</CategoryName>
+     <CategoryParentID>10793</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Coffee and Tea:Lipton</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10793:13584</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10794</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Maxwell House</CategoryName>
+     <CategoryParentID>10793</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Coffee and Tea:Maxwell House</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10793:10794</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165219</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nescafe</CategoryName>
+     <CategoryParentID>10793</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Coffee and Tea:Nescafe</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10793:165219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10795</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Starbucks</CategoryName>
+     <CategoryParentID>10793</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Coffee and Tea:Starbucks</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10793:10795</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165220</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tim Horton’s</CategoryName>
+     <CategoryParentID>10793</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Coffee and Tea:Tim Horton’s</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10793:165220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165221</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Merchandise and Memorabilia</CategoryName>
+     <CategoryParentID>10793</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Coffee and Tea:Merchandise and Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10793:165221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>865</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Coffee and Tea Ads</CategoryName>
+     <CategoryParentID>10793</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Coffee and Tea:Other Coffee and Tea Ads</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10793:865</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

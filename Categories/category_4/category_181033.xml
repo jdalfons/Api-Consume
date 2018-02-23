@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:36:41.926Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181033</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garden Tools and Equipment</CategoryName>
+     <CategoryParentID>2032</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151620</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Axes and Hatchets</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Axes and Hatchets</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:151620</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75664</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bonsai Tools</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Bonsai Tools</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:75664</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122906</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Forks</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Forks</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:122906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181010</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fruit Pickers</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Fruit Pickers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:181010</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139872</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hedge and Grass Shears</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Hedge and Grass Shears</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:139872</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118868</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hoes and Cultivators</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Hoes and Cultivators</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:118868</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115775</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lawn Aerators</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Lawn Aerators</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:115775</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>161015</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lawn Rollers</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Lawn Rollers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:161015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139868</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Loppers</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Loppers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:139868</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178980</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Manual Edgers</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Manual Edgers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:178980</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178982</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mattocks and Picks</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Mattocks and Picks</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:178982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178981</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Post Hole Diggers and Augers</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Post Hole Diggers and Augers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:178981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139871</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pruning Shears and Snips</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Pruning Shears and Snips</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:139871</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118864</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rakes</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Rakes</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:118864</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139869</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Saws</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Saws</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:139869</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139870</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Scythes and Sickles</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Scythes and Sickles</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:139870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178983</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Shovels</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Shovels</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:178983</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122907</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Trowels</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Trowels</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:122907</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75671</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wheelbarrows Carts and Wagons</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Wheelbarrows Carts and Wagons</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:75671</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181011</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Garden Tool Racks</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Garden Tool Racks</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:181011</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118867</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Garden Tool Sets</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Garden Tool Sets</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:118867</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178978</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:178978</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3186</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Garden Tools and Equipment</CategoryName>
+     <CategoryParentID>181033</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Garden Tools and Equipment:Other Garden Tools and Equipment</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181033:3186</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>24</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

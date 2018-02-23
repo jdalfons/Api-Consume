@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:18:56.035Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1446</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Religion and Spirituality</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality</CategoryNamePath>
+     <CategoryIDPath>1:1446</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165666</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Buddhism</CategoryName>
+     <CategoryParentID>1446</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11668</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Christianity</CategoryName>
+     <CategoryParentID>1446</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Christianity</CategoryNamePath>
+     <CategoryIDPath>1:1446:11668</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165683</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hinduism</CategoryName>
+     <CategoryParentID>1446</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Hinduism</CategoryNamePath>
+     <CategoryIDPath>1:1446:165683</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165688</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Islam</CategoryName>
+     <CategoryParentID>1446</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Islam</CategoryNamePath>
+     <CategoryIDPath>1:1446:165688</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13773</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Judaism</CategoryName>
+     <CategoryParentID>1446</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Judaism</CategoryNamePath>
+     <CategoryIDPath>1:1446:13773</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35831</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wicca and Paganism</CategoryName>
+     <CategoryParentID>1446</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Wicca and Paganism</CategoryNamePath>
+     <CategoryIDPath>1:1446:35831</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>366</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Spiritual Collectibles</CategoryName>
+     <CategoryParentID>1446</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Other Spiritual Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:1446:366</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

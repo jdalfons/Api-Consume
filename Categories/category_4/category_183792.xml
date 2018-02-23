@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:39:51.426Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183792</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pest Repellants and Poisons</CategoryName>
+     <CategoryParentID>183778</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Pest Repellants and Poisons</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183792</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183793</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pest Control Bait and Stations</CategoryName>
+     <CategoryParentID>183792</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Pest Repellants and Poisons:Pest Control Bait and Stations</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183792:183793</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183797</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pest Control Dusts and Powders</CategoryName>
+     <CategoryParentID>183792</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Pest Repellants and Poisons:Pest Control Dusts and Powders</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183792:183797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183798</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pest Control Fill Fabrics</CategoryName>
+     <CategoryParentID>183792</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Pest Repellants and Poisons:Pest Control Fill Fabrics</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183792:183798</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183799</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pest Control Foggers</CategoryName>
+     <CategoryParentID>183792</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Pest Repellants and Poisons:Pest Control Foggers</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183792:183799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183800</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pest Control Gels</CategoryName>
+     <CategoryParentID>183792</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Pest Repellants and Poisons:Pest Control Gels</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183792:183800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183801</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pest Control Sprays</CategoryName>
+     <CategoryParentID>183792</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Pest Repellants and Poisons:Pest Control Sprays</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183792:183801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183803</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ultrasonic Pest Repellers</CategoryName>
+     <CategoryParentID>183792</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Pest Repellants and Poisons:Ultrasonic Pest Repellers</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183792:183803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183804</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pest Control Treatment Kits</CategoryName>
+     <CategoryParentID>183792</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Pest Repellants and Poisons:Pest Control Treatment Kits</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183792:183804</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

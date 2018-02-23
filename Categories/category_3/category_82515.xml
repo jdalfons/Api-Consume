@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:56:44.192Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>82515</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shells</CategoryName>
+     <CategoryParentID>3213</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82516</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Abalone</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Abalone</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:82516</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157011</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bursa</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Bursa</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157011</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157012</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clam</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Clam</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157012</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82517</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Conch</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Conch</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:82517</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82518</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Conus</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Conus</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:82518</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82519</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coral</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Coral</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:82519</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157013</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cowrie</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Cowrie</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157013</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82520</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cypraea</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Cypraea</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:82520</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157014</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mitra</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Mitra</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157014</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82521</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Murex</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Murex</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:82521</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157015</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nautilus</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Nautilus</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157016</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sand Dollar</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Sand Dollar</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157016</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157017</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scallop</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Scallop</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157017</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157018</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sea Urchin</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Sea Urchin</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157019</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Starfish</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Starfish</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157020</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Strombus</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Strombus</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157020</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157021</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Turbo</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Turbo</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157022</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Voluta</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Voluta</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:157022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4838</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Shells</CategoryName>
+     <CategoryParentID>82515</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Shells:Other Collectible Shells</CategoryNamePath>
+     <CategoryIDPath>1:3213:82515:4838</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

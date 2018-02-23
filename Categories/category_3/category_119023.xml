@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:18:08.113Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>119023</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage String</CategoryName>
+     <CategoryParentID>181162</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage String</CategoryNamePath>
+     <CategoryIDPath>619:181162:119023</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181255</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Orchestral</CategoryName>
+     <CategoryParentID>119023</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage String:Orchestral</CategoryNamePath>
+     <CategoryIDPath>619:181162:119023:181255</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181260</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Folk and World</CategoryName>
+     <CategoryParentID>119023</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage String:Folk and World</CategoryNamePath>
+     <CategoryIDPath>619:181162:119023:181260</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182217</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>119023</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage String:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>619:181162:119023:182217</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119027</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage String</CategoryName>
+     <CategoryParentID>119023</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage String:Other Vintage String</CategoryNamePath>
+     <CategoryIDPath>619:181162:119023:119027</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

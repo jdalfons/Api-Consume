@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:34:08.563Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>166838</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sex Toys</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys</CategoryNamePath>
+     <CategoryIDPath>99:319:166838</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166839</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Anal Plugs</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Anal Plugs</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166839</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166840</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ben Wa Balls</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Ben Wa Balls</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166840</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166841</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bondage</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Bondage</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166841</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166842</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cock Rings</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Cock Rings</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166843</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dildos</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Dildos</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166843</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166844</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kits</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Kits</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166844</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166845</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Love Dolls</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Love Dolls</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166845</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166846</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Male Masturbators</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Male Masturbators</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166846</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166847</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nipple Toys</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Nipple Toys</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166847</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166848</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Oral Sex Toys</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Oral Sex Toys</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166848</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166849</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Penis Enhancers</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Penis Enhancers</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166849</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166850</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Penis Pumps</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Penis Pumps</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166850</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166851</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pussy Pumps</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Pussy Pumps</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166852</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Strap-On Sex Toys</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Strap-On Sex Toys</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166852</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166853</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vibrators</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Vibrators</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166853</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4793</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Sex Toys</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Other Sex Toys</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:4793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166854</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>166838</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Toys:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>99:319:166838:166854</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

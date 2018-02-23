@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:31:54.142Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63561</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cabinets and Cupboards</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Cabinets and Cupboards</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63561</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63562</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1800</CategoryName>
+     <CategoryParentID>63561</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Cabinets and Cupboards:Pre-1800</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63561:63562</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63563</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1800-1899</CategoryName>
+     <CategoryParentID>63561</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Cabinets and Cupboards:1800-1899</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63561:63563</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63564</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1900-1950</CategoryName>
+     <CategoryParentID>63561</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Cabinets and Cupboards:1900-1950</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63561:63564</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156310</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Post-1950</CategoryName>
+     <CategoryParentID>63561</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Cabinets and Cupboards:Post-1950</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63561:156310</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162892</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown</CategoryName>
+     <CategoryParentID>63561</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Cabinets and Cupboards:Unknown</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63561:162892</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

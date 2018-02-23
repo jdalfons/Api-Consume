@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:37:49.723Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181067</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pool Equipment and Parts</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181068</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Covers and Rollers</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool Covers and Rollers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:181068</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167851</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Fences</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool Fences</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:167851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116412</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Filters</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool Filters</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:116412</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42239</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Heaters and Solar Panels</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool Heaters and Solar Panels</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:42239</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167847</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Ladders and Steps</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool Ladders and Steps</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:167847</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79676</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Liners</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool Liners</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:79676</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181485</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Pumps</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool Pumps</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:181485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167862</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool and Spa Lights</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool and Spa Lights</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:167862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181069</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Skimmer Systems and Baskets</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool Skimmer Systems and Baskets</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:181069</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181072</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Slides and Diving Boards</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool Slides and Diving Boards</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:181072</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181070</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pool Equipment Parts and Accs</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Pool Equipment Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:181070</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181071</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Pool Equipment and Parts</CategoryName>
+     <CategoryParentID>181067</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts:Other Pool Equipment and Parts</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067:181071</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

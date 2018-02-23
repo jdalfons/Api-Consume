@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:28:23.876Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181420</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Worldwide</CategoryName>
+     <CategoryParentID>260</CategoryParentID>
+     <CategoryNamePath>Stamps:Worldwide</CategoryNamePath>
+     <CategoryIDPath>260:181420</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>700</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>First Day Covers</CategoryName>
+     <CategoryParentID>181420</CategoryParentID>
+     <CategoryNamePath>Stamps:Worldwide:First Day Covers</CategoryNamePath>
+     <CategoryIDPath>260:181420:700</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123783</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Omnibus Issues</CategoryName>
+     <CategoryParentID>181420</CategoryParentID>
+     <CategoryNamePath>Stamps:Worldwide:Omnibus Issues</CategoryNamePath>
+     <CategoryIDPath>260:181420:123783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7908</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Philatelic Covers</CategoryName>
+     <CategoryParentID>181420</CategoryParentID>
+     <CategoryNamePath>Stamps:Worldwide:Philatelic Covers</CategoryNamePath>
+     <CategoryIDPath>260:181420:7908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65184</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Postal History</CategoryName>
+     <CategoryParentID>181420</CategoryParentID>
+     <CategoryNamePath>Stamps:Worldwide:Postal History</CategoryNamePath>
+     <CategoryIDPath>260:181420:65184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3515</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>United Nations</CategoryName>
+     <CategoryParentID>181420</CategoryParentID>
+     <CategoryNamePath>Stamps:Worldwide:United Nations</CategoryNamePath>
+     <CategoryIDPath>260:181420:3515</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>698</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>World: Errors Freaks Oddities</CategoryName>
+     <CategoryParentID>181420</CategoryParentID>
+     <CategoryNamePath>Stamps:Worldwide:World: Errors Freaks Oddities</CategoryNamePath>
+     <CategoryIDPath>260:181420:698</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7921</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collections Lots</CategoryName>
+     <CategoryParentID>181420</CategoryParentID>
+     <CategoryNamePath>Stamps:Worldwide:Collections Lots</CategoryNamePath>
+     <CategoryIDPath>260:181420:7921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>264</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Worldwide Stamps</CategoryName>
+     <CategoryParentID>181420</CategoryParentID>
+     <CategoryNamePath>Stamps:Worldwide:Other Worldwide Stamps</CategoryNamePath>
+     <CategoryIDPath>260:181420:264</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

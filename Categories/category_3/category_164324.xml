@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:52.299Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>164324</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fine Jewelry Sets</CategoryName>
+     <CategoryParentID>4196</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Jewelry Sets</CategoryNamePath>
+     <CategoryIDPath>281:4196:164324</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164326</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Diamonds and Gemstones</CategoryName>
+     <CategoryParentID>164324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Jewelry Sets:Diamonds and Gemstones</CategoryNamePath>
+     <CategoryIDPath>281:4196:164324:164326</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164327</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pearl</CategoryName>
+     <CategoryParentID>164324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Jewelry Sets:Pearl</CategoryNamePath>
+     <CategoryIDPath>281:4196:164324:164327</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164325</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Precious Metal without Stones</CategoryName>
+     <CategoryParentID>164324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Jewelry Sets:Precious Metal without Stones</CategoryNamePath>
+     <CategoryIDPath>281:4196:164324:164325</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164328</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fine Jewelry Sets</CategoryName>
+     <CategoryParentID>164324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Jewelry Sets:Other Fine Jewelry Sets</CategoryNamePath>
+     <CategoryIDPath>281:4196:164324:164328</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

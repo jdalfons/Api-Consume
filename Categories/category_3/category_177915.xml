@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:13.190Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177915</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electronic Learning Toys</CategoryName>
+     <CategoryParentID>11731</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Electronic Learning Toys</CategoryNamePath>
+     <CategoryIDPath>220:11731:177915</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158695</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Learning Systems</CategoryName>
+     <CategoryParentID>177915</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Electronic Learning Toys:Learning Systems</CategoryNamePath>
+     <CategoryIDPath>220:11731:177915:158695</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177916</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Game Cartridges and Game Books</CategoryName>
+     <CategoryParentID>177915</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Electronic Learning Toys:Game Cartridges and Game Books</CategoryNamePath>
+     <CategoryIDPath>220:11731:177915:177916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177917</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cases and Accessories</CategoryName>
+     <CategoryParentID>177915</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Electronic Learning Toys:Cases and Accessories</CategoryNamePath>
+     <CategoryIDPath>220:11731:177915:177917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145932</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Electronic Learning Toys</CategoryName>
+     <CategoryParentID>177915</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Educational:Electronic Learning Toys:Other Electronic Learning Toys</CategoryNamePath>
+     <CategoryIDPath>220:11731:177915:145932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

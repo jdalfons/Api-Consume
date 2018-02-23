@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:10.329Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181129</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Golf Training Aids</CategoryName>
+     <CategoryParentID>1513</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Training Aids</CategoryNamePath>
+     <CategoryIDPath>888:1513:181129</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50876</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nets Cages and Mats</CategoryName>
+     <CategoryParentID>181129</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Training Aids:Nets Cages and Mats</CategoryNamePath>
+     <CategoryIDPath>888:1513:181129:50876</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36234</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Putting Greens and Aids</CategoryName>
+     <CategoryParentID>181129</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Training Aids:Putting Greens and Aids</CategoryNamePath>
+     <CategoryIDPath>888:1513:181129:36234</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83037</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swing Trainers</CategoryName>
+     <CategoryParentID>181129</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Training Aids:Swing Trainers</CategoryNamePath>
+     <CategoryIDPath>888:1513:181129:83037</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14109</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Golf Training Aids</CategoryName>
+     <CategoryParentID>181129</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Training Aids:Other Golf Training Aids</CategoryNamePath>
+     <CategoryIDPath>888:1513:181129:14109</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:26:48.938Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>24409</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fan Apparel and Souvenirs</CategoryName>
+     <CategoryParentID>64482</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs</CategoryNamePath>
+     <CategoryIDPath>64482:24409</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>24441</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baseball-Minors</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Baseball-Minors</CategoryNamePath>
+     <CategoryIDPath>64482:24409:24441</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>24410</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baseball-MLB</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Baseball-MLB</CategoryNamePath>
+     <CategoryIDPath>64482:24409:24410</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78129</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baseball-Negro Leagues</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Baseball-Negro Leagues</CategoryNamePath>
+     <CategoryIDPath>64482:24409:78129</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>204</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baseball-Other</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Baseball-Other</CategoryNamePath>
+     <CategoryIDPath>64482:24409:204</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>24442</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Basketball-NBA</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Basketball-NBA</CategoryNamePath>
+     <CategoryIDPath>64482:24409:24442</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2851</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Basketball-WNBA</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Basketball-WNBA</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>205</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Basketball-Other</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Basketball-Other</CategoryNamePath>
+     <CategoryIDPath>64482:24409:205</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1227</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boxing</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Boxing</CategoryNamePath>
+     <CategoryIDPath>64482:24409:1227</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>24541</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>College-NCAA</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:College-NCAA</CategoryNamePath>
+     <CategoryIDPath>64482:24409:24541</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2861</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Football-CFL</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Football-CFL</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>206</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Football-NFL</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Football-NFL</CategoryNamePath>
+     <CategoryIDPath>64482:24409:206</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37753</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Football-Other</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Football-Other</CategoryNamePath>
+     <CategoryIDPath>64482:24409:37753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>428</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Golf</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Golf</CategoryNamePath>
+     <CategoryIDPath>64482:24409:428</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2870</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hockey-Minors</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Hockey-Minors</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>24510</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hockey-NHL</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Hockey-NHL</CategoryNamePath>
+     <CategoryIDPath>64482:24409:24510</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2868</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hockey-Team Canada</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Hockey-Team Canada</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2868</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>780</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hockey-Other</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Hockey-Other</CategoryNamePath>
+     <CategoryIDPath>64482:24409:780</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>429</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Horse Racing</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Horse Racing</CategoryNamePath>
+     <CategoryIDPath>64482:24409:429</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177913</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mixed Martial Arts (MMA)</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Mixed Martial Arts (MMA)</CategoryNamePath>
+     <CategoryIDPath>64482:24409:177913</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27291</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Olympics</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Olympics</CategoryNamePath>
+     <CategoryIDPath>64482:24409:27291</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2876</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Racing-Formula 1</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Racing-Formula 1</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2876</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1228</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Racing-Indy</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Racing-Indy</CategoryNamePath>
+     <CategoryIDPath>64482:24409:1228</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46156</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Racing-NASCAR</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Racing-NASCAR</CategoryNamePath>
+     <CategoryIDPath>64482:24409:46156</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2878</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Racing-NHRA</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Racing-NHRA</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2878</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2875</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Racing-Other</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Racing-Other</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2875</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2887</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Soccer-International Clubs</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Soccer-International Clubs</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2888</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Soccer-MLS</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Soccer-MLS</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2888</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2891</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Soccer-National Teams</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Soccer-National Teams</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2891</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2885</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Soccer-Other</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Soccer-Other</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2885</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>430</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tennis</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Tennis</CategoryNamePath>
+     <CategoryIDPath>64482:24409:430</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2902</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wrestling</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Wrestling</CategoryNamePath>
+     <CategoryIDPath>64482:24409:2902</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>465</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Fan Apparel and Souvenirs</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Other Fan Apparel and Souvenirs</CategoryNamePath>
+     <CategoryIDPath>64482:24409:465</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50134</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>24409</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Fan Apparel and Souvenirs:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>64482:24409:50134</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>34</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

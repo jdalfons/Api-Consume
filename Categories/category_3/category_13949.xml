@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:53:46.488Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13949</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kitchen Textiles</CategoryName>
+     <CategoryParentID>940</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Kitchen Textiles</CategoryNamePath>
+     <CategoryIDPath>1:940:13949</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13950</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Appliance Covers</CategoryName>
+     <CategoryParentID>13949</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Kitchen Textiles:Appliance Covers</CategoryNamePath>
+     <CategoryIDPath>1:940:13949:13950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13951</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Aprons</CategoryName>
+     <CategoryParentID>13949</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Kitchen Textiles:Aprons</CategoryNamePath>
+     <CategoryIDPath>1:940:13949:13951</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13952</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Potholders and Oven Mitts</CategoryName>
+     <CategoryParentID>13949</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Kitchen Textiles:Potholders and Oven Mitts</CategoryNamePath>
+     <CategoryIDPath>1:940:13949:13952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13953</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Towels</CategoryName>
+     <CategoryParentID>13949</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Kitchen Textiles:Towels</CategoryNamePath>
+     <CategoryIDPath>1:940:13949:13953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>944</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Kitchen Textiles</CategoryName>
+     <CategoryParentID>13949</CategoryParentID>
+     <CategoryNamePath>Collectibles:Linens and Textiles (1930-Now):Kitchen Textiles:Other Vintage Kitchen Textiles</CategoryNamePath>
+     <CategoryIDPath>1:940:13949:944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

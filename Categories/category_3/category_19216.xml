@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:32:35.032Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19216</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Disney</CategoryName>
+     <CategoryParentID>2624</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50308</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>101 Dalmatians</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:101 Dalmatians</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:50308</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44033</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beauty and the Beast</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Beauty and the Beast</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:44033</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50309</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bug&apos;s Life</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Bug&apos;s Life</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:50309</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>142316</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cars</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Cars</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:142316</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146029</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chicken Little</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Chicken Little</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:146029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44034</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cinderella</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Cinderella</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:44034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146030</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Disney Princesses</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Disney Princesses</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:146030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166789</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Disney Villains</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Disney Villains</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:166789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19217</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Donald Duck</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Donald Duck</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:19217</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50310</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Finding Nemo</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Finding Nemo</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:50310</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19218</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Goofy</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Goofy</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:19218</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158763</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hannah Montana</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Hannah Montana</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:158763</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158764</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>High School Musical</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:High School Musical</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:158764</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95254</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Incredibles</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Incredibles</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:95254</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158765</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jungle Book</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Jungle Book</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:158765</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50311</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kim Possible</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Kim Possible</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:50311</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44035</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lilo and Stitch</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Lilo and Stitch</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:44035</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158766</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Little Einsteins</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Little Einsteins</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:158766</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44036</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Little Mermaid</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Little Mermaid</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:44036</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44037</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lion King</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Lion King</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:44037</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50312</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lizzie McGuire</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Lizzie McGuire</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:50312</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19219</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mickey</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Mickey</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:19219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19220</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Minnie</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Minnie</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:19220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44038</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Monsters Inc.</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Monsters Inc.</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:44038</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36586</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nightmare Before Christmas</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Nightmare Before Christmas</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:36586</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>142334</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pirates of the Caribbean</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Pirates of the Caribbean</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:142334</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19221</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pluto</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Pluto</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:19221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158767</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ratatouille</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Ratatouille</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:158767</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19222</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Snow White</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Snow White</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:19222</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146041</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tinker Bell Peter Pan</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Tinker Bell Peter Pan</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:146041</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19223</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Toy Story</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Toy Story</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:19223</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168209</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wall-E</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Wall-E</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:168209</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19224</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Disney Toys</CategoryName>
+     <CategoryParentID>19216</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:TV Movie and Character Toys:Disney:Other Disney Toys</CategoryNamePath>
+     <CategoryIDPath>220:2624:19216:19224</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>34</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

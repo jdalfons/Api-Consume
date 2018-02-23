@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:29.504Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>48446</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Multipurpose Batteries and Power</CategoryName>
+     <CategoryParentID>293</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power</CategoryNamePath>
+     <CategoryIDPath>293:48446</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48618</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Battery Chargers</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Battery Chargers</CategoryNamePath>
+     <CategoryIDPath>293:48446:48618</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172011</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Battery Converters</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Battery Converters</CategoryNamePath>
+     <CategoryIDPath>293:48446:172011</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79845</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Battery Testers</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Battery Testers</CategoryNamePath>
+     <CategoryIDPath>293:48446:79845</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175729</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Heavy-Duty Voltage Converters</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Heavy-Duty Voltage Converters</CategoryNamePath>
+     <CategoryIDPath>293:48446:175729</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88758</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Multipurpose AC to DC Adapters</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Multipurpose AC to DC Adapters</CategoryNamePath>
+     <CategoryIDPath>293:48446:88758</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116852</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Power Cables and Connectors</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Power Cables and Connectors</CategoryNamePath>
+     <CategoryIDPath>293:48446:116852</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48619</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rechargeable Batteries</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Rechargeable Batteries</CategoryNamePath>
+     <CategoryIDPath>293:48446:48619</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50602</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Single Use Batteries</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Single Use Batteries</CategoryNamePath>
+     <CategoryIDPath>293:48446:50602</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67779</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Surge Protectors Power Strips</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Surge Protectors Power Strips</CategoryNamePath>
+     <CategoryIDPath>293:48446:67779</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88759</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Travel Adapters and Converters</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Travel Adapters and Converters</CategoryNamePath>
+     <CategoryIDPath>293:48446:88759</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79846</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Multipurpose Batteries</CategoryName>
+     <CategoryParentID>48446</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Multipurpose Batteries and Power:Other Multipurpose Batteries</CategoryNamePath>
+     <CategoryIDPath>293:48446:79846</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

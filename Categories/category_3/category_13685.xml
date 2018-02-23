@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:55:09.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13685</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pin Up</CategoryName>
+     <CategoryParentID>124</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Pin Up</CategoryNamePath>
+     <CategoryIDPath>1:124:13685</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3899</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage (Pre-1970)</CategoryName>
+     <CategoryParentID>13685</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Pin Up:Vintage (Pre-1970)</CategoryNamePath>
+     <CategoryIDPath>1:124:13685:3899</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4948</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Contemporary (1970-Now)</CategoryName>
+     <CategoryParentID>13685</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Pin Up:Contemporary (1970-Now)</CategoryNamePath>
+     <CategoryIDPath>1:124:13685:4948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

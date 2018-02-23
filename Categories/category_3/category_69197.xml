@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:11:27.204Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>69197</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Heating Cooling and Air</CategoryName>
+     <CategoryParentID>159907</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69202</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Conditioners</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Air Conditioners</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:69202</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43509</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Filters</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Air Filters</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:43509</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43510</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Purifiers</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Air Purifiers</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:43510</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79621</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dehumidifiers</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Dehumidifiers</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:79621</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38219</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fireplaces and Stoves</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Fireplaces and Stoves</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:38219</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41987</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Furnaces and Heating Systems</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Furnaces and Heating Systems</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:41987</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>126214</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heated Floor Mats</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Heated Floor Mats</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:126214</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71240</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Humidifiers</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Humidifiers</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:71240</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20612</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Portable Fans</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Portable Fans</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:20612</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20613</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Space Heaters</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Space Heaters</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:20613</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115947</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thermostats</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Thermostats</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:115947</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115965</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Water Heaters</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Water Heaters</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:115965</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70574</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Appliance Parts and Accessories</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Appliance Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:70574</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20598</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Home Heating and Cooling</CategoryName>
+     <CategoryParentID>69197</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Heating Cooling and Air:Other Home Heating and Cooling</CategoryNamePath>
+     <CategoryIDPath>11700:159907:69197:20598</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

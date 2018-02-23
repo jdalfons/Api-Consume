@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:55:11.017Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>173619</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Germany</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Germany</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:173619</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18473</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>German States (up to 1871)</CategoryName>
+     <CategoryParentID>173619</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Germany:German States (up to 1871)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:173619:18473</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173620</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Empire (1871-1918)</CategoryName>
+     <CategoryParentID>173619</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Germany:Empire (1871-1918)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:173619:173620</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173647</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Weimar (1919-33)</CategoryName>
+     <CategoryParentID>173619</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Germany:Weimar (1919-33)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:173619:173647</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173648</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Third Reich (1933-45)</CategoryName>
+     <CategoryParentID>173619</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Germany:Third Reich (1933-45)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:173619:173648</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7968</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>East Germany (1949-90)</CategoryName>
+     <CategoryParentID>173619</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Germany:East Germany (1949-90)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:173619:7968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7955</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>West and Unified (1949-Now)</CategoryName>
+     <CategoryParentID>173619</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Germany:West and Unified (1949-Now)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:173619:7955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173694</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>173619</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Germany:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:173619:173694</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

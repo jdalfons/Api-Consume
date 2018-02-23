@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:17.799Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184369</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Skydiving Para and Hang Gliding</CategoryName>
+     <CategoryParentID>159043</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184374</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete Para and Hang Gliders</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Complete Para and Hang Gliders</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184374</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184375</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wings</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Wings</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184375</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184376</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Airframes</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Airframes</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184376</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184379</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cable and Rigging</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Cable and Rigging</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184379</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184373</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parachutes</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Parachutes</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184373</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184378</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Harnesses and Flight Suits</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Harnesses and Flight Suits</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184378</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184377</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Helmets and Goggles</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Helmets and Goggles</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184377</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184371</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Variometers and Altimeters</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Variometers and Altimeters</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184371</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184380</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Secure Containers</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Secure Containers</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184380</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184370</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books and Videos</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Books and Videos</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184370</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184372</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Air Sports Equipment</CategoryName>
+     <CategoryParentID>184369</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Skydiving Para and Hang Gliding:Other Air Sports Equipment</CategoryNamePath>
+     <CategoryIDPath>888:159043:184369:184372</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

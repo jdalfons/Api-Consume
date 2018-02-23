@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:39:49.192Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183779</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Insect Traps and Lures</CategoryName>
+     <CategoryParentID>183778</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Insect Traps and Lures</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183779</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183781</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Insect Traps</CategoryName>
+     <CategoryParentID>183779</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Insect Traps and Lures:Insect Traps</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183779:183781</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183786</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Insect Lures</CategoryName>
+     <CategoryParentID>183779</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Pest Control Supplies:Insect Traps and Lures:Insect Lures</CategoryNamePath>
+     <CategoryIDPath>12576:46534:183778:183779:183786</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

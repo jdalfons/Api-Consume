@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:22:59.579Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>41200</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Styrofoam Forms</CategoryName>
+     <CategoryParentID>160704</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Pieces:Styrofoam Forms</CategoryNamePath>
+     <CategoryIDPath>14339:28102:160704:41200</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

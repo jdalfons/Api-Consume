@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:41:08.598Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Testers and Calibrators</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Testers and Calibrators</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181998</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97139</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cable Testers and Trackers</CategoryName>
+     <CategoryParentID>181998</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Testers and Calibrators:Cable Testers and Trackers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181998:97139</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181999</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Calibrators</CategoryName>
+     <CategoryParentID>181998</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Testers and Calibrators:Calibrators</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181998:181999</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183485</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Decade Boxes</CategoryName>
+     <CategoryParentID>181998</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Testers and Calibrators:Decade Boxes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181998:183485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97138</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lineman&apos;s Handsets/Butt Sets</CategoryName>
+     <CategoryParentID>181998</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Testers and Calibrators:Lineman&apos;s Handsets/Butt Sets</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181998:97138</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183486</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tone Probes and Generators</CategoryName>
+     <CategoryParentID>181998</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Testers and Calibrators:Tone Probes and Generators</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181998:183486</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170062</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tube Testers</CategoryName>
+     <CategoryParentID>181998</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Testers and Calibrators:Tube Testers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181998:170062</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182004</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tester Parts and Accessories</CategoryName>
+     <CategoryParentID>181998</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Testers and Calibrators:Tester Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181998:182004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182005</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Testers and Calibrators</CategoryName>
+     <CategoryParentID>181998</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Testers and Calibrators:Other Testers and Calibrators</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181998:182005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

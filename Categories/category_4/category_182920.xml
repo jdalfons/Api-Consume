@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:45:48.985Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182920</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Metals and Alloys</CategoryName>
+     <CategoryParentID>182919</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182921</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal and Alloy Angles</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal and Alloy Angles</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182922</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal and Alloy Channels</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal and Alloy Channels</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182922</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182923</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal and Alloy Discs</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal and Alloy Discs</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182924</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal and Alloy Hex Rods</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal and Alloy Hex Rods</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182924</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182925</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal and Alloy Hex Tubes</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal and Alloy Hex Tubes</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182925</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182926</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal and Alloy Round Rods</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal and Alloy Round Rods</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182927</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal and Alloy Round Tubes</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal and Alloy Round Tubes</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182928</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal Sheets and Flat Stock</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal Sheets and Flat Stock</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182928</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182929</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal and Alloy Spheres</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal and Alloy Spheres</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182930</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal and Alloy Square Bars</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal and Alloy Square Bars</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182931</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal and Alloy Square Tubes</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal and Alloy Square Tubes</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182932</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal Non-Electrical Wire</CategoryName>
+     <CategoryParentID>182920</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Raw Materials:Metals and Alloys:Metal Non-Electrical Wire</CategoryNamePath>
+     <CategoryIDPath>12576:11804:182919:182920:182932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

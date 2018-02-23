@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:10:59.801Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20081</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Antiques</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Antiques</CategoryNamePath>
+     <CategoryIDPath>20081</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37903</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Antiquities</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Antiquities</CategoryNamePath>
+     <CategoryIDPath>20081:37903</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4707</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Architectural and Garden</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Architectural and Garden</CategoryNamePath>
+     <CategoryIDPath>20081:4707</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20082</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Asian Antiques</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques</CategoryNamePath>
+     <CategoryIDPath>20081:20082</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20086</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Decorative Arts</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Decorative Arts</CategoryNamePath>
+     <CategoryIDPath>20081:20086</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2207</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Ethnographic</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Ethnographic</CategoryNamePath>
+     <CategoryIDPath>20081:2207</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20091</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Furniture</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture</CategoryNamePath>
+     <CategoryIDPath>20081:20091</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163008</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Home and Hearth</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth</CategoryNamePath>
+     <CategoryIDPath>20081:163008</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22422</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Incunabula</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Incunabula</CategoryNamePath>
+     <CategoryIDPath>20081:22422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181677</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Linens and Textiles (Pre-1930)</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Linens and Textiles (Pre-1930)</CategoryNamePath>
+     <CategoryIDPath>20081:181677</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23048</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Manuscripts</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Manuscripts</CategoryNamePath>
+     <CategoryIDPath>20081:23048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37958</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Maps Atlases and Globes</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Maps Atlases and Globes</CategoryNamePath>
+     <CategoryIDPath>20081:37958</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37965</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Maritime</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime</CategoryNamePath>
+     <CategoryIDPath>20081:37965</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163091</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Mercantile Trades and Factories</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Mercantile Trades and Factories</CategoryNamePath>
+     <CategoryIDPath>20081:163091</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181726</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Musical Instruments (Pre-1930)</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Musical Instruments (Pre-1930)</CategoryNamePath>
+     <CategoryIDPath>20081:181726</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100927</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Periods and Styles</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Periods and Styles</CategoryNamePath>
+     <CategoryIDPath>20081:100927</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1217</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Primitives</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Primitives</CategoryNamePath>
+     <CategoryIDPath>20081:1217</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163101</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Restoration and Care</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Restoration and Care</CategoryNamePath>
+     <CategoryIDPath>20081:163101</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37978</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Rugs and Carpets</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Rugs and Carpets</CategoryNamePath>
+     <CategoryIDPath>20081:37978</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20094</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Science and Medicine (Pre-1930)</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Science and Medicine (Pre-1930)</CategoryNamePath>
+     <CategoryIDPath>20081:20094</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156323</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Sewing (Pre-1930)</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930)</CategoryNamePath>
+     <CategoryIDPath>20081:156323</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20096</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Silver</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver</CategoryNamePath>
+     <CategoryIDPath>20081:20096</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22608</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Reproduction Antiques</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Reproduction Antiques</CategoryNamePath>
+     <CategoryIDPath>20081:22608</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Antiques</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Other Antiques</CategoryNamePath>
+     <CategoryIDPath>20081:12</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>24</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

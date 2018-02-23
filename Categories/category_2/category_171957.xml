@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:19:36.626Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>171957</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Desktops and All-In-Ones</CategoryName>
+     <CategoryParentID>58058</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Desktops and All-In-Ones</CategoryNamePath>
+     <CategoryIDPath>58058:171957</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111418</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Apple Desktops and All-In-Ones</CategoryName>
+     <CategoryParentID>171957</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Desktops and All-In-Ones:Apple Desktops and All-In-Ones</CategoryNamePath>
+     <CategoryIDPath>58058:171957:111418</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>PC Desktops and All-In-Ones</CategoryName>
+     <CategoryParentID>171957</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Desktops and All-In-Ones:PC Desktops and All-In-Ones</CategoryNamePath>
+     <CategoryIDPath>58058:171957:179</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

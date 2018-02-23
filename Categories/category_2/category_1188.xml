@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:29:08.517Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1188</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Models and Kits</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits</CategoryNamePath>
+     <CategoryIDPath>220:1188</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1189</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Aircraft (Non-Military)</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Aircraft (Non-Military)</CategoryNamePath>
+     <CategoryIDPath>220:1188:1189</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>49210</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Anime</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Anime</CategoryNamePath>
+     <CategoryIDPath>220:1188:49210</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2580</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Automotive</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Automotive</CategoryNamePath>
+     <CategoryIDPath>220:1188:2580</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152928</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boats Ships</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Boats Ships</CategoryNamePath>
+     <CategoryIDPath>220:1188:152928</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4249</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Character Figures</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Character Figures</CategoryNamePath>
+     <CategoryIDPath>220:1188:4249</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166799</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dioramas</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Dioramas</CategoryNamePath>
+     <CategoryIDPath>220:1188:166799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2586</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Military</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Military</CategoryNamePath>
+     <CategoryIDPath>220:1188:2586</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1192</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Monster</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Monster</CategoryNamePath>
+     <CategoryIDPath>220:1188:1192</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2591</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Motorcycle</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Motorcycle</CategoryNamePath>
+     <CategoryIDPath>220:1188:2591</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2592</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Promo</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Promo</CategoryNamePath>
+     <CategoryIDPath>220:1188:2592</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2567</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rocketry</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Rocketry</CategoryNamePath>
+     <CategoryIDPath>220:1188:2567</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16512</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Science Fiction</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Science Fiction</CategoryNamePath>
+     <CategoryIDPath>220:1188:16512</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1194</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spacecraft</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Spacecraft</CategoryNamePath>
+     <CategoryIDPath>220:1188:1194</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2593</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Super Hero</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Super Hero</CategoryNamePath>
+     <CategoryIDPath>220:1188:2593</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2594</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tools Supplies and Engines</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Tools Supplies and Engines</CategoryNamePath>
+     <CategoryIDPath>220:1188:2594</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2595</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wooden</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Wooden</CategoryNamePath>
+     <CategoryIDPath>220:1188:2595</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>774</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Models and Kits</CategoryName>
+     <CategoryParentID>1188</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Models and Kits:Other Models and Kits</CategoryNamePath>
+     <CategoryIDPath>220:1188:774</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

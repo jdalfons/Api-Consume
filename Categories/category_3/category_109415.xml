@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:40:19.629Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>109415</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Labeling and Tagging Supplies</CategoryName>
+     <CategoryParentID>11890</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Labeling and Tagging Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109415</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109417</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Barbs and Hooks</CategoryName>
+     <CategoryParentID>109415</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Labeling and Tagging Supplies:Barbs and Hooks</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109415:109417</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109419</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Labels</CategoryName>
+     <CategoryParentID>109415</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Labeling and Tagging Supplies:Labels</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109415:109419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109421</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Price and Label Guns</CategoryName>
+     <CategoryParentID>109415</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Labeling and Tagging Supplies:Price and Label Guns</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109415:109421</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109422</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tag Guns</CategoryName>
+     <CategoryParentID>109415</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Labeling and Tagging Supplies:Tag Guns</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109415:109422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109420</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tags</CategoryName>
+     <CategoryParentID>109415</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Labeling and Tagging Supplies:Tags</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109415:109420</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27172</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Retail Labeling</CategoryName>
+     <CategoryParentID>109415</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Labeling and Tagging Supplies:Other Retail Labeling</CategoryNamePath>
+     <CategoryIDPath>12576:11890:109415:27172</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

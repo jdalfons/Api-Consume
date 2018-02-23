@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:43.190Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2543</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Role Playing Games</CategoryName>
+     <CategoryParentID>233</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Role Playing Games</CategoryNamePath>
+     <CategoryIDPath>220:233:2543</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44109</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dungeons and Dragons</CategoryName>
+     <CategoryParentID>2543</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Role Playing Games:Dungeons and Dragons</CategoryNamePath>
+     <CategoryIDPath>220:233:2543:44109</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44111</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fantasy</CategoryName>
+     <CategoryParentID>2543</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Role Playing Games:Fantasy</CategoryNamePath>
+     <CategoryIDPath>220:233:2543:44111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168252</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>GURPS</CategoryName>
+     <CategoryParentID>2543</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Role Playing Games:GURPS</CategoryNamePath>
+     <CategoryIDPath>220:233:2543:168252</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2546</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Horror</CategoryName>
+     <CategoryParentID>2543</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Role Playing Games:Horror</CategoryNamePath>
+     <CategoryIDPath>220:233:2543:2546</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168251</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rifts</CategoryName>
+     <CategoryParentID>2543</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Role Playing Games:Rifts</CategoryNamePath>
+     <CategoryIDPath>220:233:2543:168251</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2547</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Science Fiction</CategoryName>
+     <CategoryParentID>2543</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Role Playing Games:Science Fiction</CategoryNamePath>
+     <CategoryIDPath>220:233:2543:2547</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2548</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Super Hero</CategoryName>
+     <CategoryParentID>2543</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Role Playing Games:Super Hero</CategoryNamePath>
+     <CategoryIDPath>220:233:2543:2548</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2544</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>2543</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Role Playing Games:Accessories</CategoryNamePath>
+     <CategoryIDPath>220:233:2543:2544</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1183</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Role Playing Games</CategoryName>
+     <CategoryParentID>2543</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Games:Role Playing Games:Other Role Playing Games</CategoryNamePath>
+     <CategoryIDPath>220:233:2543:1183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:29.596Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>42574</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Knives and Tools</CategoryName>
+     <CategoryParentID>7301</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Knives and Tools</CategoryNamePath>
+     <CategoryIDPath>888:7301:42574</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178084</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Butchering Knives and Tools</CategoryName>
+     <CategoryParentID>42574</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Knives and Tools:Butchering Knives and Tools</CategoryNamePath>
+     <CategoryIDPath>888:7301:42574:178084</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42576</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fixed Blade</CategoryName>
+     <CategoryParentID>42574</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Knives and Tools:Fixed Blade</CategoryNamePath>
+     <CategoryIDPath>888:7301:42574:42576</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42577</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Folding Blade</CategoryName>
+     <CategoryParentID>42574</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Knives and Tools:Folding Blade</CategoryNamePath>
+     <CategoryIDPath>888:7301:42574:42577</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42578</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Knife Sets</CategoryName>
+     <CategoryParentID>42574</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Knives and Tools:Knife Sets</CategoryNamePath>
+     <CategoryIDPath>888:7301:42574:42578</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66824</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Multi-Tools</CategoryName>
+     <CategoryParentID>42574</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Knives and Tools:Multi-Tools</CategoryNamePath>
+     <CategoryIDPath>888:7301:42574:66824</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66825</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saws and Axes</CategoryName>
+     <CategoryParentID>42574</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Knives and Tools:Saws and Axes</CategoryNamePath>
+     <CategoryIDPath>888:7301:42574:66825</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66826</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sharpening Tools and Accessories</CategoryName>
+     <CategoryParentID>42574</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Knives and Tools:Sharpening Tools and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:7301:42574:66826</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7306</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Hunting Knives and Tools</CategoryName>
+     <CategoryParentID>42574</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Knives and Tools:Other Hunting Knives and Tools</CategoryNamePath>
+     <CategoryIDPath>888:7301:42574:7306</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

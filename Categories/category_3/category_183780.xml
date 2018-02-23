@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:05.283Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183780</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Adhesive Guns and Dispensers</CategoryName>
+     <CategoryParentID>109471</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Adhesive Guns and Dispensers</CategoryNamePath>
+     <CategoryIDPath>12576:109471:183780</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183791</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glue Guns</CategoryName>
+     <CategoryParentID>183780</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Adhesive Guns and Dispensers:Glue Guns</CategoryNamePath>
+     <CategoryIDPath>12576:109471:183780:183791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183802</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Caulk Guns</CategoryName>
+     <CategoryParentID>183780</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Adhesive Guns and Dispensers:Caulk Guns</CategoryNamePath>
+     <CategoryIDPath>12576:109471:183780:183802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183813</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glue Dispensing Syringes</CategoryName>
+     <CategoryParentID>183780</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Adhesive Guns and Dispensers:Glue Dispensing Syringes</CategoryNamePath>
+     <CategoryIDPath>12576:109471:183780:183813</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183824</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glue Syringe Tips</CategoryName>
+     <CategoryParentID>183780</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Adhesive Guns and Dispensers:Glue Syringe Tips</CategoryNamePath>
+     <CategoryIDPath>12576:109471:183780:183824</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183835</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hot Glue Dispensers</CategoryName>
+     <CategoryParentID>183780</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Adhesive Guns and Dispensers:Hot Glue Dispensers</CategoryNamePath>
+     <CategoryIDPath>12576:109471:183780:183835</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183846</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tape Guns and Dispensers</CategoryName>
+     <CategoryParentID>183780</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Adhesive Guns and Dispensers:Tape Guns and Dispensers</CategoryNamePath>
+     <CategoryIDPath>12576:109471:183780:183846</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183858</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Solder Paste Dispensers</CategoryName>
+     <CategoryParentID>183780</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Adhesive Guns and Dispensers:Solder Paste Dispensers</CategoryNamePath>
+     <CategoryIDPath>12576:109471:183780:183858</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

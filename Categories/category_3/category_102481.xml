@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:34:29.720Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>102481</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>How-To Guides</CategoryName>
+     <CategoryParentID>102480</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:How-To Guides</CategoryNamePath>
+     <CategoryIDPath>99:102480:102481</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102482</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bad Credit Repair</CategoryName>
+     <CategoryParentID>102481</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:How-To Guides:Bad Credit Repair</CategoryNamePath>
+     <CategoryIDPath>99:102480:102481:102482</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102483</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Buy Sell on eBay</CategoryName>
+     <CategoryParentID>102481</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:How-To Guides:Buy Sell on eBay</CategoryNamePath>
+     <CategoryIDPath>99:102480:102481:102483</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102484</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Game Mastery</CategoryName>
+     <CategoryParentID>102481</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:How-To Guides:Game Mastery</CategoryNamePath>
+     <CategoryIDPath>99:102480:102481:102484</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102485</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Self Employment</CategoryName>
+     <CategoryParentID>102481</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:How-To Guides:Self Employment</CategoryNamePath>
+     <CategoryIDPath>99:102480:102481:102485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102486</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Self Help</CategoryName>
+     <CategoryParentID>102481</CategoryParentID>
+     <CategoryNamePath>Everything Else:Information Products:How-To Guides:Self Help</CategoryNamePath>
+     <CategoryIDPath>99:102480:102481:102486</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

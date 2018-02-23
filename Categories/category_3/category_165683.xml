@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:56:28.035Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165683</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hinduism</CategoryName>
+     <CategoryParentID>1446</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Hinduism</CategoryNamePath>
+     <CategoryIDPath>1:1446:165683</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165684</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Amulets and Pendants</CategoryName>
+     <CategoryParentID>165683</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Hinduism:Amulets and Pendants</CategoryNamePath>
+     <CategoryIDPath>1:1446:165683:165684</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165685</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prayer Beads</CategoryName>
+     <CategoryParentID>165683</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Hinduism:Prayer Beads</CategoryNamePath>
+     <CategoryIDPath>1:1446:165683:165685</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165686</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prints Posters and Paintings</CategoryName>
+     <CategoryParentID>165683</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Hinduism:Prints Posters and Paintings</CategoryNamePath>
+     <CategoryIDPath>1:1446:165683:165686</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165687</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Statues and Figures</CategoryName>
+     <CategoryParentID>165683</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Hinduism:Statues and Figures</CategoryNamePath>
+     <CategoryIDPath>1:1446:165683:165687</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13772</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Hinduism Collectibles</CategoryName>
+     <CategoryParentID>165683</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Hinduism:Other Hinduism Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:1446:165683:13772</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:04.830Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182017</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Thermal Management</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182018</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Component Heaters</CategoryName>
+     <CategoryParentID>182017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management:Component Heaters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017:182018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182019</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Component Hygro- and Thermostats</CategoryName>
+     <CategoryParentID>182017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management:Component Hygro- and Thermostats</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017:182019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65489</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Electronic Component Fans</CategoryName>
+     <CategoryParentID>182017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management:Electronic Component Fans</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017:65489</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182020</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heat Exchangers</CategoryName>
+     <CategoryParentID>182017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management:Heat Exchangers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017:182020</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66946</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heat Sinks</CategoryName>
+     <CategoryParentID>182017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management:Heat Sinks</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017:66946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182021</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heat Sink Fan Assemblies</CategoryName>
+     <CategoryParentID>182017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management:Heat Sink Fan Assemblies</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017:182021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182022</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Peltier Coolers</CategoryName>
+     <CategoryParentID>182017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management:Peltier Coolers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017:182022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182023</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thermal Management Mounting</CategoryName>
+     <CategoryParentID>182017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management:Thermal Management Mounting</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017:182023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182024</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Thermal Management</CategoryName>
+     <CategoryParentID>182017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Thermal Management:Other Thermal Management</CategoryNamePath>
+     <CategoryIDPath>12576:92074:182017:182024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

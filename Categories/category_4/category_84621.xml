@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:24:46.957Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>84621</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bisque</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Bisque</CategoryNamePath>
+     <CategoryIDPath>237:238:326:84621</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84622</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>German</CategoryName>
+     <CategoryParentID>84621</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Bisque:German</CategoryNamePath>
+     <CategoryIDPath>237:238:326:84621:84622</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84623</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>French</CategoryName>
+     <CategoryParentID>84621</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Bisque:French</CategoryNamePath>
+     <CategoryIDPath>237:238:326:84621:84623</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>340</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Antique Bisque Dolls</CategoryName>
+     <CategoryParentID>84621</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Bisque:Other Antique Bisque Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:326:84621:340</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:27:03.954Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>60310</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1940</CategoryName>
+     <CategoryParentID>18823</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:Pre-1940</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60310</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18824</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Black and White</CategoryName>
+     <CategoryParentID>60310</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:Pre-1940:Black and White</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60310:18824</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60311</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Color</CategoryName>
+     <CategoryParentID>60310</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Photographs:Pre-1940:Color</CategoryNamePath>
+     <CategoryIDPath>45100:196:18823:60310:60311</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:49:35.126Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35736</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Still Piggy Banks</CategoryName>
+     <CategoryParentID>66503</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Still Piggy Banks</CategoryNamePath>
+     <CategoryIDPath>1:66503:35736</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35737</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Animals</CategoryName>
+     <CategoryParentID>35736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Still Piggy Banks:Animals</CategoryNamePath>
+     <CategoryIDPath>1:66503:35736:35737</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35741</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Characters</CategoryName>
+     <CategoryParentID>35736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Still Piggy Banks:Characters</CategoryNamePath>
+     <CategoryIDPath>1:66503:35736:35741</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158419</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Promotional</CategoryName>
+     <CategoryParentID>35736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Still Piggy Banks:Promotional</CategoryNamePath>
+     <CategoryIDPath>1:66503:35736:158419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35742</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vehicles</CategoryName>
+     <CategoryParentID>35736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Still Piggy Banks:Vehicles</CategoryNamePath>
+     <CategoryIDPath>1:66503:35736:35742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>886</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Still Banks</CategoryName>
+     <CategoryParentID>35736</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Still Piggy Banks:Other Collectible Still Banks</CategoryNamePath>
+     <CategoryIDPath>1:66503:35736:886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

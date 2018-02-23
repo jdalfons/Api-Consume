@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:31:09.392Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182136</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wedges and Bed Positioners</CategoryName>
+     <CategoryParentID>182132</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Mobility and Disability:Orthopedics and Supports:Wedges and Bed Positioners</CategoryNamePath>
+     <CategoryIDPath>26395:11778:182132:182136</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

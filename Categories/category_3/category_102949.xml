@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:11:59.892Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>102949</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>School Supplies</CategoryName>
+     <CategoryParentID>176988</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:School Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:176988:102949</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116097</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Daycare Supplies</CategoryName>
+     <CategoryParentID>102949</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:School Supplies:Daycare Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:176988:102949:116097</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102952</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Globes and Maps</CategoryName>
+     <CategoryParentID>102949</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:School Supplies:Globes and Maps</CategoryNamePath>
+     <CategoryIDPath>11700:176988:102949:102952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102951</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Markers and Crayons</CategoryName>
+     <CategoryParentID>102949</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:School Supplies:Markers and Crayons</CategoryNamePath>
+     <CategoryIDPath>11700:176988:102949:102951</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102950</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Notebooks and Binders</CategoryName>
+     <CategoryParentID>102949</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:School Supplies:Notebooks and Binders</CategoryNamePath>
+     <CategoryIDPath>11700:176988:102949:102950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102953</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pens and Pencils</CategoryName>
+     <CategoryParentID>102949</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:School Supplies:Pens and Pencils</CategoryNamePath>
+     <CategoryIDPath>11700:176988:102949:102953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102954</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stamps and Stickers</CategoryName>
+     <CategoryParentID>102949</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:School Supplies:Stamps and Stickers</CategoryNamePath>
+     <CategoryIDPath>11700:176988:102949:102954</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102955</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Teaching Supplies</CategoryName>
+     <CategoryParentID>102949</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:School Supplies:Teaching Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:176988:102949:102955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3142</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other School Supplies</CategoryName>
+     <CategoryParentID>102949</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kids and Teens at Home:School Supplies:Other School Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:176988:102949:3142</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

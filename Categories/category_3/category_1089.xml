@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:52:59.238Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1089</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Christmas: Current (1991-Now)</CategoryName>
+     <CategoryParentID>907</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now)</CategoryNamePath>
+     <CategoryIDPath>1:907:1089</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33792</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artificial Trees</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Artificial Trees</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33792</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156366</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bells</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Bells</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:156366</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10935</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candles and Candle Holders</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Candles and Candle Holders</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:10935</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156367</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cards</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Cards</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:156367</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168005</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figures</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Figures</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:168005</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10936</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garlands</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Garlands</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:10936</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156368</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Handmade Items</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Handmade Items</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:156368</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7269</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lights</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Lights</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:7269</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10937</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Linens</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Linens</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:10937</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10938</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nativity Items</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Nativity Items</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:10938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13839</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nutcrackers</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Nutcrackers</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:13839</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33850</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48806</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pins</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Pins</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:48806</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10939</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stockings</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Stockings</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:10939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33793</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tree Stands and Skirts</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Tree Stands and Skirts</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10940</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tree Toppers</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Tree Toppers</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:10940</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48814</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Villages and Houses</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Villages and Houses</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:48814</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10941</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wreaths</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Wreaths</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:10941</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33794</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Yard Décor</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Yard Décor</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33794</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>908</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Current Christmas Décor</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Other Current Christmas Décor</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>21</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

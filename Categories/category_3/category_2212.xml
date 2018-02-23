@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:33:31.143Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2212</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Silverplate</CategoryName>
+     <CategoryParentID>20096</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105886</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ash Trays</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Ash Trays</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:105886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163048</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baskets</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Baskets</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:163048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163049</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottles Decanters and Flasks</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Bottles Decanters and Flasks</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:163049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37985</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bowls</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Bowls</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:37985</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163050</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Butter Dishes</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Butter Dishes</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:163050</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20098</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candlesticks and Candelabra</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Candlesticks and Candelabra</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:20098</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163052</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Creamers and Sugar Bowls</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Creamers and Sugar Bowls</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:163052</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37986</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cups and Goblets</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Cups and Goblets</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:37986</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105889</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dishes and Coasters</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Dishes and Coasters</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:105889</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20099</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flatware and Silverware</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Flatware and Silverware</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:20099</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105894</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Napkin Rings and Clips</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Napkin Rings and Clips</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:105894</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39437</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pitchers and Jugs</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Pitchers and Jugs</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:39437</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163053</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plates and Chargers</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Plates and Chargers</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:163053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39438</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Platters and Trays</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Platters and Trays</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:39438</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105896</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sauce Boats</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Sauce Boats</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:105896</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163051</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Souvenir Spoons</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Souvenir Spoons</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:163051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37988</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tea/Coffee Pots and Sets</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Tea/Coffee Pots and Sets</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:37988</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39439</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vases and Urns</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Vases and Urns</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:39439</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163054</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:163054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1216</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Silverplate</CategoryName>
+     <CategoryParentID>2212</CategoryParentID>
+     <CategoryNamePath>Antiques:Silver:Silverplate:Other Antique Silverplate</CategoryNamePath>
+     <CategoryIDPath>20081:20096:2212:1216</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>21</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

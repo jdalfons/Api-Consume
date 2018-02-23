@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:32.298Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1500</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Radio Communication</CategoryName>
+     <CategoryParentID>293</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication</CategoryNamePath>
+     <CategoryIDPath>293:1500</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183502</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Antennas</CategoryName>
+     <CategoryParentID>1500</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Antennas</CategoryNamePath>
+     <CategoryIDPath>293:1500:183502</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40054</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>CB Radios</CategoryName>
+     <CategoryParentID>1500</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:CB Radios</CategoryNamePath>
+     <CategoryIDPath>293:1500:40054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4670</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ham Amateur Radio</CategoryName>
+     <CategoryParentID>1500</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Ham Amateur Radio</CategoryNamePath>
+     <CategoryIDPath>293:1500:4670</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149987</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Marine and Aircraft Radios</CategoryName>
+     <CategoryParentID>1500</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Marine and Aircraft Radios</CategoryNamePath>
+     <CategoryIDPath>293:1500:149987</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40979</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scanners</CategoryName>
+     <CategoryParentID>1500</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Scanners</CategoryNamePath>
+     <CategoryIDPath>293:1500:40979</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20381</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Walkie Talkies Two-Way Radios</CategoryName>
+     <CategoryParentID>1500</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Walkie Talkies Two-Way Radios</CategoryNamePath>
+     <CategoryIDPath>293:1500:20381</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183503</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>1500</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>293:1500:183503</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>296</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Radio Communication</CategoryName>
+     <CategoryParentID>1500</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Radio Communication:Other Radio Communication</CategoryNamePath>
+     <CategoryIDPath>293:1500:296</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

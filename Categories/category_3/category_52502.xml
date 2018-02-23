@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:26.251Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>52502</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hunting Accessories</CategoryName>
+     <CategoryParentID>7301</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Hunting Accessories</CategoryNamePath>
+     <CategoryIDPath>888:7301:52502</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178081</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decals and Stickers</CategoryName>
+     <CategoryParentID>52502</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Hunting Accessories:Decals and Stickers</CategoryNamePath>
+     <CategoryIDPath>888:7301:52502:178081</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177888</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Game Carts Gambrels and Hoists</CategoryName>
+     <CategoryParentID>52502</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Hunting Accessories:Game Carts Gambrels and Hoists</CategoryNamePath>
+     <CategoryIDPath>888:7301:52502:177888</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52504</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Game Feeders and Feed</CategoryName>
+     <CategoryParentID>52502</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Hunting Accessories:Game Feeders and Feed</CategoryNamePath>
+     <CategoryIDPath>888:7301:52502:52504</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159039</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand and Body Warmers</CategoryName>
+     <CategoryParentID>52502</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Hunting Accessories:Hand and Body Warmers</CategoryNamePath>
+     <CategoryIDPath>888:7301:52502:159039</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52503</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hunting Bags and Packs</CategoryName>
+     <CategoryParentID>52502</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Hunting Accessories:Hunting Bags and Packs</CategoryNamePath>
+     <CategoryIDPath>888:7301:52502:52503</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52506</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scents and Scent Eliminators</CategoryName>
+     <CategoryParentID>52502</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Hunting Accessories:Scents and Scent Eliminators</CategoryNamePath>
+     <CategoryIDPath>888:7301:52502:52506</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177889</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trail Markers and Signs</CategoryName>
+     <CategoryParentID>52502</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Hunting Accessories:Trail Markers and Signs</CategoryNamePath>
+     <CategoryIDPath>888:7301:52502:177889</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71108</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trapping Supplies</CategoryName>
+     <CategoryParentID>52502</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Hunting Accessories:Trapping Supplies</CategoryNamePath>
+     <CategoryIDPath>888:7301:52502:71108</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52509</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Hunting Accessories</CategoryName>
+     <CategoryParentID>52502</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Hunting Accessories:Other Hunting Accessories</CategoryNamePath>
+     <CategoryIDPath>888:7301:52502:52509</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

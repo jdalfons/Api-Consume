@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:50:23.379Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>163175</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottoms</CategoryName>
+     <CategoryParentID>147192</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Girls&apos; Clothing (Newborn-5T):Bottoms</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147192:163175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

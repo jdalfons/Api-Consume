@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:52.205Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63908</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Protective Gear</CategoryName>
+     <CategoryParentID>11765</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Protective Gear</CategoryNamePath>
+     <CategoryIDPath>12576:11765:63908</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63909</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hard Hats</CategoryName>
+     <CategoryParentID>63908</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Protective Gear:Hard Hats</CategoryNamePath>
+     <CategoryIDPath>12576:11765:63908:63909</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63910</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Work Gloves</CategoryName>
+     <CategoryParentID>63908</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Protective Gear:Work Gloves</CategoryNamePath>
+     <CategoryIDPath>12576:11765:63908:63910</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42292</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Work Jackets</CategoryName>
+     <CategoryParentID>63908</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Protective Gear:Work Jackets</CategoryNamePath>
+     <CategoryIDPath>12576:11765:63908:42292</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Work Pants and Coveralls</CategoryName>
+     <CategoryParentID>63908</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Protective Gear:Work Pants and Coveralls</CategoryNamePath>
+     <CategoryIDPath>12576:11765:63908:63911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63912</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Protective Gear</CategoryName>
+     <CategoryParentID>63908</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Construction:Protective Gear:Other Protective Gear</CategoryNamePath>
+     <CategoryIDPath>12576:11765:63908:63912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

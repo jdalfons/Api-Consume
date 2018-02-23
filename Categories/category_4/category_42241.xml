@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:35:22.845Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>42241</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nailers</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Nailers</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42241</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42242</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Finishing Guns</CategoryName>
+     <CategoryParentID>42241</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Nailers:Finishing Guns</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42241:42242</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50378</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Framing Guns</CategoryName>
+     <CategoryParentID>42241</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Nailers:Framing Guns</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42241:50378</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42243</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Roofing Guns</CategoryName>
+     <CategoryParentID>42241</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Nailers:Roofing Guns</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42241:42243</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42244</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Staple and Brad Guns</CategoryName>
+     <CategoryParentID>42241</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Nailers:Staple and Brad Guns</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42241:42244</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22661</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Nailers</CategoryName>
+     <CategoryParentID>42241</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Nailers:Other Nailers</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42241:22661</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

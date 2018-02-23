@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:37:49.346Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>53295</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>HVAC Parts</CategoryName>
+     <CategoryParentID>42909</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183959</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC Air Filters</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:HVAC Air Filters</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:183959</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124619</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Handlers</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:Air Handlers</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:124619</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183960</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC Compressors</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:HVAC Compressors</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:183960</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183961</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC Condensers</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:HVAC Condensers</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:183961</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53296</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC Controls</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:HVAC Controls</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:53296</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183962</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC Dampers</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:HVAC Dampers</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:183962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183963</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC Damper Actuators</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:HVAC Damper Actuators</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:183963</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183964</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ducting and Venting</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:Ducting and Venting</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:183964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124621</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC Evaporators</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:HVAC Evaporators</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:124621</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53297</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC Fans and Blowers</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:HVAC Fans and Blowers</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:53297</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109484</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heat Exchangers</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:Heat Exchangers</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:109484</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183965</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Filter-Driers</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:Filter-Driers</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:183965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53301</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HVAC Sensors</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:HVAC Sensors</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:53301</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53302</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thermostats</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:Thermostats</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:53302</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other HVAC Parts</CategoryName>
+     <CategoryParentID>53295</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts:Other HVAC Parts</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295:42911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

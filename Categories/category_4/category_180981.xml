@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:32:34.879Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180981</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wallpaper and Accessories</CategoryName>
+     <CategoryParentID>3187</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Wallpaper and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180981</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42136</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wallpaper Borders</CategoryName>
+     <CategoryParentID>180981</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Wallpaper and Accessories:Wallpaper Borders</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180981:42136</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79626</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wallpaper Murals</CategoryName>
+     <CategoryParentID>180981</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Wallpaper and Accessories:Wallpaper Murals</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180981:79626</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50364</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wallpaper Rolls and Sheets</CategoryName>
+     <CategoryParentID>180981</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Wallpaper and Accessories:Wallpaper Rolls and Sheets</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180981:50364</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180112</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wallpaper Tools and Accessories</CategoryName>
+     <CategoryParentID>180981</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Wallpaper and Accessories:Wallpaper Tools and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180981:180112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52348</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Wallpaper</CategoryName>
+     <CategoryParentID>180981</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Wallpaper and Accessories:Other Wallpaper</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:180981:52348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

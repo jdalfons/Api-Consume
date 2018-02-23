@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:01.423Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181003</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Plants Seeds and Bulbs</CategoryName>
+     <CategoryParentID>159912</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181004</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cultivated Turf</CategoryName>
+     <CategoryParentID>181003</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Cultivated Turf</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:181004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181005</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Moss</CategoryName>
+     <CategoryParentID>181003</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Moss</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:181005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181006</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mushrooms Spawns and Kits</CategoryName>
+     <CategoryParentID>181003</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Mushrooms Spawns and Kits</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:181006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19617</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plants and Seedlings</CategoryName>
+     <CategoryParentID>181003</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Plants and Seedlings</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:19617</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40605</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seeds and Bulbs</CategoryName>
+     <CategoryParentID>181003</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Seeds and Bulbs</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:40605</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181052</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Plants Seeds and Bulbs</CategoryName>
+     <CategoryParentID>181003</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Plants Seeds and Bulbs:Other Plants Seeds and Bulbs</CategoryNamePath>
+     <CategoryIDPath>11700:159912:181003:181052</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

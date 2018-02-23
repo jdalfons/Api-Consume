@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:02:18.238Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>162090</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beading and Jewelry Kits</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Beading and Jewelry Kits</CategoryNamePath>
+     <CategoryIDPath>14339:31723:162090</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162091</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Beading Kits</CategoryName>
+     <CategoryParentID>162090</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Beading and Jewelry Kits:Beading Kits</CategoryNamePath>
+     <CategoryIDPath>14339:31723:162090:162091</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162096</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry Making Kits</CategoryName>
+     <CategoryParentID>162090</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Beading and Jewelry Kits:Jewelry Making Kits</CategoryNamePath>
+     <CategoryIDPath>14339:31723:162090:162096</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

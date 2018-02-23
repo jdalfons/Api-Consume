@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:44:04.205Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>172378</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Maternity</CategoryName>
+     <CategoryParentID>15724</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63856</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coats and Jackets</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Coats and Jackets</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:63856</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11534</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dresses</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Dresses</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:11534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11535</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jeans</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Jeans</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:11535</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53447</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jumpsuits and Rompers</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Jumpsuits and Rompers</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:53447</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46809</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leggings</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Leggings</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:46809</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15751</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nursing</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Nursing</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:15751</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167903</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Outfits and Sets</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Outfits and Sets</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:167903</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117769</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Panties</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Panties</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:117769</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63857</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pants</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Pants</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:63857</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179840</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pantyhose and Tights</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Pantyhose and Tights</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:179840</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15747</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shorts</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Shorts</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:15747</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11536</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Skirts</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Skirts</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:11536</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117771</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sleepwear</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Sleepwear</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:117771</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108898</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Suits and Blazers</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Suits and Blazers</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:108898</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11538</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sweaters</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Sweaters</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:11538</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155206</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sweats and Hoodies</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Sweats and Hoodies</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:155206</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15748</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swimwear</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Swimwear</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:15748</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63859</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>T-Shirts</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:T-Shirts</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:63859</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63858</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tops and Blouses</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Tops and Blouses</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:63858</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15754</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Maternity Items</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Mixed Maternity Items</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:15754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1264</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Maternity Clothing</CategoryName>
+     <CategoryParentID>172378</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing:Maternity:Other Maternity Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:15724:172378:1264</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>22</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

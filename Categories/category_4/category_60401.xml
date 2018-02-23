@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:29:35.017Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>60401</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1980-89</CategoryName>
+     <CategoryParentID>18854</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Photographs:1980-89</CategoryNamePath>
+     <CategoryIDPath>45100:1424:18854:60401</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60402</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Black and White</CategoryName>
+     <CategoryParentID>60401</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Photographs:1980-89:Black and White</CategoryNamePath>
+     <CategoryIDPath>45100:1424:18854:60401:60402</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60403</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Color</CategoryName>
+     <CategoryParentID>60401</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Television Memorabilia:Photographs:1980-89:Color</CategoryNamePath>
+     <CategoryIDPath>45100:1424:18854:60401:60403</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

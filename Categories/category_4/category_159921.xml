@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:37:52.674Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>159921</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pool Fun</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Fun</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:159921</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181055</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Floats and Rafts</CategoryName>
+     <CategoryParentID>159921</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Fun:Floats and Rafts</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:159921:181055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181056</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Toys and Games</CategoryName>
+     <CategoryParentID>159921</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Fun:Toys and Games</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:159921:181056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159922</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Pool Fun</CategoryName>
+     <CategoryParentID>159921</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Fun:Other Pool Fun</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:159921:159922</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

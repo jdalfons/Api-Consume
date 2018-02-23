@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:42.190Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>36271</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Taxidermy</CategoryName>
+     <CategoryParentID>7301</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Taxidermy</CategoryNamePath>
+     <CategoryIDPath>888:7301:36271</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71123</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Birds</CategoryName>
+     <CategoryParentID>36271</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Taxidermy:Birds</CategoryNamePath>
+     <CategoryIDPath>888:7301:36271:71123</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71127</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fish</CategoryName>
+     <CategoryParentID>36271</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Taxidermy:Fish</CategoryNamePath>
+     <CategoryIDPath>888:7301:36271:71127</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177908</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Large Animals</CategoryName>
+     <CategoryParentID>36271</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Taxidermy:Large Animals</CategoryNamePath>
+     <CategoryIDPath>888:7301:36271:177908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71129</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Small Animals</CategoryName>
+     <CategoryParentID>36271</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Taxidermy:Small Animals</CategoryNamePath>
+     <CategoryIDPath>888:7301:36271:71129</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71130</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Taxidermy Supplies</CategoryName>
+     <CategoryParentID>36271</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Taxidermy:Taxidermy Supplies</CategoryNamePath>
+     <CategoryIDPath>888:7301:36271:71130</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22702</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Taxidermy</CategoryName>
+     <CategoryParentID>36271</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Taxidermy:Other Taxidermy</CategoryNamePath>
+     <CategoryIDPath>888:7301:36271:22702</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

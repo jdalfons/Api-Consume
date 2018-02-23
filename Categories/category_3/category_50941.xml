@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:40:21.518Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>50941</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mannequins and Dress Forms</CategoryName>
+     <CategoryParentID>11890</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Mannequins and Dress Forms</CategoryNamePath>
+     <CategoryIDPath>12576:11890:50941</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50945</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dress Forms</CategoryName>
+     <CategoryParentID>50941</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Mannequins and Dress Forms:Dress Forms</CategoryNamePath>
+     <CategoryIDPath>12576:11890:50941:50945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50949</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Full-Body Mannequins</CategoryName>
+     <CategoryParentID>50941</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Mannequins and Dress Forms:Full-Body Mannequins</CategoryNamePath>
+     <CategoryIDPath>12576:11890:50941:50949</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50950</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Partial-Body and Mannequin Parts</CategoryName>
+     <CategoryParentID>50941</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Mannequins and Dress Forms:Partial-Body and Mannequin Parts</CategoryNamePath>
+     <CategoryIDPath>12576:11890:50941:50950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50944</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Torsos</CategoryName>
+     <CategoryParentID>50941</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Mannequins and Dress Forms:Torsos</CategoryNamePath>
+     <CategoryIDPath>12576:11890:50941:50944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50951</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Mannequins and Dress Forms</CategoryName>
+     <CategoryParentID>50941</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Mannequins and Dress Forms:Other Mannequins and Dress Forms</CategoryNamePath>
+     <CategoryIDPath>12576:11890:50941:50951</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

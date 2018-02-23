@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:59.567Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3411</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Paper Money: World</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World</CategoryNamePath>
+     <CategoryIDPath>11116:3411</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162194</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Replicas and Reproductions</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Replicas and Reproductions</CategoryNamePath>
+     <CategoryIDPath>11116:3411:162194</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12821</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Africa</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Africa</CategoryNamePath>
+     <CategoryIDPath>11116:3411:12821</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>8008</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Asia</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Asia</CategoryNamePath>
+     <CategoryIDPath>11116:3411:8008</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45337</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Australia and Oceania</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Australia and Oceania</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45337</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45339</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Europe</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Europe</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45339</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58516</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Middle East</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Middle East</CategoryNamePath>
+     <CategoryIDPath>11116:3411:58516</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45338</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>North and Central America</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:North and Central America</CategoryNamePath>
+     <CategoryIDPath>11116:3411:45338</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3440</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>South America</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:South America</CategoryNamePath>
+     <CategoryIDPath>11116:3411:3440</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3098</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collections and Lots</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Collections and Lots</CategoryNamePath>
+     <CategoryIDPath>11116:3411:3098</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>385</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Paper Money of the World</CategoryName>
+     <CategoryParentID>3411</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: World:Other Paper Money of the World</CategoryNamePath>
+     <CategoryIDPath>11116:3411:385</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

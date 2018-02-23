@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:27:21.813Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>73188</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Barbados (until 1966)</CategoryName>
+     <CategoryParentID>65174</CategoryParentID>
+     <CategoryNamePath>Stamps:British Colonies and Territories:Barbados (until 1966)</CategoryNamePath>
+     <CategoryIDPath>260:65174:73188</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:04:55.782Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4005</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Latin Am. Collectibles</CategoryName>
+     <CategoryParentID>13740</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Latin American:Other Latin Am. Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:3913:13740:4005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

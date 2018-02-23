@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:30:27.032Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20925</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Genealogy</CategoryName>
+     <CategoryParentID>99</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy</CategoryNamePath>
+     <CategoryIDPath>99:20925</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20926</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Births Marriages Deaths</CategoryName>
+     <CategoryParentID>20925</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy:Births Marriages Deaths</CategoryNamePath>
+     <CategoryIDPath>99:20925:20926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20927</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Census Records</CategoryName>
+     <CategoryParentID>20925</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy:Census Records</CategoryNamePath>
+     <CategoryIDPath>99:20925:20927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20928</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>City State Directories</CategoryName>
+     <CategoryParentID>20925</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy:City State Directories</CategoryNamePath>
+     <CategoryIDPath>99:20925:20928</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116098</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Coat of Arms</CategoryName>
+     <CategoryParentID>20925</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy:Coat of Arms</CategoryNamePath>
+     <CategoryIDPath>99:20925:116098</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116099</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>County State History</CategoryName>
+     <CategoryParentID>20925</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy:County State History</CategoryNamePath>
+     <CategoryIDPath>99:20925:116099</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116100</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Family Trees</CategoryName>
+     <CategoryParentID>20925</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy:Family Trees</CategoryNamePath>
+     <CategoryIDPath>99:20925:116100</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20929</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Immigration Passenger Lists</CategoryName>
+     <CategoryParentID>20925</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy:Immigration Passenger Lists</CategoryNamePath>
+     <CategoryIDPath>99:20925:20929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102363</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Maps</CategoryName>
+     <CategoryParentID>20925</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy:Maps</CategoryNamePath>
+     <CategoryIDPath>99:20925:102363</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20931</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Military Records</CategoryName>
+     <CategoryParentID>20925</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy:Military Records</CategoryNamePath>
+     <CategoryIDPath>99:20925:20931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2980</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Genealogy</CategoryName>
+     <CategoryParentID>20925</CategoryParentID>
+     <CategoryNamePath>Everything Else:Genealogy:Other Genealogy</CategoryNamePath>
+     <CategoryIDPath>99:20925:2980</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

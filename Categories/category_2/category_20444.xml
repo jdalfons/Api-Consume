@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:56.970Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20444</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bedding</CategoryName>
+     <CategoryParentID>11700</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding</CategoryNamePath>
+     <CategoryIDPath>11700:20444</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20469</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bed-in-a-Bag</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Bed-in-a-Bag</CategoryNamePath>
+     <CategoryIDPath>11700:20444:20469</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20445</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bed Pillows</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Bed Pillows</CategoryNamePath>
+     <CategoryIDPath>11700:20444:20445</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20450</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bed Skirts</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Bed Skirts</CategoryNamePath>
+     <CategoryIDPath>11700:20444:20450</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175750</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blankets and Throws</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Blankets and Throws</CategoryNamePath>
+     <CategoryIDPath>11700:20444:175750</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48090</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Canopies and Netting</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Canopies and Netting</CategoryNamePath>
+     <CategoryIDPath>11700:20444:48090</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45462</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Comforters and Sets</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Comforters and Sets</CategoryNamePath>
+     <CategoryIDPath>11700:20444:45462</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115630</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Decorative Bed Pillows</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Decorative Bed Pillows</CategoryNamePath>
+     <CategoryIDPath>11700:20444:115630</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37644</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Duvet Covers and Sets</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Duvet Covers and Sets</CategoryNamePath>
+     <CategoryIDPath>11700:20444:37644</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175751</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mattress Pads and Feather Beds</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Mattress Pads and Feather Beds</CategoryNamePath>
+     <CategoryIDPath>11700:20444:175751</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43397</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pillow Shams</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Pillow Shams</CategoryNamePath>
+     <CategoryIDPath>11700:20444:43397</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175749</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Quilts Bedspreads and Coverlets</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Quilts Bedspreads and Coverlets</CategoryNamePath>
+     <CategoryIDPath>11700:20444:175749</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20460</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sheets and Pillowcases</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Sheets and Pillowcases</CategoryNamePath>
+     <CategoryIDPath>11700:20444:20460</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25815</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Bedding</CategoryName>
+     <CategoryParentID>20444</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Bedding:Other Bedding</CategoryNamePath>
+     <CategoryIDPath>11700:20444:25815</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

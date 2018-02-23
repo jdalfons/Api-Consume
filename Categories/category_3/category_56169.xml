@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:00:37.082Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>56169</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>iPod Audio Player Accessories</CategoryName>
+     <CategoryParentID>15052</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73834</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessory Bundles</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Accessory Bundles</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:73834</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168093</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Armbands</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Armbands</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:168093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111694</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Audio Docks and Mini Speakers</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Audio Docks and Mini Speakers</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:111694</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56172</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cables and Adapters</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Cables and Adapters</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:56172</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56170</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cases Covers and Skins</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Cases Covers and Skins</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:56170</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73835</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cassette Adapters</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Cassette Adapters</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:73835</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124270</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chargers and Cradles</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Chargers and Cradles</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:124270</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118261</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Device-Specific Batteries</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Device-Specific Batteries</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:118261</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73836</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>FM Transmitters</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:FM Transmitters</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:73836</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173632</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Headphone Cord Winders</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Headphone Cord Winders</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:173632</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122654</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mini Plug-in Microphones</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Mini Plug-in Microphones</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:122654</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>131093</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mounts and Holders</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Mounts and Holders</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:131093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79877</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Remotes</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Remotes</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:79877</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168096</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Screen Protectors</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Screen Protectors</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:168096</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48680</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other iPod and Audio Player Accs</CategoryName>
+     <CategoryParentID>56169</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Portable Audio and Headphones:iPod Audio Player Accessories:Other iPod and Audio Player Accs</CategoryNamePath>
+     <CategoryIDPath>293:15052:56169:48680</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

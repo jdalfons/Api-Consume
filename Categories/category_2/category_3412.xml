@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:56.254Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3412</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Paper Money: US</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US</CategoryNamePath>
+     <CategoryIDPath>11116:3412</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162140</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Replicas and Reproductions</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Replicas and Reproductions</CategoryNamePath>
+     <CategoryIDPath>11116:3412:162140</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162139</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bank Checks</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Bank Checks</CategoryNamePath>
+     <CategoryIDPath>11116:3412:162139</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3413</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Colonial Currency</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Colonial Currency</CategoryNamePath>
+     <CategoryIDPath>11116:3412:3413</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3414</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Confederate Currency</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Confederate Currency</CategoryNamePath>
+     <CategoryIDPath>11116:3412:3414</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3415</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Errors</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Errors</CategoryNamePath>
+     <CategoryIDPath>11116:3412:3415</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3416</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fractional Currency</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Fractional Currency</CategoryNamePath>
+     <CategoryIDPath>11116:3412:3416</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149942</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Large Size Notes</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Large Size Notes</CategoryNamePath>
+     <CategoryIDPath>11116:3412:149942</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3418</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Military Payment Certificates</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Military Payment Certificates</CategoryNamePath>
+     <CategoryIDPath>11116:3412:3418</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162141</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Novelty</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Novelty</CategoryNamePath>
+     <CategoryIDPath>11116:3412:162141</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40028</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Small Size Notes</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Small Size Notes</CategoryNamePath>
+     <CategoryIDPath>11116:3412:40028</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3419</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>National Banknotes</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:National Banknotes</CategoryNamePath>
+     <CategoryIDPath>11116:3412:3419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3420</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Obsolete Currency</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Obsolete Currency</CategoryNamePath>
+     <CategoryIDPath>11116:3412:3420</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3044</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collections Lots</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Collections Lots</CategoryNamePath>
+     <CategoryIDPath>11116:3412:3044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>376</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other US Paper Money</CategoryName>
+     <CategoryParentID>3412</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Paper Money: US:Other US Paper Money</CategoryNamePath>
+     <CategoryIDPath>11116:3412:376</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

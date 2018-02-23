@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:28:37.767Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>246</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Action Figures</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures</CategoryNamePath>
+     <CategoryIDPath>220:246</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175692</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Animals and Dinosaurs</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Animals and Dinosaurs</CategoryNamePath>
+     <CategoryIDPath>220:246:175692</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158666</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Anime and Manga</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Anime and Manga</CategoryNamePath>
+     <CategoryIDPath>220:246:158666</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158671</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Comic Book Heroes</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Comic Book Heroes</CategoryNamePath>
+     <CategoryIDPath>220:246:158671</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158672</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Designer and Urban Vinyl</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Designer and Urban Vinyl</CategoryNamePath>
+     <CategoryIDPath>220:246:158672</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175693</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fantasy</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Fantasy</CategoryNamePath>
+     <CategoryIDPath>220:246:175693</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175694</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Historical Figures</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Historical Figures</CategoryNamePath>
+     <CategoryIDPath>220:246:175694</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158679</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Military and Adventure</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Military and Adventure</CategoryNamePath>
+     <CategoryIDPath>220:246:158679</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175691</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Music</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Music</CategoryNamePath>
+     <CategoryIDPath>220:246:175691</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>754</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sports</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Sports</CategoryNamePath>
+     <CategoryIDPath>220:246:754</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83732</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Transformers and Robots</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Transformers and Robots</CategoryNamePath>
+     <CategoryIDPath>220:246:83732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75708</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>TV Movie and Video Games</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:TV Movie and Video Games</CategoryNamePath>
+     <CategoryIDPath>220:246:75708</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>49018</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>220:246:49018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>348</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Action Figures</CategoryName>
+     <CategoryParentID>246</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Action Figures:Other Action Figures</CategoryNamePath>
+     <CategoryIDPath>220:246:348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

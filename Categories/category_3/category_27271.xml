@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:42.721Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>27271</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boxing</CategoryName>
+     <CategoryParentID>51</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Boxing</CategoryNamePath>
+     <CategoryIDPath>64482:51:27271</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101805</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Index Cards</CategoryName>
+     <CategoryParentID>27271</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Boxing:Index Cards</CategoryNamePath>
+     <CategoryIDPath>64482:51:27271:101805</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27272</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gloves</CategoryName>
+     <CategoryParentID>27271</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Boxing:Gloves</CategoryNamePath>
+     <CategoryIDPath>64482:51:27271:27272</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27273</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photos</CategoryName>
+     <CategoryParentID>27271</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Boxing:Photos</CategoryNamePath>
+     <CategoryIDPath>64482:51:27271:27273</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2830</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Autographed Boxing Items</CategoryName>
+     <CategoryParentID>27271</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop:Autographs-Original:Boxing:Other Autographed Boxing Items</CategoryNamePath>
+     <CategoryIDPath>64482:51:27271:2830</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

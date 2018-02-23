@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:33:17.563Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2660</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cap Guns</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Cap Guns</CategoryNamePath>
+     <CategoryIDPath>220:717:2660</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152939</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Diecast</CategoryName>
+     <CategoryParentID>2660</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Cap Guns:Diecast</CategoryNamePath>
+     <CategoryIDPath>220:717:2660:152939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2661</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cast Iron</CategoryName>
+     <CategoryParentID>2660</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Cap Guns:Cast Iron</CategoryNamePath>
+     <CategoryIDPath>220:717:2660:2661</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>720</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Cap Guns</CategoryName>
+     <CategoryParentID>2660</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Cap Guns:Other Vintage Cap Guns</CategoryNamePath>
+     <CategoryIDPath>220:717:2660:720</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:51.174Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>30654</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>TT Scale</CategoryName>
+     <CategoryParentID>180250</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:TT Scale</CategoryNamePath>
+     <CategoryIDPath>220:180250:30654</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81061</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Freight Cars</CategoryName>
+     <CategoryParentID>30654</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:TT Scale:Freight Cars</CategoryNamePath>
+     <CategoryIDPath>220:180250:30654:81061</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81056</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Locomotives</CategoryName>
+     <CategoryParentID>30654</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:TT Scale:Locomotives</CategoryNamePath>
+     <CategoryIDPath>220:180250:30654:81056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81062</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Passenger Cars</CategoryName>
+     <CategoryParentID>30654</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:TT Scale:Passenger Cars</CategoryNamePath>
+     <CategoryIDPath>220:180250:30654:81062</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99825</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Track</CategoryName>
+     <CategoryParentID>30654</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:TT Scale:Track</CategoryNamePath>
+     <CategoryIDPath>220:180250:30654:99825</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81063</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Starter Sets and Packs</CategoryName>
+     <CategoryParentID>30654</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:TT Scale:Starter Sets and Packs</CategoryNamePath>
+     <CategoryIDPath>220:180250:30654:81063</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81064</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>30654</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:TT Scale:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>220:180250:30654:81064</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>9041</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other TT Scale</CategoryName>
+     <CategoryParentID>30654</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:TT Scale:Other TT Scale</CategoryNamePath>
+     <CategoryIDPath>220:180250:30654:9041</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

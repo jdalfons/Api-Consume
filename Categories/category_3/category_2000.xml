@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:51:06.223Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2000</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hawaiian</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2002</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Accessories</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:2002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2003</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Apparel</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Apparel</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:2003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35801</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dishes Bowls and Plates</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Dishes Bowls and Plates</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:35801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2004</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hula</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Hula</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:2004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35802</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Jewelry</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:35802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35803</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lamps and Lighting</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Lamps and Lighting</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:35803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165477</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mugs and Cups</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Mugs and Cups</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:165477</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35804</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photos</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Photos</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:35804</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35805</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prints Posters and Paintings</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Prints Posters and Paintings</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:35805</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165478</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signs</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Signs</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:165478</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29460</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tikis</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Tikis</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:29460</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2001</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Hawaiian Collectibles</CategoryName>
+     <CategoryParentID>2000</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Hawaiian:Other Hawaiian Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:3913:2000:2001</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

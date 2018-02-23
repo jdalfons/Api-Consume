@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:47:01.407Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184279</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shipping and Postal Scales</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Postal Scales</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184279</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184280</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tabletop Scales</CategoryName>
+     <CategoryParentID>184279</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Postal Scales:Tabletop Scales</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184279:184280</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184281</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pallet Truck Scales</CategoryName>
+     <CategoryParentID>184279</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Postal Scales:Pallet Truck Scales</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184279:184281</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184282</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Floor Scales</CategoryName>
+     <CategoryParentID>184279</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Postal Scales:Floor Scales</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:184279:184282</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

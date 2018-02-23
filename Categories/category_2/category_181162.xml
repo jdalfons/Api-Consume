@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:11.188Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181162</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vintage Musical Instruments</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments</CategoryNamePath>
+     <CategoryIDPath>619:181162</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118974</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Brass</CategoryName>
+     <CategoryParentID>181162</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Brass</CategoryNamePath>
+     <CategoryIDPath>619:181162:118974</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181163</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Guitars and Basses</CategoryName>
+     <CategoryParentID>181162</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Guitars and Basses</CategoryNamePath>
+     <CategoryIDPath>619:181162:181163</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181170</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Percussion</CategoryName>
+     <CategoryParentID>181162</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Percussion</CategoryNamePath>
+     <CategoryIDPath>619:181162:181170</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181193</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Pianos and Keyboards</CategoryName>
+     <CategoryParentID>181162</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Pianos and Keyboards</CategoryNamePath>
+     <CategoryIDPath>619:181162:181193</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119023</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage String</CategoryName>
+     <CategoryParentID>181162</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage String</CategoryNamePath>
+     <CategoryIDPath>619:181162:119023</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181202</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Wind and Woodwind</CategoryName>
+     <CategoryParentID>181162</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Vintage Musical Instruments:Vintage Wind and Woodwind</CategoryNamePath>
+     <CategoryIDPath>619:181162:181202</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

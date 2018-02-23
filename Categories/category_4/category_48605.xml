@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:20:29.190Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>48605</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Car Video</CategoryName>
+     <CategoryParentID>48604</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Video:Other Car Video</CategoryNamePath>
+     <CategoryIDPath>293:3270:48604:48605</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

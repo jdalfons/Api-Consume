@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:21:33.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2440</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Paper Dolls</CategoryName>
+     <CategoryParentID>237</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Paper Dolls</CategoryNamePath>
+     <CategoryIDPath>237:2440</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2441</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Magazine</CategoryName>
+     <CategoryParentID>2440</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Paper Dolls:Magazine</CategoryNamePath>
+     <CategoryIDPath>237:2440:2441</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2442</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Modern</CategoryName>
+     <CategoryParentID>2440</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Paper Dolls:Modern</CategoryNamePath>
+     <CategoryIDPath>237:2440:2442</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2443</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>2440</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Paper Dolls:Reproductions</CategoryNamePath>
+     <CategoryIDPath>237:2440:2443</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2444</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage</CategoryName>
+     <CategoryParentID>2440</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Paper Dolls:Vintage</CategoryNamePath>
+     <CategoryIDPath>237:2440:2444</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>368</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Paper Dolls</CategoryName>
+     <CategoryParentID>2440</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Paper Dolls:Other Paper Dolls</CategoryNamePath>
+     <CategoryIDPath>237:2440:368</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

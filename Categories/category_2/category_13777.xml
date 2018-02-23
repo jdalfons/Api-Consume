@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:17:53.813Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13777</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Decorative Collectibles</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:13777</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156286</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Decorative Collectible Brands</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13831</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baskets</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Baskets</CategoryNamePath>
+     <CategoryIDPath>1:13777:13831</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39623</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bells</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Bells</CategoryNamePath>
+     <CategoryIDPath>1:13777:39623</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86919</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bird Houses Feeders</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Bird Houses Feeders</CategoryNamePath>
+     <CategoryIDPath>1:13777:86919</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86920</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Book Ends</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Book Ends</CategoryNamePath>
+     <CategoryIDPath>1:13777:86920</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73499</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bowls</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Bowls</CategoryNamePath>
+     <CategoryIDPath>1:13777:73499</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50792</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Candles Holders</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Candles Holders</CategoryNamePath>
+     <CategoryIDPath>1:13777:50792</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>791</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chalkware</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Chalkware</CategoryNamePath>
+     <CategoryIDPath>1:13777:791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4023</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cloisonne</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Cloisonne</CategoryNamePath>
+     <CategoryIDPath>1:13777:4023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>574</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collector Plates</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Collector Plates</CategoryNamePath>
+     <CategoryIDPath>1:13777:574</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4025</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Eggs</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Eggs</CategoryNamePath>
+     <CategoryIDPath>1:13777:4025</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41168</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Figurines</CategoryNamePath>
+     <CategoryIDPath>1:13777:41168</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13834</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flags</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Flags</CategoryNamePath>
+     <CategoryIDPath>1:13777:13834</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73500</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Frames</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Frames</CategoryNamePath>
+     <CategoryIDPath>1:13777:73500</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13835</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lighthouses</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Lighthouses</CategoryNamePath>
+     <CategoryIDPath>1:13777:13835</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66518</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Miniatures</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Miniatures</CategoryNamePath>
+     <CategoryIDPath>1:13777:66518</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73502</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mugs Cups</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Mugs Cups</CategoryNamePath>
+     <CategoryIDPath>1:13777:73502</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39628</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Music Boxes</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Music Boxes</CategoryNamePath>
+     <CategoryIDPath>1:13777:39628</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73503</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:13777:73503</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152540</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Nautical Décor</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Nautical Décor</CategoryNamePath>
+     <CategoryIDPath>1:13777:152540</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86922</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Paperweights</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Paperweights</CategoryNamePath>
+     <CategoryIDPath>1:13777:86922</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73501</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pitchers</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Pitchers</CategoryNamePath>
+     <CategoryIDPath>1:13777:73501</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86916</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Planters</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Planters</CategoryNamePath>
+     <CategoryIDPath>1:13777:86916</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86917</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Salt and Pepper Shakers</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Salt and Pepper Shakers</CategoryNamePath>
+     <CategoryIDPath>1:13777:86917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4029</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Seashells</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Seashells</CategoryNamePath>
+     <CategoryIDPath>1:13777:4029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47140</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shoes</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Shoes</CategoryNamePath>
+     <CategoryIDPath>1:13777:47140</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73504</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Signs</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Signs</CategoryNamePath>
+     <CategoryIDPath>1:13777:73504</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3637</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Snowdomes</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Snowdomes</CategoryNamePath>
+     <CategoryIDPath>1:13777:3637</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13836</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spoons</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Spoons</CategoryNamePath>
+     <CategoryIDPath>1:13777:13836</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1360</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>State Plates</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:State Plates</CategoryNamePath>
+     <CategoryIDPath>1:13777:1360</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73506</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tea Pots Sets</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Tea Pots Sets</CategoryNamePath>
+     <CategoryIDPath>1:13777:73506</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86918</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trays Platters</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Trays Platters</CategoryNamePath>
+     <CategoryIDPath>1:13777:86918</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13837</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trinket Boxes</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Trinket Boxes</CategoryNamePath>
+     <CategoryIDPath>1:13777:13837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73507</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vases</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Vases</CategoryNamePath>
+     <CategoryIDPath>1:13777:73507</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63783</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wall Hangings Mirrors</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Wall Hangings Mirrors</CategoryNamePath>
+     <CategoryIDPath>1:13777:63783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86926</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Windchimes</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Windchimes</CategoryNamePath>
+     <CategoryIDPath>1:13777:86926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41393</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Decorative Collectibles</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Other Decorative Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:13777:41393</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>38</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

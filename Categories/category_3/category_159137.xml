@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:11.782Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>159137</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Swimwear and Safety</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimwear and Safety</CategoryNamePath>
+     <CategoryIDPath>888:159136:159137</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159148</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hats and Helmets</CategoryName>
+     <CategoryParentID>159137</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimwear and Safety:Hats and Helmets</CategoryNamePath>
+     <CategoryIDPath>888:159136:159137:159148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15262</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Life Jackets and Preservers</CategoryName>
+     <CategoryParentID>159137</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimwear and Safety:Life Jackets and Preservers</CategoryNamePath>
+     <CategoryIDPath>888:159136:159137:15262</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117162</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swim Caps</CategoryName>
+     <CategoryParentID>159137</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimwear and Safety:Swim Caps</CategoryNamePath>
+     <CategoryIDPath>888:159136:159137:117162</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123707</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swimwear</CategoryName>
+     <CategoryParentID>159137</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimwear and Safety:Swimwear</CategoryNamePath>
+     <CategoryIDPath>888:159136:159137:123707</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159150</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Swimwear and Safety</CategoryName>
+     <CategoryParentID>159137</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Swimwear and Safety:Other Swimwear and Safety</CategoryNamePath>
+     <CategoryIDPath>888:159136:159137:159150</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

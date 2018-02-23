@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:19:15.408Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>27</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Art Pottery</CategoryName>
+     <CategoryParentID>18875</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27357</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Studio/ Handcrafted Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Studio/ Handcrafted Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:27357</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18892</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Abingdon</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Abingdon</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:18892</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160896</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>American Bisque</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:American Bisque</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160896</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50696</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Aynsley</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Aynsley</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:50696</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2752</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bennington</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Bennington</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2752</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21197</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blue Mountain</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Blue Mountain</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:21197</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160897</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bordallo Pinheiro</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Bordallo Pinheiro</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160897</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18895</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brush/Brush-McCoy</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Brush/Brush-McCoy</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:18895</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45529</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Buffalo</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Buffalo</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:45529</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173505</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bybee</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Bybee</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:173505</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160898</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>California Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:California Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160898</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7292</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Camark</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Camark</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:7292</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18897</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Catalina</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Catalina</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:18897</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>783</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Colorado Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Colorado Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2757</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coors Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Coors Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2757</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>784</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dakota Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Dakota Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:784</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160906</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dedham</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Dedham</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2761</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Delft</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Delft</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2761</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2766</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Folk</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Folk</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2766</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162112</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Franciscan/ Gladding-McBean</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Franciscan/ Gladding-McBean</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:162112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>449</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Frankoma Gracetone</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Frankoma Gracetone</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:449</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2767</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fulper</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Fulper</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2767</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2769</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gouda</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Gouda</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2769</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2771</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Grueby</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Grueby</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2771</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45533</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hadley</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Hadley</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:45533</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>589</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Haeger</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Haeger</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:589</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160899</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hampshire</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Hampshire</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160899</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160900</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Henn</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Henn</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160900</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>452</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hull</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Hull</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:452</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2780</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Made in Japan</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Made in Japan</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2780</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>453</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Majolica</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Majolica</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:453</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2781</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Maling</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Maling</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2781</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160901</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Marblehead</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Marblehead</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160901</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>89</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>McCoy</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:McCoy</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:89</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1234</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Moorcroft</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Moorcroft</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:1234</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2783</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Muncie</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Muncie</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160902</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nemadji</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Nemadji</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160902</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1235</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Newcomb</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Newcomb</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:1235</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2785</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Niloak</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Niloak</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2785</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160903</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nippon</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Nippon</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160903</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88463</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>North Carolina Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:North Carolina Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:88463</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1236</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Owens</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Owens</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:1236</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18904</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Poole</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Poole</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:18904</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18906</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quimper</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Quimper</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:18906</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18907</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Robinson Ransbottom</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Robinson Ransbottom</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:18907</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rookwood</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Rookwood</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:90</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>96</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Roseville</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Roseville</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:96</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160904</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rowe</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Rowe</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160904</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2787</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>SEG/Paul Revere</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:SEG/Paul Revere</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2787</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160905</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shawnee</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Shawnee</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160905</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>458</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Staffordshire</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Staffordshire</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:458</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>459</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stangl</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Stangl</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:459</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2791</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Teco</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Teco</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1239</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Uhl</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Uhl</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:1239</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>590</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Van Briggle</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Van Briggle</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:590</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162113</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vernon Kilns</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Vernon Kilns</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:162113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>461</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Weller</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Weller</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:461</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162114</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Central/South American Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Central/South American Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:162114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162115</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>European Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:European Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:162115</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1044</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Polish Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Polish Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:1044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1045</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scandinavian Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Scandinavian Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:1045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4232</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other American Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Other American Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:4232</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2751</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Asian Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Other Asian Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:2751</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1043</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other British Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Other British Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:1043</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160907</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Canadian Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Other Canadian Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160907</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown Maker</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Unknown Maker</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:160911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170129</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:170129</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Art Pottery</CategoryName>
+     <CategoryParentID>27</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass:Pottery and China:Art Pottery:Other Art Pottery</CategoryNamePath>
+     <CategoryIDPath>870:18875:27:86</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>69</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

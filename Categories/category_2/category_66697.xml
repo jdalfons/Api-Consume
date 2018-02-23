@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:49.332Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>66697</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Nursery Décor</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor</CategoryNamePath>
+     <CategoryIDPath>2984:66697</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117398</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boxes and Storage</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Boxes and Storage</CategoryNamePath>
+     <CategoryIDPath>2984:66697:117398</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20428</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lamps and Shades</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Lamps and Shades</CategoryNamePath>
+     <CategoryIDPath>2984:66697:20428</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37632</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mats and Rugs</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Mats and Rugs</CategoryNamePath>
+     <CategoryIDPath>2984:66697:37632</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20429</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mobiles</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Mobiles</CategoryNamePath>
+     <CategoryIDPath>2984:66697:20429</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121153</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Night Lights</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Night Lights</CategoryNamePath>
+     <CategoryIDPath>2984:66697:121153</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33235</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Picture Frames</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Picture Frames</CategoryNamePath>
+     <CategoryIDPath>2984:66697:33235</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37633</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wall Décor</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Wall Décor</CategoryNamePath>
+     <CategoryIDPath>2984:66697:37633</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146534</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wall Letters</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Wall Letters</CategoryNamePath>
+     <CategoryIDPath>2984:66697:146534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20431</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Window Treatments</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Window Treatments</CategoryNamePath>
+     <CategoryIDPath>2984:66697:20431</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98473</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Nursery Décor</CategoryName>
+     <CategoryParentID>66697</CategoryParentID>
+     <CategoryNamePath>Baby:Nursery Décor:Other Nursery Décor</CategoryNamePath>
+     <CategoryIDPath>2984:66697:98473</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:51:41.254Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>155251</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Ind-Pak Clothes and Accs</CategoryName>
+     <CategoryParentID>155246</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing:India and Pakistan:Other Ind-Pak Clothes and Accs</CategoryNamePath>
+     <CategoryIDPath>11450:155240:155246:155251</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

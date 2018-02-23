@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:23.674Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>73937</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gun Storage</CategoryName>
+     <CategoryParentID>7301</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Storage</CategoryNamePath>
+     <CategoryIDPath>888:7301:73937</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177877</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cabinets and Safes</CategoryName>
+     <CategoryParentID>73937</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Storage:Cabinets and Safes</CategoryNamePath>
+     <CategoryIDPath>888:7301:73937:177877</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73938</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cases</CategoryName>
+     <CategoryParentID>73937</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Storage:Cases</CategoryNamePath>
+     <CategoryIDPath>888:7301:73937:73938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73941</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gun Locks</CategoryName>
+     <CategoryParentID>73937</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Storage:Gun Locks</CategoryNamePath>
+     <CategoryIDPath>888:7301:73937:73941</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177878</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gun Sleeves</CategoryName>
+     <CategoryParentID>73937</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Storage:Gun Sleeves</CategoryNamePath>
+     <CategoryIDPath>888:7301:73937:177878</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73961</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Racks</CategoryName>
+     <CategoryParentID>73937</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Storage:Racks</CategoryNamePath>
+     <CategoryIDPath>888:7301:73937:73961</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159038</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Hunting Gun Storage</CategoryName>
+     <CategoryParentID>73937</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Gun Storage:Other Hunting Gun Storage</CategoryNamePath>
+     <CategoryIDPath>888:7301:73937:159038</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

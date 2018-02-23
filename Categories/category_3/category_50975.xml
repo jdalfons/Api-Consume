@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:44:46.798Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>50975</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Men&apos;s Clothing</CategoryName>
+     <CategoryParentID>41964</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Men&apos;s Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50975</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50977</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pants and Shorts</CategoryName>
+     <CategoryParentID>50975</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Men&apos;s Clothing:Pants and Shorts</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50975:50977</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50976</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shirts</CategoryName>
+     <CategoryParentID>50975</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Men&apos;s Clothing:Shirts</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50975:50976</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52535</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Socks and Underwear</CategoryName>
+     <CategoryParentID>50975</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Men&apos;s Clothing:Socks and Underwear</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50975:52535</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163631</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Items</CategoryName>
+     <CategoryParentID>50975</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Men&apos;s Clothing:Mixed Items</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50975:163631</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41966</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wholesale Men&apos;s Clothing</CategoryName>
+     <CategoryParentID>50975</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots:Men&apos;s Clothing:Other Wholesale Men&apos;s Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:41964:50975:41966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:01:39.235Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13674</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Warner Bros.</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165321</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Animaniacs</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Animaniacs</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:165321</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13675</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bugs Bunny</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Bugs Bunny</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:13675</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13676</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Daffy Duck</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Daffy Duck</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:13676</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165322</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Foghorn Leghorn</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Foghorn Leghorn</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:165322</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165323</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Looney Tunes</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Looney Tunes</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:165323</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13677</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Marvin the Martian</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Marvin the Martian</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:13677</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13678</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pepe Le Pew</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Pepe Le Pew</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:13678</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88865</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Porky Pig</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Porky Pig</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:88865</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13679</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Powerpuff Girls</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Powerpuff Girls</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:13679</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13680</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Road Runner/Wile E. Coyote</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Road Runner/Wile E. Coyote</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:13680</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165324</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Speedy Gonzales</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Speedy Gonzales</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:165324</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13681</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sylvester</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Sylvester</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:13681</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13682</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tasmanian Devil</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Tasmanian Devil</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:13682</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39550</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tweety Bird</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Tweety Bird</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:39550</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165325</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Yosemite Sam</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Yosemite Sam</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:165325</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1537</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Warner Bros Collectibles</CategoryName>
+     <CategoryParentID>13674</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Warner Bros.:Other Warner Bros Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13674:1537</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:31:15.798Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>37934</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Japan</CategoryName>
+     <CategoryParentID>20082</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162969</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Armor</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Armor</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:162969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162970</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bells</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Bells</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:162970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37935</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bowls</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Bowls</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:37935</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37936</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxes</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Boxes</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:37936</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162971</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dolls</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Dolls</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:162971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162972</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fans</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Fans</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:162972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37937</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glasses and Cups</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Glasses and Cups</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:37937</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155353</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kimonos and Textiles</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Kimonos and Textiles</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:155353</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162975</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Masks</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Masks</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:162975</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37938</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Netsuke</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Netsuke</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:37938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38125</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paintings and Scrolls</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Paintings and Scrolls</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:38125</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37939</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plates</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Plates</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:37939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38126</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prints</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Prints</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:38126</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162973</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Statues</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Statues</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:162973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66841</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swords</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Swords</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:66841</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162976</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tea Caddies</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Tea Caddies</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:162976</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162977</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Teapots</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Teapots</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:162977</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162978</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tsuba</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Tsuba</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:162978</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37940</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vases</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Vases</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:37940</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73466</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Japanese Antiques</CategoryName>
+     <CategoryParentID>37934</CategoryParentID>
+     <CategoryNamePath>Antiques:Asian Antiques:Japan:Other Japanese Antiques</CategoryNamePath>
+     <CategoryIDPath>20081:20082:37934:73466</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>21</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

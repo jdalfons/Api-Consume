@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:19.035Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156323</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Sewing (Pre-1930)</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930)</CategoryNamePath>
+     <CategoryIDPath>20081:156323</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156324</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baskets and Boxes</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Baskets and Boxes</CategoryNamePath>
+     <CategoryIDPath>20081:156323:156324</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156325</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Buttons</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Buttons</CategoryNamePath>
+     <CategoryIDPath>20081:156323:156325</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156326</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Furniture</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Furniture</CategoryNamePath>
+     <CategoryIDPath>20081:156323:156326</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156328</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Needles and Cases</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Needles and Cases</CategoryNamePath>
+     <CategoryIDPath>20081:156323:156328</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156329</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Patterns</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Patterns</CategoryNamePath>
+     <CategoryIDPath>20081:156323:156329</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167949</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pin Cushions</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Pin Cushions</CategoryNamePath>
+     <CategoryIDPath>20081:156323:167949</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156327</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sewing Machines</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Sewing Machines</CategoryNamePath>
+     <CategoryIDPath>20081:156323:156327</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163106</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sewing Machine Parts</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Sewing Machine Parts</CategoryNamePath>
+     <CategoryIDPath>20081:156323:163106</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156332</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spools and Thread</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Spools and Thread</CategoryNamePath>
+     <CategoryIDPath>20081:156323:156332</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156330</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Thimbles</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Thimbles</CategoryNamePath>
+     <CategoryIDPath>20081:156323:156330</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167950</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tools Scissors and Measures</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Tools Scissors and Measures</CategoryNamePath>
+     <CategoryIDPath>20081:156323:167950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171177</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>20081:156323:171177</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156331</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Antique Sewing</CategoryName>
+     <CategoryParentID>156323</CategoryParentID>
+     <CategoryNamePath>Antiques:Sewing (Pre-1930):Other Antique Sewing</CategoryNamePath>
+     <CategoryIDPath>20081:156323:156331</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

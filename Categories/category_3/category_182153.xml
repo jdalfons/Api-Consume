@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:17:53.113Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182153</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>10181</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>619:10181:182153</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182154</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bags and Cases</CategoryName>
+     <CategoryParentID>182153</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Parts and Accessories:Bags and Cases</CategoryNamePath>
+     <CategoryIDPath>619:10181:182153:182154</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182155</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Care and Cleaning</CategoryName>
+     <CategoryParentID>182153</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Parts and Accessories:Care and Cleaning</CategoryNamePath>
+     <CategoryIDPath>619:10181:182153:182155</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182156</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ligatures and Caps</CategoryName>
+     <CategoryParentID>182153</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Parts and Accessories:Ligatures and Caps</CategoryNamePath>
+     <CategoryIDPath>619:10181:182153:182156</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182157</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mouthpieces</CategoryName>
+     <CategoryParentID>182153</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Parts and Accessories:Mouthpieces</CategoryNamePath>
+     <CategoryIDPath>619:10181:182153:182157</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182158</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reeds</CategoryName>
+     <CategoryParentID>182153</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Parts and Accessories:Reeds</CategoryNamePath>
+     <CategoryIDPath>619:10181:182153:182158</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182159</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stands</CategoryName>
+     <CategoryParentID>182153</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Parts and Accessories:Stands</CategoryNamePath>
+     <CategoryIDPath>619:10181:182153:182159</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182160</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Straps</CategoryName>
+     <CategoryParentID>182153</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Parts and Accessories:Straps</CategoryNamePath>
+     <CategoryIDPath>619:10181:182153:182160</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Accessories</CategoryName>
+     <CategoryParentID>182153</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Wind and Woodwind:Parts and Accessories:Other Accessories</CategoryNamePath>
+     <CategoryIDPath>619:10181:182153:182161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

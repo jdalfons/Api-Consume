@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:53.533Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>158916</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shoes</CategoryName>
+     <CategoryParentID>15273</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Shoes</CategoryNamePath>
+     <CategoryIDPath>888:15273:158916</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158952</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Men</CategoryName>
+     <CategoryParentID>158916</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Shoes:Men</CategoryNamePath>
+     <CategoryIDPath>888:15273:158916:158952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158953</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Women</CategoryName>
+     <CategoryParentID>158916</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Shoes:Women</CategoryNamePath>
+     <CategoryIDPath>888:15273:158916:158953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158954</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Youth</CategoryName>
+     <CategoryParentID>158916</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Shoes:Youth</CategoryNamePath>
+     <CategoryIDPath>888:15273:158916:158954</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

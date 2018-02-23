@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:14.502Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>57017</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fire Protection Equipment</CategoryName>
+     <CategoryParentID>11897</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Fire Protection Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11897:57017</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57018</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fire Alarms</CategoryName>
+     <CategoryParentID>57017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Fire Protection Equipment:Fire Alarms</CategoryNamePath>
+     <CategoryIDPath>12576:11897:57017:57018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57019</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fire Extinguishers</CategoryName>
+     <CategoryParentID>57017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Fire Protection Equipment:Fire Extinguishers</CategoryNamePath>
+     <CategoryIDPath>12576:11897:57017:57019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57020</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fire Hoses</CategoryName>
+     <CategoryParentID>57017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Fire Protection Equipment:Fire Hoses</CategoryNamePath>
+     <CategoryIDPath>12576:11897:57017:57020</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57022</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fire Sprinkler Heads</CategoryName>
+     <CategoryParentID>57017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Fire Protection Equipment:Fire Sprinkler Heads</CategoryNamePath>
+     <CategoryIDPath>12576:11897:57017:57022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183847</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heat Detectors</CategoryName>
+     <CategoryParentID>57017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Fire Protection Equipment:Heat Detectors</CategoryNamePath>
+     <CategoryIDPath>12576:11897:57017:183847</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57021</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Smoke Detectors</CategoryName>
+     <CategoryParentID>57017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Fire Protection Equipment:Smoke Detectors</CategoryNamePath>
+     <CategoryIDPath>12576:11897:57017:57021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11899</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fire Protection Equip</CategoryName>
+     <CategoryParentID>57017</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Fire Protection Equipment:Other Fire Protection Equip</CategoryNamePath>
+     <CategoryIDPath>12576:11897:57017:11899</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

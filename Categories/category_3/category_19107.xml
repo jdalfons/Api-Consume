@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:29:47.987Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19107</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Magic: The Gathering</CategoryName>
+     <CategoryParentID>2536</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Magic: The Gathering</CategoryNamePath>
+     <CategoryIDPath>220:2536:19107</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38292</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>MTG Individual Cards</CategoryName>
+     <CategoryParentID>19107</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Magic: The Gathering:MTG Individual Cards</CategoryNamePath>
+     <CategoryIDPath>220:2536:19107:38292</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19113</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>MTG Mixed Card Lots</CategoryName>
+     <CategoryParentID>19107</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Magic: The Gathering:MTG Mixed Card Lots</CategoryNamePath>
+     <CategoryIDPath>220:2536:19107:19113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19109</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>MTG Sealed Booster Packs</CategoryName>
+     <CategoryParentID>19107</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Magic: The Gathering:MTG Sealed Booster Packs</CategoryNamePath>
+     <CategoryIDPath>220:2536:19107:19109</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183445</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>MTG Sealed Decks and Kits</CategoryName>
+     <CategoryParentID>19107</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Magic: The Gathering:MTG Sealed Decks and Kits</CategoryNamePath>
+     <CategoryIDPath>220:2536:19107:183445</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>49196</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>MTG Player-Built Decks</CategoryName>
+     <CategoryParentID>19107</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Magic: The Gathering:MTG Player-Built Decks</CategoryNamePath>
+     <CategoryIDPath>220:2536:19107:49196</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19114</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>MTG Complete Sets</CategoryName>
+     <CategoryParentID>19107</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Magic: The Gathering:MTG Complete Sets</CategoryNamePath>
+     <CategoryIDPath>220:2536:19107:19114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>218</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other MTG Items</CategoryName>
+     <CategoryParentID>19107</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Collectible Card Games:Magic: The Gathering:Other MTG Items</CategoryNamePath>
+     <CategoryIDPath>220:2536:19107:218</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

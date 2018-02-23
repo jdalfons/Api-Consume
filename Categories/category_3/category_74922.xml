@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:40:37.971Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>74922</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Telescope Parts and Accessories</CategoryName>
+     <CategoryParentID>28179</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Binoculars and Telescopes:Telescope Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>625:28179:74922</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151236</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Telescope Adapters</CategoryName>
+     <CategoryParentID>74922</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Binoculars and Telescopes:Telescope Parts and Accessories:Telescope Adapters</CategoryNamePath>
+     <CategoryIDPath>625:28179:74922:151236</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32943</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Telescope Cases and Bags</CategoryName>
+     <CategoryParentID>74922</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Binoculars and Telescopes:Telescope Parts and Accessories:Telescope Cases and Bags</CategoryNamePath>
+     <CategoryIDPath>625:28179:74922:32943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29954</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Telescope Eyepieces and Lenses</CategoryName>
+     <CategoryParentID>74922</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Binoculars and Telescopes:Telescope Parts and Accessories:Telescope Eyepieces and Lenses</CategoryNamePath>
+     <CategoryIDPath>625:28179:74922:29954</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74923</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Telescope Filters</CategoryName>
+     <CategoryParentID>74922</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Binoculars and Telescopes:Telescope Parts and Accessories:Telescope Filters</CategoryNamePath>
+     <CategoryIDPath>625:28179:74922:74923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74925</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Telescope Mirrors and Prisms</CategoryName>
+     <CategoryParentID>74922</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Binoculars and Telescopes:Telescope Parts and Accessories:Telescope Mirrors and Prisms</CategoryNamePath>
+     <CategoryIDPath>625:28179:74922:74925</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167938</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Telescope Mounts</CategoryName>
+     <CategoryParentID>74922</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Binoculars and Telescopes:Telescope Parts and Accessories:Telescope Mounts</CategoryNamePath>
+     <CategoryIDPath>625:28179:74922:167938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74926</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Telescope Parts and Accs</CategoryName>
+     <CategoryParentID>74922</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Binoculars and Telescopes:Telescope Parts and Accessories:Other Telescope Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>625:28179:74922:74926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

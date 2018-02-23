@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:33:59.252Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>166805</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collectibles</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Collectibles</CategoryNamePath>
+     <CategoryIDPath>99:319:166805</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1605</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Autographs</CategoryName>
+     <CategoryParentID>166805</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Collectibles:Autographs</CategoryNamePath>
+     <CategoryIDPath>99:319:166805:1605</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1604</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Comics</CategoryName>
+     <CategoryParentID>166805</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Collectibles:Comics</CategoryNamePath>
+     <CategoryIDPath>99:319:166805:1604</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4952</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>166805</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Collectibles:Figurines</CategoryNamePath>
+     <CategoryIDPath>99:319:166805:4952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>923</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Postcards</CategoryName>
+     <CategoryParentID>166805</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Collectibles:Postcards</CategoryNamePath>
+     <CategoryIDPath>99:319:166805:923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1606</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Adult Trading Cards</CategoryName>
+     <CategoryParentID>166805</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Collectibles:Adult Trading Cards</CategoryNamePath>
+     <CategoryIDPath>99:319:166805:1606</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166806</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Adult Collectibles</CategoryName>
+     <CategoryParentID>166805</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Collectibles:Other Adult Collectibles</CategoryNamePath>
+     <CategoryIDPath>99:319:166805:166806</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

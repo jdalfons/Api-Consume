@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:55:00.063Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>29465</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Documents</CategoryName>
+     <CategoryParentID>124</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Documents</CategoryNamePath>
+     <CategoryIDPath>1:124:29465</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156492</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1800</CategoryName>
+     <CategoryParentID>29465</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Documents:Pre-1800</CategoryNamePath>
+     <CategoryIDPath>1:124:29465:156492</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156493</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1800-1899</CategoryName>
+     <CategoryParentID>29465</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Documents:1800-1899</CategoryNamePath>
+     <CategoryIDPath>1:124:29465:156493</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29466</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1900-1939</CategoryName>
+     <CategoryParentID>29465</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Documents:1900-1939</CategoryNamePath>
+     <CategoryIDPath>1:124:29465:29466</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29467</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1940-59</CategoryName>
+     <CategoryParentID>29465</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Documents:1940-59</CategoryNamePath>
+     <CategoryIDPath>1:124:29465:29467</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4092</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1960-Now</CategoryName>
+     <CategoryParentID>29465</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Documents:1960-Now</CategoryNamePath>
+     <CategoryIDPath>1:124:29465:4092</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165658</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unspecified Unknown Date</CategoryName>
+     <CategoryParentID>29465</CategoryParentID>
+     <CategoryNamePath>Collectibles:Paper:Documents:Unspecified Unknown Date</CategoryNamePath>
+     <CategoryIDPath>1:124:29465:165658</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

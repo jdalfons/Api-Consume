@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:38:12.471Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184042</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pipe and Tubing Tools and Accs</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184043</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Drain Cleaning Machines</CategoryName>
+     <CategoryParentID>184042</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs:Drain Cleaning Machines</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042:184043</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184044</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flaring Tools</CategoryName>
+     <CategoryParentID>184042</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs:Flaring Tools</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042:184044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184045</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PEX Crimping Tools</CategoryName>
+     <CategoryParentID>184042</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs:PEX Crimping Tools</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042:184045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104220</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pipe Benders</CategoryName>
+     <CategoryParentID>184042</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs:Pipe Benders</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042:104220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184047</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pipe Clamps Hangers and Straps</CategoryName>
+     <CategoryParentID>184042</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs:Pipe Clamps Hangers and Straps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042:184047</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184048</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pipe Cutters</CategoryName>
+     <CategoryParentID>184042</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs:Pipe Cutters</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042:184048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184049</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pipe Threaders Taps and Dies</CategoryName>
+     <CategoryParentID>184042</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs:Pipe Threaders Taps and Dies</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042:184049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184050</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pipe Wrenches</CategoryName>
+     <CategoryParentID>184042</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs:Pipe Wrenches</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042:184050</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184051</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swaging Tools</CategoryName>
+     <CategoryParentID>184042</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs:Swaging Tools</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042:184051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184052</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Pipe/Tubing Tools and Accs</CategoryName>
+     <CategoryParentID>184042</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs:Other Pipe/Tubing Tools and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042:184052</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:49:20.532Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13715</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Arcade Gaming</CategoryName>
+     <CategoryParentID>66502</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Arcade Gaming</CategoryNamePath>
+     <CategoryIDPath>1:66502:13715</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20270</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Non-Video Arcade Machines</CategoryName>
+     <CategoryParentID>13715</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Arcade Gaming:Non-Video Arcade Machines</CategoryNamePath>
+     <CategoryIDPath>1:66502:13715:20270</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13716</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Video Arcade Machines</CategoryName>
+     <CategoryParentID>13715</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Arcade Gaming:Video Arcade Machines</CategoryNamePath>
+     <CategoryIDPath>1:66502:13715:13716</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13717</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals and Guides</CategoryName>
+     <CategoryParentID>13715</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Arcade Gaming:Manuals and Guides</CategoryNamePath>
+     <CategoryIDPath>1:66502:13715:13717</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165326</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Merchandise and Memorabilia</CategoryName>
+     <CategoryParentID>13715</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Arcade Gaming:Merchandise and Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:66502:13715:165326</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13718</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Replacement Parts</CategoryName>
+     <CategoryParentID>13715</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Arcade Gaming:Replacement Parts</CategoryNamePath>
+     <CategoryIDPath>1:66502:13715:13718</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3945</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Arcade Gaming</CategoryName>
+     <CategoryParentID>13715</CategoryParentID>
+     <CategoryNamePath>Collectibles:Arcade Jukeboxes and Pinball:Arcade Gaming:Other Arcade Gaming</CategoryNamePath>
+     <CategoryIDPath>1:66502:13715:3945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:00:45.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Breyer</CategoryName>
+     <CategoryParentID>156265</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35999</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Traditional 12 x 9 Inch</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Traditional 12 x 9 Inch</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:35999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36000</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Breyer Classics 9 x 6 Inch</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Breyer Classics 9 x 6 Inch</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:36000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167982</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mini Whinnies</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Mini Whinnies</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:167982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36001</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ponies 7 x 6 Inch</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Ponies 7 x 6 Inch</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:36001</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36002</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Paddock Pals 6 x 5 Inch</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Paddock Pals 6 x 5 Inch</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:36002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36003</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stablemates 4 x 3 Inch</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Stablemates 4 x 3 Inch</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:36003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36004</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Companion Animals</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Companion Animals</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:36004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36007</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stables and Barns</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Stables and Barns</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:36007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36005</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Accessories</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:36005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36009</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:36009</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>388</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Breyer Model Horses</CategoryName>
+     <CategoryParentID>35998</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Model Horses:Breyer:Other Breyer Model Horses</CategoryNamePath>
+     <CategoryIDPath>1:1335:156265:35998:388</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

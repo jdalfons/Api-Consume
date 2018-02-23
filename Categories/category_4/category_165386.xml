@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:04:02.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165386</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Superhero</CategoryName>
+     <CategoryParentID>165364</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165387</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Alpha Flight</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Alpha Flight</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165387</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165388</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aquaman</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Aquaman</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165388</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165389</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Avengers</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Avengers</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165389</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165391</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Batman</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Batman</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165391</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165392</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Captain America</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Captain America</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165392</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165393</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Catwoman</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Catwoman</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165393</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165394</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Conan</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Conan</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165394</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165395</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Daredevil</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Daredevil</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165395</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165396</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Darkness</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Darkness</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165396</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165397</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Deathlok</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Deathlok</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165397</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165398</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Defenders</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Defenders</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165398</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165399</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dr. Strange</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Dr. Strange</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165399</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165400</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fantastic Four</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Fantastic Four</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165400</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165402</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flash</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Flash</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165402</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165403</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ghost Rider</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Ghost Rider</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165403</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165404</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>GI Joe</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:GI Joe</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165404</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165405</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Green Arrow</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Green Arrow</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165405</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165406</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Green Lantern</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Green Lantern</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165406</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165407</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hawkman</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Hawkman</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165407</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165410</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Incredible Hulk</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Incredible Hulk</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165410</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165411</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Iron Man</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Iron Man</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165411</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165412</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Justice League of America</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Justice League of America</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165412</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165413</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Justice Society of America</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Justice Society of America</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165413</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165415</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Legion of Superheroes</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Legion of Superheroes</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165415</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165416</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lobo</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Lobo</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165416</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165418</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Moon Knight</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Moon Knight</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165418</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165419</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Phantom</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Phantom</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165420</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Punisher</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Punisher</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165420</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165421</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sandman</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Sandman</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165421</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165422</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Secret Wars</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Secret Wars</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165424</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Silver Surfer</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Silver Surfer</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165424</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165426</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spider-Man</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Spider-Man</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165426</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165427</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Star Wars</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Star Wars</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165427</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165428</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Superman</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Superman</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165428</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165429</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Swamp Thing</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Swamp Thing</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165429</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165430</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Teen Titans</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Teen Titans</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165430</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165431</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thor</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Thor</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165431</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165433</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Transformers</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Transformers</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165433</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165435</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ultraverse</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Ultraverse</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165435</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165437</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wolverine</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Wolverine</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165437</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165438</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wonder Woman</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Wonder Woman</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165438</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165439</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>X-Men</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:X-Men</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165439</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165440</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Items</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Mixed Items</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165440</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165441</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Copper Age Superheroes</CategoryName>
+     <CategoryParentID>165386</CategoryParentID>
+     <CategoryNamePath>Collectibles:Comics:Copper Age (1984-1991):Superhero:Other Copper Age Superheroes</CategoryNamePath>
+     <CategoryIDPath>1:63:165364:165386:165441</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>45</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

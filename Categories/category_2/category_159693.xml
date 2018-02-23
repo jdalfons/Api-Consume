@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:25.285Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>159693</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fuel and Energy</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy</CategoryNamePath>
+     <CategoryIDPath>12576:159693</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166663</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Alternative Fuel and Energy</CategoryName>
+     <CategoryParentID>159693</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy:Alternative Fuel and Energy</CategoryNamePath>
+     <CategoryIDPath>12576:159693:166663</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57112</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Oil and Gas</CategoryName>
+     <CategoryParentID>159693</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy:Oil and Gas</CategoryNamePath>
+     <CategoryIDPath>12576:159693:57112</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57115</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Power and Utilities</CategoryName>
+     <CategoryParentID>159693</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy:Power and Utilities</CategoryNamePath>
+     <CategoryIDPath>12576:159693:57115</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166668</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Fuel and Energy</CategoryName>
+     <CategoryParentID>159693</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fuel and Energy:Other Fuel and Energy</CategoryNamePath>
+     <CategoryIDPath>12576:159693:166668</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

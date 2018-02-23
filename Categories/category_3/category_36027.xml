@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:12:10.112Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>36027</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dinnerware and Serving Dishes</CategoryName>
+     <CategoryParentID>20625</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36032</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dinner Service Sets</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Dinner Service Sets</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:36032</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36028</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bowls</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Bowls</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:36028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103433</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Butter Dishes</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Butter Dishes</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:103433</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177010</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cake Stands</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Cake Stands</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:177010</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103434</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cream and Sugar</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Cream and Sugar</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:103434</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36029</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cups and Saucers</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Cups and Saucers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:36029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103435</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gravy Boats</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Gravy Boats</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:103435</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20695</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mugs</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Mugs</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:20695</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115729</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pitchers</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Pitchers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:115729</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36030</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plates</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Plates</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:36030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45503</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Platters</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Platters</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:45503</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45504</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Serving Bowls</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Serving Bowls</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:45504</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115730</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Teapots</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Teapots</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:115730</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45505</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trays</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Trays</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:45505</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32886</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trivets</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Trivets</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:32886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175802</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Dinnerware</CategoryName>
+     <CategoryParentID>36027</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Dinnerware and Serving Dishes:Other Dinnerware</CategoryNamePath>
+     <CategoryIDPath>11700:20625:36027:175802</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

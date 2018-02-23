@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:28:04.548Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104673</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists B</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53239</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Backstreet Boys</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Backstreet Boys</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:53239</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163986</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bad Company</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Bad Company</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163986</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85964</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bad Religion</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Bad Religion</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:85964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32999</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beach Boys</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Beach Boys</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:32999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104677</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beastie Boys</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Beastie Boys</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:104677</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29924</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beatles</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Beatles</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:29924</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85965</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beck</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Beck</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:85965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108821</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beck Jeff</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Beck Jeff</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:108821</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163985</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bee Gees</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Bee Gees</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163985</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83180</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beyoncé</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Beyoncé</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:83180</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85967</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Björk</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Björk</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:85967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85968</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Black Crowes</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Black Crowes</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:85968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104685</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Black Eyed Peas</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Black Eyed Peas</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:104685</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163980</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Black Label Society</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Black Label Society</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163980</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163981</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Black Rebel Motorcycle Club</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Black Rebel Motorcycle Club</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85969</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Black Sabbath</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Black Sabbath</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:85969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85970</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Blink-182</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Blink-182</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:85970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163987</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bloc Party</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Bloc Party</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163987</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108818</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Blondie</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Blondie</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:108818</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163982</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Blue Oyster Cult</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Blue Oyster Cult</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163983</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Blunt James</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Blunt James</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163983</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104694</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bon Jovi</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Bon Jovi</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:104694</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163984</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Boston</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Boston</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163984</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104716</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bowie David</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Bowie David</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:104716</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163988</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Brand New</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Brand New</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163988</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163989</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Breaking Benjamin</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Breaking Benjamin</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163989</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163990</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bullet For My Valentine</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Bullet For My Valentine</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85986</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Buffett Jimmy</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Buffett Jimmy</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:85986</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86002</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bush</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Bush</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:86002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163991</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bush Kate</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Bush Kate</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:163991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104675</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists B</CategoryName>
+     <CategoryParentID>104673</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists B:Other Rock and Pop Artists B</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104673:104675</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>32</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:12:20.438Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20635</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kitchen Tools and Gadgets</CategoryName>
+     <CategoryParentID>20625</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178050</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bento Accessories</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Bento Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:178050</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178051</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Burger Presses</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Burger Presses</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:178051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43420</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Can Openers (Manual)</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Can Openers (Manual)</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:43420</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178052</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canning Supplies</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Canning Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:178052</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178053</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Choppers</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Choppers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:178053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20636</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Colanders Strainers and Sifters</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Colanders Strainers and Sifters</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:20636</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43421</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cooking Thermometers</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Cooking Thermometers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:43421</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20649</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cooking Utensils</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Cooking Utensils</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:20649</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46282</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cutting Boards</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Cutting Boards</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:46282</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178054</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Egg and Pancake Rings</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Egg and Pancake Rings</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:178054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177007</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Food Mills and Potato Ricers</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Food Mills and Potato Ricers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:177007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178055</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Funnels</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Funnels</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:178055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122939</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garlic Presses</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Garlic Presses</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:122939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134727</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Graters</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Graters</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:134727</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178056</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ice Pop Molds</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Ice Pop Molds</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:178056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jello Molds</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Jello Molds</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:115997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134728</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Measuring Cups and Spoons</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Measuring Cups and Spoons</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:134728</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20633</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Microwave Cooking Gadgets</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Microwave Cooking Gadgets</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:20633</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20642</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixing Bowls</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Mixing Bowls</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:20642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98853</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mortar and Pestles</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Mortar and Pestles</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:98853</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178057</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nut and Shell Crackers</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Nut and Shell Crackers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:178057</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>54122</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Oil and Vinegar Dispensers</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Oil and Vinegar Dispensers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:54122</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178058</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pasta Molds and Presses</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Pasta Molds and Presses</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:178058</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20641</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Peelers</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Peelers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:20641</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20644</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Refrigerator Magnets</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Refrigerator Magnets</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:20644</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177008</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Salt and Pepper</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Salt and Pepper</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:177008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46284</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scoops</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Scoops</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:46284</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134726</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slicers</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Slicers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:134726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20647</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spoon Rests</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Spoon Rests</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:20647</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46285</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stove Burner Covers</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Stove Burner Covers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:46285</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98852</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Timers</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Timers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:98852</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20651</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Kitchen Tools and Gadgets</CategoryName>
+     <CategoryParentID>20635</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Kitchen Tools and Gadgets:Other Kitchen Tools and Gadgets</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20635:20651</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>33</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

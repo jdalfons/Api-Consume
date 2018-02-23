@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:45:01.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>173590</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Half Cents</CategoryName>
+     <CategoryParentID>253</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Cents</CategoryNamePath>
+     <CategoryIDPath>11116:253:173590</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173591</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Liberty Cap (1793-97)</CategoryName>
+     <CategoryParentID>173590</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Cents:Liberty Cap (1793-97)</CategoryNamePath>
+     <CategoryIDPath>11116:253:173590:173591</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173592</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Draped Bust (1800-08)</CategoryName>
+     <CategoryParentID>173590</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Cents:Draped Bust (1800-08)</CategoryNamePath>
+     <CategoryIDPath>11116:253:173590:173592</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173593</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Classic Head (1809-36)</CategoryName>
+     <CategoryParentID>173590</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Cents:Classic Head (1809-36)</CategoryNamePath>
+     <CategoryIDPath>11116:253:173590:173593</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173594</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Braided Hair (1840-57)</CategoryName>
+     <CategoryParentID>173590</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Cents:Braided Hair (1840-57)</CategoryNamePath>
+     <CategoryIDPath>11116:253:173590:173594</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173683</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>173590</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Half Cents:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>11116:253:173590:173683</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

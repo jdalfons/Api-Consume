@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:01:00.379Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>139836</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>GPS Accessories and Tracking</CategoryName>
+     <CategoryParentID>3270</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:GPS Accessories and Tracking</CategoryNamePath>
+     <CategoryIDPath>293:3270:139836</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73348</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>GPS Antennas</CategoryName>
+     <CategoryParentID>139836</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:GPS Accessories and Tracking:GPS Antennas</CategoryNamePath>
+     <CategoryIDPath>293:3270:139836:73348</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168103</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>GPS Cases and Skins</CategoryName>
+     <CategoryParentID>139836</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:GPS Accessories and Tracking:GPS Cases and Skins</CategoryNamePath>
+     <CategoryIDPath>293:3270:139836:168103</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175726</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>GPS Chargers and Batteries</CategoryName>
+     <CategoryParentID>139836</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:GPS Accessories and Tracking:GPS Chargers and Batteries</CategoryNamePath>
+     <CategoryIDPath>293:3270:139836:175726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73353</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>GPS Holders and Mounts</CategoryName>
+     <CategoryParentID>139836</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:GPS Accessories and Tracking:GPS Holders and Mounts</CategoryNamePath>
+     <CategoryIDPath>293:3270:139836:73353</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168104</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>GPS Screen Protectors</CategoryName>
+     <CategoryParentID>139836</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:GPS Accessories and Tracking:GPS Screen Protectors</CategoryNamePath>
+     <CategoryIDPath>293:3270:139836:168104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139837</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>GPS Software and Maps</CategoryName>
+     <CategoryParentID>139836</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:GPS Accessories and Tracking:GPS Software and Maps</CategoryNamePath>
+     <CategoryIDPath>293:3270:139836:139837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73362</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tracking Devices</CategoryName>
+     <CategoryParentID>139836</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:GPS Accessories and Tracking:Tracking Devices</CategoryNamePath>
+     <CategoryIDPath>293:3270:139836:73362</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58049</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other GPS Accs and Tracking</CategoryName>
+     <CategoryParentID>139836</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:GPS Accessories and Tracking:Other GPS Accs and Tracking</CategoryNamePath>
+     <CategoryIDPath>293:3270:139836:58049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

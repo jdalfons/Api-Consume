@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:05:57.004Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>333</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Dollhouse Miniatures</CategoryName>
+     <CategoryParentID>1202</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dollhouse Miniatures:Other Dollhouse Miniatures</CategoryNamePath>
+     <CategoryIDPath>237:1202:333</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

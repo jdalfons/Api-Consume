@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:28:10.767Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104705</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists C</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53244</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Carey Mariah</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Carey Mariah</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:53244</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163993</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Celtic Frost</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Celtic Frost</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:163993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85972</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cheap Trick</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Cheap Trick</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:85972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104707</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cher</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Cher</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:104707</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104736</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Clapton Eric</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Clapton Eric</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:104736</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85960</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Clarkson Kelly</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Clarkson Kelly</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:85960</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53247</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Clash</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Clash</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:53247</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85973</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coldplay</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Coldplay</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:85973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85962</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cooper Alice</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Cooper Alice</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:85962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85976</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Costello Elvis</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Costello Elvis</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:85976</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85974</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Counting Crows</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Counting Crows</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:85974</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163994</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cradle of Filth</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Cradle of Filth</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:163994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104712</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Creed</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Creed</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:104712</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163992</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Crowded House</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Crowded House</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:163992</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108822</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cult</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Cult</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:108822</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86003</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cure</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Cure</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:86003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163995</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cyrus Miley / Montana Hannah</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Cyrus Miley / Montana Hannah</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:163995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104713</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cypress Hill</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Cypress Hill</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:104713</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104706</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists C</CategoryName>
+     <CategoryParentID>104705</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists C:Other Rock and Pop Artists C</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104705:104706</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

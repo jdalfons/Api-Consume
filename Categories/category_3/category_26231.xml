@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:52.783Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>26231</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lab Equipment</CategoryName>
+     <CategoryParentID>11815</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26230</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Analytical Instruments</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Analytical Instruments</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:26230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48722</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Autoclaves and Sterilizers</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Autoclaves and Sterilizers</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:48722</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109449</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Centrifuges and Parts</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Centrifuges and Parts</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:109449</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48723</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cleaning Equipment</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Cleaning Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:48723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119114</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Evaporators</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Evaporators</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:119114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159696</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fermenters</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Fermenters</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:159696</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40115</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Furnishings and Facilities</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Furnishings and Facilities</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:40115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48728</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heating and Cooling</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Heating and Cooling</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:48728</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26233</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Incubators</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Incubators</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:26233</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109452</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lab Lasers and Photonics</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Lab Lasers and Photonics</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:109452</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48724</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lab Scales and Balances</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Lab Scales and Balances</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:48724</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48741</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Microscopes</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Microscopes</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:48741</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11813</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Microscope Parts and Accessories</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Microscope Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:11813</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159697</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Microtomes</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Microtomes</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:159697</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26235</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixers</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Mixers</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:26235</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111542</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Motion Control</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Motion Control</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:111542</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111543</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Power Supply</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Power Supply</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:111543</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78222</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pumps</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:78222</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48734</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Recorders and Plotters</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Recorders and Plotters</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:48734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119120</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shakers</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Shakers</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:119120</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119121</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stirrers</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Stirrers</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:119121</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26237</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Lab Equipment</CategoryName>
+     <CategoryParentID>26231</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Lab Equipment:Other Lab Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11815:26231:26237</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>23</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

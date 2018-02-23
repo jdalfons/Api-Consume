@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:08.707Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>109471</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Adhesives Sealants and Tapes</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes</CategoryNamePath>
+     <CategoryIDPath>12576:109471</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109475</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Adhesive Tapes</CategoryName>
+     <CategoryParentID>109471</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Adhesive Tapes</CategoryNamePath>
+     <CategoryIDPath>12576:109471:109475</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183746</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Glues Epoxies and Cements</CategoryName>
+     <CategoryParentID>109471</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Glues Epoxies and Cements</CategoryNamePath>
+     <CategoryIDPath>12576:109471:183746</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184304</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Caulks Sealants and Removers</CategoryName>
+     <CategoryParentID>109471</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Caulks Sealants and Removers</CategoryNamePath>
+     <CategoryIDPath>12576:109471:184304</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183780</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Adhesive Guns and Dispensers</CategoryName>
+     <CategoryParentID>109471</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Adhesives Sealants and Tapes:Adhesive Guns and Dispensers</CategoryNamePath>
+     <CategoryIDPath>12576:109471:183780</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

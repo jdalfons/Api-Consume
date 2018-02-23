@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:38:37.471Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>73111</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Drywall Tools</CategoryName>
+     <CategoryParentID>61573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Drywall Tools</CategoryNamePath>
+     <CategoryIDPath>12576:61573:73111</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159679</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Drywall Lifts</CategoryName>
+     <CategoryParentID>73111</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Drywall Tools:Drywall Lifts</CategoryNamePath>
+     <CategoryIDPath>12576:61573:73111:159679</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73112</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pattern Guns and Hoppers</CategoryName>
+     <CategoryParentID>73111</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Drywall Tools:Pattern Guns and Hoppers</CategoryNamePath>
+     <CategoryIDPath>12576:61573:73111:73112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73113</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stilts</CategoryName>
+     <CategoryParentID>73111</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Drywall Tools:Stilts</CategoryNamePath>
+     <CategoryIDPath>12576:61573:73111:73113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46577</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Taping Tools</CategoryName>
+     <CategoryParentID>73111</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Drywall Tools:Taping Tools</CategoryNamePath>
+     <CategoryIDPath>12576:61573:73111:46577</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73114</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Drywall Tools</CategoryName>
+     <CategoryParentID>73111</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Drywall Tools:Other Drywall Tools</CategoryNamePath>
+     <CategoryIDPath>12576:61573:73111:73114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

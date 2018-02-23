@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:43:09.832Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104221</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Exam and Diagnostic</CategoryName>
+     <CategoryParentID>11823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Exam and Diagnostic</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104221</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104226</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Headlights and Lights</CategoryName>
+     <CategoryParentID>104221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Exam and Diagnostic:Headlights and Lights</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104221:104226</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104227</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Laryngoscopes</CategoryName>
+     <CategoryParentID>104221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Exam and Diagnostic:Laryngoscopes</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104221:104227</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31472</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Otoscopes</CategoryName>
+     <CategoryParentID>104221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Exam and Diagnostic:Otoscopes</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104221:31472</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104222</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Reflex Hammers</CategoryName>
+     <CategoryParentID>104221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Exam and Diagnostic:Reflex Hammers</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104221:104222</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104223</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Specula</CategoryName>
+     <CategoryParentID>104221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Exam and Diagnostic:Specula</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104221:104223</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104224</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thermometers</CategoryName>
+     <CategoryParentID>104221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Exam and Diagnostic:Thermometers</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104221:104224</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104225</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Diagnostic Instruments</CategoryName>
+     <CategoryParentID>104221</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Instruments:Exam and Diagnostic:Other Diagnostic Instruments</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11823:104221:104225</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

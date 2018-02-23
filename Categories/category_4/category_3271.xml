@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:19:56.533Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3271</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Equalizers</CategoryName>
+     <CategoryParentID>14969</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:Home Audio Stereos Components:Equalizers</CategoryNamePath>
+     <CategoryIDPath>293:32852:14969:3271</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:04.129Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11874</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Restaurant and Catering</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering</CategoryNamePath>
+     <CategoryIDPath>12576:11874</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25362</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bar and Beverage Equipment</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Bar and Beverage Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25362</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25367</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Commercial Kitchen Equipment</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67145</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Food Trucks Trailers and Carts</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Food Trucks Trailers and Carts</CategoryNamePath>
+     <CategoryIDPath>12576:11874:67145</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57093</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Furniture Signs and Décor</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Furniture Signs and Décor</CategoryNamePath>
+     <CategoryIDPath>12576:11874:57093</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25375</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Refrigeration and Ice Machines</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Refrigeration and Ice Machines</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25375</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25381</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tabletop and Serving</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50935</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Uniforms and Aprons</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Uniforms and Aprons</CategoryNamePath>
+     <CategoryIDPath>12576:11874:50935</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25389</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vending and Tabletop Concessions</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Vending and Tabletop Concessions</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25389</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1271</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Restaurant and Catering</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Other Restaurant and Catering</CategoryNamePath>
+     <CategoryIDPath>12576:11874:1271</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55841</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>12576:11874:55841</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

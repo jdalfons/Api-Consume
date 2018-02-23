@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:10:55.020Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>-1</CategoryID>
+     <CategoryLevel>0</CategoryLevel>
+     <CategoryName>Root</CategoryName>
+     <CategoryParentID>0</CategoryParentID>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20081</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Antiques</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Antiques</CategoryNamePath>
+     <CategoryIDPath>20081</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>550</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Art</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Art</CategoryNamePath>
+     <CategoryIDPath>550</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2984</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Baby</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Baby</CategoryNamePath>
+     <CategoryIDPath>2984</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>267</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Books</CategoryNamePath>
+     <CategoryIDPath>267</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12576</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Business and Industrial</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Business and Industrial</CategoryNamePath>
+     <CategoryIDPath>12576</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>625</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Cameras and Photo</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo</CategoryNamePath>
+     <CategoryIDPath>625</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15032</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Cell Phones and Accessories</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories</CategoryNamePath>
+     <CategoryIDPath>15032</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11450</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>11450</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11116</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Coins and Paper Money</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money</CategoryNamePath>
+     <CategoryIDPath>11116</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Collectibles</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Collectibles</CategoryNamePath>
+     <CategoryIDPath>1</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58058</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Computers/Tablets and Networking</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking</CategoryNamePath>
+     <CategoryIDPath>58058</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>293</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Consumer Electronics</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics</CategoryNamePath>
+     <CategoryIDPath>293</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14339</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Crafts</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Crafts</CategoryNamePath>
+     <CategoryIDPath>14339</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>237</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Dolls and Bears</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears</CategoryNamePath>
+     <CategoryIDPath>237</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11232</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>DVDs and Movies</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>DVDs and Movies</CategoryNamePath>
+     <CategoryIDPath>11232</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45100</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Entertainment Memorabilia</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia</CategoryNamePath>
+     <CategoryIDPath>45100</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172008</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Gift Cards and Coupons</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Gift Cards and Coupons</CategoryNamePath>
+     <CategoryIDPath>172008</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26395</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Health and Beauty</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Health and Beauty</CategoryNamePath>
+     <CategoryIDPath>26395</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11700</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Home and Garden</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Home and Garden</CategoryNamePath>
+     <CategoryIDPath>11700</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>281</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Jewelry and Watches</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches</CategoryNamePath>
+     <CategoryIDPath>281</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11233</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Music</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Music</CategoryNamePath>
+     <CategoryIDPath>11233</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>619</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Musical Instruments and Gear</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear</CategoryNamePath>
+     <CategoryIDPath>619</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1281</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Pet Supplies</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Pet Supplies</CategoryNamePath>
+     <CategoryIDPath>1281</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>870</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Pottery and Glass</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Pottery and Glass</CategoryNamePath>
+     <CategoryIDPath>870</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10542</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Real Estate</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Real Estate</CategoryNamePath>
+     <CategoryIDPath>10542</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>316</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Specialty Services</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Specialty Services</CategoryNamePath>
+     <CategoryIDPath>316</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>888</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Sporting Goods</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Sporting Goods</CategoryNamePath>
+     <CategoryIDPath>888</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64482</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Sports Mem Cards and Fan Shop</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Sports Mem Cards and Fan Shop</CategoryNamePath>
+     <CategoryIDPath>64482</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>260</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Stamps</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Stamps</CategoryNamePath>
+     <CategoryIDPath>260</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1305</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Tickets and Experiences</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Tickets and Experiences</CategoryNamePath>
+     <CategoryIDPath>1305</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>220</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Toys and Hobbies</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies</CategoryNamePath>
+     <CategoryIDPath>220</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3252</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Travel</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Travel</CategoryNamePath>
+     <CategoryIDPath>3252</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1249</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Video Games and Consoles</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Video Games and Consoles</CategoryNamePath>
+     <CategoryIDPath>1249</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Everything Else</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Everything Else</CategoryNamePath>
+     <CategoryIDPath>99</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>35</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:03:41.379Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>28147</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rug Making</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157027</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Latch Hooking</CategoryName>
+     <CategoryParentID>28147</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making:Latch Hooking</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147:157027</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157029</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Primitive Hand Hooking</CategoryName>
+     <CategoryParentID>28147</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making:Primitive Hand Hooking</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147:157029</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183226</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rug Braiding</CategoryName>
+     <CategoryParentID>28147</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making:Rug Braiding</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147:183226</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160672</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Rug Making Supplies</CategoryName>
+     <CategoryParentID>28147</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Rug Making:Other Rug Making Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:160706:28147:160672</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

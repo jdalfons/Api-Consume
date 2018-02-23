@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:11:12.801Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>625</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Cameras and Photo</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo</CategoryNamePath>
+     <CategoryIDPath>625</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28179</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Binoculars and Telescopes</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Binoculars and Telescopes</CategoryNamePath>
+     <CategoryIDPath>625:28179</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11724</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Camcorders</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Camcorders</CategoryNamePath>
+     <CategoryIDPath>625:11724</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15200</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Camera and Photo Accessories</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Camera and Photo Accessories</CategoryNamePath>
+     <CategoryIDPath>625:15200</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179697</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Camera Drones</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Camera Drones</CategoryNamePath>
+     <CategoryIDPath>625:179697</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182969</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Camera Drone Parts and Accs</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Camera Drone Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>625:182969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4684</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Camera Manuals and Guides</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Camera Manuals and Guides</CategoryNamePath>
+     <CategoryIDPath>625:4684</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31388</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Digital Cameras</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Digital Cameras</CategoryNamePath>
+     <CategoryIDPath>625:31388</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150044</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Digital Photo Frames</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Digital Photo Frames</CategoryNamePath>
+     <CategoryIDPath>625:150044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69323</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Film Photography</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Film Photography</CategoryNamePath>
+     <CategoryIDPath>625:69323</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64353</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Flashes and Flash Accessories</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Flashes and Flash Accessories</CategoryNamePath>
+     <CategoryIDPath>625:64353</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78997</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Lenses and Filters</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lenses and Filters</CategoryNamePath>
+     <CategoryIDPath>625:78997</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30078</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Lighting and Studio</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio</CategoryNamePath>
+     <CategoryIDPath>625:30078</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182074</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Replacement Parts and Tools</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Replacement Parts and Tools</CategoryNamePath>
+     <CategoryIDPath>625:182074</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30090</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Tripods and Supports</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Tripods and Supports</CategoryNamePath>
+     <CategoryIDPath>625:30090</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21162</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Video Production and Editing</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Video Production and Editing</CategoryNamePath>
+     <CategoryIDPath>625:21162</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3326</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vintage Movie and Photography</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Vintage Movie and Photography</CategoryNamePath>
+     <CategoryIDPath>625:3326</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45086</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>625:45086</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27432</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Cameras and Photo</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Other Cameras and Photo</CategoryNamePath>
+     <CategoryIDPath>625:27432</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>19</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

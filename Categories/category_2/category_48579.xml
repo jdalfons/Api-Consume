@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:28.845Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>48579</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vintage and Antique Jewelry</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:48579</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>500</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Costume</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume</CategoryNamePath>
+     <CategoryIDPath>281:48579:500</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12595</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fine</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Fine</CategoryNamePath>
+     <CategoryIDPath>281:48579:12595</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165133</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Ethnic/Regional/Tribal</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Ethnic/Regional/Tribal</CategoryNamePath>
+     <CategoryIDPath>281:48579:165133</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166736</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Handcrafted Artisan</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Vintage Handcrafted Artisan</CategoryNamePath>
+     <CategoryIDPath>281:48579:166736</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48581</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>New Vintage Reproductions</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:New Vintage Reproductions</CategoryNamePath>
+     <CategoryIDPath>281:48579:48581</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168176</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jewelry for Parts or Repair</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Jewelry for Parts or Repair</CategoryNamePath>
+     <CategoryIDPath>281:48579:168176</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171122</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>281:48579:171122</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166734</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Vintage Jewelry</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Other Vintage Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:48579:166734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

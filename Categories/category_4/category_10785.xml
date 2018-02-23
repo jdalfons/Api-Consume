@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:57:27.923Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10785</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cereal</CategoryName>
+     <CategoryParentID>13587</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Cereal</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10785</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165235</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cream of Wheat</CategoryName>
+     <CategoryParentID>10785</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Cereal:Cream of Wheat</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10785:165235</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10786</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>General Mills</CategoryName>
+     <CategoryParentID>10785</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Cereal:General Mills</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10785:10786</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10787</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kellogg</CategoryName>
+     <CategoryParentID>10785</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Cereal:Kellogg</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10785:10787</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10788</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nabisco</CategoryName>
+     <CategoryParentID>10785</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Cereal:Nabisco</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10785:10788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10789</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Post</CategoryName>
+     <CategoryParentID>10785</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Cereal:Post</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10785:10789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10790</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Quaker</CategoryName>
+     <CategoryParentID>10785</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Cereal:Quaker</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10785:10790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165236</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Merchandise and Memorabilia</CategoryName>
+     <CategoryParentID>10785</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Cereal:Merchandise and Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10785:165236</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1322</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Cereal Advertisements</CategoryName>
+     <CategoryParentID>10785</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Cereal:Other Cereal Advertisements</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:10785:1322</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:17:05.832Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181249</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Orchestral Percussion</CategoryName>
+     <CategoryParentID>180012</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Orchestral Percussion</CategoryNamePath>
+     <CategoryIDPath>619:180012:181249</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41440</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bells and Chimes</CategoryName>
+     <CategoryParentID>181249</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Orchestral Percussion:Bells and Chimes</CategoryNamePath>
+     <CategoryIDPath>619:180012:181249:41440</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181250</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gongs</CategoryName>
+     <CategoryParentID>181249</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Orchestral Percussion:Gongs</CategoryNamePath>
+     <CategoryIDPath>619:180012:181249:181250</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41458</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mallet Percussion</CategoryName>
+     <CategoryParentID>181249</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Orchestral Percussion:Mallet Percussion</CategoryNamePath>
+     <CategoryIDPath>619:180012:181249:41458</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181251</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Timpani</CategoryName>
+     <CategoryParentID>181249</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Orchestral Percussion:Timpani</CategoryNamePath>
+     <CategoryIDPath>619:180012:181249:181251</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181253</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Orchestral Percussion</CategoryName>
+     <CategoryParentID>181249</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Percussion:Orchestral Percussion:Other Orchestral Percussion</CategoryNamePath>
+     <CategoryIDPath>619:180012:181249:181253</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

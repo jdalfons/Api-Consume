@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:07:22.238Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35869</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Statues</CategoryName>
+     <CategoryParentID>35863</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Statues</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35869</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86929</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Alabastrite Acrylic and Resin</CategoryName>
+     <CategoryParentID>35869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Statues:Alabastrite Acrylic and Resin</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35869:86929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35870</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ceramic</CategoryName>
+     <CategoryParentID>35869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Statues:Ceramic</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35869:35870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35871</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Glass Crystal</CategoryName>
+     <CategoryParentID>35869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Statues:Glass Crystal</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35869:35871</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35872</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pewter</CategoryName>
+     <CategoryParentID>35869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Statues:Pewter</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35869:35872</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35873</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Dragon Statues</CategoryName>
+     <CategoryParentID>35869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Statues:Other Dragon Statues</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35869:35873</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

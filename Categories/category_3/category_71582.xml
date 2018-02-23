@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:00:57.442Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>71582</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>TV Video and Audio Parts</CategoryName>
+     <CategoryParentID>32852</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TV Video and Audio Parts</CategoryNamePath>
+     <CategoryIDPath>293:32852:71582</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122649</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Amplifier Parts and Components</CategoryName>
+     <CategoryParentID>71582</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TV Video and Audio Parts:Amplifier Parts and Components</CategoryNamePath>
+     <CategoryIDPath>293:32852:71582:122649</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71583</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Projector Lamps and Components</CategoryName>
+     <CategoryParentID>71582</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TV Video and Audio Parts:Projector Lamps and Components</CategoryNamePath>
+     <CategoryIDPath>293:32852:71582:71583</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149975</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rear-Projection TV Lamps</CategoryName>
+     <CategoryParentID>71582</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TV Video and Audio Parts:Rear-Projection TV Lamps</CategoryNamePath>
+     <CategoryIDPath>293:32852:71582:149975</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64619</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Record Player Turntable Parts</CategoryName>
+     <CategoryParentID>71582</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TV Video and Audio Parts:Record Player Turntable Parts</CategoryNamePath>
+     <CategoryIDPath>293:32852:71582:64619</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175723</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Speaker Parts and Components</CategoryName>
+     <CategoryParentID>71582</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TV Video and Audio Parts:Speaker Parts and Components</CategoryNamePath>
+     <CategoryIDPath>293:32852:71582:175723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163768</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>TV Boards Parts and Components</CategoryName>
+     <CategoryParentID>71582</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TV Video and Audio Parts:TV Boards Parts and Components</CategoryNamePath>
+     <CategoryIDPath>293:32852:71582:163768</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71585</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other TV Video and Audio Parts</CategoryName>
+     <CategoryParentID>71582</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:TV Video and Home Audio:TV Video and Audio Parts:Other TV Video and Audio Parts</CategoryNamePath>
+     <CategoryIDPath>293:32852:71582:71585</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

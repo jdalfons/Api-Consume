@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:09:28.079Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>33850</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>1089</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33851</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Angels</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Angels</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33851</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34992</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Animals</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Animals</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:34992</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34155</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Baby</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Baby</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:34155</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168000</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Balls</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Balls</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:168000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33853</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bells</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Bells</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33853</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33854</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Candies Cookies</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Candies Cookies</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33854</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33855</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cars Trains Planes</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Cars Trains Planes</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33855</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33856</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cartoon TV Characters</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Cartoon TV Characters</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33856</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168001</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Eggs</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Eggs</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:168001</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33857</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Elves</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Elves</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33857</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48803</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Houses</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Houses</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:48803</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33858</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Nativity Religious</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Nativity Religious</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33858</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33859</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Patriotic</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Patriotic</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33859</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33860</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rudolph</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Rudolph</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33860</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33861</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Santa</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Santa</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33862</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Shoes and Handbags</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Shoes and Handbags</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48804</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sleighs</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Sleighs</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:48804</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48805</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Snowflakes</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Snowflakes</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:48805</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33863</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Snowmen</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Snowmen</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33863</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33864</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sports</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Sports</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33864</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33865</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stars</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Stars</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33865</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33866</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stockings</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Stockings</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33866</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60218</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Trees</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Trees</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:60218</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33867</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wreaths</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Wreaths</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33867</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168002</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornament Hooks and Hangers</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Ornament Hooks and Hangers</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:168002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33868</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sets Mixed Lots</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Sets Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:33868</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>148</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Current Tree Ornaments</CategoryName>
+     <CategoryParentID>33850</CategoryParentID>
+     <CategoryNamePath>Collectibles:Holiday and Seasonal:Christmas: Current (1991-Now):Ornaments:Other Current Tree Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:907:1089:33850:148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>28</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

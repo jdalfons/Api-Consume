@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:59.204Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>47119</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Restoration and Repair</CategoryName>
+     <CategoryParentID>316</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Restoration and Repair</CategoryNamePath>
+     <CategoryIDPath>316:47119</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50336</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cameras and Photo</CategoryName>
+     <CategoryParentID>47119</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Restoration and Repair:Cameras and Photo</CategoryNamePath>
+     <CategoryIDPath>316:47119:50336</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47121</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cars and Other Vehicles</CategoryName>
+     <CategoryParentID>47119</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Restoration and Repair:Cars and Other Vehicles</CategoryNamePath>
+     <CategoryIDPath>316:47119:47121</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50422</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Computers</CategoryName>
+     <CategoryParentID>47119</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Restoration and Repair:Computers</CategoryNamePath>
+     <CategoryIDPath>316:47119:50422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47123</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electronics</CategoryName>
+     <CategoryParentID>47119</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Restoration and Repair:Electronics</CategoryNamePath>
+     <CategoryIDPath>316:47119:47123</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47122</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jewelry and Watches</CategoryName>
+     <CategoryParentID>47119</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Restoration and Repair:Jewelry and Watches</CategoryNamePath>
+     <CategoryIDPath>316:47119:47122</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47125</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Musical Instruments</CategoryName>
+     <CategoryParentID>47119</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Restoration and Repair:Musical Instruments</CategoryNamePath>
+     <CategoryIDPath>316:47119:47125</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45210</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Restoration Services</CategoryName>
+     <CategoryParentID>47119</CategoryParentID>
+     <CategoryNamePath>Specialty Services:Restoration and Repair:Other Restoration Services</CategoryNamePath>
+     <CategoryIDPath>316:47119:45210</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

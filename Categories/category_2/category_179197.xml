@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:17:07.285Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179197</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Virtual Currency</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Virtual Currency</CategoryNamePath>
+     <CategoryIDPath>11116:179197</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179170</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Currency</CategoryName>
+     <CategoryParentID>179197</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Virtual Currency:Currency</CategoryNamePath>
+     <CategoryIDPath>11116:179197:179170</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179171</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Miners</CategoryName>
+     <CategoryParentID>179197</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Virtual Currency:Miners</CategoryNamePath>
+     <CategoryIDPath>11116:179197:179171</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179172</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mining Contracts</CategoryName>
+     <CategoryParentID>179197</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Virtual Currency:Mining Contracts</CategoryNamePath>
+     <CategoryIDPath>11116:179197:179172</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

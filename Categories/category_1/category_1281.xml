@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:06.895Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1281</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Pet Supplies</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Pet Supplies</CategoryNamePath>
+     <CategoryIDPath>1281</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177801</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Backyard Poultry Supplies</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Backyard Poultry Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:177801</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20734</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bird Supplies</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Bird Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:20734</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20737</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Cat Supplies</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Cat Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:20737</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20742</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Dog Supplies</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Dog Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:20742</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20754</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fish and Aquariums</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Fish and Aquariums</CategoryNamePath>
+     <CategoryIDPath>1281:20754</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1285</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Reptile Supplies</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Reptile Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:1285</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26696</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Small Animal Supplies</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Small Animal Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:26696</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116391</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Pet Memorials and Urns</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Pet Memorials and Urns</CategoryNamePath>
+     <CategoryIDPath>1281:116391</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48760</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>1281:48760</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>301</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Pet Supplies</CategoryName>
+     <CategoryParentID>1281</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Other Pet Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:301</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

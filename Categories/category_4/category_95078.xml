@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:48:32.924Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>95078</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Food Preparation Equipment</CategoryName>
+     <CategoryParentID>25367</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57099</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Can Openers</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Can Openers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:57099</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67164</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Choppers and Cutters</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Choppers and Cutters</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:67164</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36346</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Food Processors</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Food Processors</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:36346</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95074</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Meat Grinders and Butcher Supply</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Meat Grinders and Butcher Supply</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:95074</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25373</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixers</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Mixers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:25373</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53221</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixer Accessories</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Mixer Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:53221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111517</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Prep Tables</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Prep Tables</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:111517</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25383</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Scales</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Scales</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:25383</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25374</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Slicers</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Slicers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:25374</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53222</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stick Blenders</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Stick Blenders</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:53222</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95083</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Commercial Food Prep</CategoryName>
+     <CategoryParentID>95078</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Food Preparation Equipment:Other Commercial Food Prep</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95078:95083</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:56.767Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13340</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tennis</CategoryName>
+     <CategoryParentID>159134</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Tennis</CategoryNamePath>
+     <CategoryIDPath>888:159134:13340</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20869</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bags</CategoryName>
+     <CategoryParentID>13340</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Tennis:Bags</CategoryNamePath>
+     <CategoryIDPath>888:159134:13340:20869</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20870</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Balls</CategoryName>
+     <CategoryParentID>13340</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Tennis:Balls</CategoryNamePath>
+     <CategoryIDPath>888:159134:13340:20870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81624</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Grips</CategoryName>
+     <CategoryParentID>13340</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Tennis:Grips</CategoryNamePath>
+     <CategoryIDPath>888:159134:13340:81624</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20871</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Racquets</CategoryName>
+     <CategoryParentID>13340</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Tennis:Racquets</CategoryNamePath>
+     <CategoryIDPath>888:159134:13340:20871</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>148908</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Racquet Covers</CategoryName>
+     <CategoryParentID>13340</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Tennis:Racquet Covers</CategoryNamePath>
+     <CategoryIDPath>888:159134:13340:148908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13343</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Strings</CategoryName>
+     <CategoryParentID>13340</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Tennis:Strings</CategoryNamePath>
+     <CategoryIDPath>888:159134:13340:13343</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83053</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Training Aids</CategoryName>
+     <CategoryParentID>13340</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Tennis:Training Aids</CategoryNamePath>
+     <CategoryIDPath>888:159134:13340:83053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2917</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Tennis</CategoryName>
+     <CategoryParentID>13340</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Tennis and Racquet Sports:Tennis:Other Tennis</CategoryNamePath>
+     <CategoryIDPath>888:159134:13340:2917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:59.910Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4250</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Men&apos;s Accessories</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:4250</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52357</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Backpacks Bags and Briefcases</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Backpacks Bags and Briefcases</CategoryNamePath>
+     <CategoryIDPath>11450:4250:52357</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86647</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Belt Buckles</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Belt Buckles</CategoryNamePath>
+     <CategoryIDPath>11450:4250:86647</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2993</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Belts</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Belts</CategoryNamePath>
+     <CategoryIDPath>11450:4250:2993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>152537</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Canes and Walking Sticks</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Canes and Walking Sticks</CategoryNamePath>
+     <CategoryIDPath>11450:4250:152537</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177649</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collar Tips</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Collar Tips</CategoryNamePath>
+     <CategoryIDPath>11450:4250:177649</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2994</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gloves and Mittens</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Gloves and Mittens</CategoryNamePath>
+     <CategoryIDPath>11450:4250:2994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167902</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Handkerchiefs</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Handkerchiefs</CategoryNamePath>
+     <CategoryIDPath>11450:4250:167902</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52365</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hats</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Hats</CategoryNamePath>
+     <CategoryIDPath>11450:4250:52365</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>169271</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>ID and Document Holders</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:ID and Document Holders</CategoryNamePath>
+     <CategoryIDPath>11450:4250:169271</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52373</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Key Chains Rings and Cases</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Key Chains Rings and Cases</CategoryNamePath>
+     <CategoryIDPath>11450:4250:52373</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163583</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Money Clips</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Money Clips</CategoryNamePath>
+     <CategoryIDPath>11450:4250:163583</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15665</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Organizers and Day Planners</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Organizers and Day Planners</CategoryNamePath>
+     <CategoryIDPath>11450:4250:15665</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52382</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scarves</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Scarves</CategoryNamePath>
+     <CategoryIDPath>11450:4250:52382</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179239</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sunglasses and Fashion Eyewear</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Sunglasses and Fashion Eyewear</CategoryNamePath>
+     <CategoryIDPath>11450:4250:179239</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105387</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Suspenders Braces</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Suspenders Braces</CategoryNamePath>
+     <CategoryIDPath>11450:4250:105387</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15662</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ties</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Ties</CategoryNamePath>
+     <CategoryIDPath>11450:4250:15662</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90634</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Umbrellas</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Umbrellas</CategoryNamePath>
+     <CategoryIDPath>11450:4250:90634</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2996</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wallets</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Wallets</CategoryNamePath>
+     <CategoryIDPath>11450:4250:2996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106113</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wristbands</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Wristbands</CategoryNamePath>
+     <CategoryIDPath>11450:4250:106113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175627</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mixed Items and Lots</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Mixed Items and Lots</CategoryNamePath>
+     <CategoryIDPath>11450:4250:175627</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1060</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Men&apos;s Accessories</CategoryName>
+     <CategoryParentID>4250</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories:Other Men&apos;s Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:4250:1060</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>22</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

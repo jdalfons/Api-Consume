@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:31:43.392Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>37945</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>African</CategoryName>
+     <CategoryParentID>2207</CategoryParentID>
+     <CategoryNamePath>Antiques:Ethnographic:African</CategoryNamePath>
+     <CategoryIDPath>20081:2207:37945</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163007</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry</CategoryName>
+     <CategoryParentID>37945</CategoryParentID>
+     <CategoryNamePath>Antiques:Ethnographic:African:Jewelry</CategoryNamePath>
+     <CategoryIDPath>20081:2207:37945:163007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37946</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Masks</CategoryName>
+     <CategoryParentID>37945</CategoryParentID>
+     <CategoryNamePath>Antiques:Ethnographic:African:Masks</CategoryNamePath>
+     <CategoryIDPath>20081:2207:37945:37946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37947</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sculptures and Statues</CategoryName>
+     <CategoryParentID>37945</CategoryParentID>
+     <CategoryNamePath>Antiques:Ethnographic:African:Sculptures and Statues</CategoryNamePath>
+     <CategoryIDPath>20081:2207:37945:37947</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4171</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other African Antiques</CategoryName>
+     <CategoryParentID>37945</CategoryParentID>
+     <CategoryNamePath>Antiques:Ethnographic:African:Other African Antiques</CategoryNamePath>
+     <CategoryIDPath>20081:2207:37945:4171</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

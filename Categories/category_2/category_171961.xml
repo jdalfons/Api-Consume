@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:04.517Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>171961</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Printers Scanners and Supplies</CategoryName>
+     <CategoryParentID>58058</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Printers Scanners and Supplies</CategoryNamePath>
+     <CategoryIDPath>58058:171961</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1245</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Printers</CategoryName>
+     <CategoryParentID>171961</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Printers Scanners and Supplies:Printers</CategoryNamePath>
+     <CategoryIDPath>58058:171961:1245</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11205</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scanners</CategoryName>
+     <CategoryParentID>171961</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Printers Scanners and Supplies:Scanners</CategoryNamePath>
+     <CategoryIDPath>58058:171961:11205</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11195</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Printer Ink Toner and Paper</CategoryName>
+     <CategoryParentID>171961</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Printers Scanners and Supplies:Printer Ink Toner and Paper</CategoryNamePath>
+     <CategoryIDPath>58058:171961:11195</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182086</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Printer and Scanner Parts and Accs</CategoryName>
+     <CategoryParentID>171961</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Printers Scanners and Supplies:Printer and Scanner Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>58058:171961:182086</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

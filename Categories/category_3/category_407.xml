@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:55:26.735Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>407</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage and Antique (Pre-1940)</CategoryName>
+     <CategoryParentID>14277</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940)</CategoryNamePath>
+     <CategoryIDPath>1:14277:407</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13704</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ambrotypes</CategoryName>
+     <CategoryParentID>407</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940):Ambrotypes</CategoryNamePath>
+     <CategoryIDPath>1:14277:407:13704</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13705</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cabinet Photos</CategoryName>
+     <CategoryParentID>407</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940):Cabinet Photos</CategoryNamePath>
+     <CategoryIDPath>1:14277:407:13705</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>409</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>CDVs</CategoryName>
+     <CategoryParentID>407</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940):CDVs</CategoryNamePath>
+     <CategoryIDPath>1:14277:407:409</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>408</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Daguerreotypes</CategoryName>
+     <CategoryParentID>407</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940):Daguerreotypes</CategoryNamePath>
+     <CategoryIDPath>1:14277:407:408</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14278</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Magic Lantern Glass Slides</CategoryName>
+     <CategoryParentID>407</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940):Magic Lantern Glass Slides</CategoryNamePath>
+     <CategoryIDPath>1:14277:407:14278</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26265</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photo Albums</CategoryName>
+     <CategoryParentID>407</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940):Photo Albums</CategoryNamePath>
+     <CategoryIDPath>1:14277:407:26265</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13706</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stereoviews</CategoryName>
+     <CategoryParentID>407</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940):Stereoviews</CategoryNamePath>
+     <CategoryIDPath>1:14277:407:13706</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13712</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tintypes</CategoryName>
+     <CategoryParentID>407</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940):Tintypes</CategoryNamePath>
+     <CategoryIDPath>1:14277:407:13712</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>411</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Viewmaster</CategoryName>
+     <CategoryParentID>407</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940):Viewmaster</CategoryNamePath>
+     <CategoryIDPath>1:14277:407:411</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14279</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Photographs</CategoryName>
+     <CategoryParentID>407</CategoryParentID>
+     <CategoryNamePath>Collectibles:Photographic Images:Vintage and Antique (Pre-1940):Other Antique Photographs</CategoryNamePath>
+     <CategoryIDPath>1:14277:407:14279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

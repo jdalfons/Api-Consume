@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:01:27.192Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13662</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hanna-Barbera</CategoryName>
+     <CategoryParentID>1344</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Hanna-Barbera</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13662</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13663</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flintstones</CategoryName>
+     <CategoryParentID>13662</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Hanna-Barbera:Flintstones</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13662:13663</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165317</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hong Kong Phooey</CategoryName>
+     <CategoryParentID>13662</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Hanna-Barbera:Hong Kong Phooey</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13662:165317</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165318</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Huckleberry Hound</CategoryName>
+     <CategoryParentID>13662</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Hanna-Barbera:Huckleberry Hound</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13662:165318</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165319</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jetsons</CategoryName>
+     <CategoryParentID>13662</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Hanna-Barbera:Jetsons</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13662:165319</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13664</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Scooby-Doo</CategoryName>
+     <CategoryParentID>13662</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Hanna-Barbera:Scooby-Doo</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13662:13664</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165320</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Yogi Bear</CategoryName>
+     <CategoryParentID>13662</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Hanna-Barbera:Yogi Bear</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13662:165320</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1534</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Hanna-Barbera</CategoryName>
+     <CategoryParentID>13662</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animation Art and Characters:Animation Characters:Hanna-Barbera:Other Hanna-Barbera</CategoryNamePath>
+     <CategoryIDPath>1:13658:1344:13662:1534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

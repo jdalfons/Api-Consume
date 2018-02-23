@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:45:59.282Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45043</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Semiconductor Manufacturing</CategoryName>
+     <CategoryParentID>58290</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Semiconductor and PCB Equipment:Semiconductor Manufacturing</CategoryNamePath>
+     <CategoryIDPath>12576:11804:58290:45043</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45045</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Test and Assembly</CategoryName>
+     <CategoryParentID>45043</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Semiconductor and PCB Equipment:Semiconductor Manufacturing:Test and Assembly</CategoryNamePath>
+     <CategoryIDPath>12576:11804:58290:45043:45045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45044</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wafer Processing</CategoryName>
+     <CategoryParentID>45043</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Semiconductor and PCB Equipment:Semiconductor Manufacturing:Wafer Processing</CategoryNamePath>
+     <CategoryIDPath>12576:11804:58290:45043:45044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26260</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Semiconductor Mfg</CategoryName>
+     <CategoryParentID>45043</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Semiconductor and PCB Equipment:Semiconductor Manufacturing:Other Semiconductor Mfg</CategoryNamePath>
+     <CategoryIDPath>12576:11804:58290:45043:26260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

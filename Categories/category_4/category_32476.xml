@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:55:19.471Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>32476</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Russia</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Russia</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:32476</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32477</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Empire (up to 1917)</CategoryName>
+     <CategoryParentID>32476</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Russia:Empire (up to 1917)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:32476:32477</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32478</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>USSR (1917-91)</CategoryName>
+     <CategoryParentID>32476</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Russia:USSR (1917-91)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:32476:32478</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173693</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Federation (1992-Now)</CategoryName>
+     <CategoryParentID>32476</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Russia:Federation (1992-Now)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:32476:173693</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175663</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>32476</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Russia:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:32476:175663</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

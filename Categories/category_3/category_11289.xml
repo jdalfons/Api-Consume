@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:19:06.954Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11289</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Small Animal Supplies</CategoryName>
+     <CategoryParentID>26696</CategoryParentID>
+     <CategoryNamePath>Pet Supplies:Small Animal Supplies:Other Small Animal Supplies</CategoryNamePath>
+     <CategoryIDPath>1281:26696:11289</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

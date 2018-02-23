@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:46:20.173Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>27444</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens: Canada (1861-Now)</CategoryName>
+     <CategoryParentID>3452</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Exonumia:Tokens: Canada (1861-Now)</CategoryNamePath>
+     <CategoryIDPath>11116:3452:27444</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

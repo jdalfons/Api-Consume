@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:08.596Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180278</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Accessories Parts and Display</CategoryName>
+     <CategoryParentID>222</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Accessories Parts and Display</CategoryNamePath>
+     <CategoryIDPath>220:222:180278</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171137</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Buildings and Set Parts</CategoryName>
+     <CategoryParentID>180278</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Accessories Parts and Display:Buildings and Set Parts</CategoryNamePath>
+     <CategoryIDPath>220:222:180278:171137</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166800</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dioramas</CategoryName>
+     <CategoryParentID>180278</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Accessories Parts and Display:Dioramas</CategoryNamePath>
+     <CategoryIDPath>220:222:180278:166800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171135</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Display Cases and Stands</CategoryName>
+     <CategoryParentID>180278</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Accessories Parts and Display:Display Cases and Stands</CategoryNamePath>
+     <CategoryIDPath>220:222:180278:171135</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180279</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figures</CategoryName>
+     <CategoryParentID>180278</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Accessories Parts and Display:Figures</CategoryNamePath>
+     <CategoryIDPath>220:222:180278:180279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171136</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stickers Decals and Iron-Ons</CategoryName>
+     <CategoryParentID>180278</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Accessories Parts and Display:Stickers Decals and Iron-Ons</CategoryNamePath>
+     <CategoryIDPath>220:222:180278:171136</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2500</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Track</CategoryName>
+     <CategoryParentID>180278</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Accessories Parts and Display:Track</CategoryNamePath>
+     <CategoryIDPath>220:222:180278:2500</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171134</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vehicle Parts</CategoryName>
+     <CategoryParentID>180278</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Accessories Parts and Display:Vehicle Parts</CategoryNamePath>
+     <CategoryIDPath>220:222:180278:171134</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7315</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Diecast Vehicle Accs</CategoryName>
+     <CategoryParentID>180278</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Accessories Parts and Display:Other Diecast Vehicle Accs</CategoryNamePath>
+     <CategoryIDPath>220:222:180278:7315</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

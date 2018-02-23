@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:30.110Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179985</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fishing Equipment</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179986</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bait Buckets</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Bait Buckets</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179986</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72638</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bite Alarms</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Bite Alarms</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:72638</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19985</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chairs and Seats</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Chairs and Seats</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:19985</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179987</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Charts and Maps</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Charts and Maps</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179987</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179988</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decals Stickers and Patches</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Decals Stickers and Patches</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179988</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36151</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Downrigger Outrigger Gear</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Downrigger Outrigger Gear</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:36151</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179989</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fighting Belts and Harnesses</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Fighting Belts and Harnesses</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179989</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179990</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fish Processing and Cooking</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Fish Processing and Cooking</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179990</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179993</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fishing Carts and Wagons</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Fishing Carts and Wagons</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179994</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fishing Spears and Gaffs</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Fishing Spears and Gaffs</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179995</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Float Tubes</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Float Tubes</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>87098</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fly Fishing Accessories</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Fly Fishing Accessories</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:87098</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179996</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ice Fishing Accessories</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Ice Fishing Accessories</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>123489</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lights</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Lights</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:123489</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81458</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nets</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Nets</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:81458</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pliers and Hook Removers</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Pliers and Hook Removers</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reel Cases and Storage</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Reel Cases and Storage</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81473</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rod Cases Tubes and Racks</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Rod Cases Tubes and Racks</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:81473</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72665</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rod Rests and Holders</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Rod Rests and Holders</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:72665</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72667</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scales</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Scales</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:72667</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179999</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stringers and Fish Baskets</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Stringers and Fish Baskets</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:179999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22696</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tackle Boxes and Bags</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Tackle Boxes and Bags</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:22696</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72670</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tents and Shelters</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Tents and Shelters</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:72670</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180000</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Underwater Cameras</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Underwater Cameras</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:180000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27414</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fishing Equipment</CategoryName>
+     <CategoryParentID>179985</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment:Other Fishing Equipment</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985:27414</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>26</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

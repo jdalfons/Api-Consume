@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:30.299Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>119236</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>36259</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Accessories</CategoryNamePath>
+     <CategoryIDPath>888:36259:119236</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21229</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bags and Backpacks</CategoryName>
+     <CategoryParentID>119236</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Accessories:Bags and Backpacks</CategoryNamePath>
+     <CategoryIDPath>888:36259:119236:21229</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159182</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decals and Stickers</CategoryName>
+     <CategoryParentID>119236</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Accessories:Decals and Stickers</CategoryNamePath>
+     <CategoryIDPath>888:36259:119236:159182</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159183</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand and Foot Warmers</CategoryName>
+     <CategoryParentID>119236</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Accessories:Hand and Foot Warmers</CategoryNamePath>
+     <CategoryIDPath>888:36259:119236:159183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21231</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Racks and Carriers</CategoryName>
+     <CategoryParentID>119236</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Accessories:Racks and Carriers</CategoryNamePath>
+     <CategoryIDPath>888:36259:119236:21231</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119237</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tuning Tools</CategoryName>
+     <CategoryParentID>119236</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Accessories:Tuning Tools</CategoryNamePath>
+     <CategoryIDPath>888:36259:119236:119237</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62170</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wax</CategoryName>
+     <CategoryParentID>119236</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Accessories:Wax</CategoryNamePath>
+     <CategoryIDPath>888:36259:119236:62170</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21232</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Winter Sport Accessories</CategoryName>
+     <CategoryParentID>119236</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Accessories:Other Winter Sport Accessories</CategoryNamePath>
+     <CategoryIDPath>888:36259:119236:21232</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

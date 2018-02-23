@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:07:16.440Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>60419</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Posters</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Posters</CategoryNamePath>
+     <CategoryIDPath>45100:2362:60419</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60420</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Originals-United States</CategoryName>
+     <CategoryParentID>60419</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Posters:Originals-United States</CategoryNamePath>
+     <CategoryIDPath>45100:2362:60419:60420</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60421</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Originals-International</CategoryName>
+     <CategoryParentID>60419</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Posters:Originals-International</CategoryNamePath>
+     <CategoryIDPath>45100:2362:60419:60421</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60422</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>60419</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Posters:Reproductions</CategoryNamePath>
+     <CategoryIDPath>45100:2362:60419:60422</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18842</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Theater Posters</CategoryName>
+     <CategoryParentID>60419</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Posters:Other Theater Posters</CategoryNamePath>
+     <CategoryIDPath>45100:2362:60419:18842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

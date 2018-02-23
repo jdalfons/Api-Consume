@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:41:57.817Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>67024</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Masks and Respirators</CategoryName>
+     <CategoryParentID>183970</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Masks and Respirators</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:67024</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67025</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Disposable Filter Masks</CategoryName>
+     <CategoryParentID>67024</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Masks and Respirators:Disposable Filter Masks</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:67024:67025</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67026</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Respirator Masks</CategoryName>
+     <CategoryParentID>67024</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Masks and Respirators:Respirator Masks</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:67024:67026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11905</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mask Replacement Cartridges</CategoryName>
+     <CategoryParentID>67024</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Masks and Respirators:Mask Replacement Cartridges</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:67024:11905</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67027</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Masks and Respirators</CategoryName>
+     <CategoryParentID>67024</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Personal Protective Equip/PPE:Masks and Respirators:Other Masks and Respirators</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183970:67024:67027</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

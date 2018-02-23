@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:35.160Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4125</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hardware</CategoryName>
+     <CategoryParentID>1444</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Hardware</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:4125</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4126</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Badges and Emblems</CategoryName>
+     <CategoryParentID>4125</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Hardware:Badges and Emblems</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:4125:4126</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4128</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lanterns and Lamps</CategoryName>
+     <CategoryParentID>4125</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Hardware:Lanterns and Lamps</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:4125:4128</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95163</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spikes and Nails</CategoryName>
+     <CategoryParentID>4125</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Hardware:Spikes and Nails</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:4125:95163</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4130</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tools</CategoryName>
+     <CategoryParentID>4125</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Hardware:Tools</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:4125:4130</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95164</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Whistles Bells and Horns</CategoryName>
+     <CategoryParentID>4125</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Hardware:Whistles Bells and Horns</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:4125:95164</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4124</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Railroadiana Hardware</CategoryName>
+     <CategoryParentID>4125</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Hardware:Other Railroadiana Hardware</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:4125:4124</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

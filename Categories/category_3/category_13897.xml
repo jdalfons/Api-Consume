@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:52:44.379Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13897</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Political</CategoryName>
+     <CategoryParentID>13877</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4100</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>US</CategoryName>
+     <CategoryParentID>13897</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:US</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4100</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7192</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canada</CategoryName>
+     <CategoryParentID>13897</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:Canada</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:7192</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4108</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>International</CategoryName>
+     <CategoryParentID>13897</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:International</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4108</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:28:37.110Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104930</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists K</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164042</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kaiser Chiefs</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Kaiser Chiefs</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:164042</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85946</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Keys Alicia</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Keys Alicia</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:85946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164043</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kinks</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Kinks</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:164043</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104931</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kid Rock</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Kid Rock</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:104931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105046</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Killers</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Killers</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:105046</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164044</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Killswitch Engage</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Killswitch Engage</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:164044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164045</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>King Crimson</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:King Crimson</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:164045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104932</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kings of Leon</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Kings of Leon</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:104932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29906</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kiss</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Kiss</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:29906</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104934</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Korn</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Korn</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:104934</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85997</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Kravitz Lenny</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Kravitz Lenny</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:85997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104933</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists K</CategoryName>
+     <CategoryParentID>104930</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists K:Other Rock and Pop Artists K</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104930:104933</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

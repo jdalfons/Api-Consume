@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:53.674Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>97072</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Table Tennis Ping Pong</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Table Tennis Ping Pong</CategoryNamePath>
+     <CategoryIDPath>888:36274:97072</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97073</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Balls</CategoryName>
+     <CategoryParentID>97072</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Table Tennis Ping Pong:Balls</CategoryNamePath>
+     <CategoryIDPath>888:36274:97072:97073</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36277</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paddles</CategoryName>
+     <CategoryParentID>97072</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Table Tennis Ping Pong:Paddles</CategoryNamePath>
+     <CategoryIDPath>888:36274:97072:36277</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170607</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rubbers</CategoryName>
+     <CategoryParentID>97072</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Table Tennis Ping Pong:Rubbers</CategoryNamePath>
+     <CategoryIDPath>888:36274:97072:170607</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158955</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sets</CategoryName>
+     <CategoryParentID>97072</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Table Tennis Ping Pong:Sets</CategoryNamePath>
+     <CategoryIDPath>888:36274:97072:158955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97075</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tables</CategoryName>
+     <CategoryParentID>97072</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Table Tennis Ping Pong:Tables</CategoryNamePath>
+     <CategoryIDPath>888:36274:97072:97075</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97076</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Table Tennis Ping Pong</CategoryName>
+     <CategoryParentID>97072</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Table Tennis Ping Pong:Other Table Tennis Ping Pong</CategoryNamePath>
+     <CategoryIDPath>888:36274:97072:97076</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

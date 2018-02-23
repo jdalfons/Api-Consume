@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:52.738Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20091</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Furniture</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture</CategoryNamePath>
+     <CategoryIDPath>20081:20091</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98436</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Armoires and Wardrobes</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Armoires and Wardrobes</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98436</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63549</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beds and Bedroom Sets</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Beds and Bedroom Sets</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63549</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63553</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Benches and Stools</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Benches and Stools</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63553</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63557</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bookcases</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Bookcases</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63557</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63561</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cabinets and Cupboards</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Cabinets and Cupboards</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63561</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63565</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chairs</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Chairs</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63565</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98430</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chests and Trunks</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Chests and Trunks</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98430</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63569</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Desks and Secretaries</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Desks and Secretaries</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63569</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63573</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dining Sets</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Dining Sets</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63573</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63577</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dressers and Vanities</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Dressers and Vanities</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63577</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162899</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hall Trees and Stands</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Hall Trees and Stands</CategoryNamePath>
+     <CategoryIDPath>20081:20091:162899</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162905</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Nightstands</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Nightstands</CategoryNamePath>
+     <CategoryIDPath>20081:20091:162905</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98444</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sideboards and Buffets</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Sideboards and Buffets</CategoryNamePath>
+     <CategoryIDPath>20081:20091:98444</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63581</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sofas and Chaises</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Sofas and Chaises</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63581</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63585</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tables</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Tables</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63585</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162913</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts and Salvaged Pieces</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Parts and Salvaged Pieces</CategoryNamePath>
+     <CategoryIDPath>20081:20091:162913</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171166</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>20081:20091:171166</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63589</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Antique Furniture</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Other Antique Furniture</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63589</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>19</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

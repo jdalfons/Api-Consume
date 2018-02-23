@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:26.393Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>21247</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Snowboarding</CategoryName>
+     <CategoryParentID>36259</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowboarding</CategoryNamePath>
+     <CategoryIDPath>888:36259:21247</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21248</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bindings</CategoryName>
+     <CategoryParentID>21247</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowboarding:Bindings</CategoryNamePath>
+     <CategoryIDPath>888:36259:21247:21248</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36292</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boots</CategoryName>
+     <CategoryParentID>21247</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowboarding:Boots</CategoryNamePath>
+     <CategoryIDPath>888:36259:21247:36292</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>93825</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Snowboards</CategoryName>
+     <CategoryParentID>21247</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowboarding:Snowboards</CategoryNamePath>
+     <CategoryIDPath>888:36259:21247:93825</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159184</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stomp Pads</CategoryName>
+     <CategoryParentID>21247</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowboarding:Stomp Pads</CategoryNamePath>
+     <CategoryIDPath>888:36259:21247:159184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159155</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Snowboarding</CategoryName>
+     <CategoryParentID>21247</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Snowboarding:Other Snowboarding</CategoryNamePath>
+     <CategoryIDPath>888:36259:21247:159155</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

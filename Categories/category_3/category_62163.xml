@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:46.563Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>62163</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lacrosse</CategoryName>
+     <CategoryParentID>159049</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Lacrosse</CategoryNamePath>
+     <CategoryIDPath>888:159049:62163</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108179</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Balls</CategoryName>
+     <CategoryParentID>62163</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Lacrosse:Balls</CategoryNamePath>
+     <CategoryIDPath>888:159049:62163:108179</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159152</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing</CategoryName>
+     <CategoryParentID>62163</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Lacrosse:Clothing</CategoryNamePath>
+     <CategoryIDPath>888:159049:62163:159152</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159153</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Equipment Bags</CategoryName>
+     <CategoryParentID>62163</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Lacrosse:Equipment Bags</CategoryNamePath>
+     <CategoryIDPath>888:159049:62163:159153</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159154</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Footwear</CategoryName>
+     <CategoryParentID>62163</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Lacrosse:Footwear</CategoryNamePath>
+     <CategoryIDPath>888:159049:62163:159154</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62164</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Protective Gear</CategoryName>
+     <CategoryParentID>62163</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Lacrosse:Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:159049:62163:62164</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62165</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sticks</CategoryName>
+     <CategoryParentID>62163</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Lacrosse:Sticks</CategoryNamePath>
+     <CategoryIDPath>888:159049:62163:62165</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16043</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Lacrosse</CategoryName>
+     <CategoryParentID>62163</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Lacrosse:Other Lacrosse</CategoryNamePath>
+     <CategoryIDPath>888:159049:62163:16043</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

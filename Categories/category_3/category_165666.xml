@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:56:22.254Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165666</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Buddhism</CategoryName>
+     <CategoryParentID>1446</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165667</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Amulets and Pendants</CategoryName>
+     <CategoryParentID>165666</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism:Amulets and Pendants</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666:165667</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165669</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Incense and Incense Holders</CategoryName>
+     <CategoryParentID>165666</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism:Incense and Incense Holders</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666:165669</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165670</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry and Watches</CategoryName>
+     <CategoryParentID>165666</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism:Jewelry and Watches</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666:165670</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165671</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prayer Beads</CategoryName>
+     <CategoryParentID>165666</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism:Prayer Beads</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666:165671</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165672</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prayer Flags</CategoryName>
+     <CategoryParentID>165666</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism:Prayer Flags</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666:165672</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165673</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prayer Wheels</CategoryName>
+     <CategoryParentID>165666</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism:Prayer Wheels</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666:165673</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165674</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Prints Posters and Paintings</CategoryName>
+     <CategoryParentID>165666</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism:Prints Posters and Paintings</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666:165674</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165675</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Statues and Figures</CategoryName>
+     <CategoryParentID>165666</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism:Statues and Figures</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666:165675</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13766</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Buddhism Collectibles</CategoryName>
+     <CategoryParentID>165666</CategoryParentID>
+     <CategoryNamePath>Collectibles:Religion and Spirituality:Buddhism:Other Buddhism Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:1446:165666:13766</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

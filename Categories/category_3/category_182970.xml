@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:53:26.207Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182970</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blade Parts Supplies and Accs</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Blade Parts Supplies and Accs</CategoryNamePath>
+     <CategoryIDPath>1:1401:182970</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182971</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blade Maintenance and Care</CategoryName>
+     <CategoryParentID>182970</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Blade Parts Supplies and Accs:Blade Maintenance and Care</CategoryNamePath>
+     <CategoryIDPath>1:1401:182970:182971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182972</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blade Parts and Supplies</CategoryName>
+     <CategoryParentID>182970</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Blade Parts Supplies and Accs:Blade Parts and Supplies</CategoryNamePath>
+     <CategoryIDPath>1:1401:182970:182972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43220</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blade Sharpeners and Stones</CategoryName>
+     <CategoryParentID>182970</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Blade Parts Supplies and Accs:Blade Sharpeners and Stones</CategoryNamePath>
+     <CategoryIDPath>1:1401:182970:43220</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73521</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxes Cases and Pouches</CategoryName>
+     <CategoryParentID>182970</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Blade Parts Supplies and Accs:Boxes Cases and Pouches</CategoryNamePath>
+     <CategoryIDPath>1:1401:182970:73521</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43221</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sheaths</CategoryName>
+     <CategoryParentID>182970</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Blade Parts Supplies and Accs:Sheaths</CategoryNamePath>
+     <CategoryIDPath>1:1401:182970:43221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43219</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stands Hangers and Plaques</CategoryName>
+     <CategoryParentID>182970</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Blade Parts Supplies and Accs:Stands Hangers and Plaques</CategoryNamePath>
+     <CategoryIDPath>1:1401:182970:43219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41181</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Blade Accs</CategoryName>
+     <CategoryParentID>182970</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Blade Parts Supplies and Accs:Other Collectible Blade Accs</CategoryNamePath>
+     <CategoryIDPath>1:1401:182970:41181</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

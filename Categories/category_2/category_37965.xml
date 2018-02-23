@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:05.582Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>37965</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Maritime</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime</CategoryNamePath>
+     <CategoryIDPath>20081:37965</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63615</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Anchors</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Anchors</CategoryNamePath>
+     <CategoryIDPath>20081:37965:63615</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63616</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bells and Whistles</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Bells and Whistles</CategoryNamePath>
+     <CategoryIDPath>20081:37965:63616</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163082</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blueprints</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Blueprints</CategoryNamePath>
+     <CategoryIDPath>20081:37965:163082</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163083</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Charts</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Charts</CategoryNamePath>
+     <CategoryIDPath>20081:37965:163083</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163084</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cleats and Chocks</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Cleats and Chocks</CategoryNamePath>
+     <CategoryIDPath>20081:37965:163084</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37966</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clocks</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Clocks</CategoryNamePath>
+     <CategoryIDPath>20081:37965:37966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37967</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Compasses</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Compasses</CategoryNamePath>
+     <CategoryIDPath>20081:37965:37967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63617</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Diving Helmets</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Diving Helmets</CategoryNamePath>
+     <CategoryIDPath>20081:37965:63617</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37968</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fishing Nets and Floats</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Fishing Nets and Floats</CategoryNamePath>
+     <CategoryIDPath>20081:37965:37968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156318</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Folk Art</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Folk Art</CategoryNamePath>
+     <CategoryIDPath>20081:37965:156318</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163090</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Harpoons</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Harpoons</CategoryNamePath>
+     <CategoryIDPath>20081:37965:163090</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37969</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lamps and Lighting</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Lamps and Lighting</CategoryNamePath>
+     <CategoryIDPath>20081:37965:37969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37970</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Model Ships</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Model Ships</CategoryNamePath>
+     <CategoryIDPath>20081:37965:37970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163085</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parallel Rules</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Parallel Rules</CategoryNamePath>
+     <CategoryIDPath>20081:37965:163085</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163086</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Plaques and Signs</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Plaques and Signs</CategoryNamePath>
+     <CategoryIDPath>20081:37965:163086</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63618</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Portholes</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Portholes</CategoryNamePath>
+     <CategoryIDPath>20081:37965:63618</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163087</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Propellers</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Propellers</CategoryNamePath>
+     <CategoryIDPath>20081:37965:163087</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163088</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pulleys</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Pulleys</CategoryNamePath>
+     <CategoryIDPath>20081:37965:163088</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63619</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scrimshaws</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Scrimshaws</CategoryNamePath>
+     <CategoryIDPath>20081:37965:63619</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37971</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sextants</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Sextants</CategoryNamePath>
+     <CategoryIDPath>20081:37965:37971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163089</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Telegraphs</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Telegraphs</CategoryNamePath>
+     <CategoryIDPath>20081:37965:163089</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37972</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Telescopes</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Telescopes</CategoryNamePath>
+     <CategoryIDPath>20081:37965:37972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37973</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wheels</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Wheels</CategoryNamePath>
+     <CategoryIDPath>20081:37965:37973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156319</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Reproductions</CategoryNamePath>
+     <CategoryIDPath>20081:37965:156319</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171175</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>20081:37965:171175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66638</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Maritime Antiques</CategoryName>
+     <CategoryParentID>37965</CategoryParentID>
+     <CategoryNamePath>Antiques:Maritime:Other Maritime Antiques</CategoryNamePath>
+     <CategoryIDPath>20081:37965:66638</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>27</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

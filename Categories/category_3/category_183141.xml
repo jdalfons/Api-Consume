@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:03:13.020Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183141</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Leather Treatments and Paints</CategoryName>
+     <CategoryParentID>28131</CategoryParentID>
+     <CategoryNamePath>Crafts:Leathercrafts:Leather Treatments and Paints</CategoryNamePath>
+     <CategoryIDPath>14339:28131:183141</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183142</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Conditioners and Treatments</CategoryName>
+     <CategoryParentID>183141</CategoryParentID>
+     <CategoryNamePath>Crafts:Leathercrafts:Leather Treatments and Paints:Conditioners and Treatments</CategoryNamePath>
+     <CategoryIDPath>14339:28131:183141:183142</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183143</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Daubers/Applicators</CategoryName>
+     <CategoryParentID>183141</CategoryParentID>
+     <CategoryNamePath>Crafts:Leathercrafts:Leather Treatments and Paints:Daubers/Applicators</CategoryNamePath>
+     <CategoryIDPath>14339:28131:183141:183143</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183144</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leather Paints and Finishes</CategoryName>
+     <CategoryParentID>183141</CategoryParentID>
+     <CategoryNamePath>Crafts:Leathercrafts:Leather Treatments and Paints:Leather Paints and Finishes</CategoryNamePath>
+     <CategoryIDPath>14339:28131:183141:183144</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183145</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Polishing and Creasing Tools</CategoryName>
+     <CategoryParentID>183141</CategoryParentID>
+     <CategoryNamePath>Crafts:Leathercrafts:Leather Treatments and Paints:Polishing and Creasing Tools</CategoryNamePath>
+     <CategoryIDPath>14339:28131:183141:183145</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183146</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sets and Kits</CategoryName>
+     <CategoryParentID>183141</CategoryParentID>
+     <CategoryNamePath>Crafts:Leathercrafts:Leather Treatments and Paints:Sets and Kits</CategoryNamePath>
+     <CategoryIDPath>14339:28131:183141:183146</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183147</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Leather Treatments</CategoryName>
+     <CategoryParentID>183141</CategoryParentID>
+     <CategoryNamePath>Crafts:Leathercrafts:Leather Treatments and Paints:Other Leather Treatments</CategoryNamePath>
+     <CategoryIDPath>14339:28131:183141:183147</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:19:37.520Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>31530</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Laptop and Desktop Accessories</CategoryName>
+     <CategoryParentID>58058</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories</CategoryNamePath>
+     <CategoryIDPath>58058:31530</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31529</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Anti-Theft Locks and Kits</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Anti-Theft Locks and Kits</CategoryNamePath>
+     <CategoryIDPath>58058:31530:31529</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175677</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Case Mods Stickers and Decals</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Case Mods Stickers and Decals</CategoryNamePath>
+     <CategoryIDPath>58058:31530:175677</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175678</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cleaning Equipment and Kits</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Cleaning Equipment and Kits</CategoryNamePath>
+     <CategoryIDPath>58058:31530:175678</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3702</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Computer Speakers</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Computer Speakers</CategoryNamePath>
+     <CategoryIDPath>58058:31530:3702</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175680</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hard Drive Pouches</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Hard Drive Pouches</CategoryNamePath>
+     <CategoryIDPath>58058:31530:175680</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80183</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Headsets</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Headsets</CategoryNamePath>
+     <CategoryIDPath>58058:31530:80183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158837</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Keyboard Protectors</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Keyboard Protectors</CategoryNamePath>
+     <CategoryIDPath>58058:31530:158837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42190</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Laptop Add-On Cards</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Laptop Add-On Cards</CategoryNamePath>
+     <CategoryIDPath>58058:31530:42190</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14295</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Laptop Batteries</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Laptop Batteries</CategoryNamePath>
+     <CategoryIDPath>58058:31530:14295</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31519</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Laptop Cases and Bags</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Laptop Cases and Bags</CategoryNamePath>
+     <CategoryIDPath>58058:31530:31519</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>96915</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Laptop Cooling Pads</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Laptop Cooling Pads</CategoryNamePath>
+     <CategoryIDPath>58058:31530:96915</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3709</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Laptop Docking Stations</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Laptop Docking Stations</CategoryNamePath>
+     <CategoryIDPath>58058:31530:3709</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31510</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Laptop Power Adapters/Chargers</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Laptop Power Adapters/Chargers</CategoryNamePath>
+     <CategoryIDPath>58058:31530:31510</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51082</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Memory Card Readers and Adapters</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Memory Card Readers and Adapters</CategoryNamePath>
+     <CategoryIDPath>58058:31530:51082</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116309</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Microphones</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Microphones</CategoryNamePath>
+     <CategoryIDPath>58058:31530:116309</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>23895</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mouse Pads and Wrist Rests</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Mouse Pads and Wrist Rests</CategoryNamePath>
+     <CategoryIDPath>58058:31530:23895</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170597</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Privacy Filters</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Privacy Filters</CategoryNamePath>
+     <CategoryIDPath>58058:31530:170597</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158846</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Screen Protectors</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Screen Protectors</CategoryNamePath>
+     <CategoryIDPath>58058:31530:158846</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75518</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sound Cards (External)</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Sound Cards (External)</CategoryNamePath>
+     <CategoryIDPath>58058:31530:75518</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116346</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stands Holders and Car Mounts</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Stands Holders and Car Mounts</CategoryNamePath>
+     <CategoryIDPath>58058:31530:116346</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175679</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>TV Tuner/Video Capture Devices</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:TV Tuner/Video Capture Devices</CategoryNamePath>
+     <CategoryIDPath>58058:31530:175679</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67870</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>USB Lights and Gadgets</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:USB Lights and Gadgets</CategoryNamePath>
+     <CategoryIDPath>58058:31530:67870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4616</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Webcams</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Webcams</CategoryNamePath>
+     <CategoryIDPath>58058:31530:4616</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31534</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Laptop and Desktop Accs</CategoryName>
+     <CategoryParentID>31530</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Laptop and Desktop Accessories:Other Laptop and Desktop Accs</CategoryNamePath>
+     <CategoryIDPath>58058:31530:31534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>25</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

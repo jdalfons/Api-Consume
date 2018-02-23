@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:01.408Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177840</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bicycle Electronics</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Electronics</CategoryNamePath>
+     <CategoryIDPath>888:7294:177840</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30108</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cycle Computers and GPS</CategoryName>
+     <CategoryParentID>177840</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Electronics:Cycle Computers and GPS</CategoryNamePath>
+     <CategoryIDPath>888:7294:177840:30108</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177841</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Heart Rate Monitors</CategoryName>
+     <CategoryParentID>177840</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Electronics:Heart Rate Monitors</CategoryNamePath>
+     <CategoryIDPath>888:7294:177840:177841</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177842</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Power Meters</CategoryName>
+     <CategoryParentID>177840</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Electronics:Power Meters</CategoryNamePath>
+     <CategoryIDPath>888:7294:177840:177842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177843</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Bicycle Electronics</CategoryName>
+     <CategoryParentID>177840</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Bicycle Electronics:Other Bicycle Electronics</CategoryNamePath>
+     <CategoryIDPath>888:7294:177840:177843</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

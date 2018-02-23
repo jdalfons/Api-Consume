@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:26.470Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179978</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179979</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Base Layers</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Base Layers</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:179979</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179980</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boots and Shoes</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Boots and Shoes</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:179980</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65974</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gloves</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Gloves</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:65974</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70810</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hats and Headwear</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Hats and Headwear</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:70810</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179981</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jacket and Pants Sets</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Jacket and Pants Sets</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:179981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65976</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jackets and Coats</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Jackets and Coats</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:65976</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139454</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pants and Shorts</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Pants and Shorts</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:139454</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179982</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shirts and Tops</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Shirts and Tops</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:179982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151543</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sunglasses</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Sunglasses</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:151543</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179983</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sweaters and Hoodies</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Sweaters and Hoodies</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:179983</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65982</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vests</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Vests</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:65982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179984</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Waders</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Waders</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:179984</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27415</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fishing Clothing and Accs</CategoryName>
+     <CategoryParentID>179978</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories:Other Fishing Clothing and Accs</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978:27415</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

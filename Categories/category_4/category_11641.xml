@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:06:24.095Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11641</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thomas Kinkade</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Thomas Kinkade</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11641</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11643</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Collector Plates</CategoryName>
+     <CategoryParentID>11641</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Thomas Kinkade:Collector Plates</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11641:11643</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11642</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lighthouses</CategoryName>
+     <CategoryParentID>11641</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Thomas Kinkade:Lighthouses</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11641:11642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103949</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Villages Cottages</CategoryName>
+     <CategoryParentID>11641</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Thomas Kinkade:Villages Cottages</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11641:103949</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11640</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Thomas Kinkade</CategoryName>
+     <CategoryParentID>11641</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Thomas Kinkade:Other Thomas Kinkade</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11641:11640</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

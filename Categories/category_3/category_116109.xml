@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:34:43.627Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>116109</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wicca</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Wicca</CategoryNamePath>
+     <CategoryIDPath>99:19266:116109</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116110</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>116109</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Wicca:Books</CategoryNamePath>
+     <CategoryIDPath>99:19266:116109:116110</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116111</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candles</CategoryName>
+     <CategoryParentID>116109</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Wicca:Candles</CategoryNamePath>
+     <CategoryIDPath>99:19266:116109:116111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116112</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Herbs</CategoryName>
+     <CategoryParentID>116109</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Wicca:Herbs</CategoryNamePath>
+     <CategoryIDPath>99:19266:116109:116112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116113</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Incense</CategoryName>
+     <CategoryParentID>116109</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Wicca:Incense</CategoryNamePath>
+     <CategoryIDPath>99:19266:116109:116113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116114</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kits</CategoryName>
+     <CategoryParentID>116109</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Wicca:Kits</CategoryNamePath>
+     <CategoryIDPath>99:19266:116109:116114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116115</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Oils</CategoryName>
+     <CategoryParentID>116109</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Wicca:Oils</CategoryNamePath>
+     <CategoryIDPath>99:19266:116109:116115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116116</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pentacles</CategoryName>
+     <CategoryParentID>116109</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Wicca:Pentacles</CategoryNamePath>
+     <CategoryIDPath>99:19266:116109:116116</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116117</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wicca</CategoryName>
+     <CategoryParentID>116109</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Wicca:Other Wicca</CategoryNamePath>
+     <CategoryIDPath>99:19266:116109:116117</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:44.129Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>31723</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Beads and Jewelry Making</CategoryName>
+     <CategoryParentID>14339</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making</CategoryNamePath>
+     <CategoryIDPath>14339:31723</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146290</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beads</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Beads</CategoryNamePath>
+     <CategoryIDPath>14339:31723:146290</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101436</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cabochons</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Cabochons</CategoryNamePath>
+     <CategoryIDPath>14339:31723:101436</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83891</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Charms and Pendants</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Charms and Pendants</CategoryNamePath>
+     <CategoryIDPath>14339:31723:83891</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150059</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jewelry Making Cord and Wire</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Jewelry Making Cord and Wire</CategoryNamePath>
+     <CategoryIDPath>14339:31723:150059</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150046</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jewelry Findings</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Jewelry Findings</CategoryNamePath>
+     <CategoryIDPath>14339:31723:150046</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162090</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beading and Jewelry Kits</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Beading and Jewelry Kits</CategoryNamePath>
+     <CategoryIDPath>14339:31723:162090</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162095</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Instruction Books and Media</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Instruction Books and Media</CategoryNamePath>
+     <CategoryIDPath>14339:31723:162095</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83893</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bead Storage and Jewelry Display</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Bead Storage and Jewelry Display</CategoryNamePath>
+     <CategoryIDPath>14339:31723:83893</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160679</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Beading and Jewelry Making Tools</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Beading and Jewelry Making Tools</CategoryNamePath>
+     <CategoryIDPath>14339:31723:160679</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31726</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Beads and Jewelry Making</CategoryName>
+     <CategoryParentID>31723</CategoryParentID>
+     <CategoryNamePath>Crafts:Beads and Jewelry Making:Other Beads and Jewelry Making</CategoryNamePath>
+     <CategoryIDPath>14339:31723:31726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

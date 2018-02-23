@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:05:26.723Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>41117</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Charming Tails</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Charming Tails</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:41117</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41118</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Friends Friendship</CategoryName>
+     <CategoryParentID>41117</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Charming Tails:Friends Friendship</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:41117:41118</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41119</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Love Romance</CategoryName>
+     <CategoryParentID>41117</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Charming Tails:Love Romance</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:41117:41119</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41120</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Seasons</CategoryName>
+     <CategoryParentID>41117</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Charming Tails:Seasons</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:41117:41120</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11122</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Charming Tails</CategoryName>
+     <CategoryParentID>41117</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Charming Tails:Other Charming Tails</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:41117:11122</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

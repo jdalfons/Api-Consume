@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:50:15.004Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>66504</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Casino Memorabilia</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Casino Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:898:66504</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13714</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ashtrays</CategoryName>
+     <CategoryParentID>66504</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Casino Memorabilia:Ashtrays</CategoryNamePath>
+     <CategoryIDPath>1:898:66504:13714</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35748</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glasses Cups Mugs</CategoryName>
+     <CategoryParentID>66504</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Casino Memorabilia:Glasses Cups Mugs</CategoryNamePath>
+     <CategoryIDPath>1:898:66504:35748</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63762</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hotel Room Keys</CategoryName>
+     <CategoryParentID>66504</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Casino Memorabilia:Hotel Room Keys</CategoryNamePath>
+     <CategoryIDPath>1:898:66504:63762</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73481</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Matchbooks</CategoryName>
+     <CategoryParentID>66504</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Casino Memorabilia:Matchbooks</CategoryNamePath>
+     <CategoryIDPath>1:898:66504:73481</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82485</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signs</CategoryName>
+     <CategoryParentID>66504</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Casino Memorabilia:Signs</CategoryNamePath>
+     <CategoryIDPath>1:898:66504:82485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73482</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>T-Shirts Shirts</CategoryName>
+     <CategoryParentID>66504</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Casino Memorabilia:T-Shirts Shirts</CategoryNamePath>
+     <CategoryIDPath>1:898:66504:73482</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73483</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Watches</CategoryName>
+     <CategoryParentID>66504</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Casino Memorabilia:Watches</CategoryNamePath>
+     <CategoryIDPath>1:898:66504:73483</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66535</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Casino Memorabilia</CategoryName>
+     <CategoryParentID>66504</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Casino Memorabilia:Other Casino Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:898:66504:66535</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

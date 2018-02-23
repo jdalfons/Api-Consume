@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:47:25.142Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13585</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Communication and Utilities</CategoryName>
+     <CategoryParentID>34</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Communication and Utilities</CategoryNamePath>
+     <CategoryIDPath>1:34:13585</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165213</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Phonographs</CategoryName>
+     <CategoryParentID>13585</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Communication and Utilities:Phonographs</CategoryNamePath>
+     <CategoryIDPath>1:34:13585:165213</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>846</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Radio</CategoryName>
+     <CategoryParentID>13585</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Communication and Utilities:Radio</CategoryNamePath>
+     <CategoryIDPath>1:34:13585:846</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165214</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Telegraph and Telegram</CategoryName>
+     <CategoryParentID>13585</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Communication and Utilities:Telegraph and Telegram</CategoryNamePath>
+     <CategoryIDPath>1:34:13585:165214</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>879</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Telephone</CategoryName>
+     <CategoryParentID>13585</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Communication and Utilities:Telephone</CategoryNamePath>
+     <CategoryIDPath>1:34:13585:879</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>859</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Utilities</CategoryName>
+     <CategoryParentID>13585</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Communication and Utilities:Utilities</CategoryNamePath>
+     <CategoryIDPath>1:34:13585:859</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13586</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Comm and Utility Ads</CategoryName>
+     <CategoryParentID>13585</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Communication and Utilities:Other Comm and Utility Ads</CategoryNamePath>
+     <CategoryIDPath>1:34:13585:13586</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

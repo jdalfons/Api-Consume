@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:17.301Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>66527</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Militaria (Date Unknown)</CategoryName>
+     <CategoryParentID>13956</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Militaria (Date Unknown)</CategoryNamePath>
+     <CategoryIDPath>1:13956:66527</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66528</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Force</CategoryName>
+     <CategoryParentID>66527</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Militaria (Date Unknown):Air Force</CategoryNamePath>
+     <CategoryIDPath>1:13956:66527:66528</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66529</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Army</CategoryName>
+     <CategoryParentID>66527</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Militaria (Date Unknown):Army</CategoryNamePath>
+     <CategoryIDPath>1:13956:66527:66529</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66530</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coast Guard</CategoryName>
+     <CategoryParentID>66527</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Militaria (Date Unknown):Coast Guard</CategoryNamePath>
+     <CategoryIDPath>1:13956:66527:66530</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66531</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Marine Corps</CategoryName>
+     <CategoryParentID>66527</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Militaria (Date Unknown):Marine Corps</CategoryNamePath>
+     <CategoryIDPath>1:13956:66527:66531</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66532</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>National Guard</CategoryName>
+     <CategoryParentID>66527</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Militaria (Date Unknown):National Guard</CategoryNamePath>
+     <CategoryIDPath>1:13956:66527:66532</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66533</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Navy</CategoryName>
+     <CategoryParentID>66527</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Militaria (Date Unknown):Navy</CategoryNamePath>
+     <CategoryIDPath>1:13956:66527:66533</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66534</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Militaria (Date Unknown)</CategoryName>
+     <CategoryParentID>66527</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Militaria (Date Unknown):Other Militaria (Date Unknown)</CategoryNamePath>
+     <CategoryIDPath>1:13956:66527:66534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

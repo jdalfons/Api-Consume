@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:45:22.738Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>15903</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Commemorative</CategoryName>
+     <CategoryParentID>253</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Commemorative</CategoryNamePath>
+     <CategoryIDPath>11116:253:15903</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179531</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Silver (1892-1954)</CategoryName>
+     <CategoryParentID>15903</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Commemorative:Silver (1892-1954)</CategoryNamePath>
+     <CategoryIDPath>11116:253:15903:179531</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179532</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gold (1903-1926)</CategoryName>
+     <CategoryParentID>15903</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Commemorative:Gold (1903-1926)</CategoryNamePath>
+     <CategoryIDPath>11116:253:15903:179532</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179533</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modern Silver/Clad (1982-Now)</CategoryName>
+     <CategoryParentID>15903</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Commemorative:Modern Silver/Clad (1982-Now)</CategoryNamePath>
+     <CategoryIDPath>11116:253:15903:179533</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179534</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modern Gold (1984-Now)</CategoryName>
+     <CategoryParentID>15903</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Commemorative:Modern Gold (1984-Now)</CategoryNamePath>
+     <CategoryIDPath>11116:253:15903:179534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>529</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>15903</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: US:Commemorative:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>11116:253:15903:529</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

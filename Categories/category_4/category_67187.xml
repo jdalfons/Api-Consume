@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:48:59.455Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>67187</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Medicine and Condom Vending</CategoryName>
+     <CategoryParentID>25389</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Vending and Tabletop Concessions:Medicine and Condom Vending</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25389:67187</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

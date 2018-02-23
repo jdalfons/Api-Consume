@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:22.830Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181748</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mechanical Power Transmission</CategoryName>
+     <CategoryParentID>42892</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181749</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bearings and Bushings</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Bearings and Bushings</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181749</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181755</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belts and Pulleys</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Belts and Pulleys</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181755</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181758</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brakes</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Brakes</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181758</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181761</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chains and Sprockets</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Chains and Sprockets</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181761</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181765</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clutches</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Clutches</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181765</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181768</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Couplings and Joints</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Couplings and Joints</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181768</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181772</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gearboxes and Speed Reducers</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Gearboxes and Speed Reducers</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181772</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181773</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gears and Gear Racks</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Gears and Gear Racks</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181773</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181779</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Power Transmission Shafts</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Power Transmission Shafts</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181779</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181780</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seals O-Rings and Gaskets</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Seals O-Rings and Gaskets</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181780</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181781</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shaft Adapters and Bore Reducers</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Shaft Adapters and Bore Reducers</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181781</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181782</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shaft Collars and Clamps</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Shaft Collars and Clamps</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181782</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181783</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Mech. Power Transmission</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Other Mech. Power Transmission</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

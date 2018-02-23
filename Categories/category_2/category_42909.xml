@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:43.520Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>42909</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>HVAC</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC</CategoryNamePath>
+     <CategoryIDPath>12576:42909</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109477</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>HVAC Units</CategoryName>
+     <CategoryParentID>42909</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Units</CategoryNamePath>
+     <CategoryIDPath>12576:42909:109477</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53295</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>HVAC Parts</CategoryName>
+     <CategoryParentID>42909</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Parts</CategoryNamePath>
+     <CategoryIDPath>12576:42909:53295</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66996</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>HVAC Tools</CategoryName>
+     <CategoryParentID>42909</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Tools</CategoryNamePath>
+     <CategoryIDPath>12576:42909:66996</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183972</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>HVAC Unit Leak Sealants</CategoryName>
+     <CategoryParentID>42909</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:HVAC Unit Leak Sealants</CategoryNamePath>
+     <CategoryIDPath>12576:42909:183972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183973</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Refrigerant</CategoryName>
+     <CategoryParentID>42909</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:Refrigerant</CategoryNamePath>
+     <CategoryIDPath>12576:42909:183973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183974</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Water Heaters</CategoryName>
+     <CategoryParentID>42909</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:Water Heaters</CategoryNamePath>
+     <CategoryIDPath>12576:42909:183974</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42912</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other HVAC Supplies</CategoryName>
+     <CategoryParentID>42909</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:HVAC:Other HVAC Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:42909:42912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

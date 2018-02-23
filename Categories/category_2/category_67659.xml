@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:22:23.785Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>67659</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Natural and Alternative Remedies</CategoryName>
+     <CategoryParentID>26395</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies</CategoryNamePath>
+     <CategoryIDPath>26395:67659</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37822</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Acupuncture</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Acupuncture</CategoryNamePath>
+     <CategoryIDPath>26395:67659:37822</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19258</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Aromatherapy</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Aromatherapy</CategoryNamePath>
+     <CategoryIDPath>26395:67659:19258</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159886</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Detox Pads</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Detox Pads</CategoryNamePath>
+     <CategoryIDPath>26395:67659:159886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108002</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electrotherapy Devices</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Electrotherapy Devices</CategoryNamePath>
+     <CategoryIDPath>26395:67659:108002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180954</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Herbal Remedies and Resins</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Herbal Remedies and Resins</CategoryNamePath>
+     <CategoryIDPath>26395:67659:180954</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180955</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Homeopathic Remedies</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Homeopathic Remedies</CategoryNamePath>
+     <CategoryIDPath>26395:67659:180955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159879</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ion Foot Baths</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Ion Foot Baths</CategoryNamePath>
+     <CategoryIDPath>26395:67659:159879</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159881</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Light Therapy Devices</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Light Therapy Devices</CategoryNamePath>
+     <CategoryIDPath>26395:67659:159881</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11777</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Magnetic Therapy Devices</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Magnetic Therapy Devices</CategoryNamePath>
+     <CategoryIDPath>26395:67659:11777</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159882</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Neti Pots and Cleansers</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Neti Pots and Cleansers</CategoryNamePath>
+     <CategoryIDPath>26395:67659:159882</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159880</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Self Help Audiovisuals</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Self Help Audiovisuals</CategoryNamePath>
+     <CategoryIDPath>26395:67659:159880</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159885</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Titanium Therapy Devices</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Titanium Therapy Devices</CategoryNamePath>
+     <CategoryIDPath>26395:67659:159885</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1279</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Natural Remedies</CategoryName>
+     <CategoryParentID>67659</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Natural and Alternative Remedies:Other Natural Remedies</CategoryNamePath>
+     <CategoryIDPath>26395:67659:1279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

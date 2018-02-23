@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:53:35.377Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4053</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lamps: Electric</CategoryName>
+     <CategoryParentID>1404</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Lamps: Electric</CategoryNamePath>
+     <CategoryIDPath>1:1404:4053</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35878</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Floor Lamps</CategoryName>
+     <CategoryParentID>4053</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Lamps: Electric:Floor Lamps</CategoryNamePath>
+     <CategoryIDPath>1:1404:4053:35878</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4052</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lava Lamps</CategoryName>
+     <CategoryParentID>4053</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Lamps: Electric:Lava Lamps</CategoryNamePath>
+     <CategoryIDPath>1:1404:4053:4052</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4054</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Motion Lamps</CategoryName>
+     <CategoryParentID>4053</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Lamps: Electric:Motion Lamps</CategoryNamePath>
+     <CategoryIDPath>1:1404:4053:4054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4056</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Table Lamps</CategoryName>
+     <CategoryParentID>4053</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Lamps: Electric:Table Lamps</CategoryNamePath>
+     <CategoryIDPath>1:1404:4053:4056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13864</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>TV Lamps</CategoryName>
+     <CategoryParentID>4053</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Lamps: Electric:TV Lamps</CategoryNamePath>
+     <CategoryIDPath>1:1404:4053:13864</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1405</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Elec. Lamps</CategoryName>
+     <CategoryParentID>4053</CategoryParentID>
+     <CategoryNamePath>Collectibles:Lamps Lighting:Lamps: Electric:Other Collectible Elec. Lamps</CategoryNamePath>
+     <CategoryIDPath>1:1404:4053:1405</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

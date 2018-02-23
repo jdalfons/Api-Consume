@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:20.423Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>14055</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sail-Powered</CategoryName>
+     <CategoryParentID>14052</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Boats and Ships:Sail-Powered</CategoryNamePath>
+     <CategoryIDPath>1:417:14052:14055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

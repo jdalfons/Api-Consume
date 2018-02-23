@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:02:49.082Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35724</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mugs</CategoryName>
+     <CategoryParentID>3920</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Drinkware Steins:Mugs</CategoryNamePath>
+     <CategoryIDPath>1:562:3920:35724</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35725</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Germany</CategoryName>
+     <CategoryParentID>35724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Drinkware Steins:Mugs:Germany</CategoryNamePath>
+     <CategoryIDPath>1:562:3920:35724:35725</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3923</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>US</CategoryName>
+     <CategoryParentID>35724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Drinkware Steins:Mugs:US</CategoryNamePath>
+     <CategoryIDPath>1:562:3920:35724:3923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35726</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Vintage Beer Mugs</CategoryName>
+     <CategoryParentID>35724</CategoryParentID>
+     <CategoryNamePath>Collectibles:Breweriana Beer:Drinkware Steins:Mugs:Other Vintage Beer Mugs</CategoryNamePath>
+     <CategoryIDPath>1:562:3920:35724:35726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

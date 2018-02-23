@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:48:51.235Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45604</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wild Animals</CategoryName>
+     <CategoryParentID>1335</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29435</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bears</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Bears</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:29435</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10879</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Buffalo</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Buffalo</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:10879</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29436</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Camels</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Camels</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:29436</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10880</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cheetahs</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Cheetahs</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:10880</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13653</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cougars</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Cougars</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:13653</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29437</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coyotes</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Coyotes</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:29437</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37866</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Elephants</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Elephants</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:37866</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10886</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Giraffes</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Giraffes</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:10886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165306</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gorillas and Apes</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Gorillas and Apes</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:165306</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13654</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hippopotamus</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Hippopotamus</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:13654</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10887</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Koalas</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Koalas</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:10887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13655</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Leopards</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Leopards</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:13655</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10888</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lions</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Lions</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:10888</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73474</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Llamas</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Llamas</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:73474</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10889</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Monkeys</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Monkeys</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:10889</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10890</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Moose</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Moose</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:10890</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165307</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mountain Lions</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Mountain Lions</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:165307</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10892</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pandas</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Pandas</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:10892</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165308</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Panthers</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Panthers</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:165308</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13656</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Polar Bears</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Polar Bears</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:13656</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165309</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pumas</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Pumas</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:165309</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13657</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rhinoceros</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Rhinoceros</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:13657</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10896</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tigers</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Tigers</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:10896</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37873</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wolves</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Wolves</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:37873</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10899</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Zebras</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Zebras</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:10899</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35710</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wild Animal Collectibles</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Other Wild Animal Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:35710</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>27</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:43:04.582Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>106432</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Furniture</CategoryName>
+     <CategoryParentID>11817</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Furniture</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:106432</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11821</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beds Stretchers and Tables</CategoryName>
+     <CategoryParentID>106432</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Furniture:Beds Stretchers and Tables</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:106432:11821</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106433</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Carts and Stands</CategoryName>
+     <CategoryParentID>106432</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Furniture:Carts and Stands</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:106432:106433</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106434</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Chairs and Stools</CategoryName>
+     <CategoryParentID>106432</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Furniture:Chairs and Stools</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:106432:106434</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106435</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Medical Furniture</CategoryName>
+     <CategoryParentID>106432</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Healthcare Lab and Life Science:Medical Equipment:Furniture:Other Medical Furniture</CategoryNamePath>
+     <CategoryIDPath>12576:11815:11817:106432:106435</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

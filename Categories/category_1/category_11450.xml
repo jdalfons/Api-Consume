@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:11:17.504Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11450</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>11450</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3082</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Baby and Toddler Clothing</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:3082</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171146</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Kids&apos; Clothing Shoes and Accs</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Kids&apos; Clothing Shoes and Accs</CategoryNamePath>
+     <CategoryIDPath>11450:171146</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163147</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Costumes Reenactment Theater</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Costumes Reenactment Theater</CategoryNamePath>
+     <CategoryIDPath>11450:163147</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155240</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Cultural and Ethnic Clothing</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Cultural and Ethnic Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:155240</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112425</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Dancewear</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear</CategoryNamePath>
+     <CategoryIDPath>11450:112425</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4250</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Men&apos;s Accessories</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:4250</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1059</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Men&apos;s Clothing</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:1059</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>93427</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Men&apos;s Shoes</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Men&apos;s Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:93427</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28015</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Uniforms and Work Clothing</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Uniforms and Work Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:28015</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155184</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Unisex Clothing Shoes and Accs</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Unisex Clothing Shoes and Accs</CategoryNamePath>
+     <CategoryIDPath>11450:155184</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3259</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wedding and Formal Occasion</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wedding and Formal Occasion</CategoryNamePath>
+     <CategoryIDPath>11450:3259</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4251</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Women&apos;s Accessories</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:4251</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15724</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Women&apos;s Clothing</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:15724</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>169291</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Women&apos;s Handbags and Bags</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Handbags and Bags</CategoryNamePath>
+     <CategoryIDPath>11450:169291</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3034</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Women&apos;s Shoes</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Women&apos;s Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:3034</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175759</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Vintage</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Vintage</CategoryNamePath>
+     <CategoryIDPath>11450:175759</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41964</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Large and Small Lots</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Wholesale Large and Small Lots</CategoryNamePath>
+     <CategoryIDPath>11450:41964</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

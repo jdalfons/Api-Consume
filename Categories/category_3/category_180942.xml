@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:07:45.770Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180942</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Feminine Hygiene</CategoryName>
+     <CategoryParentID>67588</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Feminine Hygiene</CategoryNamePath>
+     <CategoryIDPath>26395:67588:180942</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180943</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Feminine Hygiene Deodorants</CategoryName>
+     <CategoryParentID>180942</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Feminine Hygiene:Feminine Hygiene Deodorants</CategoryNamePath>
+     <CategoryIDPath>26395:67588:180942:180943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180944</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Feminine Hygiene Washes</CategoryName>
+     <CategoryParentID>180942</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Feminine Hygiene:Feminine Hygiene Washes</CategoryNamePath>
+     <CategoryIDPath>26395:67588:180942:180944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180945</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Menstrual Cups</CategoryName>
+     <CategoryParentID>180942</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Feminine Hygiene:Menstrual Cups</CategoryNamePath>
+     <CategoryIDPath>26395:67588:180942:180945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180946</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pantiliners</CategoryName>
+     <CategoryParentID>180942</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Feminine Hygiene:Pantiliners</CategoryNamePath>
+     <CategoryIDPath>26395:67588:180942:180946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180947</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sanitary Napkins</CategoryName>
+     <CategoryParentID>180942</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Feminine Hygiene:Sanitary Napkins</CategoryNamePath>
+     <CategoryIDPath>26395:67588:180942:180947</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180948</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tampons</CategoryName>
+     <CategoryParentID>180942</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Feminine Hygiene:Tampons</CategoryNamePath>
+     <CategoryIDPath>26395:67588:180942:180948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180949</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vaginal Moisturizers</CategoryName>
+     <CategoryParentID>180942</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Feminine Hygiene:Vaginal Moisturizers</CategoryNamePath>
+     <CategoryIDPath>26395:67588:180942:180949</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180950</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Feminine Hygiene</CategoryName>
+     <CategoryParentID>180942</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Feminine Hygiene:Other Feminine Hygiene</CategoryNamePath>
+     <CategoryIDPath>26395:67588:180942:180950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:33:11.627Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>163029</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Medicine</CategoryName>
+     <CategoryParentID>20094</CategoryParentID>
+     <CategoryNamePath>Antiques:Science and Medicine (Pre-1930):Medicine</CategoryNamePath>
+     <CategoryIDPath>20081:20094:163029</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163030</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Doctor Bags</CategoryName>
+     <CategoryParentID>163029</CategoryParentID>
+     <CategoryNamePath>Antiques:Science and Medicine (Pre-1930):Medicine:Doctor Bags</CategoryNamePath>
+     <CategoryIDPath>20081:20094:163029:163030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4069</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Quack Medicine</CategoryName>
+     <CategoryParentID>163029</CategoryParentID>
+     <CategoryNamePath>Antiques:Science and Medicine (Pre-1930):Medicine:Quack Medicine</CategoryNamePath>
+     <CategoryIDPath>20081:20094:163029:4069</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163031</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stethoscopes</CategoryName>
+     <CategoryParentID>163029</CategoryParentID>
+     <CategoryNamePath>Antiques:Science and Medicine (Pre-1930):Medicine:Stethoscopes</CategoryNamePath>
+     <CategoryIDPath>20081:20094:163029:163031</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163032</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Surgical Sets</CategoryName>
+     <CategoryParentID>163029</CategoryParentID>
+     <CategoryNamePath>Antiques:Science and Medicine (Pre-1930):Medicine:Surgical Sets</CategoryNamePath>
+     <CategoryIDPath>20081:20094:163029:163032</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163033</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Surgical Tools</CategoryName>
+     <CategoryParentID>163029</CategoryParentID>
+     <CategoryNamePath>Antiques:Science and Medicine (Pre-1930):Medicine:Surgical Tools</CategoryNamePath>
+     <CategoryIDPath>20081:20094:163029:163033</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1210</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Medical Antiques</CategoryName>
+     <CategoryParentID>163029</CategoryParentID>
+     <CategoryNamePath>Antiques:Science and Medicine (Pre-1930):Medicine:Other Medical Antiques</CategoryNamePath>
+     <CategoryIDPath>20081:20094:163029:1210</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

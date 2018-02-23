@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:10:11.254Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38148</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mugs</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Mugs</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38148</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38149</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vintage (Pre-1970)</CategoryName>
+     <CategoryParentID>38148</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Mugs:Vintage (Pre-1970)</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38148:38149</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14899</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Modern (1970-Now)</CategoryName>
+     <CategoryParentID>38148</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Mugs:Modern (1970-Now)</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38148:14899</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:31:41.235Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>19178</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Little Tikes</CategoryName>
+     <CategoryParentID>19169</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Little Tikes</CategoryNamePath>
+     <CategoryIDPath>220:19169:19178</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2574</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Child Size</CategoryName>
+     <CategoryParentID>19178</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Little Tikes:Child Size</CategoryNamePath>
+     <CategoryIDPath>220:19169:19178:2574</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19179</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dollhouse Size</CategoryName>
+     <CategoryParentID>19178</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Preschool Toys and Pretend Play:Little Tikes:Dollhouse Size</CategoryNamePath>
+     <CategoryIDPath>220:19169:19178:19179</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

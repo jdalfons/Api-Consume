@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:58.049Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>100182</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electrical Supply Equipment</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66991</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Electrical Usage Meters</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Electrical Usage Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:66991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181917</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Enclosures Panels and Boards</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Enclosures Panels and Boards</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181917</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181921</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Power Supplies</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Power Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181921</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181926</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Receptacles Outlets and Plugs</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Receptacles Outlets and Plugs</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181926</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181929</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Transformers</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Transformers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:181929</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41952</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Phase Converters</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Phase Converters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:41952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100183</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Electr. Supply Books and Manuals</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Electr. Supply Books and Manuals</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:100183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100184</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Electr. Supply Equipment</CategoryName>
+     <CategoryParentID>100182</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Electrical Supply Equipment:Other Electr. Supply Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100182:100184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

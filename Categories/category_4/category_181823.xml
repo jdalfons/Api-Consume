@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:14.551Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181823</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fuses</CategoryName>
+     <CategoryParentID>181814</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>129086</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cartridge Fuses</CategoryName>
+     <CategoryParentID>181823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses:Cartridge Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823:129086</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>129088</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Centered Tag Fuses</CategoryName>
+     <CategoryParentID>181823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses:Centered Tag Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823:129088</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181824</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>D-Type Fuses</CategoryName>
+     <CategoryParentID>181823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses:D-Type Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823:181824</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181825</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flush End Contacts Fuses</CategoryName>
+     <CategoryParentID>181823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses:Flush End Contacts Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823:181825</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181826</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Neutral Links</CategoryName>
+     <CategoryParentID>181823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses:Neutral Links</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823:181826</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181827</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Offset Tag Fuses</CategoryName>
+     <CategoryParentID>181823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses:Offset Tag Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823:181827</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181828</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Solid Links</CategoryName>
+     <CategoryParentID>181823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses:Solid Links</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823:181828</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181829</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thermal Fuses</CategoryName>
+     <CategoryParentID>181823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses:Thermal Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823:181829</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181830</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fuse Kits</CategoryName>
+     <CategoryParentID>181823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses:Fuse Kits</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823:181830</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181831</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Fuses</CategoryName>
+     <CategoryParentID>181823</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Circuit Breakers and Fuses:Fuses:Other Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181814:181823:181831</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

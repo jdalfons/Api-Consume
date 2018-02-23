@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:32:20.238Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>41976</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Doors and Door Hardware</CategoryName>
+     <CategoryParentID>3187</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85892</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Doors</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Doors</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:85892</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115975</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Doorbells</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Doorbells</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:115975</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167125</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Door Closers</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Door Closers</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:167125</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158456</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Door Entry Sets</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Door Entry Sets</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:158456</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66739</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Door Hinges</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Door Hinges</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:66739</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180964</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Door Knobs and Levers</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Door Knobs and Levers</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:180964</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180965</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Door Knockers</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Door Knockers</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:180965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180966</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Door Locks and Lock Mechanisms</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Door Locks and Lock Mechanisms</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:180966</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>126439</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Door Viewers</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Door Viewers</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:126439</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180967</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Latches and Bolts</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Latches and Bolts</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:180967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180968</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Screen Doors</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Screen Doors</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:180968</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124980</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Weather Stripping</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Weather Stripping</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:124980</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20593</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Door Hardware</CategoryName>
+     <CategoryParentID>41976</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Building and Hardware:Doors and Door Hardware:Other Door Hardware</CategoryNamePath>
+     <CategoryIDPath>11700:159907:3187:41976:20593</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

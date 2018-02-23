@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:44:32.973Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184088</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vacuum Pumps</CategoryName>
+     <CategoryParentID>184062</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184089</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bellows Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Bellows Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184089</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124636</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Diaphragm Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Diaphragm Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:124636</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184090</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Diffusion Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Diffusion Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184090</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184092</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Liquid Ring Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Liquid Ring Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184092</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184093</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lobe Pumps and Roots Blowers</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Lobe Pumps and Roots Blowers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184094</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Peristaltic Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Peristaltic Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184094</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184095</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Piston Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Piston Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184095</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184096</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Progressive Cavity Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Progressive Cavity Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184096</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184097</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Regenerative Blowers</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Regenerative Blowers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184097</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124638</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rotary Gear Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Rotary Gear Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:124638</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184098</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rotary Vane Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Rotary Vane Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184098</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184099</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Screw Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Screw Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184099</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184100</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Scroll Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Scroll Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184100</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184101</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Turbomolecular Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Turbomolecular Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184101</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184103</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vacuum Chambers</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Vacuum Chambers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:184103</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46548</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Vacuum Pumps</CategoryName>
+     <CategoryParentID>184088</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Vacuum Pumps:Other Vacuum Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184088:46548</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

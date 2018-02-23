@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:58.987Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>158927</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Yoga and Pilates</CategoryName>
+     <CategoryParentID>15273</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Yoga and Pilates</CategoryNamePath>
+     <CategoryIDPath>888:15273:158927</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158928</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mats and Non-Slip Towels</CategoryName>
+     <CategoryParentID>158927</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Yoga and Pilates:Mats and Non-Slip Towels</CategoryNamePath>
+     <CategoryIDPath>888:15273:158927:158928</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158929</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mat Carriers and Bags</CategoryName>
+     <CategoryParentID>158927</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Yoga and Pilates:Mat Carriers and Bags</CategoryNamePath>
+     <CategoryIDPath>888:15273:158927:158929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>44086</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pilates Accessories</CategoryName>
+     <CategoryParentID>158927</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Yoga and Pilates:Pilates Accessories</CategoryNamePath>
+     <CategoryIDPath>888:15273:158927:44086</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179807</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pilates Tables</CategoryName>
+     <CategoryParentID>158927</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Yoga and Pilates:Pilates Tables</CategoryNamePath>
+     <CategoryIDPath>888:15273:158927:179807</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179808</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pilates Rings</CategoryName>
+     <CategoryParentID>158927</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Yoga and Pilates:Pilates Rings</CategoryNamePath>
+     <CategoryIDPath>888:15273:158927:179808</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>148944</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Yoga Straps</CategoryName>
+     <CategoryParentID>158927</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Yoga and Pilates:Yoga Straps</CategoryNamePath>
+     <CategoryIDPath>888:15273:158927:148944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179809</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Yoga Props</CategoryName>
+     <CategoryParentID>158927</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Yoga and Pilates:Yoga Props</CategoryNamePath>
+     <CategoryIDPath>888:15273:158927:179809</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158930</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Yoga and Pilates</CategoryName>
+     <CategoryParentID>158927</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Yoga and Pilates:Other Yoga and Pilates</CategoryNamePath>
+     <CategoryIDPath>888:15273:158927:158930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

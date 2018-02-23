@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:35.504Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177647</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Heavy Equipment Attachments</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments</CategoryNamePath>
+     <CategoryIDPath>12576:177647</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66927</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Augers</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Augers</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66926</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Backhoe Attachments</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Backhoe Attachments</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159682</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bale Spears</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Bale Spears</CategoryNamePath>
+     <CategoryIDPath>12576:177647:159682</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66879</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Balers</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Balers</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66879</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66876</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Box Blades and Snow Plows</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Box Blades and Snow Plows</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66876</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50908</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Buckets and Accessories</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Buckets and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:177647:50908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66886</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cultivators</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Cultivators</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66887</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Disc Harrows</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Disc Harrows</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41488</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Forks</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Forks</CategoryNamePath>
+     <CategoryIDPath>12576:177647:41488</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26187</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Grain Equipment</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Grain Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:177647:26187</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>91954</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Harvesting Equipment</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Harvesting Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:177647:91954</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66881</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hay Rakes</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Hay Rakes</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66881</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119096</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hitches</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Hitches</CategoryNamePath>
+     <CategoryIDPath>12576:177647:119096</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26189</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Irrigation Equipment</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Irrigation Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:177647:26189</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106365</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Manure Spreaders</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Manure Spreaders</CategoryNamePath>
+     <CategoryIDPath>12576:177647:106365</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26190</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Material Handling Equipment</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Material Handling Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:177647:26190</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66880</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mowers and Mower Conditioners</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Mowers and Mower Conditioners</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66880</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66877</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mower Decks</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Mower Decks</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66877</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66883</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Planters</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Planters</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66883</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66888</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Plows</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Plows</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66888</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109296</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Post Hole Diggers</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Post Hole Diggers</CategoryNamePath>
+     <CategoryIDPath>12576:177647:109296</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66884</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Seeders and Spreaders</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Seeders and Spreaders</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66884</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159683</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Snow Blowers</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Snow Blowers</CategoryNamePath>
+     <CategoryIDPath>12576:177647:159683</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159684</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sprayers</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Sprayers</CategoryNamePath>
+     <CategoryIDPath>12576:177647:159684</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66889</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tillers</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Tillers</CategoryNamePath>
+     <CategoryIDPath>12576:177647:66889</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46570</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Antique and Vintage Implements</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Antique and Vintage Implements</CategoryNamePath>
+     <CategoryIDPath>12576:177647:46570</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11752</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Heavy Equip Attachments</CategoryName>
+     <CategoryParentID>177647</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Heavy Equipment Attachments:Other Heavy Equip Attachments</CategoryNamePath>
+     <CategoryIDPath>12576:177647:11752</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>28</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:37:11.954Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>163031</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stethoscopes</CategoryName>
+     <CategoryParentID>163029</CategoryParentID>
+     <CategoryNamePath>Antiques:Science and Medicine (Pre-1930):Medicine:Stethoscopes</CategoryNamePath>
+     <CategoryIDPath>20081:20094:163029:163031</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

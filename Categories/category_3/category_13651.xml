@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:48:39.221Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13651</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Horses: Merch. and Memorabilia</CategoryName>
+     <CategoryParentID>1335</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156262</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Handmade Handcrafted Items</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Handmade Handcrafted Items</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156262</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156254</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Apparel</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Apparel</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156254</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156255</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Books</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156255</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156256</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Calendars and Datebooks</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Calendars and Datebooks</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156256</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156257</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cards and Notecards</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Cards and Notecards</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156257</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156258</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Collector Plates</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Collector Plates</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156258</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156259</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decals and Stickers</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Decals and Stickers</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156259</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156260</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Figurines</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156261</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flags</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Flags</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156261</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156263</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry and Pins</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Jewelry and Pins</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156263</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156264</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Magnets</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Magnets</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156264</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156266</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mugs and Cups</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Mugs and Cups</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156266</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156267</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156267</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156268</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paintings</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Paintings</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156268</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156269</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Picture Frames</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Picture Frames</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156269</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156270</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pillows and Throws</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Pillows and Throws</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156270</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156271</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Posters and Prints</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Posters and Prints</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156271</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156272</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Salt and Pepper Shakers</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Salt and Pepper Shakers</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156272</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156273</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signs and Plaques</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Signs and Plaques</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156273</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156274</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trinket Boxes</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Trinket Boxes</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:156274</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103930</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Horse Memorabilia</CategoryName>
+     <CategoryParentID>13651</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Horses: Merch. and Memorabilia:Other Horse Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:1335:13651:103930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>22</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

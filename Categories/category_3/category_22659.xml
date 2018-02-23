@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:12:56.487Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>22659</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Air Tools</CategoryName>
+     <CategoryParentID>631</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159927</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Tool Kits Sets</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Air Tool Kits Sets</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:159927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22660</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cleaners and Washers</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Cleaners and Washers</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:22660</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75675</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cut-Off Tools</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Cut-Off Tools</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:75675</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42245</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Drills</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Drills</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42245</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22779</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Grease and Sealant Guns</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Grease and Sealant Guns</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:22779</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75676</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Grinders</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Grinders</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:75676</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42246</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hammers</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Hammers</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42246</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42241</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Nailers</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Nailers</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42241</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79702</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paint Sprayers</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Paint Sprayers</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:79702</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42248</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ratchets</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Ratchets</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42248</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43570</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sandblasters</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Sandblasters</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:43570</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42249</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sanders</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Sanders</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42249</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22663</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wrenches</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Wrenches</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:22663</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42247</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:42247</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>22664</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Air Tools</CategoryName>
+     <CategoryParentID>22659</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Tools:Air Tools:Other Air Tools</CategoryNamePath>
+     <CategoryIDPath>11700:631:22659:22664</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:38:56.598Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181755</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belts and Pulleys</CategoryName>
+     <CategoryParentID>181748</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Belts and Pulleys</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181755</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181756</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Power Transmission Belts</CategoryName>
+     <CategoryParentID>181755</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Belts and Pulleys:Power Transmission Belts</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181755:181756</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181757</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pulleys and Sheaves</CategoryName>
+     <CategoryParentID>181755</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Mechanical Power Transmission:Belts and Pulleys:Pulleys and Sheaves</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181748:181755:181757</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

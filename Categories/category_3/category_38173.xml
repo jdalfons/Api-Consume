@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:10:04.580Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38173</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Candy Gum and Chocolate</CategoryName>
+     <CategoryParentID>14308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159891</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candy Ingredients</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Candy Ingredients</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:159891</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99536</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chewing Gum</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Chewing Gum</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:99536</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159892</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chewy Candy</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Chewy Candy</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:159892</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38174</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chocolate</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Chocolate</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:38174</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177617</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chocolate Covered Fruit</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Chocolate Covered Fruit</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:177617</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176969</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fondant and Gum Paste</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Fondant and Gum Paste</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:176969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38175</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fudge</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Fudge</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:38175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79627</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gummi Candy</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Gummi Candy</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:79627</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38176</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hard Candy and Lollipops</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Hard Candy and Lollipops</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:38176</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166723</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jelly Beans</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Jelly Beans</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:166723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159890</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Licorice</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Licorice</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:159890</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115717</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mints</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Mints</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:115717</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38177</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seasonal Candy</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Seasonal Candy</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:38177</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146215</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sugar Free Candy and Chocolate</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Sugar Free Candy and Chocolate</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:146215</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14307</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Candy Gum and Chocolate</CategoryName>
+     <CategoryParentID>38173</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Food and Beverages:Candy Gum and Chocolate:Other Candy Gum and Chocolate</CategoryNamePath>
+     <CategoryIDPath>11700:14308:38173:14307</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

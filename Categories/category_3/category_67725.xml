@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:56.642Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>67725</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fine Rings</CategoryName>
+     <CategoryParentID>4196</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Rings</CategoryNamePath>
+     <CategoryIDPath>281:4196:67725</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67726</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Diamond</CategoryName>
+     <CategoryParentID>67725</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Rings:Diamond</CategoryNamePath>
+     <CategoryIDPath>281:4196:67725:67726</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164343</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gemstone</CategoryName>
+     <CategoryParentID>67725</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Rings:Gemstone</CategoryNamePath>
+     <CategoryIDPath>281:4196:67725:164343</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11021</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pearl</CategoryName>
+     <CategoryParentID>67725</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Rings:Pearl</CategoryNamePath>
+     <CategoryIDPath>281:4196:67725:11021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164341</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Precious Metal without Stones</CategoryName>
+     <CategoryParentID>67725</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Rings:Precious Metal without Stones</CategoryNamePath>
+     <CategoryIDPath>281:4196:67725:164341</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177030</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fine Rings</CategoryName>
+     <CategoryParentID>67725</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Rings:Other Fine Rings</CategoryNamePath>
+     <CategoryIDPath>281:4196:67725:177030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:12:27.580Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>71237</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Linens and Textiles</CategoryName>
+     <CategoryParentID>20625</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20657</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Aprons</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Aprons</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:20657</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20658</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Napkin Rings and Holders</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Napkin Rings and Holders</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:20658</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20659</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Napkins</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Napkins</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:20659</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20661</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Oven Mitts and Potholders</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Oven Mitts and Potholders</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:20661</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20660</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Placemats</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Placemats</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:20660</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20662</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Table Runners</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Table Runners</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:20662</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20663</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tablecloths</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Tablecloths</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:20663</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71238</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Table Linen Sets</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Table Linen Sets</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:71238</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>131610</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tea Cozies</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Tea Cozies</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:131610</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20664</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Towels and Dishcloths</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Towels and Dishcloths</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:20664</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71239</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Kitchen Linen and Textiles</CategoryName>
+     <CategoryParentID>71237</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Linens and Textiles:Other Kitchen Linen and Textiles</CategoryNamePath>
+     <CategoryIDPath>11700:20625:71237:71239</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

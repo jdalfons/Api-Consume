@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:35.254Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>39482</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bullion</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion</CategoryNamePath>
+     <CategoryIDPath>11116:39482</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39487</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Silver</CategoryName>
+     <CategoryParentID>39482</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion:Silver</CategoryNamePath>
+     <CategoryIDPath>11116:39482:39487</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45134</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gold</CategoryName>
+     <CategoryParentID>39482</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion:Gold</CategoryNamePath>
+     <CategoryIDPath>11116:39482:45134</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34943</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Palladium</CategoryName>
+     <CategoryParentID>39482</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion:Palladium</CategoryNamePath>
+     <CategoryIDPath>11116:39482:34943</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177655</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Platinum</CategoryName>
+     <CategoryParentID>39482</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion:Platinum</CategoryNamePath>
+     <CategoryIDPath>11116:39482:177655</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180910</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wholesale Bullion</CategoryName>
+     <CategoryParentID>39482</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion:Wholesale Bullion</CategoryNamePath>
+     <CategoryIDPath>11116:39482:180910</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166679</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Bullion</CategoryName>
+     <CategoryParentID>39482</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Bullion:Other Bullion</CategoryNamePath>
+     <CategoryIDPath>11116:39482:166679</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

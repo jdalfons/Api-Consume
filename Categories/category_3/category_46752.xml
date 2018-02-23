@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:34:58.705Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>46752</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>29399</CategoryParentID>
+     <CategoryNamePath>Books:Wholesale and Bulk Lots:Books</CategoryNamePath>
+     <CategoryIDPath>267:29399:46752</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46753</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Up to 5 Items</CategoryName>
+     <CategoryParentID>46752</CategoryParentID>
+     <CategoryNamePath>Books:Wholesale and Bulk Lots:Books:Up to 5 Items</CategoryNamePath>
+     <CategoryIDPath>267:29399:46752:46753</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52541</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>6-10 Items</CategoryName>
+     <CategoryParentID>46752</CategoryParentID>
+     <CategoryNamePath>Books:Wholesale and Bulk Lots:Books:6-10 Items</CategoryNamePath>
+     <CategoryIDPath>267:29399:46752:52541</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40173</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>11-50 Items</CategoryName>
+     <CategoryParentID>46752</CategoryParentID>
+     <CategoryNamePath>Books:Wholesale and Bulk Lots:Books:11-50 Items</CategoryNamePath>
+     <CategoryIDPath>267:29399:46752:40173</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52542</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>51-100 Items</CategoryName>
+     <CategoryParentID>46752</CategoryParentID>
+     <CategoryNamePath>Books:Wholesale and Bulk Lots:Books:51-100 Items</CategoryNamePath>
+     <CategoryIDPath>267:29399:46752:52542</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40174</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>101-500</CategoryName>
+     <CategoryParentID>46752</CategoryParentID>
+     <CategoryNamePath>Books:Wholesale and Bulk Lots:Books:101-500</CategoryNamePath>
+     <CategoryIDPath>267:29399:46752:40174</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46759</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>More than 500</CategoryName>
+     <CategoryParentID>46752</CategoryParentID>
+     <CategoryNamePath>Books:Wholesale and Bulk Lots:Books:More than 500</CategoryNamePath>
+     <CategoryIDPath>267:29399:46752:46759</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

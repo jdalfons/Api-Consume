@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:29:06.223Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>65208</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sports</CategoryName>
+     <CategoryParentID>4752</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168201</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Auto Racing</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Auto Racing</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:168201</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162063</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baseball</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Baseball</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:162063</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162064</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Basketball</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Basketball</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:162064</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162065</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chess</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Chess</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:162065</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168202</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cycling</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Cycling</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:168202</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139789</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Football</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Football</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:139789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162066</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hockey</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Hockey</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:162066</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162069</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Olympics</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Olympics</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:162069</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139790</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Soccer</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Soccer</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:139790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162067</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Table Tennis</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Table Tennis</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:162067</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162068</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tennis</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Tennis</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:162068</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139791</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Sports Stamps</CategoryName>
+     <CategoryParentID>65208</CategoryParentID>
+     <CategoryNamePath>Stamps:Topical Stamps:Sports:Other Sports Stamps</CategoryNamePath>
+     <CategoryIDPath>260:4752:65208:139791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

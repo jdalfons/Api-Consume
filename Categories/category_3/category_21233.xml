@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:17.596Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>21233</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing</CategoryName>
+     <CategoryParentID>36259</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62171</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Base Layers</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Base Layers</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:62171</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26346</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coats and Jackets</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Coats and Jackets</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:26346</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62172</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gloves and Mittens</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Gloves and Mittens</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:62172</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21230</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Goggles and Sunglasses</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Goggles and Sunglasses</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:21230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62175</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hats and Headwear</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Hats and Headwear</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:62175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36260</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Protective Gear</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:36260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36261</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Snow Pants and Bibs</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Snow Pants and Bibs</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:36261</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62178</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Snowsuits</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Snowsuits</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:62178</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97064</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Socks</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Socks</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:97064</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>59522</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sweaters</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Sweaters</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:59522</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179012</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vests</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Vests</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:179012</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16060</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Winter Sport Clothing</CategoryName>
+     <CategoryParentID>21233</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Winter Sports:Clothing:Other Winter Sport Clothing</CategoryNamePath>
+     <CategoryIDPath>888:36259:21233:16060</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

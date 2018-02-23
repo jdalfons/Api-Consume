@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:03:08.926Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>73484</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Storage and Supplies</CategoryName>
+     <CategoryParentID>35743</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Storage and Supplies</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:73484</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73485</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cases</CategoryName>
+     <CategoryParentID>73484</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Storage and Supplies:Cases</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:73484:73485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73486</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Trays Racks</CategoryName>
+     <CategoryParentID>73484</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Storage and Supplies:Trays Racks</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:73484:73486</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73487</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Casino Storage Supplies</CategoryName>
+     <CategoryParentID>73484</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips:Storage and Supplies:Other Casino Storage Supplies</CategoryNamePath>
+     <CategoryIDPath>1:898:35743:73484:73487</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

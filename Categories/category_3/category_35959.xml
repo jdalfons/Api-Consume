@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:58:14.673Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35959</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bicycles</CategoryName>
+     <CategoryParentID>417</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Bicycles</CategoryNamePath>
+     <CategoryIDPath>1:417:35959</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156522</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bicycle Accessories</CategoryName>
+     <CategoryParentID>35959</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Bicycles:Bicycle Accessories</CategoryNamePath>
+     <CategoryIDPath>1:417:35959:156522</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156523</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bicycle Parts</CategoryName>
+     <CategoryParentID>35959</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Bicycles:Bicycle Parts</CategoryNamePath>
+     <CategoryIDPath>1:417:35959:156523</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156524</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete Bicycles</CategoryName>
+     <CategoryParentID>35959</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Bicycles:Complete Bicycles</CategoryNamePath>
+     <CategoryIDPath>1:417:35959:156524</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156525</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Printed Material</CategoryName>
+     <CategoryParentID>35959</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Bicycles:Printed Material</CategoryNamePath>
+     <CategoryIDPath>1:417:35959:156525</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>420</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Bicycle Collectibles</CategoryName>
+     <CategoryParentID>35959</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Bicycles:Other Bicycle Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:417:35959:420</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

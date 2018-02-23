@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:12:57.548Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>29826</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ballpoint Pens</CategoryName>
+     <CategoryParentID>7278</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165638</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Handmade Pens</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Handmade Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165638</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165639</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aurora</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Aurora</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165639</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165640</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Caran d&apos;Ache</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Caran d&apos;Ache</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165640</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29827</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cross</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Cross</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:29827</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73532</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dunhill</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Dunhill</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:73532</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165641</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Faber Castell</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Faber Castell</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165641</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73533</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fisher</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Fisher</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:73533</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165642</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lamy</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Lamy</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29828</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Montblanc</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Montblanc</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:29828</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29829</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Parker</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Parker</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:29829</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165643</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pelikan</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Pelikan</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165643</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165644</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Romet</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Romet</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165644</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165645</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rotring</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Rotring</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165645</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165646</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>S.T. Dupont</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:S.T. Dupont</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165646</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29830</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sensa</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Sensa</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:29830</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165647</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sheaffer</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Sheaffer</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165647</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165648</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Visconti</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Visconti</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165648</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73534</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Waterman</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Waterman</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:73534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165649</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Unbranded</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Unbranded</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:165649</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7279</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Collectible Ballpoint</CategoryName>
+     <CategoryParentID>29826</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens:Other Collectible Ballpoint</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826:7279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>21</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

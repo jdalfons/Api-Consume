@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:17.393Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181730</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Electric Motors</CategoryName>
+     <CategoryParentID>42892</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Electric Motors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181730</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181731</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Definite Purpose Motors</CategoryName>
+     <CategoryParentID>181730</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Electric Motors:Definite Purpose Motors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181730:181731</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181732</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>General Purpose Motors</CategoryName>
+     <CategoryParentID>181730</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Electric Motors:General Purpose Motors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181730:181732</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65452</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gearmotors</CategoryName>
+     <CategoryParentID>181730</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Electric Motors:Gearmotors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181730:65452</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>9723</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stepper Motors</CategoryName>
+     <CategoryParentID>181730</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Electric Motors:Stepper Motors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181730:9723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>124603</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Servo Motors</CategoryName>
+     <CategoryParentID>181730</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Electric Motors:Servo Motors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181730:124603</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181733</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vibration Motors</CategoryName>
+     <CategoryParentID>181730</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Electric Motors:Vibration Motors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181730:181733</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181734</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Electric Motor Parts and Accs</CategoryName>
+     <CategoryParentID>181730</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Electric Motors:Electric Motor Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181730:181734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181735</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Electric Motors</CategoryName>
+     <CategoryParentID>181730</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Electric Motors:Other Electric Motors</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181730:181735</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

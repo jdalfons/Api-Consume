@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:25:02.626Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>180015</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Sheet Music and Song Books</CategoryName>
+     <CategoryParentID>619</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Sheet Music and Song Books</CategoryNamePath>
+     <CategoryIDPath>619:180015</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182151</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Contemporary</CategoryName>
+     <CategoryParentID>180015</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Sheet Music and Song Books:Contemporary</CategoryNamePath>
+     <CategoryIDPath>619:180015:182151</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182152</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage and Antique</CategoryName>
+     <CategoryParentID>180015</CategoryParentID>
+     <CategoryNamePath>Musical Instruments and Gear:Sheet Music and Song Books:Vintage and Antique</CategoryNamePath>
+     <CategoryIDPath>619:180015:182152</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

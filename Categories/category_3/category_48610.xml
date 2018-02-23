@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:01:02.879Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>48610</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Car Alarms and Security</CategoryName>
+     <CategoryParentID>3270</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Alarms and Security</CategoryNamePath>
+     <CategoryIDPath>293:3270:48610</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75390</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Car Alarms and Security Systems</CategoryName>
+     <CategoryParentID>48610</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Alarms and Security:Car Alarms and Security Systems</CategoryNamePath>
+     <CategoryIDPath>293:3270:48610:75390</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>94830</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Car Keys and Transponders</CategoryName>
+     <CategoryParentID>48610</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Alarms and Security:Car Keys and Transponders</CategoryNamePath>
+     <CategoryIDPath>293:3270:48610:94830</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75389</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Relays and Sensors</CategoryName>
+     <CategoryParentID>48610</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Alarms and Security:Relays and Sensors</CategoryNamePath>
+     <CategoryIDPath>293:3270:48610:75389</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71530</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Replacement Remotes</CategoryName>
+     <CategoryParentID>48610</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Alarms and Security:Replacement Remotes</CategoryNamePath>
+     <CategoryIDPath>293:3270:48610:71530</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60203</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Car Alarms and Security</CategoryName>
+     <CategoryParentID>48610</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Vehicle Electronics and GPS:Car Alarms and Security:Other Car Alarms and Security</CategoryNamePath>
+     <CategoryIDPath>293:3270:48610:60203</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

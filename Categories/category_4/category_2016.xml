@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:07:44.032Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2016</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Circus and Carnival</CategoryName>
+     <CategoryParentID>165513</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fairs Parks and Architecture:Circus and Carnival</CategoryNamePath>
+     <CategoryIDPath>1:13877:165513:2016</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3926</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Circus Art</CategoryName>
+     <CategoryParentID>2016</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fairs Parks and Architecture:Circus and Carnival:Circus Art</CategoryNamePath>
+     <CategoryIDPath>1:13877:165513:2016:3926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2018</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Programs and Posters</CategoryName>
+     <CategoryParentID>2016</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fairs Parks and Architecture:Circus and Carnival:Programs and Posters</CategoryNamePath>
+     <CategoryIDPath>1:13877:165513:2016:2018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2019</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Souvenirs</CategoryName>
+     <CategoryParentID>2016</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fairs Parks and Architecture:Circus and Carnival:Souvenirs</CategoryNamePath>
+     <CategoryIDPath>1:13877:165513:2016:2019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2017</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Circus and Carnival</CategoryName>
+     <CategoryParentID>2016</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Fairs Parks and Architecture:Circus and Carnival:Other Circus and Carnival</CategoryNamePath>
+     <CategoryIDPath>1:13877:165513:2016:2017</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

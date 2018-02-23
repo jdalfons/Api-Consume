@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:41:51.470Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45066</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cell Phone Accessories</CategoryName>
+     <CategoryParentID>45065</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64356</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Batteries</CategoryName>
+     <CategoryParentID>45066</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories:Batteries</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066:64356</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167923</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cables and Adapters</CategoryName>
+     <CategoryParentID>45066</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories:Cables and Adapters</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066:167923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182070</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cases Covers and Skins</CategoryName>
+     <CategoryParentID>45066</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories:Cases Covers and Skins</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066:182070</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64357</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chargers and Cradles</CategoryName>
+     <CategoryParentID>45066</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories:Chargers and Cradles</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066:64357</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167924</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Headsets</CategoryName>
+     <CategoryParentID>45066</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories:Headsets</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066:167924</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146496</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Screen Protectors</CategoryName>
+     <CategoryParentID>45066</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories:Screen Protectors</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066:146496</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45067</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signal Boosters</CategoryName>
+     <CategoryParentID>45066</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories:Signal Boosters</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066:45067</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146494</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Straps and Charms</CategoryName>
+     <CategoryParentID>45066</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories:Straps and Charms</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066:146494</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167926</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Styluses</CategoryName>
+     <CategoryParentID>45066</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories:Styluses</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066:167926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182071</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wholesale Accessories</CategoryName>
+     <CategoryParentID>45066</CategoryParentID>
+     <CategoryNamePath>Cell Phones and Accessories:Wholesale Lots:Cell Phone Accessories:Other Wholesale Accessories</CategoryNamePath>
+     <CategoryIDPath>15032:45065:45066:182071</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:26.332Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10290</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Men&apos;s Jewelry</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:10290</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10292</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bolo Ties</CategoryName>
+     <CategoryParentID>10290</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry:Bolo Ties</CategoryNamePath>
+     <CategoryIDPath>281:10290:10292</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>137835</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bracelets</CategoryName>
+     <CategoryParentID>10290</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry:Bracelets</CategoryNamePath>
+     <CategoryIDPath>281:10290:137835</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>137839</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chains Necklaces and Pendants</CategoryName>
+     <CategoryParentID>10290</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry:Chains Necklaces and Pendants</CategoryNamePath>
+     <CategoryIDPath>281:10290:137839</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>137843</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cufflinks</CategoryName>
+     <CategoryParentID>10290</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry:Cufflinks</CategoryNamePath>
+     <CategoryIDPath>281:10290:137843</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14085</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Earrings Studs</CategoryName>
+     <CategoryParentID>10290</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry:Earrings Studs</CategoryNamePath>
+     <CategoryIDPath>281:10290:14085</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60115</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lapel Pins</CategoryName>
+     <CategoryParentID>10290</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry:Lapel Pins</CategoryNamePath>
+     <CategoryIDPath>281:10290:60115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60120</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Money Clips</CategoryName>
+     <CategoryParentID>10290</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry:Money Clips</CategoryNamePath>
+     <CategoryIDPath>281:10290:60120</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>137856</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rings</CategoryName>
+     <CategoryParentID>10290</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry:Rings</CategoryNamePath>
+     <CategoryIDPath>281:10290:137856</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10298</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tie Clasps and Tacks</CategoryName>
+     <CategoryParentID>10290</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry:Tie Clasps and Tacks</CategoryNamePath>
+     <CategoryIDPath>281:10290:10298</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177770</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Men&apos;s Jewelry</CategoryName>
+     <CategoryParentID>10290</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Men&apos;s Jewelry:Other Men&apos;s Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:10290:177770</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

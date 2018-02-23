@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:01.457Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11233</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Music</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Music</CategoryNamePath>
+     <CategoryIDPath>11233</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176983</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Cassettes</CategoryName>
+     <CategoryParentID>11233</CategoryParentID>
+     <CategoryNamePath>Music:Cassettes</CategoryNamePath>
+     <CategoryIDPath>11233:176983</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176984</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>CDs</CategoryName>
+     <CategoryParentID>11233</CategoryParentID>
+     <CategoryNamePath>Music:CDs</CategoryNamePath>
+     <CategoryIDPath>11233:176984</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176985</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Records</CategoryName>
+     <CategoryParentID>11233</CategoryParentID>
+     <CategoryNamePath>Music:Records</CategoryNamePath>
+     <CategoryIDPath>11233:176985</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>618</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Formats</CategoryName>
+     <CategoryParentID>11233</CategoryParentID>
+     <CategoryNamePath>Music:Other Formats</CategoryNamePath>
+     <CategoryIDPath>11233:618</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52473</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Storage and Media Accessories</CategoryName>
+     <CategoryParentID>11233</CategoryParentID>
+     <CategoryNamePath>Music:Storage and Media Accessories</CategoryNamePath>
+     <CategoryIDPath>11233:52473</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31608</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>11233</CategoryParentID>
+     <CategoryNamePath>Music:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>11233:31608</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

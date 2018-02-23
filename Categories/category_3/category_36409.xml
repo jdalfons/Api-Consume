@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:08:09.440Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>36409</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Makeup Tools and Accessories</CategoryName>
+     <CategoryParentID>31786</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Tools and Accessories</CategoryNamePath>
+     <CategoryIDPath>26395:31786:36409</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159805</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brush Cleaners</CategoryName>
+     <CategoryParentID>36409</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Tools and Accessories:Brush Cleaners</CategoryNamePath>
+     <CategoryIDPath>26395:31786:36409:159805</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82597</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Brushes</CategoryName>
+     <CategoryParentID>36409</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Tools and Accessories:Brushes</CategoryNamePath>
+     <CategoryIDPath>26395:31786:36409:82597</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82599</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Eyelash Tools</CategoryName>
+     <CategoryParentID>36409</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Tools and Accessories:Eyelash Tools</CategoryNamePath>
+     <CategoryIDPath>26395:31786:36409:82599</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106256</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Makeup Mirrors</CategoryName>
+     <CategoryParentID>36409</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Tools and Accessories:Makeup Mirrors</CategoryNamePath>
+     <CategoryIDPath>26395:31786:36409:106256</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172014</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sharpeners</CategoryName>
+     <CategoryParentID>36409</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Tools and Accessories:Sharpeners</CategoryNamePath>
+     <CategoryIDPath>26395:31786:36409:172014</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159806</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sponges Applicators and Cotton</CategoryName>
+     <CategoryParentID>36409</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Tools and Accessories:Sponges Applicators and Cotton</CategoryNamePath>
+     <CategoryIDPath>26395:31786:36409:159806</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159807</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Makeup Tools and Accs</CategoryName>
+     <CategoryParentID>36409</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Makeup:Makeup Tools and Accessories:Other Makeup Tools and Accs</CategoryNamePath>
+     <CategoryIDPath>26395:31786:36409:159807</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:15:13.518Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>34082</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jewelry Tools</CategoryName>
+     <CategoryParentID>164352</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179252</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Anvils and Bench Blocks</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Anvils and Bench Blocks</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179252</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179253</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Burs and Bits</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Burs and Bits</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179253</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179254</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Casting Tools</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Casting Tools</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179254</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34083</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Engraving Tools</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Engraving Tools</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:34083</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179255</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Files and Rifflers</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Files and Rifflers</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179255</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179256</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gauges and Stone Measuring</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Gauges and Stone Measuring</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179256</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179257</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hammers</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Hammers</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179257</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67711</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry Molds</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Jewelry Molds</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:67711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34084</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Loupes and Magnifiers</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Loupes and Magnifiers</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:34084</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34085</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pliers Cutters and Shears</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Pliers Cutters and Shears</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:34085</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179258</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Punches and Stamps</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Punches and Stamps</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179258</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34086</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ring Sizers and Stretchers</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Ring Sizers and Stretchers</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:34086</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34087</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rotary Tools and Accessories</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Rotary Tools and Accessories</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:34087</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179259</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saws and Blades</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Saws and Blades</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179259</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34088</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scales</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Scales</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:34088</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179260</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Screwdrivers</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Screwdrivers</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179260</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179261</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Soldering Tools and Accessories</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Soldering Tools and Accessories</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179261</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179262</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Testing and Identification Tools</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Testing and Identification Tools</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179262</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34089</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tweezers and Pick-Up Tools</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Tweezers and Pick-Up Tools</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:34089</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179263</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Watch Repair Tools</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Watch Repair Tools</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:179263</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10323</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Jewelry Tools</CategoryName>
+     <CategoryParentID>34082</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Design and Repair:Jewelry Tools:Other Jewelry Tools</CategoryNamePath>
+     <CategoryIDPath>281:164352:34082:10323</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>22</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

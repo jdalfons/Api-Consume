@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:12:03.392Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20687</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bar Tools and Accessories</CategoryName>
+     <CategoryParentID>20625</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63503</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bottle Stoppers and Corks</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Bottle Stoppers and Corks</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:63503</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36026</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coasters</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Coasters</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:36026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63504</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cocktail Shakers and Bar Sets</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Cocktail Shakers and Bar Sets</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:63504</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20688</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Corkscrews and Openers</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Corkscrews and Openers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:20688</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103428</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decanters</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Decanters</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:103428</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63505</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flasks</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Flasks</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:63505</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115713</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Home Pubs and Bars</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Home Pubs and Bars</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:115713</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63506</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ice Buckets and Wine Coolers</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Ice Buckets and Wine Coolers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:63506</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177015</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ice Cube Trays and Molds</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Ice Cube Trays and Molds</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:177015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103429</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Liquor and Beer Dispensers</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Liquor and Beer Dispensers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:103429</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115712</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wine Bags Boxes and Carriers</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Wine Bags Boxes and Carriers</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:115712</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31591</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wine Glass Charms</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Wine Glass Charms</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:31591</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159901</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wine Glass Holders</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Wine Glass Holders</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:159901</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177750</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wine Fridges and Cellars</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Wine Fridges and Cellars</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:177750</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20689</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wine Racks and Bottle Holders</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Wine Racks and Bottle Holders</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:20689</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20690</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Bar Tools and Accessories</CategoryName>
+     <CategoryParentID>20687</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Bar Tools and Accessories:Other Bar Tools and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20687:20690</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

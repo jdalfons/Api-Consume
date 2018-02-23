@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:39:37.393Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184313</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vacuum Cleaners Parts and Accs</CategoryName>
+     <CategoryParentID>184312</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Floor and Upholstery Cleaning:Vacuum Cleaners Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184312:184313</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184314</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Backpack Vacuums</CategoryName>
+     <CategoryParentID>184313</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Floor and Upholstery Cleaning:Vacuum Cleaners Parts and Accs:Backpack Vacuums</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184312:184313:184314</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66961</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Canister and Wet/Dry Vacuums</CategoryName>
+     <CategoryParentID>184313</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Floor and Upholstery Cleaning:Vacuum Cleaners Parts and Accs:Canister and Wet/Dry Vacuums</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184312:184313:66961</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184316</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Handheld Vacuums</CategoryName>
+     <CategoryParentID>184313</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Floor and Upholstery Cleaning:Vacuum Cleaners Parts and Accs:Handheld Vacuums</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184312:184313:184316</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53286</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Upright and Wide Area Vacuums</CategoryName>
+     <CategoryParentID>184313</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Floor and Upholstery Cleaning:Vacuum Cleaners Parts and Accs:Upright and Wide Area Vacuums</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184312:184313:53286</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184317</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vacuum Cleaner Parts and Accs</CategoryName>
+     <CategoryParentID>184313</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Cleaning and Janitorial Supplies:Floor and Upholstery Cleaning:Vacuum Cleaners Parts and Accs:Vacuum Cleaner Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:46534:184312:184313:184317</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

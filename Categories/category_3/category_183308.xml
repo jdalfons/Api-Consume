@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:04:27.223Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183308</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Modeling</CategoryName>
+     <CategoryParentID>183302</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Modeling</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183308</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183309</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Armature Wire and Wire Form</CategoryName>
+     <CategoryParentID>183308</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Modeling:Armature Wire and Wire Form</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183308:183309</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134447</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clay Rollers and Brayers</CategoryName>
+     <CategoryParentID>183308</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Modeling:Clay Rollers and Brayers</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183308:134447</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183310</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modeling Clays and Materials</CategoryName>
+     <CategoryParentID>183308</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Modeling:Modeling Clays and Materials</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183308:183310</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183311</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Modeling Tools and Sets</CategoryName>
+     <CategoryParentID>183308</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Modeling:Modeling Tools and Sets</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183308:183311</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183312</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Modeling</CategoryName>
+     <CategoryParentID>183308</CategoryParentID>
+     <CategoryNamePath>Crafts:Sculpting Molding and Ceramics:Modeling:Other Modeling</CategoryNamePath>
+     <CategoryIDPath>14339:183302:183308:183312</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

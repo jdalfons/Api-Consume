@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:36:31.145Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181020</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Composting and Yard Waste</CategoryName>
+     <CategoryParentID>2032</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Composting and Yard Waste</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181020</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181021</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Compost Accelerators</CategoryName>
+     <CategoryParentID>181020</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Composting and Yard Waste:Compost Accelerators</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181020:181021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159427</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Compost Aerators</CategoryName>
+     <CategoryParentID>181020</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Composting and Yard Waste:Compost Aerators</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181020:159427</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181022</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Compost Worms</CategoryName>
+     <CategoryParentID>181020</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Composting and Yard Waste:Compost Worms</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181020:181022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181023</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Garden Compost Bins</CategoryName>
+     <CategoryParentID>181020</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Composting and Yard Waste:Garden Compost Bins</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181020:181023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181024</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Garden Waste Bags</CategoryName>
+     <CategoryParentID>181020</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Composting and Yard Waste:Garden Waste Bags</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181020:181024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181025</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Garden Waste Bins</CategoryName>
+     <CategoryParentID>181020</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Composting and Yard Waste:Garden Waste Bins</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181020:181025</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181026</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Composting and Yard Waste</CategoryName>
+     <CategoryParentID>181020</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Composting and Yard Waste:Other Composting and Yard Waste</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:181020:181026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

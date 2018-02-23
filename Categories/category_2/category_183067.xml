@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:20:14.079Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183067</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Virtual Reality</CategoryName>
+     <CategoryParentID>293</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Virtual Reality</CategoryNamePath>
+     <CategoryIDPath>293:183067</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183068</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>PC and Console VR Headsets</CategoryName>
+     <CategoryParentID>183067</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Virtual Reality:PC and Console VR Headsets</CategoryNamePath>
+     <CategoryIDPath>293:183067:183068</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183069</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Smartphone VR Headsets</CategoryName>
+     <CategoryParentID>183067</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Virtual Reality:Smartphone VR Headsets</CategoryNamePath>
+     <CategoryIDPath>293:183067:183069</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183070</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cases Covers and Skins</CategoryName>
+     <CategoryParentID>183067</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Virtual Reality:Cases Covers and Skins</CategoryNamePath>
+     <CategoryIDPath>293:183067:183070</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183071</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Controllers and Motion Sensors</CategoryName>
+     <CategoryParentID>183067</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Virtual Reality:Controllers and Motion Sensors</CategoryNamePath>
+     <CategoryIDPath>293:183067:183071</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183072</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parts</CategoryName>
+     <CategoryParentID>183067</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Virtual Reality:Parts</CategoryNamePath>
+     <CategoryIDPath>293:183067:183072</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183073</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Virtual Reality Accs</CategoryName>
+     <CategoryParentID>183067</CategoryParentID>
+     <CategoryNamePath>Consumer Electronics:Virtual Reality:Other Virtual Reality Accs</CategoryNamePath>
+     <CategoryIDPath>293:183067:183073</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

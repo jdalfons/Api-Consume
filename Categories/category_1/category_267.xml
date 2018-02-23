@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:11:07.082Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>267</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Books</CategoryNamePath>
+     <CategoryIDPath>267</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45110</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Accessories</CategoryNamePath>
+     <CategoryIDPath>267:45110</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29223</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Antiquarian and Collectible</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Antiquarian and Collectible</CategoryNamePath>
+     <CategoryIDPath>267:29223</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29792</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Audiobooks</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Audiobooks</CategoryNamePath>
+     <CategoryIDPath>267:29792</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118254</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Catalogs</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Catalogs</CategoryNamePath>
+     <CategoryIDPath>267:118254</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182882</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Children and Young Adults</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Children and Young Adults</CategoryNamePath>
+     <CategoryIDPath>267:182882</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11104</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Cookbooks</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Cookbooks</CategoryNamePath>
+     <CategoryIDPath>267:11104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171228</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fiction and Literature</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Fiction and Literature</CategoryNamePath>
+     <CategoryIDPath>267:171228</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>280</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Magazine Back Issues</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Magazine Back Issues</CategoryNamePath>
+     <CategoryIDPath>267:280</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171243</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Nonfiction</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Nonfiction</CategoryNamePath>
+     <CategoryIDPath>267:171243</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2228</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Textbooks Education</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Textbooks Education</CategoryNamePath>
+     <CategoryIDPath>267:2228</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29399</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale and Bulk Lots</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Wholesale and Bulk Lots</CategoryNamePath>
+     <CategoryIDPath>267:29399</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>268</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Other Books</CategoryName>
+     <CategoryParentID>267</CategoryParentID>
+     <CategoryNamePath>Books:Other Books</CategoryNamePath>
+     <CategoryIDPath>267:268</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

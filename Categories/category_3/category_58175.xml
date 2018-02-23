@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:38:51.895Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>58175</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stationary Engines</CategoryName>
+     <CategoryParentID>61573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Stationary Engines</CategoryNamePath>
+     <CategoryIDPath>12576:61573:58175</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63945</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Engines</CategoryName>
+     <CategoryParentID>58175</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Stationary Engines:Engines</CategoryNamePath>
+     <CategoryIDPath>12576:61573:58175:63945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63946</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals and Books</CategoryName>
+     <CategoryParentID>58175</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Stationary Engines:Manuals and Books</CategoryNamePath>
+     <CategoryIDPath>12576:61573:58175:63946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>97118</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts</CategoryName>
+     <CategoryParentID>58175</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Stationary Engines:Parts</CategoryNamePath>
+     <CategoryIDPath>12576:61573:58175:97118</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58177</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Stationary Engines</CategoryName>
+     <CategoryParentID>58175</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Stationary Engines:Other Stationary Engines</CategoryNamePath>
+     <CategoryIDPath>12576:61573:58175:58177</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

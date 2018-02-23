@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:46:35.220Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184192</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cranes and Hoists</CategoryName>
+     <CategoryParentID>109551</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Hoists Winches and Rigging:Cranes and Hoists</CategoryNamePath>
+     <CategoryIDPath>12576:26221:109551:184192</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184193</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bridge Cranes</CategoryName>
+     <CategoryParentID>184192</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Hoists Winches and Rigging:Cranes and Hoists:Bridge Cranes</CategoryNamePath>
+     <CategoryIDPath>12576:26221:109551:184192:184193</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184194</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Chain Hoists</CategoryName>
+     <CategoryParentID>184192</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Hoists Winches and Rigging:Cranes and Hoists:Chain Hoists</CategoryNamePath>
+     <CategoryIDPath>12576:26221:109551:184192:184194</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184195</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hoist Cranes</CategoryName>
+     <CategoryParentID>184192</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Hoists Winches and Rigging:Cranes and Hoists:Hoist Cranes</CategoryNamePath>
+     <CategoryIDPath>12576:26221:109551:184192:184195</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184196</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lever Hoists</CategoryName>
+     <CategoryParentID>184192</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Hoists Winches and Rigging:Cranes and Hoists:Lever Hoists</CategoryNamePath>
+     <CategoryIDPath>12576:26221:109551:184192:184196</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184197</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Rope Hoists</CategoryName>
+     <CategoryParentID>184192</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Hoists Winches and Rigging:Cranes and Hoists:Rope Hoists</CategoryNamePath>
+     <CategoryIDPath>12576:26221:109551:184192:184197</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184198</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stationary Boom and Jib Cranes</CategoryName>
+     <CategoryParentID>184192</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Hoists Winches and Rigging:Cranes and Hoists:Stationary Boom and Jib Cranes</CategoryNamePath>
+     <CategoryIDPath>12576:26221:109551:184192:184198</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184199</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Cranes and Hoists</CategoryName>
+     <CategoryParentID>184192</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Hoists Winches and Rigging:Cranes and Hoists:Other Cranes and Hoists</CategoryNamePath>
+     <CategoryIDPath>12576:26221:109551:184192:184199</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:46.001Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>95168</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Watches and Pocket Watches</CategoryName>
+     <CategoryParentID>1444</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Railroadiana and Trains:Watches and Pocket Watches</CategoryNamePath>
+     <CategoryIDPath>1:417:1444:95168</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

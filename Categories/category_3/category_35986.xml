@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:58:36.582Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35986</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shaving</CategoryName>
+     <CategoryParentID>597</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vanity Perfume and Shaving:Shaving</CategoryNamePath>
+     <CategoryIDPath>1:597:35986</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35987</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Electric Shavers</CategoryName>
+     <CategoryParentID>35986</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vanity Perfume and Shaving:Shaving:Electric Shavers</CategoryNamePath>
+     <CategoryIDPath>1:597:35986:35987</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35988</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mugs Brushes</CategoryName>
+     <CategoryParentID>35986</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vanity Perfume and Shaving:Shaving:Mugs Brushes</CategoryNamePath>
+     <CategoryIDPath>1:597:35986:35988</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35989</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Safety Razors</CategoryName>
+     <CategoryParentID>35986</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vanity Perfume and Shaving:Shaving:Safety Razors</CategoryNamePath>
+     <CategoryIDPath>1:597:35986:35989</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35990</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Straight Razors</CategoryName>
+     <CategoryParentID>35986</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vanity Perfume and Shaving:Shaving:Straight Razors</CategoryNamePath>
+     <CategoryIDPath>1:597:35986:35990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35991</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shaving Sets</CategoryName>
+     <CategoryParentID>35986</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vanity Perfume and Shaving:Shaving:Shaving Sets</CategoryNamePath>
+     <CategoryIDPath>1:597:35986:35991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35992</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Strops Sharpeners</CategoryName>
+     <CategoryParentID>35986</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vanity Perfume and Shaving:Shaving:Strops Sharpeners</CategoryNamePath>
+     <CategoryIDPath>1:597:35986:35992</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>887</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Shaving Collectibles</CategoryName>
+     <CategoryParentID>35986</CategoryParentID>
+     <CategoryNamePath>Collectibles:Vanity Perfume and Shaving:Shaving:Other Shaving Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:597:35986:887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:39.862Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>28059</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cardio Equipment</CategoryName>
+     <CategoryParentID>15273</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72602</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ellipticals</CategoryName>
+     <CategoryParentID>28059</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment:Ellipticals</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059:72602</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58102</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Exercise Bikes</CategoryName>
+     <CategoryParentID>28059</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment:Exercise Bikes</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059:58102</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58105</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gliders</CategoryName>
+     <CategoryParentID>28059</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment:Gliders</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059:58105</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28060</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rowing Machines</CategoryName>
+     <CategoryParentID>28059</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment:Rowing Machines</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059:28060</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28061</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ski Machines</CategoryName>
+     <CategoryParentID>28059</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment:Ski Machines</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059:28061</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28062</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stair Machines and Steppers</CategoryName>
+     <CategoryParentID>28059</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment:Stair Machines and Steppers</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059:28062</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15280</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Treadmills</CategoryName>
+     <CategoryParentID>28059</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment:Treadmills</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059:15280</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171593</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vibration Platform Machines</CategoryName>
+     <CategoryParentID>28059</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment:Vibration Platform Machines</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059:171593</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179797</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Machine Parts and Accessories</CategoryName>
+     <CategoryParentID>28059</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment:Machine Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059:179797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28063</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Cardio Equipment</CategoryName>
+     <CategoryParentID>28059</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fitness Running and Yoga:Cardio Equipment:Other Cardio Equipment</CategoryNamePath>
+     <CategoryIDPath>888:15273:28059:28063</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

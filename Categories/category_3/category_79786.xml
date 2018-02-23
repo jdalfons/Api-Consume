@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:01.548Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>79786</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Backyard Games</CategoryName>
+     <CategoryParentID>159043</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Backyard Games</CategoryNamePath>
+     <CategoryIDPath>888:159043:79786</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79788</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bocce Ball</CategoryName>
+     <CategoryParentID>79786</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Backyard Games:Bocce Ball</CategoryNamePath>
+     <CategoryIDPath>888:159043:79786:79788</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79791</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cornhole Bag Toss</CategoryName>
+     <CategoryParentID>79786</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Backyard Games:Cornhole Bag Toss</CategoryNamePath>
+     <CategoryIDPath>888:159043:79786:79791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117210</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Croquet</CategoryName>
+     <CategoryParentID>79786</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Backyard Games:Croquet</CategoryNamePath>
+     <CategoryIDPath>888:159043:79786:117210</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79790</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Horseshoes</CategoryName>
+     <CategoryParentID>79786</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Backyard Games:Horseshoes</CategoryNamePath>
+     <CategoryIDPath>888:159043:79786:79790</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159080</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tetherball</CategoryName>
+     <CategoryParentID>79786</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Backyard Games:Tetherball</CategoryNamePath>
+     <CategoryIDPath>888:159043:79786:159080</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159081</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Backyard Games</CategoryName>
+     <CategoryParentID>79786</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Backyard Games:Other Backyard Games</CategoryNamePath>
+     <CategoryIDPath>888:159043:79786:159081</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

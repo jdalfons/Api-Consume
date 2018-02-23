@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:07:55.895Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>176992</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sexual Wellness</CategoryName>
+     <CategoryParentID>67588</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176993</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Body Enhancing Devices</CategoryName>
+     <CategoryParentID>176992</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness:Body Enhancing Devices</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992:176993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176994</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Condoms and Contraceptives</CategoryName>
+     <CategoryParentID>176992</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness:Condoms and Contraceptives</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992:176994</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30118</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fertility Monitors and OPKs</CategoryName>
+     <CategoryParentID>176992</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness:Fertility Monitors and OPKs</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992:30118</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176995</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lubricants and Lotions</CategoryName>
+     <CategoryParentID>176992</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness:Lubricants and Lotions</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992:176995</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36437</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pregnancy Tests</CategoryName>
+     <CategoryParentID>176992</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness:Pregnancy Tests</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992:36437</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176996</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fantasy Fetish and Accessories</CategoryName>
+     <CategoryParentID>176992</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness:Fantasy Fetish and Accessories</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992:176996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176997</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sex Toys</CategoryName>
+     <CategoryParentID>176992</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness:Sex Toys</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992:176997</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176998</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sexual Remedies and Supplements</CategoryName>
+     <CategoryParentID>176992</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness:Sexual Remedies and Supplements</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992:176998</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>176999</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Sexual Wellness</CategoryName>
+     <CategoryParentID>176992</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Health Care:Sexual Wellness:Other Sexual Wellness</CategoryNamePath>
+     <CategoryIDPath>26395:67588:176992:176999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

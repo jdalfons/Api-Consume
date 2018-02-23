@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:03:39.738Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183205</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Macramé</CategoryName>
+     <CategoryParentID>160706</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Macramé</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183205</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183700</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Macramé Kits</CategoryName>
+     <CategoryParentID>183205</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Macramé:Macramé Kits</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183205:183700</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183701</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Macramé Tools and Accs</CategoryName>
+     <CategoryParentID>183205</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Macramé:Macramé Tools and Accs</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183205:183701</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183208</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Patterns and Instructional Media</CategoryName>
+     <CategoryParentID>183205</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Macramé:Patterns and Instructional Media</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183205:183208</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28151</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Macramé</CategoryName>
+     <CategoryParentID>183205</CategoryParentID>
+     <CategoryNamePath>Crafts:Needlecrafts and Yarn:Macramé:Other Macramé</CategoryNamePath>
+     <CategoryIDPath>14339:160706:183205:28151</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:28:42.985Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104949</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists M</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29877</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Madonna</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Madonna</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:29877</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164056</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Manilow Barry</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Manilow Barry</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164057</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mastodon</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Mastodon</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164057</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164058</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mars Volta</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Mars Volta</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164058</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85999</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Marilyn Manson</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Marilyn Manson</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:85999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104951</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Maroon 5</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Maroon 5</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:104951</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85956</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Matchbox 20</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Matchbox 20</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:85956</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85959</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mayer John</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Mayer John</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:85959</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85941</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>McBride Martina</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:McBride Martina</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:85941</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164059</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>McCartney Paul</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:McCartney Paul</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164059</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164060</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Meat Loaf</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Meat Loaf</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164060</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164061</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Megadeth</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Megadeth</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164061</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164062</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Melvins</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Melvins</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164062</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104952</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metallica</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Metallica</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:104952</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108825</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Michael George</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Michael George</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:108825</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108826</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Minogue Kylie</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Minogue Kylie</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:108826</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104962</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Misfits</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Misfits</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:104962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164050</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Modest Mouse</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Modest Mouse</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164050</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164051</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Monkees</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Monkees</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>33013</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Moody Blues</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Moody Blues</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:33013</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85948</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Moore Mandy</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Moore Mandy</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:85948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104670</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Morissette Alanis</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Morissette Alanis</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:104670</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105063</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Morrison Van</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Morrison Van</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:105063</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164063</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Morrissey</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Morrissey</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164063</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104963</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mötley Crüe</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Mötley Crüe</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:104963</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164052</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Motörhead</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Motörhead</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164052</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164053</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mudvayne</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Mudvayne</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164054</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>My Chemical Romance</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:My Chemical Romance</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164055</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>My Morning Jacket</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:My Morning Jacket</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:164055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104950</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists M</CategoryName>
+     <CategoryParentID>104949</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists M:Other Rock and Pop Artists M</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104949:104950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>31</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

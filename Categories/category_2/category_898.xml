@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:17:38.348Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>898</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Casino</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino</CategoryNamePath>
+     <CategoryIDPath>1:898</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10908</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cards</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Cards</CategoryNamePath>
+     <CategoryIDPath>1:898:10908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63747</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Card Dealer Shoe</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Card Dealer Shoe</CategoryNamePath>
+     <CategoryIDPath>1:898:63747</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150118</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Card Guards</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Card Guards</CategoryNamePath>
+     <CategoryIDPath>1:898:150118</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63748</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Card Shuffler</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Card Shuffler</CategoryNamePath>
+     <CategoryIDPath>1:898:63748</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66504</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Casino Memorabilia</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Casino Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:898:66504</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35743</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Chips</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Chips</CategoryNamePath>
+     <CategoryIDPath>1:898:35743</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63761</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dealer Buttons</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Dealer Buttons</CategoryNamePath>
+     <CategoryIDPath>1:898:63761</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10909</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dice</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Dice</CategoryNamePath>
+     <CategoryIDPath>1:898:10909</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73488</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Manuals Strategy</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Manuals Strategy</CategoryNamePath>
+     <CategoryIDPath>1:898:73488</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73489</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Roulette Wheels Sets</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Roulette Wheels Sets</CategoryNamePath>
+     <CategoryIDPath>1:898:73489</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63763</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Slot Cards</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Slot Cards</CategoryNamePath>
+     <CategoryIDPath>1:898:63763</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13728</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Slots</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Slots</CategoryNamePath>
+     <CategoryIDPath>1:898:13728</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3443</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Strikes</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Strikes</CategoryNamePath>
+     <CategoryIDPath>1:898:3443</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35749</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tables Layouts</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Tables Layouts</CategoryNamePath>
+     <CategoryIDPath>1:898:35749</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3512</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Tokens</CategoryNamePath>
+     <CategoryIDPath>1:898:3512</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3949</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trade Stimulators</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Trade Stimulators</CategoryNamePath>
+     <CategoryIDPath>1:898:3949</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>573</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Casino Collectibles</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Other Casino Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:898:573</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

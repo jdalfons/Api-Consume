@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:29.377Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>50203</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Office Equipment</CategoryName>
+     <CategoryParentID>25298</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25301</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Copiers</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Copiers</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:25301</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62034</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dictation and Stenography</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Dictation and Stenography</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:62034</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25307</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fax Machines</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Fax Machines</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:25307</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25347</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Label Making</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Label Making</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:25347</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61771</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Laminating</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Laminating</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:61771</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67095</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shredders</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Shredders</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:67095</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117525</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Time Clocks</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Time Clocks</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:117525</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25326</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Typewriters and Word Processors</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Typewriters and Word Processors</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:25326</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159711</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Office Equipment</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Other Office Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:159711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

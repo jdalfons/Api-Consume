@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:34:05.940Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>166827</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sex Accessories</CategoryName>
+     <CategoryParentID>319</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories</CategoryNamePath>
+     <CategoryIDPath>99:319:166827</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166828</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Condoms</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Condoms</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:166828</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166829</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Furniture and Props</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Furniture and Props</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:166829</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166830</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Games</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Games</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:166830</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166831</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kits</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Kits</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:166831</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166832</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lotions</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Lotions</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:166832</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166833</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Massage Oils</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Massage Oils</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:166833</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4833</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Novelties</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Novelties</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:4833</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166834</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Oral Sex Accessories</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Oral Sex Accessories</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:166834</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166835</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sex Lubes</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Sex Lubes</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:166835</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166836</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Sex Accessories</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Other Sex Accessories</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:166836</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166837</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>166827</CategoryParentID>
+     <CategoryNamePath>Everything Else:Adult Only:Sex Accessories:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>99:319:166827:166837</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

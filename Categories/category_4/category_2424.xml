@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:25:38.235Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2424</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ideal</CategoryName>
+     <CategoryParentID>15987</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160855</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Betsy Wetsy</CategoryName>
+     <CategoryParentID>2424</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal:Betsy Wetsy</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424:160855</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2430</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Crissy Family</CategoryName>
+     <CategoryParentID>2424</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal:Crissy Family</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424:2430</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2428</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Playpals</CategoryName>
+     <CategoryParentID>2424</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal:Playpals</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424:2428</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2429</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Revlon</CategoryName>
+     <CategoryParentID>2424</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal:Revlon</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424:2429</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160856</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Saucy Walker</CategoryName>
+     <CategoryParentID>2424</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal:Saucy Walker</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424:160856</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2426</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Shirley Temple</CategoryName>
+     <CategoryParentID>2424</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal:Shirley Temple</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424:2426</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11693</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tammy Family</CategoryName>
+     <CategoryParentID>2424</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal:Tammy Family</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424:11693</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15992</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thumbelina</CategoryName>
+     <CategoryParentID>2424</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal:Thumbelina</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424:15992</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2425</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Toni</CategoryName>
+     <CategoryParentID>2424</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal:Toni</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424:2425</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>334</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Ideal Dolls</CategoryName>
+     <CategoryParentID>2424</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:By Brand Company Character:Ideal:Other Ideal Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:15987:2424:334</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

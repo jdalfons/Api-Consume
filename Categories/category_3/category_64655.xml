@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:16.298Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>64655</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Go-Karts (Recreational)</CategoryName>
+     <CategoryParentID>159043</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Go-Karts (Recreational)</CategoryNamePath>
+     <CategoryIDPath>888:159043:64655</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159029</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing and Protective Gear</CategoryName>
+     <CategoryParentID>64655</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Go-Karts (Recreational):Clothing and Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:159043:64655:159029</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64656</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete Go-Karts and Frames</CategoryName>
+     <CategoryParentID>64655</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Go-Karts (Recreational):Complete Go-Karts and Frames</CategoryNamePath>
+     <CategoryIDPath>888:159043:64655:64656</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64657</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parts and Accessories</CategoryName>
+     <CategoryParentID>64655</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Go-Karts (Recreational):Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:64655:64657</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40152</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Go-Karts (Recreational)</CategoryName>
+     <CategoryParentID>64655</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Go-Karts (Recreational):Other Go-Karts (Recreational)</CategoryNamePath>
+     <CategoryIDPath>888:159043:64655:40152</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

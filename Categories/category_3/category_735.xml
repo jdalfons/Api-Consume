@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:33:24.924Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>735</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tin</CategoryName>
+     <CategoryParentID>717</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Tin</CategoryNamePath>
+     <CategoryIDPath>220:717:735</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2647</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Character</CategoryName>
+     <CategoryParentID>735</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Tin:Character</CategoryNamePath>
+     <CategoryIDPath>220:717:735:2647</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2648</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproductions</CategoryName>
+     <CategoryParentID>735</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Tin:Reproductions</CategoryNamePath>
+     <CategoryIDPath>220:717:735:2648</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158799</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vehicles</CategoryName>
+     <CategoryParentID>735</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Tin:Vehicles</CategoryNamePath>
+     <CategoryIDPath>220:717:735:158799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>736</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Tin Toys</CategoryName>
+     <CategoryParentID>735</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Vintage and Antique Toys:Tin:Other Vintage Tin Toys</CategoryNamePath>
+     <CategoryIDPath>220:717:735:736</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

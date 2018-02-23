@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:20:42.237Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179775</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Protective Gear</CategoryName>
+     <CategoryParentID>179767</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:179767:179775</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179776</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Chest Guards</CategoryName>
+     <CategoryParentID>179775</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Protective Gear:Chest Guards</CategoryNamePath>
+     <CategoryIDPath>888:179767:179775:179776</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179777</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Elbow Knee and Ankle Guards</CategoryName>
+     <CategoryParentID>179775</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Protective Gear:Elbow Knee and Ankle Guards</CategoryNamePath>
+     <CategoryIDPath>888:179767:179775:179777</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179778</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Groin Protectors</CategoryName>
+     <CategoryParentID>179775</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Protective Gear:Groin Protectors</CategoryNamePath>
+     <CategoryIDPath>888:179767:179775:179778</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179779</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Wraps</CategoryName>
+     <CategoryParentID>179775</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Protective Gear:Hand Wraps</CategoryNamePath>
+     <CategoryIDPath>888:179767:179775:179779</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179780</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Head Gear</CategoryName>
+     <CategoryParentID>179775</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Protective Gear:Head Gear</CategoryNamePath>
+     <CategoryIDPath>888:179767:179775:179780</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179781</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mouth Guards</CategoryName>
+     <CategoryParentID>179775</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Protective Gear:Mouth Guards</CategoryNamePath>
+     <CategoryIDPath>888:179767:179775:179781</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179782</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shin Guards</CategoryName>
+     <CategoryParentID>179775</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Protective Gear:Shin Guards</CategoryNamePath>
+     <CategoryIDPath>888:179767:179775:179782</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179783</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Combat Sport Protection</CategoryName>
+     <CategoryParentID>179775</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Boxing Martial Arts and MMA:Protective Gear:Other Combat Sport Protection</CategoryNamePath>
+     <CategoryIDPath>888:179767:179775:179783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:38:49.893Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>46585</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Saws</CategoryName>
+     <CategoryParentID>61573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Saws</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46585</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20797</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blades</CategoryName>
+     <CategoryParentID>46585</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Saws:Blades</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46585:20797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46586</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Circular Saws</CategoryName>
+     <CategoryParentID>46585</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Saws:Circular Saws</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46585:46586</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104219</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Concrete Cut-Off Saws</CategoryName>
+     <CategoryParentID>46585</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Saws:Concrete Cut-Off Saws</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46585:104219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46588</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Masonry and Tile Saws</CategoryName>
+     <CategoryParentID>46585</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Saws:Masonry and Tile Saws</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46585:46588</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58158</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Miter Saws - Professional</CategoryName>
+     <CategoryParentID>46585</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Saws:Miter Saws - Professional</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46585:58158</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55812</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reciprocating - Professional</CategoryName>
+     <CategoryParentID>46585</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Saws:Reciprocating - Professional</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46585:55812</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42296</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Light Industrial Saws</CategoryName>
+     <CategoryParentID>46585</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Saws:Other Light Industrial Saws</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46585:42296</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

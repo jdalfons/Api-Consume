@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:48:50.313Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>25385</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tabletop</CategoryName>
+     <CategoryParentID>25381</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Tabletop</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:25385</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11887</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dinnerware</CategoryName>
+     <CategoryParentID>25385</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Tabletop:Dinnerware</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:25385:11887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25382</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Disposables</CategoryName>
+     <CategoryParentID>25385</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Tabletop:Disposables</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:25385:25382</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11879</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Flatware</CategoryName>
+     <CategoryParentID>25385</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Tabletop:Flatware</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:25385:11879</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11884</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Glassware</CategoryName>
+     <CategoryParentID>25385</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Tabletop:Glassware</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:25385:11884</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25386</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Linens</CategoryName>
+     <CategoryParentID>25385</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Tabletop:Linens</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:25385:25386</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25387</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tabletop Accessories</CategoryName>
+     <CategoryParentID>25385</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Tabletop:Tabletop Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:25385:25387</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25388</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Buffet Table Supplies</CategoryName>
+     <CategoryParentID>25385</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Tabletop and Serving:Tabletop:Other Buffet Table Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25381:25385:25388</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

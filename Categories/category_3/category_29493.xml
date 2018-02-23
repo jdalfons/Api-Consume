@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:56:57.704Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>29493</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Star Trek</CategoryName>
+     <CategoryParentID>152</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek</CategoryNamePath>
+     <CategoryIDPath>1:152:29493</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37881</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Original Series</CategoryName>
+     <CategoryParentID>29493</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Original Series</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:37881</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37882</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Next Generation</CategoryName>
+     <CategoryParentID>29493</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Next Generation</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:37882</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37883</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Deep Space Nine</CategoryName>
+     <CategoryParentID>29493</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Deep Space Nine</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:37883</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37884</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Voyager</CategoryName>
+     <CategoryParentID>29493</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Voyager</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:37884</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73551</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Enterprise</CategoryName>
+     <CategoryParentID>29493</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Enterprise</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:73551</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37885</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Movies</CategoryName>
+     <CategoryParentID>29493</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Movies</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:37885</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37886</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Animated Adventures</CategoryName>
+     <CategoryParentID>29493</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Animated Adventures</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:37886</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74713</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Characters</CategoryName>
+     <CategoryParentID>29493</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Characters</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:74713</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Star Trek Collectibles</CategoryName>
+     <CategoryParentID>29493</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Other Star Trek Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:155</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

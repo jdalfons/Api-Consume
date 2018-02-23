@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:28:25.282Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>104743</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists G</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164025</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gabriel Peter</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Gabriel Peter</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:164025</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85979</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Garbage</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Garbage</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:85979</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83185</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Genesis</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Genesis</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:83185</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85980</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Godsmack</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Godsmack</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:85980</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>85981</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Goo Goo Dolls</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Goo Goo Dolls</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:85981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104745</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Good Charlotte</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Good Charlotte</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:104745</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164023</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gorillaz</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Gorillaz</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:164023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104678</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Graham Bill</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Graham Bill</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:104678</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29904</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Grateful Dead</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Grateful Dead</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:29904</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104747</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Green Day</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Green Day</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:104747</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164024</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Groban Josh</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Groban Josh</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:164024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104751</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Guns N&apos; Roses</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Guns N&apos; Roses</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:104751</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104744</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists G</CategoryName>
+     <CategoryParentID>104743</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists G:Other Rock and Pop Artists G</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:104743:104744</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:49:52.924Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3860</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Continuous Lighting</CategoryName>
+     <CategoryParentID>19590</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Lighting and Studio:Continuous Lighting:Other Continuous Lighting</CategoryNamePath>
+     <CategoryIDPath>625:30078:19590:3860</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:30:06.252Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>43845</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vehicle Banks</CategoryName>
+     <CategoryParentID>222</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Vehicle Banks</CategoryNamePath>
+     <CategoryIDPath>220:222:43845</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2498</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Contemporary Manufacture</CategoryName>
+     <CategoryParentID>43845</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Vehicle Banks:Contemporary Manufacture</CategoryNamePath>
+     <CategoryIDPath>220:222:43845:2498</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43846</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Manufacture</CategoryName>
+     <CategoryParentID>43845</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Diecast and Toy Vehicles:Vehicle Banks:Vintage Manufacture</CategoryNamePath>
+     <CategoryIDPath>220:222:43845:43846</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

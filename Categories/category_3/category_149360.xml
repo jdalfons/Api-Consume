@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:50:57.785Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>149360</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>African</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:African</CategoryNamePath>
+     <CategoryIDPath>1:3913:149360</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156285</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1600</CategoryName>
+     <CategoryParentID>149360</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:African:Pre-1600</CategoryNamePath>
+     <CategoryIDPath>1:3913:149360:156285</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149361</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1600-1900</CategoryName>
+     <CategoryParentID>149360</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:African:1600-1900</CategoryNamePath>
+     <CategoryIDPath>1:3913:149360:149361</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29439</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1900-Now</CategoryName>
+     <CategoryParentID>149360</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:African:1900-Now</CategoryNamePath>
+     <CategoryIDPath>1:3913:149360:29439</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

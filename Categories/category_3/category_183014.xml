@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:34.660Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183014</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mars Attacks!</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Mars Attacks!</CategoryNamePath>
+     <CategoryIDPath>1:182982:183014</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60226</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Singles</CategoryName>
+     <CategoryParentID>183014</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Mars Attacks!:Trading Card Singles</CategoryNamePath>
+     <CategoryIDPath>1:182982:183014:60226</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183015</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Lots</CategoryName>
+     <CategoryParentID>183014</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Mars Attacks!:Trading Card Lots</CategoryNamePath>
+     <CategoryIDPath>1:182982:183014:183015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183016</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete Trading Card Sets</CategoryName>
+     <CategoryParentID>183014</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Mars Attacks!:Complete Trading Card Sets</CategoryNamePath>
+     <CategoryIDPath>1:182982:183014:183016</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183017</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sealed Trading Cards</CategoryName>
+     <CategoryParentID>183014</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Mars Attacks!:Sealed Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183014:183017</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183018</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mars Attacks! Merchandise</CategoryName>
+     <CategoryParentID>183014</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:Mars Attacks!:Mars Attacks! Merchandise</CategoryNamePath>
+     <CategoryIDPath>1:182982:183014:183018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

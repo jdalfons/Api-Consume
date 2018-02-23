@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:38:30.267Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>46573</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Air Tools</CategoryName>
+     <CategoryParentID>61573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Air Tools</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46573</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58152</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Nailers</CategoryName>
+     <CategoryParentID>46573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Air Tools:Air Nailers</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46573:58152</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46575</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Tool Accessories</CategoryName>
+     <CategoryParentID>46573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Air Tools:Air Tool Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46573:46575</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109560</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Drills</CategoryName>
+     <CategoryParentID>46573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Air Tools:Drills</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46573:109560</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109561</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Grinders</CategoryName>
+     <CategoryParentID>46573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Air Tools:Grinders</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46573:109561</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73110</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Impact Wrenches</CategoryName>
+     <CategoryParentID>46573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Air Tools:Impact Wrenches</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46573:73110</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109562</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Riveters</CategoryName>
+     <CategoryParentID>46573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Air Tools:Riveters</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46573:109562</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46574</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Staplers</CategoryName>
+     <CategoryParentID>46573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Air Tools:Staplers</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46573:46574</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109563</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wrenches</CategoryName>
+     <CategoryParentID>46573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Air Tools:Wrenches</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46573:109563</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>55809</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Air Tools</CategoryName>
+     <CategoryParentID>46573</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Light Equipment and Tools:Air Tools:Other Air Tools</CategoryNamePath>
+     <CategoryIDPath>12576:61573:46573:55809</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

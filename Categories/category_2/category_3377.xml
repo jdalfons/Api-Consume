@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:16:41.051Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3377</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Coins: Canada</CategoryName>
+     <CategoryParentID>11116</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada</CategoryNamePath>
+     <CategoryIDPath>11116:3377</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3389</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Small Cents</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Small Cents</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3389</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3388</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Large Cents</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Large Cents</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3388</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173610</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Five Cents (1858-1921)</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Five Cents (1858-1921)</CategoryNamePath>
+     <CategoryIDPath>11116:3377:173610</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3387</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Five Cents (1922-Now)</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Five Cents (1922-Now)</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3387</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3386</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ten Cents</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Ten Cents</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3386</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149938</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Twenty Cents</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Twenty Cents</CategoryNamePath>
+     <CategoryIDPath>11116:3377:149938</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3385</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Twenty-Five Cents</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Twenty-Five Cents</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3385</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3384</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fifty Cents</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Fifty Cents</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3384</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3383</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dollars</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Dollars</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3383</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3382</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Two Dollars (Toonies)</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Two Dollars (Toonies)</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3382</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3379</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Commemorative</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Commemorative</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3379</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173611</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mint Sets</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Mint Sets</CategoryNamePath>
+     <CategoryIDPath>11116:3377:173611</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149939</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pre-Confederation</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Pre-Confederation</CategoryNamePath>
+     <CategoryIDPath>11116:3377:149939</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3380</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Proof/Prooflike Sets</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Proof/Prooflike Sets</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3380</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149940</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tokens (1820-1860)</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Tokens (1820-1860)</CategoryNamePath>
+     <CategoryIDPath>11116:3377:149940</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3378</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collections Lots</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Collections Lots</CategoryNamePath>
+     <CategoryIDPath>11116:3377:3378</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>536</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Canadian Coins</CategoryName>
+     <CategoryParentID>3377</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: Canada:Other Canadian Coins</CategoryNamePath>
+     <CategoryIDPath>11116:3377:536</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>18</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

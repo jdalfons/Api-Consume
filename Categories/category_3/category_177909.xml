@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:13.313Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177909</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blinds and Treestands</CategoryName>
+     <CategoryParentID>7301</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Blinds and Treestands</CategoryNamePath>
+     <CategoryIDPath>888:7301:177909</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177910</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blinds</CategoryName>
+     <CategoryParentID>177909</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Blinds and Treestands:Blinds</CategoryNamePath>
+     <CategoryIDPath>888:7301:177909:177910</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177911</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Camouflage Materials</CategoryName>
+     <CategoryParentID>177909</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Blinds and Treestands:Camouflage Materials</CategoryNamePath>
+     <CategoryIDPath>888:7301:177909:177911</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52507</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seats and Chairs</CategoryName>
+     <CategoryParentID>177909</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Blinds and Treestands:Seats and Chairs</CategoryNamePath>
+     <CategoryIDPath>888:7301:177909:52507</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52508</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tree Stands</CategoryName>
+     <CategoryParentID>177909</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Blinds and Treestands:Tree Stands</CategoryNamePath>
+     <CategoryIDPath>888:7301:177909:52508</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177912</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blind and Tree Stand Accessories</CategoryName>
+     <CategoryParentID>177909</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Blinds and Treestands:Blind and Tree Stand Accessories</CategoryNamePath>
+     <CategoryIDPath>888:7301:177909:177912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:15:52.345Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>500</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Costume</CategoryName>
+     <CategoryParentID>48579</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume</CategoryNamePath>
+     <CategoryIDPath>281:48579:500</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58558</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Georgian Pre-1837</CategoryName>
+     <CategoryParentID>500</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume:Georgian Pre-1837</CategoryNamePath>
+     <CategoryIDPath>281:48579:500:58558</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58561</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Victorian Edwardian 1837-1910</CategoryName>
+     <CategoryParentID>500</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume:Victorian Edwardian 1837-1910</CategoryNamePath>
+     <CategoryIDPath>281:48579:500:58561</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58560</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Art Nouveau/Art Deco 1895-1935</CategoryName>
+     <CategoryParentID>500</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume:Art Nouveau/Art Deco 1895-1935</CategoryNamePath>
+     <CategoryIDPath>281:48579:500:58560</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58559</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Retro Vintage 1930s-1980s</CategoryName>
+     <CategoryParentID>500</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume:Retro Vintage 1930s-1980s</CategoryNamePath>
+     <CategoryIDPath>281:48579:500:58559</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165878</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bakelite Vintage Plastics</CategoryName>
+     <CategoryParentID>500</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume:Bakelite Vintage Plastics</CategoryNamePath>
+     <CategoryIDPath>281:48579:500:165878</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165890</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Designer Signed</CategoryName>
+     <CategoryParentID>500</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume:Designer Signed</CategoryNamePath>
+     <CategoryIDPath>281:48579:500:165890</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165921</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Men&apos;s Vintage Costume Jewelry</CategoryName>
+     <CategoryParentID>500</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume:Men&apos;s Vintage Costume Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:48579:500:165921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165922</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown Period</CategoryName>
+     <CategoryParentID>500</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume:Unknown Period</CategoryNamePath>
+     <CategoryIDPath>281:48579:500:165922</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>289</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Costume Jewelry</CategoryName>
+     <CategoryParentID>500</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Vintage and Antique Jewelry:Costume:Other Vintage Costume Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:48579:500:289</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

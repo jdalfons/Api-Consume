@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:36.690Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>31710</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scopes Optics and Lasers</CategoryName>
+     <CategoryParentID>7301</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31711</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hunting Binoculars</CategoryName>
+     <CategoryParentID>31710</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers:Hunting Binoculars</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710:31711</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106974</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lights and Lasers</CategoryName>
+     <CategoryParentID>31710</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers:Lights and Lasers</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710:106974</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40970</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Night Vision Optics</CategoryName>
+     <CategoryParentID>31710</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers:Night Vision Optics</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710:40970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66828</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pistol Scopes</CategoryName>
+     <CategoryParentID>31710</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers:Pistol Scopes</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710:66828</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31712</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Range Finders</CategoryName>
+     <CategoryParentID>31710</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers:Range Finders</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710:31712</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66827</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Red Dot and Laser Scopes</CategoryName>
+     <CategoryParentID>31710</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers:Red Dot and Laser Scopes</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710:66827</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31714</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rifle Scopes</CategoryName>
+     <CategoryParentID>31710</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers:Rifle Scopes</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710:31714</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52510</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scope Mounts and Accessories</CategoryName>
+     <CategoryParentID>31710</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers:Scope Mounts and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710:52510</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31715</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spotting Scopes</CategoryName>
+     <CategoryParentID>31710</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers:Spotting Scopes</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710:31715</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7307</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Hunting Scopes and Optics</CategoryName>
+     <CategoryParentID>31710</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Hunting:Scopes Optics and Lasers:Other Hunting Scopes and Optics</CategoryNamePath>
+     <CategoryIDPath>888:7301:31710:7307</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

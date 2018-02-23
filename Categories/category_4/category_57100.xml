@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:48:36.346Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>57100</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Storage and Handling Equipment</CategoryName>
+     <CategoryParentID>25367</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Storage and Handling Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57100</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57102</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Food Storage Containers</CategoryName>
+     <CategoryParentID>57100</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Storage and Handling Equipment:Food Storage Containers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57100:57102</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67148</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Heating and Holding Cabinets</CategoryName>
+     <CategoryParentID>57100</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Storage and Handling Equipment:Heating and Holding Cabinets</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57100:67148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95079</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pizza Delivery Bags</CategoryName>
+     <CategoryParentID>57100</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Storage and Handling Equipment:Pizza Delivery Bags</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57100:95079</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71419</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Shelving and Racks</CategoryName>
+     <CategoryParentID>57100</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Storage and Handling Equipment:Shelving and Racks</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57100:71419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57104</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Storage and Handling Equip</CategoryName>
+     <CategoryParentID>57100</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Storage and Handling Equipment:Other Storage and Handling Equip</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:57100:57104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

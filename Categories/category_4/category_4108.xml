@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:08:50.126Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4108</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>International</CategoryName>
+     <CategoryParentID>13897</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:International</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4108</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4114</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Europe</CategoryName>
+     <CategoryParentID>4108</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:International:Europe</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4108:4114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>12517</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Russia</CategoryName>
+     <CategoryParentID>4108</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:International:Russia</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4108:12517</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4107</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Countries</CategoryName>
+     <CategoryParentID>4108</CategoryParentID>
+     <CategoryNamePath>Collectibles:Historical Memorabilia:Political:International:Other Countries</CategoryNamePath>
+     <CategoryIDPath>1:13877:13897:4108:4107</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

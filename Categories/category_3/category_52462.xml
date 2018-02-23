@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:06:36.955Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>52462</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blues</CategoryName>
+     <CategoryParentID>2329</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Blues</CategoryNamePath>
+     <CategoryIDPath>45100:2329:52462</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168114</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Apparel</CategoryName>
+     <CategoryParentID>52462</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Blues:Apparel</CategoryNamePath>
+     <CategoryIDPath>45100:2329:52462:168114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163950</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Concert Memorabilia</CategoryName>
+     <CategoryParentID>52462</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Blues:Concert Memorabilia</CategoryNamePath>
+     <CategoryIDPath>45100:2329:52462:163950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168115</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Guitar Picks</CategoryName>
+     <CategoryParentID>52462</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Blues:Guitar Picks</CategoryNamePath>
+     <CategoryIDPath>45100:2329:52462:168115</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163951</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>52462</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Blues:Photographs</CategoryNamePath>
+     <CategoryIDPath>45100:2329:52462:163951</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163952</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Posters</CategoryName>
+     <CategoryParentID>52462</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Blues:Posters</CategoryNamePath>
+     <CategoryIDPath>45100:2329:52462:163952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108728</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Blues Memorabilia</CategoryName>
+     <CategoryParentID>52462</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Blues:Other Blues Memorabilia</CategoryNamePath>
+     <CategoryIDPath>45100:2329:52462:108728</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

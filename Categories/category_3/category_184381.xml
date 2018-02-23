@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:22.501Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184381</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Paintball</CategoryName>
+     <CategoryParentID>159043</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36286</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Systems and Accessories</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Air Systems and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:36286</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16046</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Barrels</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Barrels</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:16046</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184382</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing and Protective Gear</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Clothing and Protective Gear</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:184382</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64672</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Equipment Bags and Cases</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Equipment Bags and Cases</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:64672</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16047</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Harnesses and Pods</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Harnesses and Pods</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:16047</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165941</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hoppers and Loaders</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Hoppers and Loaders</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:165941</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47248</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Marker Packages</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Marker Packages</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:47248</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47235</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Marker Parts and Accessories</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Marker Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:47235</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16048</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paintball Markers</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Paintball Markers</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:16048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16049</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paintballs</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Paintballs</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:16049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117145</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tickets</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Tickets</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:117145</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10554</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Paintball</CategoryName>
+     <CategoryParentID>184381</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Paintball:Other Paintball</CategoryNamePath>
+     <CategoryIDPath>888:159043:184381:10554</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:16:06.329Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>173697</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Nurse Watches</CategoryName>
+     <CategoryParentID>14324</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Watches Parts and Accessories:Nurse Watches</CategoryNamePath>
+     <CategoryIDPath>281:14324:173697</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

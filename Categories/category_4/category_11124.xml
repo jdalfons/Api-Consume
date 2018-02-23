@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:06:28.270Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11124</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Willitts</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Willitts</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11124</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10914</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Just the Right Shoe</CategoryName>
+     <CategoryParentID>11124</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Willitts:Just the Right Shoe</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11124:10914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11125</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Take a Seat</CategoryName>
+     <CategoryParentID>11124</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Willitts:Take a Seat</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11124:11125</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11123</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Willitts</CategoryName>
+     <CategoryParentID>11124</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Willitts:Other Willitts</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11124:11123</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

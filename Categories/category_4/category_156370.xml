@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:10:28.673Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156370</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Toothpick Holders</CategoryName>
+     <CategoryParentID>978</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Tableware:Toothpick Holders</CategoryNamePath>
+     <CategoryIDPath>1:13905:978:156370</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

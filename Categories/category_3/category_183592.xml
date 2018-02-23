@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:35:03.940Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183592</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Test Category Group</CategoryName>
+     <CategoryParentID>14112</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Test Category Group</CategoryNamePath>
+     <CategoryIDPath>99:14112:183592</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183593</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Test Category 1</CategoryName>
+     <CategoryParentID>183592</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Test Category Group:Test Category 1</CategoryNamePath>
+     <CategoryIDPath>99:14112:183592:183593</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183594</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Test Category 2</CategoryName>
+     <CategoryParentID>183592</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Test Category Group:Test Category 2</CategoryNamePath>
+     <CategoryIDPath>99:14112:183592:183594</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183595</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Test Category 3</CategoryName>
+     <CategoryParentID>183592</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Test Category Group:Test Category 3</CategoryNamePath>
+     <CategoryIDPath>99:14112:183592:183595</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183596</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Test Category 4</CategoryName>
+     <CategoryParentID>183592</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Test Category Group:Test Category 4</CategoryNamePath>
+     <CategoryIDPath>99:14112:183592:183596</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183597</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Test Category 5</CategoryName>
+     <CategoryParentID>183592</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Test Category Group:Test Category 5</CategoryNamePath>
+     <CategoryIDPath>99:14112:183592:183597</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

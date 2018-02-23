@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:55.767Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>178886</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Air Guns and Slingshots</CategoryName>
+     <CategoryParentID>159043</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Air Guns and Slingshots</CategoryNamePath>
+     <CategoryIDPath>888:159043:178886</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178887</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Pistols</CategoryName>
+     <CategoryParentID>178886</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Air Guns and Slingshots:Air Pistols</CategoryNamePath>
+     <CategoryIDPath>888:159043:178886:178887</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178888</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Air Rifles</CategoryName>
+     <CategoryParentID>178886</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Air Guns and Slingshots:Air Rifles</CategoryNamePath>
+     <CategoryIDPath>888:159043:178886:178888</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178889</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>BBs and Pellets</CategoryName>
+     <CategoryParentID>178886</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Air Guns and Slingshots:BBs and Pellets</CategoryNamePath>
+     <CategoryIDPath>888:159043:178886:178889</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117141</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slingshots</CategoryName>
+     <CategoryParentID>178886</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Air Guns and Slingshots:Slingshots</CategoryNamePath>
+     <CategoryIDPath>888:159043:178886:117141</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178890</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessories</CategoryName>
+     <CategoryParentID>178886</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Air Guns and Slingshots:Accessories</CategoryNamePath>
+     <CategoryIDPath>888:159043:178886:178890</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178891</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Air Guns and Slingshots</CategoryName>
+     <CategoryParentID>178886</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Outdoor Sports:Air Guns and Slingshots:Other Air Guns and Slingshots</CategoryNamePath>
+     <CategoryIDPath>888:159043:178886:178891</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

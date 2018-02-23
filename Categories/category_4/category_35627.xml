@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:56:56.895Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35627</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>John Deere</CategoryName>
+     <CategoryParentID>827</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35628</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Advertising-Print</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Advertising-Print</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:35628</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165193</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Apparel</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Apparel</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:165193</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165194</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Banks</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Banks</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:165194</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165195</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Belts and Belt Buckles</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Belts and Belt Buckles</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:165195</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35629</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Brochures and Catalogs</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Brochures and Catalogs</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:35629</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165196</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coasters</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Coasters</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:165196</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95111</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cups Mugs and Steins</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Cups Mugs and Steins</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:95111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95112</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Diecast and Toys</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Diecast and Toys</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:95112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35630</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hats and Caps</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Hats and Caps</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:35630</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165197</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>License Plates</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:License Plates</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:165197</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95113</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lighting and Lamps</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Lighting and Lamps</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:95113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35631</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lunch Boxes</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Lunch Boxes</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:35631</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35632</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Manuals</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Manuals</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:35632</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35633</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:35633</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95114</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pocket Knives</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Pocket Knives</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:95114</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165199</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Posters Prints and Paintings</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Posters Prints and Paintings</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:165199</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35634</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signs</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Signs</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:35634</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165198</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tableware</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Tableware</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:165198</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>829</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other John Deere Collectibles</CategoryName>
+     <CategoryParentID>35627</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Agriculture:John Deere:Other John Deere Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:34:827:35627:829</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

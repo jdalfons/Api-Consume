@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:38:36.876Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181709</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HMI and Open Interface Panels</CategoryName>
+     <CategoryParentID>57516</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Control Systems and PLCs:HMI and Open Interface Panels</CategoryNamePath>
+     <CategoryIDPath>12576:42892:57516:181709</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

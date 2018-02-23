@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:57:23.345Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38060</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Thimbles</CategoryName>
+     <CategoryParentID>113</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles</CategoryNamePath>
+     <CategoryIDPath>1:113:38060</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38061</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bone</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Bone</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:38061</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156534</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Glass</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Glass</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:156534</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38062</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gold</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Gold</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:38062</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38063</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pewter</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Pewter</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:38063</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38064</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Porcelain</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Porcelain</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:38064</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38065</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Silver Sterling</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Silver Sterling</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:38065</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156535</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wood</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Wood</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:156535</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156536</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Material</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Mixed Material</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:156536</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156537</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thimble Holders</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Thimble Holders</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:156537</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156538</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thimble Displays</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Thimble Displays</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:156538</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38066</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lots</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Lots</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:38066</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Thimbles</CategoryName>
+     <CategoryParentID>38060</CategoryParentID>
+     <CategoryNamePath>Collectibles:Sewing (1930-Now):Thimbles:Other Vintage Thimbles</CategoryNamePath>
+     <CategoryIDPath>1:113:38060:116</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

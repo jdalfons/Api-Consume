@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:11:44.129Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>237</CategoryID>
+     <CategoryLevel>1</CategoryLevel>
+     <CategoryName>Dolls and Bears</CategoryName>
+     <CategoryParentID>-1</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears</CategoryNamePath>
+     <CategoryIDPath>237</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50253</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bear Making Supplies</CategoryName>
+     <CategoryParentID>237</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bear Making Supplies</CategoryNamePath>
+     <CategoryIDPath>237:50253</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>386</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bears</CategoryName>
+     <CategoryParentID>237</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Bears</CategoryNamePath>
+     <CategoryIDPath>237:386</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>238</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Dolls</CategoryName>
+     <CategoryParentID>237</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1202</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Dollhouse Miniatures</CategoryName>
+     <CategoryParentID>237</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dollhouse Miniatures</CategoryNamePath>
+     <CategoryIDPath>237:1202</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2440</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Paper Dolls</CategoryName>
+     <CategoryParentID>237</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Paper Dolls</CategoryNamePath>
+     <CategoryIDPath>237:2440</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>52546</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Wholesale Lots</CategoryName>
+     <CategoryParentID>237</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Wholesale Lots</CategoryNamePath>
+     <CategoryIDPath>237:52546</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

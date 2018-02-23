@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:38:42.173Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>78188</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Motor Drives and Controls</CategoryName>
+     <CategoryParentID>78186</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Drives and Motion Control:Motor Drives and Controls</CategoryNamePath>
+     <CategoryIDPath>12576:42892:78186:78188</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42894</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>General Purpose AC Drives</CategoryName>
+     <CategoryParentID>78188</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Drives and Motion Control:Motor Drives and Controls:General Purpose AC Drives</CategoryNamePath>
+     <CategoryIDPath>12576:42892:78186:78188:42894</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78190</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>General Purpose DC Drives</CategoryName>
+     <CategoryParentID>78188</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Drives and Motion Control:Motor Drives and Controls:General Purpose DC Drives</CategoryNamePath>
+     <CategoryIDPath>12576:42892:78186:78188:78190</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78191</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Servo Drives and Amplifiers</CategoryName>
+     <CategoryParentID>78188</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Drives and Motion Control:Motor Drives and Controls:Servo Drives and Amplifiers</CategoryNamePath>
+     <CategoryIDPath>12576:42892:78186:78188:78191</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71393</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Speed Controls</CategoryName>
+     <CategoryParentID>78188</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Drives and Motion Control:Motor Drives and Controls:Speed Controls</CategoryNamePath>
+     <CategoryIDPath>12576:42892:78186:78188:71393</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71394</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stepper Controls and Drives</CategoryName>
+     <CategoryParentID>78188</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Drives and Motion Control:Motor Drives and Controls:Stepper Controls and Drives</CategoryNamePath>
+     <CategoryIDPath>12576:42892:78186:78188:71394</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78192</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Variable Frequency Drives</CategoryName>
+     <CategoryParentID>78188</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Drives and Motion Control:Motor Drives and Controls:Variable Frequency Drives</CategoryNamePath>
+     <CategoryIDPath>12576:42892:78186:78188:78192</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78193</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Motor Controls</CategoryName>
+     <CategoryParentID>78188</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Drives and Motion Control:Motor Drives and Controls:Other Motor Controls</CategoryNamePath>
+     <CategoryIDPath>12576:42892:78186:78188:78193</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

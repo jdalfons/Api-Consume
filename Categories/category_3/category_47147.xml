@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:26:02.192Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>47147</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Covers</CategoryName>
+     <CategoryParentID>261</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Covers</CategoryNamePath>
+     <CategoryIDPath>260:261:47147</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139772</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Event Covers</CategoryName>
+     <CategoryParentID>47147</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Covers:Event Covers</CategoryNamePath>
+     <CategoryIDPath>260:261:47147:139772</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139776</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>FDCs (pre-1951)</CategoryName>
+     <CategoryParentID>47147</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Covers:FDCs (pre-1951)</CategoryNamePath>
+     <CategoryIDPath>260:261:47147:139776</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139779</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>FDCs (1951-Now)</CategoryName>
+     <CategoryParentID>47147</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Covers:FDCs (1951-Now)</CategoryNamePath>
+     <CategoryIDPath>260:261:47147:139779</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>689</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Postal History</CategoryName>
+     <CategoryParentID>47147</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Covers:Postal History</CategoryNamePath>
+     <CategoryIDPath>260:261:47147:689</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47148</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other US Stamp Covers</CategoryName>
+     <CategoryParentID>47147</CategoryParentID>
+     <CategoryNamePath>Stamps:United States:Covers:Other US Stamp Covers</CategoryNamePath>
+     <CategoryIDPath>260:261:47147:47148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

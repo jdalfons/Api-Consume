@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:21:10.954Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>158999</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage Cycling</CategoryName>
+     <CategoryParentID>7294</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Vintage Cycling</CategoryNamePath>
+     <CategoryIDPath>888:7294:158999</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177858</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Bicycles</CategoryName>
+     <CategoryParentID>158999</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Vintage Cycling:Vintage Bicycles</CategoryNamePath>
+     <CategoryIDPath>888:7294:158999:177858</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177859</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Frames</CategoryName>
+     <CategoryParentID>158999</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Vintage Cycling:Vintage Frames</CategoryNamePath>
+     <CategoryIDPath>888:7294:158999:177859</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56197</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Bicycle Parts</CategoryName>
+     <CategoryParentID>158999</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Vintage Cycling:Vintage Bicycle Parts</CategoryNamePath>
+     <CategoryIDPath>888:7294:158999:56197</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177860</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage Bicycle Accessories</CategoryName>
+     <CategoryParentID>158999</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Vintage Cycling:Vintage Bicycle Accessories</CategoryNamePath>
+     <CategoryIDPath>888:7294:158999:177860</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>177861</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Vintage Cycling</CategoryName>
+     <CategoryParentID>158999</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Cycling:Vintage Cycling:Other Vintage Cycling</CategoryNamePath>
+     <CategoryIDPath>888:7294:158999:177861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

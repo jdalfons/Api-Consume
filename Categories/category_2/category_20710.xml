@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:23:41.254Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20710</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Major Appliances</CategoryName>
+     <CategoryParentID>11700</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances</CategoryNamePath>
+     <CategoryIDPath>11700:20710</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116023</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dishwashers</CategoryName>
+     <CategoryParentID>20710</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Dishwashers</CategoryNamePath>
+     <CategoryIDPath>11700:20710:116023</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>116026</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dishwasher Parts and Accessories</CategoryName>
+     <CategoryParentID>20710</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Dishwasher Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:20710:116026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>150138</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Microwave Ovens</CategoryName>
+     <CategoryParentID>20710</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Microwave Ovens</CategoryNamePath>
+     <CategoryIDPath>11700:20710:150138</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159903</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Microwave Parts and Accessories</CategoryName>
+     <CategoryParentID>20710</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Microwave Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:20710:159903</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43563</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ranges and Cooking Appliances</CategoryName>
+     <CategoryParentID>20710</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Ranges and Cooking Appliances</CategoryNamePath>
+     <CategoryIDPath>11700:20710:43563</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71258</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Refrigerators and Freezers</CategoryName>
+     <CategoryParentID>20710</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Refrigerators and Freezers</CategoryNamePath>
+     <CategoryIDPath>11700:20710:71258</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42231</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Washers and Dryers</CategoryName>
+     <CategoryParentID>20710</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Washers and Dryers</CategoryNamePath>
+     <CategoryIDPath>11700:20710:42231</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20715</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Major Appliances</CategoryName>
+     <CategoryParentID>20710</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Major Appliances:Other Major Appliances</CategoryNamePath>
+     <CategoryIDPath>11700:20710:20715</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

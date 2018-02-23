@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:00:51.598Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156275</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Entomology Real Insects</CategoryName>
+     <CategoryParentID>10869</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Insects and Butterflies:Entomology Real Insects</CategoryNamePath>
+     <CategoryIDPath>1:1335:10869:156275</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:51.738Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3082</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Baby and Toddler Clothing</CategoryName>
+     <CategoryParentID>11450</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:3082</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163222</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Accessories</CategoryName>
+     <CategoryParentID>3082</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Baby Accessories</CategoryNamePath>
+     <CategoryIDPath>11450:3082:163222</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147285</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Shoes</CategoryName>
+     <CategoryParentID>3082</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Baby Shoes</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147285</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139762</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Christening</CategoryName>
+     <CategoryParentID>3082</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Christening</CategoryNamePath>
+     <CategoryIDPath>11450:3082:139762</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147317</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Boys&apos; Clothing (Newborn-5T)</CategoryName>
+     <CategoryParentID>3082</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Boys&apos; Clothing (Newborn-5T)</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147317</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>147192</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Girls&apos; Clothing (Newborn-5T)</CategoryName>
+     <CategoryParentID>3082</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Girls&apos; Clothing (Newborn-5T)</CategoryNamePath>
+     <CategoryIDPath>11450:3082:147192</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163397</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Unisex Clothing (Newborn-5T)</CategoryName>
+     <CategoryParentID>3082</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Unisex Clothing (Newborn-5T)</CategoryNamePath>
+     <CategoryIDPath>11450:3082:163397</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1070</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Baby and Toddler Clothing</CategoryName>
+     <CategoryParentID>3082</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Baby and Toddler Clothing:Other Baby and Toddler Clothing</CategoryNamePath>
+     <CategoryIDPath>11450:3082:1070</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

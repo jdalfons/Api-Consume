@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:34.707Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20394</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Bathing and Grooming</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming</CategoryNamePath>
+     <CategoryIDPath>2984:20394</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>117016</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Scales</CategoryName>
+     <CategoryParentID>20394</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming:Baby Scales</CategoryNamePath>
+     <CategoryIDPath>2984:20394:117016</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>113814</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bath Tubs</CategoryName>
+     <CategoryParentID>20394</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming:Bath Tubs</CategoryNamePath>
+     <CategoryIDPath>2984:20394:113814</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162024</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bath Tub Seats and Rings</CategoryName>
+     <CategoryParentID>20394</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming:Bath Tub Seats and Rings</CategoryNamePath>
+     <CategoryIDPath>2984:20394:162024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>100221</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bathing Accessories</CategoryName>
+     <CategoryParentID>20394</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming:Bathing Accessories</CategoryNamePath>
+     <CategoryIDPath>2984:20394:100221</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134756</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gift Sets</CategoryName>
+     <CategoryParentID>20394</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming:Gift Sets</CategoryNamePath>
+     <CategoryIDPath>2984:20394:134756</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45452</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Health and Grooming</CategoryName>
+     <CategoryParentID>20394</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming:Health and Grooming</CategoryNamePath>
+     <CategoryIDPath>2984:20394:45452</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>82563</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shampoos and Soaps</CategoryName>
+     <CategoryParentID>20394</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming:Shampoos and Soaps</CategoryNamePath>
+     <CategoryIDPath>2984:20394:82563</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20398</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Skin Care</CategoryName>
+     <CategoryParentID>20394</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming:Skin Care</CategoryNamePath>
+     <CategoryIDPath>2984:20394:20398</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45453</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Towels and Washcloths</CategoryName>
+     <CategoryParentID>20394</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming:Towels and Washcloths</CategoryNamePath>
+     <CategoryIDPath>2984:20394:45453</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45454</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Baby Bathing and Grooming</CategoryName>
+     <CategoryParentID>20394</CategoryParentID>
+     <CategoryNamePath>Baby:Bathing and Grooming:Other Baby Bathing and Grooming</CategoryNamePath>
+     <CategoryIDPath>2984:20394:45454</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

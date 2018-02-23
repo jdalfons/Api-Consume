@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:39:13.895Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181794</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Indicators and Components</CategoryName>
+     <CategoryParentID>181793</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Indicators and Components</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181794</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73129</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Indicators</CategoryName>
+     <CategoryParentID>181794</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Indicators and Components:Indicators</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181794:73129</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181795</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Indicator Cables</CategoryName>
+     <CategoryParentID>181794</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Indicators and Components:Indicator Cables</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181794:181795</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181798</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Indicator Lampholders</CategoryName>
+     <CategoryParentID>181794</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Indicators and Components:Indicator Lampholders</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181794:181798</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181796</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Indicator Lenses</CategoryName>
+     <CategoryParentID>181794</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Indicators and Components:Indicator Lenses</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181794:181796</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181797</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lens and Lampholder Combinations</CategoryName>
+     <CategoryParentID>181794</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Indicators and Components:Lens and Lampholder Combinations</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181794:181797</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

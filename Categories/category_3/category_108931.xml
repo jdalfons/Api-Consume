@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:07:13.471Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>108931</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Playbills</CategoryName>
+     <CategoryParentID>2362</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60411</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1940</CategoryName>
+     <CategoryParentID>108931</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills:Pre-1940</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931:60411</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60412</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1940-49</CategoryName>
+     <CategoryParentID>108931</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills:1940-49</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931:60412</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60413</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1950-59</CategoryName>
+     <CategoryParentID>108931</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills:1950-59</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931:60413</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60414</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1960-69</CategoryName>
+     <CategoryParentID>108931</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills:1960-69</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931:60414</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60415</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1970-79</CategoryName>
+     <CategoryParentID>108931</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills:1970-79</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931:60415</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60416</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1980-89</CategoryName>
+     <CategoryParentID>108931</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills:1980-89</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931:60416</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60417</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1990-99</CategoryName>
+     <CategoryParentID>108931</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills:1990-99</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931:60417</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60418</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>2000-Now</CategoryName>
+     <CategoryParentID>108931</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills:2000-Now</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931:60418</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164130</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Collections and Bulk Lots</CategoryName>
+     <CategoryParentID>108931</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills:Collections and Bulk Lots</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931:164130</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2365</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Theater Playbills</CategoryName>
+     <CategoryParentID>108931</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Theater Memorabilia:Playbills:Other Theater Playbills</CategoryNamePath>
+     <CategoryIDPath>45100:2362:108931:2365</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

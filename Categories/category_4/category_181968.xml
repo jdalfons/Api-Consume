@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:41:02.895Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181968</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Test Meters and Detectors</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181969</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Air Flow and Anemometers</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Air Flow and Anemometers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73160</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Capacitance and ESR Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Capacitance and ESR Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:73160</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181970</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Digital Tachometers</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Digital Tachometers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181970</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181971</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Earth Ground Resistance Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Earth Ground Resistance Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181971</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50960</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Electric Circuit and Multimeters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Electric Circuit and Multimeters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:50960</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181972</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>EMF and Gaussmeters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:EMF and Gaussmeters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181972</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181973</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fiber Optic Power Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Fiber Optic Power Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181973</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181974</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fault Locators and Reflectometry</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Fault Locators and Reflectometry</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181974</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181978</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Frequency Counters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Frequency Counters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181978</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50965</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gas Detectors and Monitors</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Gas Detectors and Monitors</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:50965</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25421</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>LCR and Impedance Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:LCR and Impedance Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:25421</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73162</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Light and Lux Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Light and Lux Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:73162</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181979</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Liquid and Mass Flow Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Liquid and Mass Flow Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181979</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183484</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Manometers/Air Pressure Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Manometers/Air Pressure Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:183484</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58278</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Panel Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Panel Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:58278</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>58289</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Radiation Detectors</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Radiation Detectors</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:58289</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181980</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>RF and Microwave Power Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:RF and Microwave Power Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181980</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181981</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Signal Level Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Signal Level Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181981</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25423</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sound Level Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Sound Level Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:25423</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181982</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Thermometers and Hygrometers</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Thermometers and Hygrometers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181982</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181989</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ultrasonic Flaw Detectors</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Ultrasonic Flaw Detectors</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181989</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181990</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vibration Meters</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Vibration Meters</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181991</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Test Meter Parts and Accessories</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Test Meter Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:181991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4678</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Test Meters and Detectors</CategoryName>
+     <CategoryParentID>181968</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Test Meters and Detectors:Other Test Meters and Detectors</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181968:4678</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>25</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

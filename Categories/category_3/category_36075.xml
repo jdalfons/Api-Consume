@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:19.298Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>36075</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Surplus</CategoryName>
+     <CategoryParentID>13956</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165616</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boxes and Chests</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Boxes and Chests</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:165616</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36076</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hats and Helmets</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Hats and Helmets</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:36076</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165617</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Machine Parts and Accessories</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Machine Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:165617</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70985</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Masks</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Masks</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:70985</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104024</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Medals Pins and Ribbons</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Medals Pins and Ribbons</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:104024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>104025</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paper Items Manuals</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Paper Items Manuals</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:104025</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70986</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Personal Field Gear</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Personal Field Gear</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:70986</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70990</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Parachutes</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Parachutes</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:70990</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36078</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Patches</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Patches</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:36078</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165615</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Radios</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Radios</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:165615</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>70988</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Uniforms and BDUs</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Uniforms and BDUs</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:70988</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>588</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Military Surplus</CategoryName>
+     <CategoryParentID>36075</CategoryParentID>
+     <CategoryNamePath>Collectibles:Militaria:Surplus:Other Military Surplus</CategoryNamePath>
+     <CategoryIDPath>1:13956:36075:588</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

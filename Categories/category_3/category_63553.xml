@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:31:50.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>63553</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Benches and Stools</CategoryName>
+     <CategoryParentID>20091</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Benches and Stools</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63553</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63554</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pre-1800</CategoryName>
+     <CategoryParentID>63553</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Benches and Stools:Pre-1800</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63553:63554</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63555</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1800-1899</CategoryName>
+     <CategoryParentID>63553</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Benches and Stools:1800-1899</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63553:63555</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>63556</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>1900-1950</CategoryName>
+     <CategoryParentID>63553</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Benches and Stools:1900-1950</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63553:63556</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156953</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Post-1950</CategoryName>
+     <CategoryParentID>63553</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Benches and Stools:Post-1950</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63553:156953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162888</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Unknown</CategoryName>
+     <CategoryParentID>63553</CategoryParentID>
+     <CategoryNamePath>Antiques:Furniture:Benches and Stools:Unknown</CategoryNamePath>
+     <CategoryIDPath>20081:20091:63553:162888</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

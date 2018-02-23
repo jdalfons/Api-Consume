@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:57:18.567Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>840</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shoes</CategoryName>
+     <CategoryParentID>13583</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Clothing Shoes and Accessories:Shoes</CategoryNamePath>
+     <CategoryIDPath>1:34:13583:840</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>843</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pre-1920</CategoryName>
+     <CategoryParentID>840</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Clothing Shoes and Accessories:Shoes:Pre-1920</CategoryNamePath>
+     <CategoryIDPath>1:34:13583:840:843</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>842</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1920-1949</CategoryName>
+     <CategoryParentID>840</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Clothing Shoes and Accessories:Shoes:1920-1949</CategoryNamePath>
+     <CategoryIDPath>1:34:13583:840:842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>841</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1950-1979</CategoryName>
+     <CategoryParentID>840</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Clothing Shoes and Accessories:Shoes:1950-1979</CategoryNamePath>
+     <CategoryIDPath>1:34:13583:840:841</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156202</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>1980-Now</CategoryName>
+     <CategoryParentID>840</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Clothing Shoes and Accessories:Shoes:1980-Now</CategoryNamePath>
+     <CategoryIDPath>1:34:13583:840:156202</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

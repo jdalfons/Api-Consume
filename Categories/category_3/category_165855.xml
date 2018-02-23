@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:57:40.407Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165855</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>International</CategoryName>
+     <CategoryParentID>165800</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165856</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Africa</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Africa</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165856</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165857</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Australia NZ and South Pacific</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Australia NZ and South Pacific</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165857</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168053</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Benelux Countries</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Benelux Countries</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:168053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165858</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canada</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Canada</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165858</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168054</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Caribbean Islands</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Caribbean Islands</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:168054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165859</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>China</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:China</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165859</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168055</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Eastern Europe</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Eastern Europe</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:168055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165860</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>France</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:France</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165860</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165861</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Germany</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Germany</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165862</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Greece Turkey and Balkan States</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Greece Turkey and Balkan States</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165863</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ireland</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Ireland</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165863</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165864</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Italy</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Italy</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165864</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165865</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Japan</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Japan</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165865</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165866</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mexico</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Mexico</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165866</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165867</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Middle East</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Middle East</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165867</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165868</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Russia</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Russia</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165868</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165869</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scandinavia</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Scandinavia</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165869</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165870</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>South America</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:South America</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165871</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Southeast Asia</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Southeast Asia</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165871</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165872</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spain and Portugal</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Spain and Portugal</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165872</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165873</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>UK</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:UK</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165873</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165874</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165874</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165875</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Int&apos;l Travel Memorabilia</CategoryName>
+     <CategoryParentID>165855</CategoryParentID>
+     <CategoryNamePath>Collectibles:Souvenirs and Travel Memorabilia:International:Other Int&apos;l Travel Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:165800:165855:165875</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>24</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

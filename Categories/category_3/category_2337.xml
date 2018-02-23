@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:06:39.942Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2337</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Country</CategoryName>
+     <CategoryParentID>2329</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163953</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ads Flyers</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Ads Flyers</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:163953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108737</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Apparel</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Apparel</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:108737</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168117</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Badges Pins and Buttons</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Badges Pins and Buttons</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:168117</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163954</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Calendars</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Calendars</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:163954</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163955</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clippings Cuttings and Articles</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Clippings Cuttings and Articles</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:163955</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163956</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Concert Memorabilia</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Concert Memorabilia</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:163956</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108739</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Novelties</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Novelties</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:108739</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108740</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Photographs</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Photographs</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:108740</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163961</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Postcards and Collector Cards</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Postcards and Collector Cards</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:163961</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108741</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Posters</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Posters</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:108741</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168118</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Publications</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Publications</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:168118</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163962</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stickers and Decals</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Stickers and Decals</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:163962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108742</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Country Music Mem</CategoryName>
+     <CategoryParentID>2337</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Country:Other Country Music Mem</CategoryNamePath>
+     <CategoryIDPath>45100:2329:2337:108742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

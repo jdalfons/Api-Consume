@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:10:15.907Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11650</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Small Appliances</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11651</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Blenders</CategoryName>
+     <CategoryParentID>11650</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances:Blenders</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650:11651</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13930</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coffee Grinders Mills</CategoryName>
+     <CategoryParentID>11650</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances:Coffee Grinders Mills</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650:13930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11652</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coffee Makers</CategoryName>
+     <CategoryParentID>11650</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances:Coffee Makers</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650:11652</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29809</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Juicers</CategoryName>
+     <CategoryParentID>11650</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances:Juicers</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650:29809</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11653</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixers</CategoryName>
+     <CategoryParentID>11650</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances:Mixers</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650:11653</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13931</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Popcorn Poppers</CategoryName>
+     <CategoryParentID>11650</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances:Popcorn Poppers</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650:13931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11654</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Toasters</CategoryName>
+     <CategoryParentID>11650</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances:Toasters</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650:11654</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11655</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Waffle Irons</CategoryName>
+     <CategoryParentID>11650</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances:Waffle Irons</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650:11655</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>982</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Vintage Small Appliances</CategoryName>
+     <CategoryParentID>11650</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Small Appliances:Other Vintage Small Appliances</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:11650:982</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

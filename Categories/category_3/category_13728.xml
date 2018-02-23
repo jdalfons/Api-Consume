@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:50:21.532Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>13728</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Slots</CategoryName>
+     <CategoryParentID>898</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Slots</CategoryNamePath>
+     <CategoryIDPath>1:898:13728</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14283</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Machines</CategoryName>
+     <CategoryParentID>13728</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Slots:Machines</CategoryNamePath>
+     <CategoryIDPath>1:898:13728:14283</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>112665</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Manuals and Guides</CategoryName>
+     <CategoryParentID>13728</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Slots:Manuals and Guides</CategoryNamePath>
+     <CategoryIDPath>1:898:13728:112665</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13731</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Replacement Parts</CategoryName>
+     <CategoryParentID>13728</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Slots:Replacement Parts</CategoryNamePath>
+     <CategoryIDPath>1:898:13728:13731</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66536</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Slots Collectibles</CategoryName>
+     <CategoryParentID>13728</CategoryParentID>
+     <CategoryNamePath>Collectibles:Casino:Slots:Other Slots Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:898:13728:66536</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

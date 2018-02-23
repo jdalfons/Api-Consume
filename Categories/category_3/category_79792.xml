@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:23:42.674Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>79792</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gymnastics</CategoryName>
+     <CategoryParentID>159049</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Gymnastics</CategoryNamePath>
+     <CategoryIDPath>888:159049:79792</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159166</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books and Video</CategoryName>
+     <CategoryParentID>79792</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Gymnastics:Books and Video</CategoryNamePath>
+     <CategoryIDPath>888:159049:79792:159166</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159167</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clothing</CategoryName>
+     <CategoryParentID>79792</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Gymnastics:Clothing</CategoryNamePath>
+     <CategoryIDPath>888:159049:79792:159167</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>79793</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Equipment</CategoryName>
+     <CategoryParentID>79792</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Gymnastics:Equipment</CategoryNamePath>
+     <CategoryIDPath>888:159049:79792:79793</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159171</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hats and Headwear</CategoryName>
+     <CategoryParentID>79792</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Gymnastics:Hats and Headwear</CategoryNamePath>
+     <CategoryIDPath>888:159049:79792:159171</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159172</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Novelties and Gifts</CategoryName>
+     <CategoryParentID>79792</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Gymnastics:Novelties and Gifts</CategoryNamePath>
+     <CategoryIDPath>888:159049:79792:159172</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16257</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Gymnastics</CategoryName>
+     <CategoryParentID>79792</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Team Sports:Gymnastics:Other Gymnastics</CategoryNamePath>
+     <CategoryIDPath>888:159049:79792:16257</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

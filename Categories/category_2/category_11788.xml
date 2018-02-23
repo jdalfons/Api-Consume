@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:21:04.285Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11788</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Scrapbooking and Paper Crafts</CategoryName>
+     <CategoryParentID>14339</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts</CategoryNamePath>
+     <CategoryIDPath>14339:11788</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122662</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cardstock</CategoryName>
+     <CategoryParentID>11788</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Cardstock</CategoryNamePath>
+     <CategoryIDPath>14339:11788:122662</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31737</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vellum</CategoryName>
+     <CategoryParentID>11788</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Vellum</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31737</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183239</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Die Cutting and Embossing</CategoryName>
+     <CategoryParentID>11788</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Die Cutting and Embossing</CategoryNamePath>
+     <CategoryIDPath>14339:11788:183239</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103482</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Instruction Books and Media</CategoryName>
+     <CategoryParentID>11788</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Instruction Books and Media</CategoryNamePath>
+     <CategoryIDPath>14339:11788:103482</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183242</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Paper Crafts</CategoryName>
+     <CategoryParentID>11788</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Paper Crafts</CategoryNamePath>
+     <CategoryIDPath>14339:11788:183242</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146403</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pre-Made Pages and Pieces</CategoryName>
+     <CategoryParentID>11788</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Pre-Made Pages and Pieces</CategoryNamePath>
+     <CategoryIDPath>14339:11788:146403</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31253</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scrapbooking</CategoryName>
+     <CategoryParentID>11788</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking</CategoryNamePath>
+     <CategoryIDPath>14339:11788:31253</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11789</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Scrapbooking and Card Kits</CategoryName>
+     <CategoryParentID>11788</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Scrapbooking and Card Kits</CategoryNamePath>
+     <CategoryIDPath>14339:11788:11789</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75573</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Scrapbooking Supplies</CategoryName>
+     <CategoryParentID>11788</CategoryParentID>
+     <CategoryNamePath>Crafts:Scrapbooking and Paper Crafts:Other Scrapbooking Supplies</CategoryNamePath>
+     <CategoryIDPath>14339:11788:75573</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

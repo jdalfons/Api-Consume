@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:19:15.893Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>131553</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>External Hard Disk Drives</CategoryName>
+     <CategoryParentID>182085</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Drives Storage and Blank Media:Hard Drives (HDD SSD and NAS):External Hard Disk Drives</CategoryNamePath>
+     <CategoryIDPath>58058:165:182085:131553</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

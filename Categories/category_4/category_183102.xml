@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:21:13.268Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183102</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paint</CategoryName>
+     <CategoryParentID>28110</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Paint</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183102</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>31401</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Acrylic Paint</CategoryName>
+     <CategoryParentID>183102</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Paint:Acrylic Paint</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183102:31401</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134558</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gouache</CategoryName>
+     <CategoryParentID>183102</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Paint:Gouache</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183102:134558</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28112</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Oil Paint</CategoryName>
+     <CategoryParentID>183102</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Paint:Oil Paint</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183102:28112</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183103</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tempera</CategoryName>
+     <CategoryParentID>183102</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Paint:Tempera</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183102:183103</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183104</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spray Paint</CategoryName>
+     <CategoryParentID>183102</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Paint:Spray Paint</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183102:183104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>28113</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Watercolor Paint</CategoryName>
+     <CategoryParentID>183102</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Paint:Watercolor Paint</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183102:28113</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183105</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Media Paint Sets</CategoryName>
+     <CategoryParentID>183102</CategoryParentID>
+     <CategoryNamePath>Crafts:Art Supplies:Painting Supplies:Paint:Mixed Media Paint Sets</CategoryNamePath>
+     <CategoryIDPath>14339:11783:28110:183102:183105</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

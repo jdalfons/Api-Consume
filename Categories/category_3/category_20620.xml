@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:11:42.424Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20620</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Laundry Supplies</CategoryName>
+     <CategoryParentID>299</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172208</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bleaches and Stain Removers</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Bleaches and Stain Removers</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:172208</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>81241</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Clotheslines and Laundry Hangers</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Clotheslines and Laundry Hangers</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:81241</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>78691</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Detergents</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Detergents</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:78691</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172211</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fabric Deodorizers</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Fabric Deodorizers</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:172211</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>172212</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fabric Softeners</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Fabric Softeners</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:172212</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43514</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Garment Steamers</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Garment Steamers</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:43514</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43517</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hampers</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Hampers</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:43517</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43512</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ironing Boards</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Ironing Boards</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:43512</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134734</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ironing Board Covers</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Ironing Board Covers</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:134734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43513</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Irons</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Irons</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:43513</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43516</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Laundry Bags</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Laundry Bags</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:43516</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>170626</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lint Removers and Lint Shavers</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Lint Removers and Lint Shavers</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:170626</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20624</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Laundry Supplies</CategoryName>
+     <CategoryParentID>20620</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Household Supplies and Cleaning:Laundry Supplies:Other Laundry Supplies</CategoryNamePath>
+     <CategoryIDPath>11700:299:20620:20624</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

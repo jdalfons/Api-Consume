@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:13.142Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>23806</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wakeboarding and Waterskiing</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Wakeboarding and Waterskiing</CategoryNamePath>
+     <CategoryIDPath>888:159136:23806</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159162</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bindings</CategoryName>
+     <CategoryParentID>23806</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Wakeboarding and Waterskiing:Bindings</CategoryNamePath>
+     <CategoryIDPath>888:159136:23806:159162</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159163</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Kneeboards</CategoryName>
+     <CategoryParentID>23806</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Wakeboarding and Waterskiing:Kneeboards</CategoryNamePath>
+     <CategoryIDPath>888:159136:23806:159163</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74048</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ropes and Handles</CategoryName>
+     <CategoryParentID>23806</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Wakeboarding and Waterskiing:Ropes and Handles</CategoryNamePath>
+     <CategoryIDPath>888:159136:23806:74048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71169</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tubing and Towables</CategoryName>
+     <CategoryParentID>23806</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Wakeboarding and Waterskiing:Tubing and Towables</CategoryNamePath>
+     <CategoryIDPath>888:159136:23806:71169</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47363</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wakeboards</CategoryName>
+     <CategoryParentID>23806</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Wakeboarding and Waterskiing:Wakeboards</CategoryNamePath>
+     <CategoryIDPath>888:159136:23806:47363</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71175</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Waterskis</CategoryName>
+     <CategoryParentID>23806</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Wakeboarding and Waterskiing:Waterskis</CategoryNamePath>
+     <CategoryIDPath>888:159136:23806:71175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15272</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Wakeboarding/Waterskiing</CategoryName>
+     <CategoryParentID>23806</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:Wakeboarding and Waterskiing:Other Wakeboarding/Waterskiing</CategoryNamePath>
+     <CategoryIDPath>888:159136:23806:15272</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

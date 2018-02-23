@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:13:54.379Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>66698</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Strollers and Accessories</CategoryName>
+     <CategoryParentID>2984</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories</CategoryNamePath>
+     <CategoryIDPath>2984:66698</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66700</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Strollers</CategoryName>
+     <CategoryParentID>66698</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Strollers</CategoryNamePath>
+     <CategoryIDPath>2984:66698:66700</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180911</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stroller Accessories</CategoryName>
+     <CategoryParentID>66698</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Accessories</CategoryNamePath>
+     <CategoryIDPath>2984:66698:180911</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121634</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stroller Parts</CategoryName>
+     <CategoryParentID>66698</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Stroller Parts</CategoryNamePath>
+     <CategoryIDPath>2984:66698:121634</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2989</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Strollers</CategoryName>
+     <CategoryParentID>66698</CategoryParentID>
+     <CategoryNamePath>Baby:Strollers and Accessories:Other Strollers</CategoryNamePath>
+     <CategoryIDPath>2984:66698:2989</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

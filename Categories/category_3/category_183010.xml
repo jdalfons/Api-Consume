@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:54:31.910Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183010</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>James Bond Trading Cards</CategoryName>
+     <CategoryParentID>182982</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:James Bond Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183010</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60232</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Singles</CategoryName>
+     <CategoryParentID>183010</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:James Bond Trading Cards:Trading Card Singles</CategoryNamePath>
+     <CategoryIDPath>1:182982:183010:60232</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183011</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trading Card Lots</CategoryName>
+     <CategoryParentID>183010</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:James Bond Trading Cards:Trading Card Lots</CategoryNamePath>
+     <CategoryIDPath>1:182982:183010:183011</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183012</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Complete Trading Card Sets</CategoryName>
+     <CategoryParentID>183010</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:James Bond Trading Cards:Complete Trading Card Sets</CategoryNamePath>
+     <CategoryIDPath>1:182982:183010:183012</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183013</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sealed Trading Cards</CategoryName>
+     <CategoryParentID>183010</CategoryParentID>
+     <CategoryNamePath>Collectibles:Non-Sport Trading Cards:James Bond Trading Cards:Sealed Trading Cards</CategoryNamePath>
+     <CategoryIDPath>1:182982:183010:183013</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:56.987Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>100016</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Connectors Switches and Wire</CategoryName>
+     <CategoryParentID>92074</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>65512</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Connectors</CategoryName>
+     <CategoryParentID>100016</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Connectors</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:65512</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181845</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Switches</CategoryName>
+     <CategoryParentID>100016</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Switches</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:181845</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73136</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wire and Cable</CategoryName>
+     <CategoryParentID>100016</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Connectors Switches and Wire:Wire and Cable</CategoryNamePath>
+     <CategoryIDPath>12576:92074:100016:73136</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

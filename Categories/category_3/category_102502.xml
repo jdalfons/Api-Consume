@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:34:37.846Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>102502</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Feng Shui</CategoryName>
+     <CategoryParentID>19266</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Feng Shui</CategoryNamePath>
+     <CategoryIDPath>99:19266:102502</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102503</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ba Guas Baguas</CategoryName>
+     <CategoryParentID>102502</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Feng Shui:Ba Guas Baguas</CategoryNamePath>
+     <CategoryIDPath>99:19266:102502:102503</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102504</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coins</CategoryName>
+     <CategoryParentID>102502</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Feng Shui:Coins</CategoryNamePath>
+     <CategoryIDPath>99:19266:102502:102504</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102505</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Crystals</CategoryName>
+     <CategoryParentID>102502</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Feng Shui:Crystals</CategoryNamePath>
+     <CategoryIDPath>99:19266:102502:102505</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>102506</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry</CategoryName>
+     <CategoryParentID>102502</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Feng Shui:Jewelry</CategoryNamePath>
+     <CategoryIDPath>99:19266:102502:102506</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19269</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Feng Shui</CategoryName>
+     <CategoryParentID>102502</CategoryParentID>
+     <CategoryNamePath>Everything Else:Metaphysical:Feng Shui:Other Feng Shui</CategoryNamePath>
+     <CategoryIDPath>99:19266:102502:19269</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

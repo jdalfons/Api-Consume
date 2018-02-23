@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:07:40.268Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>177661</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shampoos and Conditioners</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Shampoos and Conditioners</CategoryNamePath>
+     <CategoryIDPath>26395:11854:177661</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

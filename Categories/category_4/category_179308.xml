@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:36:54.315Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179308</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plant Care Soil and Accessories</CategoryName>
+     <CategoryParentID>2032</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159419</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bark Mulch and Wood Chips</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Bark Mulch and Wood Chips</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:159419</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20518</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Baskets Pots and Window Boxes</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Baskets Pots and Window Boxes</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:20518</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119683</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fertilizers</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Fertilizers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:119683</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>139001</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Frost Protection</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Frost Protection</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:139001</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>178984</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Garden Sprayers</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Garden Sprayers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:178984</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75670</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Moisture and pH Meters</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Moisture and pH Meters</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:75670</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134671</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Plant Hooks and Hangers</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Plant Hooks and Hangers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:134671</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181000</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Plant Labels</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Plant Labels</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:181000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181001</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Plant Ties and Supports</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Plant Ties and Supports</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:181001</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181002</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Planter Liners</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Planter Liners</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:181002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>118869</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Seeders and Spreaders</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Seeders and Spreaders</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:118869</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159452</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Seed Starting Pots and Trays</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Seed Starting Pots and Trays</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:159452</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159406</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Soil and Soil Amendments</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Soil and Soil Amendments</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:159406</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25876</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Plant Care and Accessories</CategoryName>
+     <CategoryParentID>179308</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Gardening Supplies:Plant Care Soil and Accessories:Other Plant Care and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159912:2032:179308:25876</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

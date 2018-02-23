@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:55.268Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11008</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fine Pins and Brooches</CategoryName>
+     <CategoryParentID>4196</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Pins and Brooches</CategoryNamePath>
+     <CategoryIDPath>281:4196:11008</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164337</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Diamonds and Gemstones</CategoryName>
+     <CategoryParentID>11008</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Pins and Brooches:Diamonds and Gemstones</CategoryNamePath>
+     <CategoryIDPath>281:4196:11008:164337</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11013</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pearl</CategoryName>
+     <CategoryParentID>11008</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Pins and Brooches:Pearl</CategoryNamePath>
+     <CategoryIDPath>281:4196:11008:11013</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164336</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Precious Metal without Stones</CategoryName>
+     <CategoryParentID>11008</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Pins and Brooches:Precious Metal without Stones</CategoryNamePath>
+     <CategoryIDPath>281:4196:11008:164336</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11007</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Fine Pins and Brooches</CategoryName>
+     <CategoryParentID>11008</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Fine Jewelry:Fine Pins and Brooches:Other Fine Pins and Brooches</CategoryNamePath>
+     <CategoryIDPath>281:4196:11008:11007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

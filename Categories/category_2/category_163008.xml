@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:12:56.395Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>163008</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Home and Hearth</CategoryName>
+     <CategoryParentID>20081</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth</CategoryNamePath>
+     <CategoryIDPath>20081:163008</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163009</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Carriages and Buggies</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Baby Carriages and Buggies</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163009</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163010</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby Cradles</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Baby Cradles</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163010</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163011</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bath Tubs</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Bath Tubs</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163011</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163012</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing Wringers</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Clothing Wringers</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163012</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163013</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hearth Ware</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Hearth Ware</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163013</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163014</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ice Boxes</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Ice Boxes</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163014</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163015</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Meat Grinders</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Meat Grinders</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163016</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sinks</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Sinks</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163016</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163017</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stoves</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Stoves</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163017</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163018</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Toasters</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Toasters</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>151724</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trivets</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Trivets</CategoryNamePath>
+     <CategoryIDPath>20081:163008:151724</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163057</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Washing Machines</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Washing Machines</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163057</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163058</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Antique Home and Hearth</CategoryName>
+     <CategoryParentID>163008</CategoryParentID>
+     <CategoryNamePath>Antiques:Home and Hearth:Other Antique Home and Hearth</CategoryNamePath>
+     <CategoryIDPath>20081:163008:163058</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>14</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:26:08.610Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1492</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fishing</CategoryName>
+     <CategoryParentID>888</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing</CategoryNamePath>
+     <CategoryIDPath>888:1492</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179946</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rods</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rods</CategoryNamePath>
+     <CategoryIDPath>888:1492:179946</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179950</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Reels</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Reels</CategoryNamePath>
+     <CategoryIDPath>888:1492:179950</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179953</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rod and Reel Combos</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Rod and Reel Combos</CategoryNamePath>
+     <CategoryIDPath>888:1492:179953</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179961</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baits Lures and Flies</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Baits Lures and Flies</CategoryNamePath>
+     <CategoryIDPath>888:1492:179961</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179965</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Line and Leaders</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Line and Leaders</CategoryNamePath>
+     <CategoryIDPath>888:1492:179965</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179973</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Terminal Tackle</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Terminal Tackle</CategoryNamePath>
+     <CategoryIDPath>888:1492:179973</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179978</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clothing Shoes and Accessories</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Clothing Shoes and Accessories</CategoryNamePath>
+     <CategoryIDPath>888:1492:179978</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29723</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fishfinders</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishfinders</CategoryNamePath>
+     <CategoryIDPath>888:1492:29723</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179985</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fishing Equipment</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Equipment</CategoryNamePath>
+     <CategoryIDPath>888:1492:179985</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159027</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fishing Trips</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Fishing Trips</CategoryNamePath>
+     <CategoryIDPath>888:1492:159027</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62155</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Books and Video</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Books and Video</CategoryNamePath>
+     <CategoryIDPath>888:1492:62155</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62143</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Novelties and Gifts</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Novelties and Gifts</CategoryNamePath>
+     <CategoryIDPath>888:1492:62143</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159028</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Taxidermy</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Taxidermy</CategoryNamePath>
+     <CategoryIDPath>888:1492:159028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180001</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Vintage</CategoryNamePath>
+     <CategoryIDPath>888:1492:180001</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>384</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Fishing</CategoryName>
+     <CategoryParentID>1492</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Fishing:Other Fishing</CategoryNamePath>
+     <CategoryIDPath>888:1492:384</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>16</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

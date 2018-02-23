@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:10:03.971Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>38134</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Canisters</CategoryName>
+     <CategoryParentID>81</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Canisters</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38134</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38135</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ceramic</CategoryName>
+     <CategoryParentID>38134</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Canisters:Ceramic</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38134:38135</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>38136</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metal</CategoryName>
+     <CategoryParentID>38134</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Canisters:Metal</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38134:38136</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13923</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Collectible Canisters</CategoryName>
+     <CategoryParentID>38134</CategoryParentID>
+     <CategoryNamePath>Collectibles:Kitchen and Home:Kitchenware:Canisters:Other Collectible Canisters</CategoryNamePath>
+     <CategoryIDPath>1:13905:81:38134:13923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:41:48.112Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>53106</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Two-Way Radio Parts and Accs</CategoryName>
+     <CategoryParentID>183868</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53107</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Two-Way Radio Antennas</CategoryName>
+     <CategoryParentID>53106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs:Two-Way Radio Antennas</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106:53107</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119104</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Two-Way Radio Batteries</CategoryName>
+     <CategoryParentID>53106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs:Two-Way Radio Batteries</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106:119104</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183870</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Two-Way Radio Cables and Cords</CategoryName>
+     <CategoryParentID>53106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs:Two-Way Radio Cables and Cords</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106:183870</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183871</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Two-Way Radio Fuses</CategoryName>
+     <CategoryParentID>53106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs:Two-Way Radio Fuses</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106:183871</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109465</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Two-Way Radio Cases</CategoryName>
+     <CategoryParentID>53106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs:Two-Way Radio Cases</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106:109465</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119107</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Two-Way Radio Chargers</CategoryName>
+     <CategoryParentID>53106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs:Two-Way Radio Chargers</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106:119107</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109466</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Two-Way Radio Clips and Holsters</CategoryName>
+     <CategoryParentID>53106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs:Two-Way Radio Clips and Holsters</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106:109466</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109467</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Two-Way Headsets and Earpieces</CategoryName>
+     <CategoryParentID>53106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs:Two-Way Headsets and Earpieces</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106:109467</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119110</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Two-Way Speakers and Microphones</CategoryName>
+     <CategoryParentID>53106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs:Two-Way Speakers and Microphones</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106:119110</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183872</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Two-Way Radio Accs</CategoryName>
+     <CategoryParentID>53106</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Surveillance and Alarm Equipment:Two-Way Radio Parts and Accs:Other Two-Way Radio Accs</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183868:53106:183872</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

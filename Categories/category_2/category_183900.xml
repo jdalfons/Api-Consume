@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:22.301Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183900</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fasteners and Hardware</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware</CategoryNamePath>
+     <CategoryIDPath>12576:183900</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26217</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Screws and Bolts</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Screws and Bolts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:26217</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183905</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fastener Nuts</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastener Nuts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183905</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42904</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hardware Washers</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Hardware Washers</CategoryNamePath>
+     <CategoryIDPath>12576:183900:42904</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183914</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fastener Anchors</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastener Anchors</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183914</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183920</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Nails and Staples</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Nails and Staples</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183920</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183925</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rivets</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Rivets</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183925</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183931</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fastening Pins</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Fastening Pins</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183931</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183940</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Threaded Rods and Threaded Studs</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Threaded Rods and Threaded Studs</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183940</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183941</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Standoffs and Spacers</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Standoffs and Spacers</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183941</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183945</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Threaded Inserts</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Threaded Inserts</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183947</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Retaining Rings</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Retaining Rings</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183947</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183948</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hardware Springs</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Hardware Springs</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183948</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>119111</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Magnets</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Magnets</CategoryNamePath>
+     <CategoryIDPath>12576:183900:119111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183949</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Clamps Ties and Cords</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Clamps Ties and Cords</CategoryNamePath>
+     <CategoryIDPath>12576:183900:183949</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109490</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hardware Plates and Brackets</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Hardware Plates and Brackets</CategoryNamePath>
+     <CategoryIDPath>12576:183900:109490</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>42905</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Fasteners and Hardware</CategoryName>
+     <CategoryParentID>183900</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Fasteners and Hardware:Other Fasteners and Hardware</CategoryNamePath>
+     <CategoryIDPath>12576:183900:42905</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

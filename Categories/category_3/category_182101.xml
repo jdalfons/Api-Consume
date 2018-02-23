@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:07:36.173Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>182101</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hair Extensions and Wigs</CategoryName>
+     <CategoryParentID>11854</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Hair Extensions and Wigs</CategoryNamePath>
+     <CategoryIDPath>26395:11854:182101</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175636</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hair Extensions</CategoryName>
+     <CategoryParentID>182101</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Hair Extensions and Wigs:Hair Extensions</CategoryNamePath>
+     <CategoryIDPath>26395:11854:182101:175636</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175635</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wigs and Hairpieces</CategoryName>
+     <CategoryParentID>182101</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Hair Extensions and Wigs:Wigs and Hairpieces</CategoryNamePath>
+     <CategoryIDPath>26395:11854:182101:175635</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175637</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wig and Extension Supplies</CategoryName>
+     <CategoryParentID>182101</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Hair Extensions and Wigs:Wig and Extension Supplies</CategoryNamePath>
+     <CategoryIDPath>26395:11854:182101:175637</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163581</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Extensions and Wigs</CategoryName>
+     <CategoryParentID>182101</CategoryParentID>
+     <CategoryNamePath>Health and Beauty:Hair Care and Styling:Hair Extensions and Wigs:Other Extensions and Wigs</CategoryNamePath>
+     <CategoryIDPath>26395:11854:182101:163581</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

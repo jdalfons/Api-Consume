@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:57:33.770Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>820</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Distillery</CategoryName>
+     <CategoryParentID>13587</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10798</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Absolut</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Absolut</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:10798</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26262</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bacardi</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Bacardi</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:26262</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32721</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Baileys</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Baileys</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:32721</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165222</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Beefeater</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Beefeater</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165222</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10799</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Canadian Club</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Canadian Club</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:10799</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165223</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Canadian Mist</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Canadian Mist</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165223</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35654</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Captain Morgan</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Captain Morgan</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:35654</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165224</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Crown Royal</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Crown Royal</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165224</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35655</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dewar’s</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Dewar’s</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:35655</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165225</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Drambuie</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Drambuie</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165225</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167974</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ezra Brooks</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Ezra Brooks</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:167974</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165226</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fleischmann</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Fleischmann</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165226</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165227</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Gilbey’s</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Gilbey’s</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165227</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165228</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Haig and Haig</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Haig and Haig</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165228</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4270</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Irish</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Irish</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:4270</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>822</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jack Daniel’s</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Jack Daniel’s</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:822</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165229</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jagermeister</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Jagermeister</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165229</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>823</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jim Beam</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Jim Beam</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:823</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10800</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Johnnie Walker</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Johnnie Walker</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:10800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165230</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jose Cuervo</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Jose Cuervo</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165230</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>825</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Old Crow</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Old Crow</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:825</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165231</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Old Forester</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Old Forester</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165231</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165232</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Paul Jones</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Paul Jones</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165232</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3882</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Scotch</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Scotch</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:3882</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7175</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Seagram’s</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Seagram’s</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:7175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26263</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Smirnoff</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Smirnoff</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:26263</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32722</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Southern Comfort</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Southern Comfort</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:32722</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165233</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tanqueray</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Tanqueray</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165233</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3883</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Wild Turkey</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Wild Turkey</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:3883</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35656</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Merchandise and Memorabilia</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Merchandise and Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:35656</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165234</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Distillery Ads</CategoryName>
+     <CategoryParentID>820</CategoryParentID>
+     <CategoryNamePath>Collectibles:Advertising:Food and Beverage:Distillery:Other Distillery Ads</CategoryNamePath>
+     <CategoryIDPath>1:34:13587:820:165234</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>32</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:00.080Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>805</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Airlines</CategoryName>
+     <CategoryParentID>14049</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165742</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aer Lingus</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Aer Lingus</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:165742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7170</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Air Canada/TCA</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Air Canada/TCA</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:7170</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3861</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Air France</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Air France</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:3861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95148</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Alaska Airlines</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Alaska Airlines</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:95148</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165743</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Aloha</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Aloha</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:165743</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>807</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>American</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:American</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:807</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>808</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Braniff</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Braniff</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:808</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3862</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>British Airways</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:British Airways</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:3862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95149</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cathay Pacific</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Cathay Pacific</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:95149</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10769</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Continental</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Continental</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:10769</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>809</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Delta</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Delta</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:809</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>810</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Eastern</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Eastern</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:810</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165744</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Frontier</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Frontier</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:165744</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168051</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hawaiian Airlines</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Hawaiian Airlines</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:168051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95150</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Japan Airlines</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Japan Airlines</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:95150</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165745</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>JetBlue</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:JetBlue</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:165745</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10770</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>KLM</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:KLM</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:10770</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40047</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lufthansa</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Lufthansa</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:40047</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3865</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>National Airlines</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:National Airlines</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:3865</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10771</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Northwest</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Northwest</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:10771</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>811</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pan Am</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Pan Am</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:811</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>812</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Piedmont</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Piedmont</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:812</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95151</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>SAS Scandinavian Airlines</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:SAS Scandinavian Airlines</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:95151</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95152</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Singapore Airlines</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Singapore Airlines</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:95152</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25433</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Southwest</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Southwest</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:25433</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165746</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Swissair</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Swissair</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:165746</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>813</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>TWA</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:TWA</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:813</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40048</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Qantas</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Qantas</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:40048</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1312</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>United</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:United</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:1312</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165747</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>US Airways</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:US Airways</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:165747</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>96836</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Virgin Atlantic</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Virgin Atlantic</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:96836</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10772</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Western</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Western</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:10772</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25434</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Freight Carriers</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Freight Carriers</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:25434</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165748</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Merchandise and Memorabilia</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Merchandise and Memorabilia</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:165748</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>806</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Airline Collectibles</CategoryName>
+     <CategoryParentID>805</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Aviation:Airlines:Other Airline Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:417:14049:805:806</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>36</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

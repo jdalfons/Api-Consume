@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:01:12.317Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>37873</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wolves</CategoryName>
+     <CategoryParentID>45604</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Wolves</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:37873</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37874</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Apparel</CategoryName>
+     <CategoryParentID>37873</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Wolves:Apparel</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:37873:37874</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37875</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Collector Plates</CategoryName>
+     <CategoryParentID>37873</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Wolves:Collector Plates</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:37873:37875</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37876</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Figurines</CategoryName>
+     <CategoryParentID>37873</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Wolves:Figurines</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:37873:37876</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37877</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Posters and Prints</CategoryName>
+     <CategoryParentID>37873</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Wolves:Posters and Prints</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:37873:37877</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10898</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Wolf Collectibles</CategoryName>
+     <CategoryParentID>37873</CategoryParentID>
+     <CategoryNamePath>Collectibles:Animals:Wild Animals:Wolves:Other Wolf Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:1335:45604:37873:10898</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

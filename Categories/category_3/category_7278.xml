@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:55:18.376Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>7278</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pens</CategoryName>
+     <CategoryParentID>966</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29826</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ballpoint Pens</CategoryName>
+     <CategoryParentID>7278</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Ballpoint Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:29826</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>7280</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Floaty Pens</CategoryName>
+     <CategoryParentID>7278</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Floaty Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:7280</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13999</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fountain Pens</CategoryName>
+     <CategoryParentID>7278</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Fountain Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:13999</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165630</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rollerball Pens</CategoryName>
+     <CategoryParentID>7278</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Rollerball Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:165630</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>967</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Collectible Pens</CategoryName>
+     <CategoryParentID>7278</CategoryParentID>
+     <CategoryNamePath>Collectibles:Pens and Writing Instruments:Pens:Other Collectible Pens</CategoryNamePath>
+     <CategoryIDPath>1:966:7278:967</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

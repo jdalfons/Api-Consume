@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:02:35.692Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>158426</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vending Machine Parts</CategoryName>
+     <CategoryParentID>13732</CategoryParentID>
+     <CategoryNamePath>Collectibles:Banks Registers and Vending:Vending Machines:Vending Machine Parts</CategoryNamePath>
+     <CategoryIDPath>1:66503:13732:158426</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

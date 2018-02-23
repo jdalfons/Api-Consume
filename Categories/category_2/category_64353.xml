@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:15:25.957Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>64353</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Flashes and Flash Accessories</CategoryName>
+     <CategoryParentID>625</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Flashes and Flash Accessories</CategoryNamePath>
+     <CategoryIDPath>625:64353</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48515</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flashes</CategoryName>
+     <CategoryParentID>64353</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Flashes and Flash Accessories:Flashes</CategoryNamePath>
+     <CategoryIDPath>625:64353:48515</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69573</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flash Adapters</CategoryName>
+     <CategoryParentID>64353</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Flashes and Flash Accessories:Flash Adapters</CategoryNamePath>
+     <CategoryIDPath>625:64353:69573</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>89161</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flash Brackets</CategoryName>
+     <CategoryParentID>64353</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Flashes and Flash Accessories:Flash Brackets</CategoryNamePath>
+     <CategoryIDPath>625:64353:89161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121464</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Flash Diffusers</CategoryName>
+     <CategoryParentID>64353</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Flashes and Flash Accessories:Flash Diffusers</CategoryNamePath>
+     <CategoryIDPath>625:64353:121464</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155823</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sync Cords</CategoryName>
+     <CategoryParentID>64353</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Flashes and Flash Accessories:Sync Cords</CategoryNamePath>
+     <CategoryIDPath>625:64353:155823</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64354</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Flashes and Flash Accs</CategoryName>
+     <CategoryParentID>64353</CategoryParentID>
+     <CategoryNamePath>Cameras and Photo:Flashes and Flash Accessories:Other Flashes and Flash Accs</CategoryNamePath>
+     <CategoryIDPath>625:64353:64354</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

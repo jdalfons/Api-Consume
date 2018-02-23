@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:14:45.176Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183978</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Hydraulics Pneumatics and Pumps</CategoryName>
+     <CategoryParentID>12576</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183979</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Air Compressors and Blowers</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Compressors and Blowers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183979</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183985</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Air Pressure Gauges</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Air Pressure Gauges</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183985</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183986</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Compressed Air Treatment</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Compressed Air Treatment</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183986</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183996</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Faucet and Hydrant Repair Kits</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Faucet and Hydrant Repair Kits</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183996</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183997</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fittings and Adapters</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Fittings and Adapters</CategoryNamePath>
+     <CategoryIDPath>12576:183978:183997</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184016</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hydraulic and Air Cylinders</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Hydraulic and Air Cylinders</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184016</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184028</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hydraulic Filters and Cartridges</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Hydraulic Filters and Cartridges</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184028</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184034</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hydraulic Fluid</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Hydraulic Fluid</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184036</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hydraulic Fluid Reservoirs</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Hydraulic Fluid Reservoirs</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184036</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>166669</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Hydraulic Motors</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Hydraulic Motors</CategoryNamePath>
+     <CategoryIDPath>12576:183978:166669</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184037</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pipes Hoses and Tubing</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipes Hoses and Tubing</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184037</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184042</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pipe and Tubing Tools and Accs</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pipe and Tubing Tools and Accs</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184042</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184053</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pneumatic Mufflers and Silencers</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pneumatic Mufflers and Silencers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184054</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pneumatic and Air Motors</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pneumatic and Air Motors</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184055</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pump and Flow Controllers</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pump and Flow Controllers</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184055</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184062</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pumps and Pump Accessories</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184111</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rupture Discs</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Rupture Discs</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184112</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Valves and Manifolds</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Valves and Manifolds</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184112</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48718</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Hydraulics and Pneumatics</CategoryName>
+     <CategoryParentID>183978</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Other Hydraulics and Pneumatics</CategoryNamePath>
+     <CategoryIDPath>12576:183978:48718</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>20</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

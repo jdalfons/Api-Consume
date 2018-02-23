@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:25.080Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>164310</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bridal and Wedding Party Jewelry</CategoryName>
+     <CategoryParentID>91427</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Engagement and Wedding:Bridal and Wedding Party Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:91427:164310</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:01.673Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181128</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Golf Accessories</CategoryName>
+     <CategoryParentID>1513</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173516</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bag Tags</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Bag Tags</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:173516</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18928</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ball Markers</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Ball Markers</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:18928</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173517</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ball Pick-Ups and Retrievers</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Ball Pick-Ups and Retrievers</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:173517</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18930</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Club Head Covers</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Club Head Covers</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:18930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108166</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Divot Tools</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Divot Tools</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:108166</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>66814</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Spikes</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Golf Spikes</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:66814</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173518</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Stickers and Decals</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Golf Stickers and Decals</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:173518</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18932</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Towels</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Golf Towels</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:18932</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18933</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Umbrellas</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Golf Umbrellas</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:18933</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179002</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Groove Sharpeners</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Groove Sharpeners</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:179002</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>111289</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rangefinders and Scopes</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Rangefinders and Scopes</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:111289</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90865</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scorecards and Holders</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Scorecards and Holders</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:90865</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173519</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Stroke Counters</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Stroke Counters</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:173519</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1514</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Golf Accessories</CategoryName>
+     <CategoryParentID>181128</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Accessories:Other Golf Accessories</CategoryNamePath>
+     <CategoryIDPath>888:1513:181128:1514</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

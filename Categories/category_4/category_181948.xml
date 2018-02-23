@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:40:54.098Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181948</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cameras and Imaging</CategoryName>
+     <CategoryParentID>181939</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Cameras and Imaging</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181948</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181949</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Borescopes and Fiberscopes</CategoryName>
+     <CategoryParentID>181948</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Cameras and Imaging:Borescopes and Fiberscopes</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181948:181949</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183478</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Camera and CCTV Testers</CategoryName>
+     <CategoryParentID>181948</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Cameras and Imaging:Camera and CCTV Testers</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181948:183478</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181950</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Infrared and Thermal Imaging</CategoryName>
+     <CategoryParentID>181948</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Cameras and Imaging:Infrared and Thermal Imaging</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181948:181950</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181951</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Optical Fiber Inspection</CategoryName>
+     <CategoryParentID>181948</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Cameras and Imaging:Optical Fiber Inspection</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181948:181951</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181952</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Imaging Parts and Accessories</CategoryName>
+     <CategoryParentID>181948</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Cameras and Imaging:Imaging Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181948:181952</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181953</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Cameras and Imaging</CategoryName>
+     <CategoryParentID>181948</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Electrical and Test Equipment:Test Measurement and Inspection:Cameras and Imaging:Other Cameras and Imaging</CategoryNamePath>
+     <CategoryIDPath>12576:92074:181939:181948:181953</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

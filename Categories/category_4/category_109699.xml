@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:46:50.704Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>109699</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shipping and Cushioning Supplies</CategoryName>
+     <CategoryParentID>19273</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109700</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bubble Cushioning Wrap</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Bubble Cushioning Wrap</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:109700</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184251</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cold Packs</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Cold Packs</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:184251</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180003</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Cutters Dispensers and Racks</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Cutters Dispensers and Racks</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:180003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180006</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Desiccant and Moisture Absorbers</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Desiccant and Moisture Absorbers</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:180006</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180004</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Edge Protectors</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Edge Protectors</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:180004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109704</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Foam Wrap</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Foam Wrap</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:109704</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>180005</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Moving Blankets and Moving Pads</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Moving Blankets and Moving Pads</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:180005</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72359</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Packing Paper</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Packing Paper</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:72359</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109734</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Packing Peanuts</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Packing Peanuts</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:109734</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86175</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tissue Paper</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Tissue Paper</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:86175</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>109705</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Cushioning Supplies</CategoryName>
+     <CategoryParentID>109699</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Material Handling:Packaging and Shipping:Shipping and Cushioning Supplies:Other Cushioning Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:26221:19273:109699:109705</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>12</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

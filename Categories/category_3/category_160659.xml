@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:02:37.082Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>160659</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Needle Arts and Crafts</CategoryName>
+     <CategoryParentID>71183</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160660</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dishcloths and Potholders</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Dishcloths and Potholders</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:160660</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>134449</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Granny Squares</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Granny Squares</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:134449</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>83907</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Crocheted Doilies</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Hand Crocheted Doilies</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:83907</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157034</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hand Hooked Rugs</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Hand Hooked Rugs</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:157034</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158460</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hardanger</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Hardanger</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:158460</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157028</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Latch Hooked Rugs</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Latch Hooked Rugs</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:157028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160661</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Scarves Hats and Accessories</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Scarves Hats and Accessories</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:160661</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160662</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Socks and Slippers</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Socks and Slippers</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:160662</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160663</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tatting and Lace</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Tatting and Lace</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:160663</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160664</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wool and Needlefelted Items</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Wool and Needlefelted Items</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:160664</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>160665</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Woven Rag and Braided Rugs</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Woven Rag and Braided Rugs</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:160665</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71184</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Needle Arts and Crafts</CategoryName>
+     <CategoryParentID>160659</CategoryParentID>
+     <CategoryNamePath>Crafts:Handcrafted and Finished Pieces:Needle Arts and Crafts:Other Needle Arts and Crafts</CategoryNamePath>
+     <CategoryIDPath>14339:71183:160659:71184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

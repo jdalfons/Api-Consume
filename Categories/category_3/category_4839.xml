@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:56:41.642Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4839</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lapidary Materials</CategoryName>
+     <CategoryParentID>3213</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Lapidary Materials</CategoryNamePath>
+     <CategoryIDPath>1:3213:4839</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4841</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rough for Cabbing</CategoryName>
+     <CategoryParentID>4839</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Lapidary Materials:Rough for Cabbing</CategoryNamePath>
+     <CategoryIDPath>1:3213:4839:4841</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4842</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rough for Faceting</CategoryName>
+     <CategoryParentID>4839</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Lapidary Materials:Rough for Faceting</CategoryNamePath>
+     <CategoryIDPath>1:3213:4839:4842</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>155296</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slabs</CategoryName>
+     <CategoryParentID>4839</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Lapidary Materials:Slabs</CategoryNamePath>
+     <CategoryIDPath>1:3213:4839:155296</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4843</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tools and Supplies</CategoryName>
+     <CategoryParentID>4839</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Lapidary Materials:Tools and Supplies</CategoryNamePath>
+     <CategoryIDPath>1:3213:4839:4843</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3237</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Lapidary Materials</CategoryName>
+     <CategoryParentID>4839</CategoryParentID>
+     <CategoryNamePath>Collectibles:Rocks Fossils and Minerals:Lapidary Materials:Other Lapidary Materials</CategoryNamePath>
+     <CategoryIDPath>1:3213:4839:3237</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

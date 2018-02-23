@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:51:17.877Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156286</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Decorative Collectible Brands</CategoryName>
+     <CategoryParentID>13777</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13778</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>All God&apos;s Children</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:All God&apos;s Children</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13778</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98025</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Andrea by Sadek</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Andrea by Sadek</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:98025</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4018</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>ANRI</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:ANRI</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:4018</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4019</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Armani</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Armani</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:4019</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>167983</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artesania Rinconada</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Artesania Rinconada</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:167983</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13779</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Avon</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Avon</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13779</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3951</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bing and Grondahl Coll Plates</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Bing and Grondahl Coll Plates</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:3951</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47132</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Blue Sky Clayworks</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Blue Sky Clayworks</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:47132</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39579</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Boyds</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Boyds</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39579</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13784</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bradford Exchange</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Bradford Exchange</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13784</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4021</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Byers Choice</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Byers Choice</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:4021</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4022</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cat&apos;s Meow Village</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Cat&apos;s Meow Village</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:4022</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41117</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Charming Tails</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Charming Tails</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:41117</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13786</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Christopher Radko</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Christopher Radko</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13786</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13787</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Danbury Mint</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Danbury Mint</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13787</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1543</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>David Winter</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:David Winter</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1543</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1365</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Department 56</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Department 56</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1365</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10912</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dreamsicles</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Dreamsicles</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10912</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4024</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Duncan Royale</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Duncan Royale</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:4024</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11126</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Enesco</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Enesco</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11126</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13794</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Faberge</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Faberge</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13794</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13796</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fitz and Floyd</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Fitz and Floyd</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13796</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4026</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flambro</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Flambro</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:4026</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13801</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Franklin Mint</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Franklin Mint</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13801</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165489</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>G. DeBrekht</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:G. DeBrekht</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:165489</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45133</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Halcyon Days</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Halcyon Days</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:45133</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>576</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hallmark</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hallmark</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:576</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1357</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hamilton Collector Plates</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hamilton Collector Plates</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1357</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11132</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Harbour Lights</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Harbour Lights</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11132</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41152</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Harmony Kingdom</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Harmony Kingdom</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:41152</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41155</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>HOMCO</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:HOMCO</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:41155</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13804</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hummel Goebel</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Hummel Goebel</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13804</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Josef</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Josef</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:105</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1358</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Knowles Collector Plates</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Knowles Collector Plates</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1358</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13809</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lefton Figurines</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lefton Figurines</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13809</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13812</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lenox</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lenox</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13812</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47133</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Liberty Falls</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Liberty Falls</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:47133</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1544</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lilliput Lane</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lilliput Lane</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:1544</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13815</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Limoges</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Limoges</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13815</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13818</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lladro</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Lladro</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13818</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10915</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Longaberger</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>15909</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Madame Alexander</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Madame Alexander</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:15909</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13821</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Margaret Furlong</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Margaret Furlong</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13821</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41162</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mary Engelbreit</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Mary Engelbreit</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:41162</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39618</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Midwest of Cannon Falls</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Midwest of Cannon Falls</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39618</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165490</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Napco</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Napco</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:165490</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11636</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Norman Rockwell</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Norman Rockwell</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11636</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165491</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Occupied Japan</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Occupied Japan</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:165491</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48777</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Old World</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Old World</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:48777</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73497</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Patricia Breen</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Patricia Breen</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:73497</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39619</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>PartyLite</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:PartyLite</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39619</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13822</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pendelfin</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Pendelfin</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13822</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>48778</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Polonaise</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Polonaise</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:48778</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39594</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Precious Moments</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Precious Moments</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:39594</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60214</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rien Poortvliet</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Rien Poortvliet</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:60214</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11136</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Roman</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Roman</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11136</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156287</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Royal Copenhagen</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Royal Copenhagen</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:156287</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13823</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Royal Doulton</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Royal Doulton</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13823</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13826</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>San Francisco Music Box</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:San Francisco Music Box</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13826</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13827</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sarah&apos;s Attic</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Sarah&apos;s Attic</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13827</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4028</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Schmid</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Schmid</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:4028</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11134</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sebastian Miniatures</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Sebastian Miniatures</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11134</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14896</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Shelia&apos;s</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Shelia&apos;s</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:14896</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73498</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Slavic Treasures</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Slavic Treasures</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:73498</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2746</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swarovski</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Swarovski</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:2746</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11641</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Thomas Kinkade</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Thomas Kinkade</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11641</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4030</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tom Clark</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Tom Clark</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:4030</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>106</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wade Figurines</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Wade Figurines</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:106</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13828</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wedgwood</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Wedgwood</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:13828</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165492</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Williraye</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Williraye</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:165492</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11124</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Willitts</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Willitts</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:11124</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47134</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Willow Tree</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Willow Tree</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:47134</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>73</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

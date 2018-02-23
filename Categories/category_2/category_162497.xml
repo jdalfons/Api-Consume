@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:19:59.863Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>162497</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Monitors Projectors and Accs</CategoryName>
+     <CategoryParentID>58058</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Monitors Projectors and Accs</CategoryNamePath>
+     <CategoryIDPath>58058:162497</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>80053</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Monitors</CategoryName>
+     <CategoryParentID>162497</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Monitors Projectors and Accs:Monitors</CategoryNamePath>
+     <CategoryIDPath>58058:162497:80053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>25321</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Projectors</CategoryName>
+     <CategoryParentID>162497</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Monitors Projectors and Accs:Projectors</CategoryNamePath>
+     <CategoryIDPath>58058:162497:25321</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>51052</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Monitor Mounts and Stands</CategoryName>
+     <CategoryParentID>162497</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Monitors Projectors and Accs:Monitor Mounts and Stands</CategoryNamePath>
+     <CategoryIDPath>58058:162497:51052</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158845</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Monitor Power Supplies</CategoryName>
+     <CategoryParentID>162497</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Monitors Projectors and Accs:Monitor Power Supplies</CategoryNamePath>
+     <CategoryIDPath>58058:162497:158845</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168068</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Monitor Replacement Parts</CategoryName>
+     <CategoryParentID>162497</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Monitors Projectors and Accs:Monitor Replacement Parts</CategoryNamePath>
+     <CategoryIDPath>58058:162497:168068</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99231</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Projector Parts and Accessories</CategoryName>
+     <CategoryParentID>162497</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Monitors Projectors and Accs:Projector Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>58058:162497:99231</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>175688</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Computer Monitors and Accs</CategoryName>
+     <CategoryParentID>162497</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Monitors Projectors and Accs:Other Computer Monitors and Accs</CategoryNamePath>
+     <CategoryIDPath>58058:162497:175688</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

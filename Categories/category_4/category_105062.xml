@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:29:13.438Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>105062</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists V</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists V</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105062</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108861</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vai Steve</CategoryName>
+     <CategoryParentID>105062</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists V:Vai Steve</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105062:108861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105065</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Van Halen</CategoryName>
+     <CategoryParentID>105062</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists V:Van Halen</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105062:105065</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53279</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Vaughan Stevie Ray</CategoryName>
+     <CategoryParentID>105062</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists V:Vaughan Stevie Ray</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105062:53279</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164096</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Velvet Revolver</CategoryName>
+     <CategoryParentID>105062</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists V:Velvet Revolver</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105062:164096</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108862</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Velvet Underground</CategoryName>
+     <CategoryParentID>105062</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists V:Velvet Underground</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105062:108862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105064</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists V</CategoryName>
+     <CategoryParentID>105062</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists V:Other Rock and Pop Artists V</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105062:105064</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:43.754Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>26240</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bindery and Finishing Equipment</CategoryName>
+     <CategoryParentID>26238</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26243</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Binders and Stitchers</CategoryName>
+     <CategoryParentID>26240</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment:Binders and Stitchers</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240:26243</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57045</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Collators and Bookletmakers</CategoryName>
+     <CategoryParentID>26240</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment:Collators and Bookletmakers</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240:57045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46692</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Folders</CategoryName>
+     <CategoryParentID>26240</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment:Folders</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240:46692</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46693</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Laminators</CategoryName>
+     <CategoryParentID>26240</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment:Laminators</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240:46693</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57050</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Numbering Machines</CategoryName>
+     <CategoryParentID>26240</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment:Numbering Machines</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240:57050</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57049</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paper Cutters and Trimmers</CategoryName>
+     <CategoryParentID>26240</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment:Paper Cutters and Trimmers</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240:57049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>57051</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paper Drills and Punches</CategoryName>
+     <CategoryParentID>26240</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment:Paper Drills and Punches</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240:57051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26242</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paper Joggers</CategoryName>
+     <CategoryParentID>26240</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment:Paper Joggers</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240:26242</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26244</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Bindery and Finishing</CategoryName>
+     <CategoryParentID>26240</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Printing and Graphic Arts:Bindery and Finishing Equipment:Other Bindery and Finishing</CategoryNamePath>
+     <CategoryIDPath>12576:26238:26240:26244</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

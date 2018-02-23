@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:08.410Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>92150</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Mfg and Metalworking</CategoryName>
+     <CategoryParentID>11804</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Other Mfg and Metalworking</CategoryNamePath>
+     <CategoryIDPath>12576:11804:92150</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

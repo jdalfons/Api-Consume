@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:42:47.423Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>172007</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Baby and Toddler Dancewear</CategoryName>
+     <CategoryParentID>112425</CategoryParentID>
+     <CategoryNamePath>Clothing Shoes and Accessories:Dancewear:Baby and Toddler Dancewear</CategoryNamePath>
+     <CategoryIDPath>11450:112425:172007</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

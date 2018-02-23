@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:18:03.329Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10860</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Fantasy Mythical and Magic</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic</CategoryNamePath>
+     <CategoryIDPath>1:10860</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35863</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dragons</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99962</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Elves Gnomes Pixies</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Elves Gnomes Pixies</CategoryNamePath>
+     <CategoryIDPath>1:10860:99962</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35874</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fairies</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Fairies</CategoryNamePath>
+     <CategoryIDPath>1:10860:35874</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13640</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Gargoyles</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Gargoyles</CategoryNamePath>
+     <CategoryIDPath>1:10860:13640</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>156307</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Grim Reaper</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Grim Reaper</CategoryNamePath>
+     <CategoryIDPath>1:10860:156307</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29798</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Harry Potter</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Harry Potter</CategoryNamePath>
+     <CategoryIDPath>1:10860:29798</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73517</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lord of the Rings</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Lord of the Rings</CategoryNamePath>
+     <CategoryIDPath>1:10860:73517</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14012</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Magic</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Magic</CategoryNamePath>
+     <CategoryIDPath>1:10860:14012</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13641</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Mermaids</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Mermaids</CategoryNamePath>
+     <CategoryIDPath>1:10860:13641</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>13642</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pegasus</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Pegasus</CategoryNamePath>
+     <CategoryIDPath>1:10860:13642</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86941</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Skulls</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Skulls</CategoryNamePath>
+     <CategoryIDPath>1:10860:86941</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10862</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Unicorns</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Unicorns</CategoryNamePath>
+     <CategoryIDPath>1:10860:10862</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29800</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wizards</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Wizards</CategoryNamePath>
+     <CategoryIDPath>1:10860:29800</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1340</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Fantasy Collectibles</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Other Fantasy Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:10860:1340</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:05:58.392Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>10915</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Longaberger</CategoryName>
+     <CategoryParentID>156286</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39612</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Baskets</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Baskets</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:39612</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>103945</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Candles</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Candles</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:103945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10917</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Candle Holders Votives</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Candle Holders Votives</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10917</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10918</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Coasters</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Coasters</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10918</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10919</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Combos</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Combos</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10919</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10920</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dinnerware Serving Pottery</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Dinnerware Serving Pottery</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10920</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10921</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Fabric</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Fabric</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10921</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10922</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Garters</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Garters</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10922</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10923</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Handle Grippers</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Handle Grippers</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10923</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10924</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Handle Ties</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Handle Ties</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10924</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39617</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Lids</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Lids</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:39617</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10925</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Liners</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Liners</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10925</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86908</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Magnets</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Magnets</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:86908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>40124</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Metalworks</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Metalworks</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:40124</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10926</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Napkins Placemats</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Napkins Placemats</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10926</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10927</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ornaments</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Ornaments</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10928</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pens Pencils Pads</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Pens Pencils Pads</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10928</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86909</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pins</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Pins</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:86909</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86910</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Prints Wall Hangings</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Prints Wall Hangings</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:86910</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10929</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Protectors</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Protectors</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10929</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10930</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Tie-ons</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Tie-ons</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10930</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86911</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Totes Wallets Cases</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Totes Wallets Cases</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:86911</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10931</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Towels</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Towels</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:10931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>101</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Longaberger</CategoryName>
+     <CategoryParentID>10915</CategoryParentID>
+     <CategoryNamePath>Collectibles:Decorative Collectibles:Decorative Collectible Brands:Longaberger:Other Longaberger</CategoryNamePath>
+     <CategoryIDPath>1:13777:156286:10915:101</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>25</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

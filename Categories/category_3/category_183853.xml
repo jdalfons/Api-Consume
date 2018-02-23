@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:36:18.565Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183853</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Public Safety Staff Equipment</CategoryName>
+     <CategoryParentID>11897</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183854</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Firefighting Tools</CategoryName>
+     <CategoryParentID>183853</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Firefighting Tools</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183854</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159699</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Firetruck Accessories</CategoryName>
+     <CategoryParentID>183853</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Firetruck Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:159699</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159698</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Rescue Air Supplies</CategoryName>
+     <CategoryParentID>183853</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Rescue Air Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:159698</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183855</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Police and Turnout Gear</CategoryName>
+     <CategoryParentID>183853</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Police and Turnout Gear</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183855</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183863</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Public Safety Training Equip</CategoryName>
+     <CategoryParentID>183853</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Public Safety Training Equip</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183863</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>36347</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Public Safety Equipment</CategoryName>
+     <CategoryParentID>183853</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Other Public Safety Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:36347</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:24:21.223Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>179264</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Loose Beads</CategoryName>
+     <CategoryParentID>281</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads</CategoryNamePath>
+     <CategoryIDPath>281:179264</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90757</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Acrylic Plastic Lucite</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Acrylic Plastic Lucite</CategoryNamePath>
+     <CategoryIDPath>281:179264:90757</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179265</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ceramic Clay Porcelain</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Ceramic Clay Porcelain</CategoryNamePath>
+     <CategoryIDPath>281:179264:179265</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179266</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Cloisonne</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Cloisonne</CategoryNamePath>
+     <CategoryIDPath>281:179264:179266</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179267</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Crystal</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Crystal</CategoryNamePath>
+     <CategoryIDPath>281:179264:179267</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>34067</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Fused Glass</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Fused Glass</CategoryNamePath>
+     <CategoryIDPath>281:179264:34067</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164375</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Glass Czech Glass</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Glass Czech Glass</CategoryNamePath>
+     <CategoryIDPath>281:179264:164375</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179268</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Lampwork</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Lampwork</CategoryNamePath>
+     <CategoryIDPath>281:179264:179268</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179269</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Metals</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Metals</CategoryNamePath>
+     <CategoryIDPath>281:179264:179269</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179270</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Millefiori</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Millefiori</CategoryNamePath>
+     <CategoryIDPath>281:179264:179270</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179271</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Rhinestones</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Rhinestones</CategoryNamePath>
+     <CategoryIDPath>281:179264:179271</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179272</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Seed</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Seed</CategoryNamePath>
+     <CategoryIDPath>281:179264:179272</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>14317</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Shell Bone Coral</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Shell Bone Coral</CategoryNamePath>
+     <CategoryIDPath>281:179264:14317</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179273</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Stone</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Stone</CategoryNamePath>
+     <CategoryIDPath>281:179264:179273</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3811</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Vintage</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Vintage</CategoryNamePath>
+     <CategoryIDPath>281:179264:3811</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179274</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Wood</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Wood</CategoryNamePath>
+     <CategoryIDPath>281:179264:179274</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>179275</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Loose Beads</CategoryName>
+     <CategoryParentID>179264</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Loose Beads:Other Loose Beads</CategoryNamePath>
+     <CategoryIDPath>281:179264:179275</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

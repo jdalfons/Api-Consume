@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:45:56.220Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>45148</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Europe</CategoryName>
+     <CategoryParentID>256</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>122491</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Albania</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Albania</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:122491</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39479</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Austria</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Austria</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:39479</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>162180</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belarus</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Belarus</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:162180</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45149</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belgium</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Belgium</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45149</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90641</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bulgaria</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Bulgaria</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:90641</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>68588</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Czech Republic</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Czech Republic</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:68588</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45150</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Denmark</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Denmark</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45150</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>96810</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Estonia/ Latvia/ Lithuania</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Estonia/ Latvia/ Lithuania</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:96810</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45151</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Finland</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Finland</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45151</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>539</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>France</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:France</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:539</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173619</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Germany</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Germany</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:173619</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>69510</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gibraltar</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Gibraltar</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:69510</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45152</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Greece</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Greece</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45152</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45153</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hungary</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Hungary</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45153</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>108914</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Iceland</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Iceland</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:108914</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3390</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ireland</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Ireland</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:3390</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>37152</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Italy San Marino Vatican</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Italy San Marino Vatican</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:37152</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45154</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Netherlands</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Netherlands</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45154</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45155</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Norway</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Norway</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45155</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45156</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Poland</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Poland</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45156</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45157</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Portugal</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Portugal</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45157</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90643</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Romania</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Romania</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:90643</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32476</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Russia</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Russia</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:32476</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>39481</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spain</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Spain</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:39481</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4186</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sweden</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Sweden</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:4186</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45158</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Switzerland</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Switzerland</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45158</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45159</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Turkey</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Turkey</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:45159</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3394</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>UK (Great Britain)</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:UK (Great Britain)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:3394</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>77528</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ukraine</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Ukraine</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:77528</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>90644</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Yugoslavia</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Yugoslavia</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:90644</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4941</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other European Coins</CategoryName>
+     <CategoryParentID>45148</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:Europe:Other European Coins</CategoryNamePath>
+     <CategoryIDPath>11116:256:45148:4941</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>32</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

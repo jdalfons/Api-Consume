@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:41:44.049Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183863</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Public Safety Training Equip</CategoryName>
+     <CategoryParentID>183853</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Public Safety Training Equip</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183863</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183864</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Staff Training Books and Manuals</CategoryName>
+     <CategoryParentID>183863</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Public Safety Training Equip:Staff Training Books and Manuals</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183863:183864</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183865</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Staff Training Videos</CategoryName>
+     <CategoryParentID>183863</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Public Safety Training Equip:Staff Training Videos</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183863:183865</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183866</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Replica Training Devices</CategoryName>
+     <CategoryParentID>183863</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Public Safety Training Equip:Replica Training Devices</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183863:183866</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183867</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Training Materials</CategoryName>
+     <CategoryParentID>183863</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Facility Maintenance and Safety:Public Safety Staff Equipment:Public Safety Training Equip:Other Training Materials</CategoryNamePath>
+     <CategoryIDPath>12576:11897:183853:183863:183867</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

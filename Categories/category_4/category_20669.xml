@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:34:52.017Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20669</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bread Machines</CategoryName>
+     <CategoryParentID>20667</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Kitchen Dining and Bar:Small Kitchen Appliances:Bread Machines</CategoryNamePath>
+     <CategoryIDPath>11700:20625:20667:20669</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

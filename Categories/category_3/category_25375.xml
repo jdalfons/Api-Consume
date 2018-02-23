@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:40:07.096Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>25375</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Refrigeration and Ice Machines</CategoryName>
+     <CategoryParentID>11874</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Refrigeration and Ice Machines</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25375</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53225</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Coolers and Refrigerators</CategoryName>
+     <CategoryParentID>25375</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Refrigeration and Ice Machines:Coolers and Refrigerators</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25375:53225</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53229</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Freezers</CategoryName>
+     <CategoryParentID>25375</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Refrigeration and Ice Machines:Freezers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25375:53229</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67167</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ice Cream Machines</CategoryName>
+     <CategoryParentID>25375</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Refrigeration and Ice Machines:Ice Cream Machines</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25375:67167</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67171</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ice Machines</CategoryName>
+     <CategoryParentID>25375</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Refrigeration and Ice Machines:Ice Machines</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25375:67171</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>53226</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Restaurant Refrigeration</CategoryName>
+     <CategoryParentID>25375</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Refrigeration and Ice Machines:Other Restaurant Refrigeration</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25375:53226</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

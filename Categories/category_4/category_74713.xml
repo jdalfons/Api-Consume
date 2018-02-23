@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:15:50.408Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>74713</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Characters</CategoryName>
+     <CategoryParentID>29493</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Characters</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:74713</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74714</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Captain Kirk</CategoryName>
+     <CategoryParentID>74713</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Characters:Captain Kirk</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:74713:74714</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74715</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Klingons</CategoryName>
+     <CategoryParentID>74713</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Characters:Klingons</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:74713:74715</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74716</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Spock</CategoryName>
+     <CategoryParentID>74713</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Characters:Spock</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:74713:74716</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74717</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Star Trek Characters</CategoryName>
+     <CategoryParentID>74713</CategoryParentID>
+     <CategoryNamePath>Collectibles:Science Fiction and Horror:Star Trek:Characters:Other Star Trek Characters</CategoryNamePath>
+     <CategoryIDPath>1:152:29493:74713:74717</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

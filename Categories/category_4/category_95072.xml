@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:48:24.002Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>95072</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Baking and Dough Equipment</CategoryName>
+     <CategoryParentID>25367</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Baking and Dough Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95072</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95093</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Bakery Racks</CategoryName>
+     <CategoryParentID>95072</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Baking and Dough Equipment:Bakery Racks</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95072:95093</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95085</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Donut Machines</CategoryName>
+     <CategoryParentID>95072</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Baking and Dough Equipment:Donut Machines</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95072:95085</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184288</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dough Mixers</CategoryName>
+     <CategoryParentID>95072</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Baking and Dough Equipment:Dough Mixers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95072:184288</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95086</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dough Proofers and Warmers</CategoryName>
+     <CategoryParentID>95072</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Baking and Dough Equipment:Dough Proofers and Warmers</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95072:95086</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95087</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dough Rollers and Cutters</CategoryName>
+     <CategoryParentID>95072</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Baking and Dough Equipment:Dough Rollers and Cutters</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95072:95087</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95092</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pans</CategoryName>
+     <CategoryParentID>95072</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Baking and Dough Equipment:Pans</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95072:95092</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>95073</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Commercial Baking Equip</CategoryName>
+     <CategoryParentID>95072</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Restaurant and Catering:Commercial Kitchen Equipment:Baking and Dough Equipment:Other Commercial Baking Equip</CategoryNamePath>
+     <CategoryIDPath>12576:11874:25367:95072:95073</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

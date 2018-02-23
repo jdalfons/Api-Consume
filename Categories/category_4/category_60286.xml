@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:26:52.673Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>60286</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Apparel</CategoryName>
+     <CategoryParentID>90736</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Merchandise and Promotional:Apparel</CategoryNamePath>
+     <CategoryIDPath>45100:196:90736:60286</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60287</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hats</CategoryName>
+     <CategoryParentID>60286</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Merchandise and Promotional:Apparel:Hats</CategoryNamePath>
+     <CategoryIDPath>45100:196:90736:60286:60287</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>163871</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Hoodies and Sweatshirts</CategoryName>
+     <CategoryParentID>60286</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Merchandise and Promotional:Apparel:Hoodies and Sweatshirts</CategoryNamePath>
+     <CategoryIDPath>45100:196:90736:60286:163871</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60288</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Jackets</CategoryName>
+     <CategoryParentID>60286</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Merchandise and Promotional:Apparel:Jackets</CategoryNamePath>
+     <CategoryIDPath>45100:196:90736:60286:60288</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168111</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ties</CategoryName>
+     <CategoryParentID>60286</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Merchandise and Promotional:Apparel:Ties</CategoryNamePath>
+     <CategoryIDPath>45100:196:90736:60286:168111</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>60289</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>T-Shirts</CategoryName>
+     <CategoryParentID>60286</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Merchandise and Promotional:Apparel:T-Shirts</CategoryNamePath>
+     <CategoryIDPath>45100:196:90736:60286:60289</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32991</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Movie Promo Apparel</CategoryName>
+     <CategoryParentID>60286</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Movie Memorabilia:Merchandise and Promotional:Apparel:Other Movie Promo Apparel</CategoryNamePath>
+     <CategoryIDPath>45100:196:90736:60286:32991</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>7</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

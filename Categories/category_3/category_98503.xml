@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:36.033Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>98503</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>South American</CategoryName>
+     <CategoryParentID>11312</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:South American</CategoryNamePath>
+     <CategoryIDPath>281:11312:98503</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98504</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bracelets</CategoryName>
+     <CategoryParentID>98503</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:South American:Bracelets</CategoryNamePath>
+     <CategoryIDPath>281:11312:98503:98504</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98505</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Earrings</CategoryName>
+     <CategoryParentID>98503</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:South American:Earrings</CategoryNamePath>
+     <CategoryIDPath>281:11312:98503:98505</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98506</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Necklaces and Pendants</CategoryName>
+     <CategoryParentID>98503</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:South American:Necklaces and Pendants</CategoryNamePath>
+     <CategoryIDPath>281:11312:98503:98506</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>98507</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other South American Jewelry</CategoryName>
+     <CategoryParentID>98503</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Ethnic Regional and Tribal:South American:Other South American Jewelry</CategoryNamePath>
+     <CategoryIDPath>281:11312:98503:98507</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

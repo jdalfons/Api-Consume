@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:29:11.298Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>105054</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Artists U</CategoryName>
+     <CategoryParentID>108765</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists U</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105054</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105057</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>U2</CategoryName>
+     <CategoryParentID>105054</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists U:U2</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105054:105057</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164094</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Uriah Heep</CategoryName>
+     <CategoryParentID>105054</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists U:Uriah Heep</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105054:164094</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>164095</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Used</CategoryName>
+     <CategoryParentID>105054</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists U:Used</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105054:164095</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105056</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Usher</CategoryName>
+     <CategoryParentID>105054</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists U:Usher</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105054:105056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>105055</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Rock and Pop Artists U</CategoryName>
+     <CategoryParentID>105054</CategoryParentID>
+     <CategoryNamePath>Entertainment Memorabilia:Music Memorabilia:Rock and Pop:Artists U:Other Rock and Pop Artists U</CategoryNamePath>
+     <CategoryIDPath>45100:2329:108765:105054:105055</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

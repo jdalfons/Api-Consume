@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:35:06.610Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>171781</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other</CategoryName>
+     <CategoryParentID>14112</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Other</CategoryNamePath>
+     <CategoryIDPath>99:14112:171781</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171782</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seller Category 1</CategoryName>
+     <CategoryParentID>171781</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Other:Seller Category 1</CategoryNamePath>
+     <CategoryIDPath>99:14112:171781:171782</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171783</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seller Category 2</CategoryName>
+     <CategoryParentID>171781</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Other:Seller Category 2</CategoryNamePath>
+     <CategoryIDPath>99:14112:171781:171783</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171785</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seller Category 4</CategoryName>
+     <CategoryParentID>171781</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Other:Seller Category 4</CategoryNamePath>
+     <CategoryIDPath>99:14112:171781:171785</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171786</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seller Category 5</CategoryName>
+     <CategoryParentID>171781</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Other:Seller Category 5</CategoryNamePath>
+     <CategoryIDPath>99:14112:171781:171786</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171784</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Seller Category 3</CategoryName>
+     <CategoryParentID>171781</CategoryParentID>
+     <CategoryNamePath>Everything Else:Test Category For Internal Use Only Parent Level 2:Other:Seller Category 3</CategoryNamePath>
+     <CategoryIDPath>99:14112:171781:171784</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

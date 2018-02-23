@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:55:42.173Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>7992</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mexico</CategoryName>
+     <CategoryParentID>45145</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:North and Central America:Mexico</CategoryNamePath>
+     <CategoryIDPath>11116:256:45145:7992</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173629</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Colonial (up to 1821)</CategoryName>
+     <CategoryParentID>7992</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:North and Central America:Mexico:Colonial (up to 1821)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45145:7992:173629</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173630</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>War of Independence (1810-21)</CategoryName>
+     <CategoryParentID>7992</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:North and Central America:Mexico:War of Independence (1810-21)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45145:7992:173630</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173643</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Empire of Iturbide (1821-23)</CategoryName>
+     <CategoryParentID>7992</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:North and Central America:Mexico:Empire of Iturbide (1821-23)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45145:7992:173643</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173644</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>First Republic (1824-64)</CategoryName>
+     <CategoryParentID>7992</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:North and Central America:Mexico:First Republic (1824-64)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45145:7992:173644</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173645</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Empire of Maximilian (1864-67)</CategoryName>
+     <CategoryParentID>7992</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:North and Central America:Mexico:Empire of Maximilian (1864-67)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45145:7992:173645</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173646</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Second Republic (1867-1905)</CategoryName>
+     <CategoryParentID>7992</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:North and Central America:Mexico:Second Republic (1867-1905)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45145:7992:173646</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173631</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mexico (1905-Now)</CategoryName>
+     <CategoryParentID>7992</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:North and Central America:Mexico:Mexico (1905-Now)</CategoryNamePath>
+     <CategoryIDPath>11116:256:45145:7992:173631</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>173692</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>7992</CategoryParentID>
+     <CategoryNamePath>Coins and Paper Money:Coins: World:North and Central America:Mexico:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>11116:256:45145:7992:173692</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

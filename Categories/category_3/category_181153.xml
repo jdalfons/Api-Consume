@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:06.549Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181153</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Golf Clubs and Equipment</CategoryName>
+     <CategoryParentID>1513</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Clubs and Equipment</CategoryNamePath>
+     <CategoryIDPath>888:1513:181153</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18924</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Balls</CategoryName>
+     <CategoryParentID>181153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Clubs and Equipment:Golf Balls</CategoryNamePath>
+     <CategoryIDPath>888:1513:181153:18924</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>30109</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Club Bags</CategoryName>
+     <CategoryParentID>181153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Clubs and Equipment:Golf Club Bags</CategoryNamePath>
+     <CategoryIDPath>888:1513:181153:30109</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115280</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Clubs</CategoryName>
+     <CategoryParentID>181153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Clubs and Equipment:Golf Clubs</CategoryNamePath>
+     <CategoryIDPath>888:1513:181153:115280</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>18931</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Golf Tees</CategoryName>
+     <CategoryParentID>181153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Clubs and Equipment:Golf Tees</CategoryNamePath>
+     <CategoryIDPath>888:1513:181153:18931</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75207</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Push-Pull Golf Carts</CategoryName>
+     <CategoryParentID>181153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Clubs and Equipment:Push-Pull Golf Carts</CategoryNamePath>
+     <CategoryIDPath>888:1513:181153:75207</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>72671</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Push-Pull Golf Cart Add-ons</CategoryName>
+     <CategoryParentID>181153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Clubs and Equipment:Push-Pull Golf Cart Add-ons</CategoryNamePath>
+     <CategoryIDPath>888:1513:181153:72671</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181154</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Push-Pull Golf Cart Parts</CategoryName>
+     <CategoryParentID>181153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Clubs and Equipment:Push-Pull Golf Cart Parts</CategoryNamePath>
+     <CategoryIDPath>888:1513:181153:181154</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181155</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Golf Equipment</CategoryName>
+     <CategoryParentID>181153</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Golf:Golf Clubs and Equipment:Other Golf Equipment</CategoryNamePath>
+     <CategoryIDPath>888:1513:181153:181155</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>9</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

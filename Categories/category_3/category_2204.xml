@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:31:47.017Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>2204</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Ethnographic Antiques</CategoryName>
+     <CategoryParentID>2207</CategoryParentID>
+     <CategoryNamePath>Antiques:Ethnographic:Other Ethnographic Antiques</CategoryNamePath>
+     <CategoryIDPath>20081:2207:2204</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

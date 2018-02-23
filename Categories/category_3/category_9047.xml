@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:31:09.485Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>9047</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Books and Guides</CategoryName>
+     <CategoryParentID>180250</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Books and Guides</CategoryNamePath>
+     <CategoryIDPath>220:180250:9047</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>9049</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>9047</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Books and Guides:Books</CategoryNamePath>
+     <CategoryIDPath>220:180250:9047:9049</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99856</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Magazines</CategoryName>
+     <CategoryParentID>9047</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Books and Guides:Magazines</CategoryNamePath>
+     <CategoryIDPath>220:180250:9047:99856</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>99847</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Price Guides</CategoryName>
+     <CategoryParentID>9047</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Books and Guides:Price Guides</CategoryNamePath>
+     <CategoryIDPath>220:180250:9047:99847</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>9051</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Model Train Media</CategoryName>
+     <CategoryParentID>9047</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Model Railroads and Trains:Books and Guides:Other Model Train Media</CategoryNamePath>
+     <CategoryIDPath>220:180250:9047:9051</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

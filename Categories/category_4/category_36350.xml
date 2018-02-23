@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:45:46.471Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>36350</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Plastics Equipment and Supplies</CategoryName>
+     <CategoryParentID>45038</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Process Equipment:Plastics Equipment and Supplies</CategoryNamePath>
+     <CategoryIDPath>12576:11804:45038:36350</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>67065</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Auxiliary Process Equipment</CategoryName>
+     <CategoryParentID>36350</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Process Equipment:Plastics Equipment and Supplies:Auxiliary Process Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11804:45038:36350:67065</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>45037</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Injection and Blow Molding</CategoryName>
+     <CategoryParentID>36350</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Process Equipment:Plastics Equipment and Supplies:Injection and Blow Molding</CategoryNamePath>
+     <CategoryIDPath>12576:11804:45038:36350:45037</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>61791</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Molds and Dies</CategoryName>
+     <CategoryParentID>36350</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Process Equipment:Plastics Equipment and Supplies:Molds and Dies</CategoryNamePath>
+     <CategoryIDPath>12576:11804:45038:36350:61791</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>26258</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Plastics Equipment</CategoryName>
+     <CategoryParentID>36350</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Manufacturing and Metalworking:Process Equipment:Plastics Equipment and Supplies:Other Plastics Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11804:45038:36350:26258</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

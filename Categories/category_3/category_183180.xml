@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:03:19.067Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>183180</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Crafting Paper</CategoryName>
+     <CategoryParentID>28102</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Paper</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183180</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183181</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Construction Paper</CategoryName>
+     <CategoryParentID>183180</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Paper:Construction Paper</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183180:183181</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183182</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Decoupage Tissue Paper</CategoryName>
+     <CategoryParentID>183180</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Paper:Decoupage Tissue Paper</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183180:183182</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183183</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Metallic and Foiled Paper</CategoryName>
+     <CategoryParentID>183180</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Paper:Metallic and Foiled Paper</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183180:183183</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84000</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mixed Lots</CategoryName>
+     <CategoryParentID>183180</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Paper:Mixed Lots</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183180:84000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>183184</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Crafting Paper</CategoryName>
+     <CategoryParentID>183180</CategoryParentID>
+     <CategoryNamePath>Crafts:Multi-Purpose Craft Supplies:Crafting Paper:Other Crafting Paper</CategoryNamePath>
+     <CategoryIDPath>14339:28102:183180:183184</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

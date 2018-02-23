@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:22:48.658Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>21567</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Billiards</CategoryName>
+     <CategoryParentID>36274</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Billiards</CategoryNamePath>
+     <CategoryIDPath>888:36274:21567</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75192</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Balls</CategoryName>
+     <CategoryParentID>21567</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Billiards:Balls</CategoryNamePath>
+     <CategoryIDPath>888:36274:21567:75192</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75195</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books and Video</CategoryName>
+     <CategoryParentID>21567</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Billiards:Books and Video</CategoryNamePath>
+     <CategoryIDPath>888:36274:21567:75195</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21568</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cues</CategoryName>
+     <CategoryParentID>21567</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Billiards:Cues</CategoryNamePath>
+     <CategoryIDPath>888:36274:21567:21568</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21211</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cue Cases</CategoryName>
+     <CategoryParentID>21567</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Billiards:Cue Cases</CategoryNamePath>
+     <CategoryIDPath>888:36274:21567:21211</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>21213</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tables</CategoryName>
+     <CategoryParentID>21567</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Billiards:Tables</CategoryNamePath>
+     <CategoryIDPath>888:36274:21567:21213</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>75184</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Accessories and Décor</CategoryName>
+     <CategoryParentID>21567</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Billiards:Accessories and Décor</CategoryNamePath>
+     <CategoryIDPath>888:36274:21567:75184</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1292</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Billiards</CategoryName>
+     <CategoryParentID>21567</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Indoor Games:Billiards:Other Billiards</CategoryNamePath>
+     <CategoryIDPath>888:36274:21567:1292</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

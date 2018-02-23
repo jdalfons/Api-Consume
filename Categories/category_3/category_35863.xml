@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:52:06.848Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>35863</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dragons</CategoryName>
+     <CategoryParentID>10860</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35864</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Armor Weapons</CategoryName>
+     <CategoryParentID>35863</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Armor Weapons</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35864</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35865</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Art</CategoryName>
+     <CategoryParentID>35863</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Art</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35865</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35866</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Calendars</CategoryName>
+     <CategoryParentID>35863</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Calendars</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35866</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35867</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Candles Incense</CategoryName>
+     <CategoryParentID>35863</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Candles Incense</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35867</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86927</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Goblets Glasses Mugs</CategoryName>
+     <CategoryParentID>35863</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Goblets Glasses Mugs</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:86927</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35868</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry</CategoryName>
+     <CategoryParentID>35863</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Jewelry</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35868</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>86928</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Mirrors and Plaques</CategoryName>
+     <CategoryParentID>35863</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Mirrors and Plaques</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:86928</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>35869</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Statues</CategoryName>
+     <CategoryParentID>35863</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Statues</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:35869</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10861</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Dragon Collectibles</CategoryName>
+     <CategoryParentID>35863</CategoryParentID>
+     <CategoryNamePath>Collectibles:Fantasy Mythical and Magic:Dragons:Other Dragon Collectibles</CategoryNamePath>
+     <CategoryIDPath>1:10860:35863:10861</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>10</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

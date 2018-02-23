@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:44:31.129Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>184082</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sump Trash and Utility Pumps</CategoryName>
+     <CategoryParentID>184062</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Sump Trash and Utility Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184082</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184083</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Pond and Fountain Pumps</CategoryName>
+     <CategoryParentID>184082</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Sump Trash and Utility Pumps:Pond and Fountain Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184082:184083</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184084</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Sump Sewage and Effluent Pumps</CategoryName>
+     <CategoryParentID>184082</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Sump Trash and Utility Pumps:Sump Sewage and Effluent Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184082:184084</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184085</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Trash and Water Transfer Pumps</CategoryName>
+     <CategoryParentID>184082</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Sump Trash and Utility Pumps:Trash and Water Transfer Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184082:184085</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>184086</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Utility Pumps</CategoryName>
+     <CategoryParentID>184082</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Hydraulics Pneumatics and Pumps:Pumps and Pump Accessories:Sump Trash and Utility Pumps:Utility Pumps</CategoryNamePath>
+     <CategoryIDPath>12576:183978:184062:184082:184086</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

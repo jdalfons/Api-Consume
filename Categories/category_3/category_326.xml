@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:05:10.270Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>326</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Antique (Pre-1930)</CategoryName>
+     <CategoryParentID>238</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930)</CategoryNamePath>
+     <CategoryIDPath>237:238:326</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4626</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Reproduction</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Reproduction</CategoryNamePath>
+     <CategoryIDPath>237:238:326:4626</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84621</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bisque</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Bisque</CategoryNamePath>
+     <CategoryIDPath>237:238:326:84621</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4622</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Celluloid</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Celluloid</CategoryNamePath>
+     <CategoryIDPath>237:238:326:4622</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4623</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Cloth</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Cloth</CategoryNamePath>
+     <CategoryIDPath>237:238:326:4623</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>341</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Composition</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Composition</CategoryNamePath>
+     <CategoryIDPath>237:238:326:341</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4625</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Papier-Mache</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Papier-Mache</CategoryNamePath>
+     <CategoryIDPath>237:238:326:4625</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4624</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Porcelain and China</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Porcelain and China</CategoryNamePath>
+     <CategoryIDPath>237:238:326:4624</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>149387</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tin and Metal</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Tin and Metal</CategoryNamePath>
+     <CategoryIDPath>237:238:326:149387</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4628</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wood</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Wood</CategoryNamePath>
+     <CategoryIDPath>237:238:326:4628</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>32</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Antique Dolls</CategoryName>
+     <CategoryParentID>326</CategoryParentID>
+     <CategoryNamePath>Dolls and Bears:Dolls:Antique (Pre-1930):Other Antique Dolls</CategoryNamePath>
+     <CategoryIDPath>237:238:326:32</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>11</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

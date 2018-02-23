@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:16:13.551Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>56142</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Charms Charm Bracelets</CategoryName>
+     <CategoryParentID>40131</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Charms Charm Bracelets</CategoryNamePath>
+     <CategoryIDPath>281:40131:56142</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56143</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bracelets</CategoryName>
+     <CategoryParentID>56142</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Charms Charm Bracelets:Bracelets</CategoryNamePath>
+     <CategoryIDPath>281:40131:56142:56143</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>64504</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Charms</CategoryName>
+     <CategoryParentID>56142</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Charms Charm Bracelets:Charms</CategoryNamePath>
+     <CategoryIDPath>281:40131:56142:64504</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>56144</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Whlsl Charms Bracelets</CategoryName>
+     <CategoryParentID>56142</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Wholesale Lots:Charms Charm Bracelets:Other Whlsl Charms Bracelets</CategoryNamePath>
+     <CategoryIDPath>281:40131:56142:56144</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

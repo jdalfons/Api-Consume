@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:18:26.504Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>165764</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>British European</CategoryName>
+     <CategoryParentID>10958</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:British European</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165764</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165765</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>BMW</CategoryName>
+     <CategoryParentID>165764</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:British European:BMW</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165764:165765</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165766</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>BSA</CategoryName>
+     <CategoryParentID>165764</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:British European:BSA</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165764:165766</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165767</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ducati</CategoryName>
+     <CategoryParentID>165764</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:British European:Ducati</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165764:165767</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165768</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Guzzi</CategoryName>
+     <CategoryParentID>165764</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:British European:Guzzi</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165764:165768</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165769</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Norton</CategoryName>
+     <CategoryParentID>165764</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:British European:Norton</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165764:165769</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165770</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Triumph</CategoryName>
+     <CategoryParentID>165764</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:British European:Triumph</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165764:165770</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>10959</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Euro Motorcycle Items</CategoryName>
+     <CategoryParentID>165764</CategoryParentID>
+     <CategoryNamePath>Collectibles:Transportation:Motorcycles:British European:Other Euro Motorcycle Items</CategoryNamePath>
+     <CategoryIDPath>1:417:10958:165764:10959</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

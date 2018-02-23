@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T11:19:37.223Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>156545</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Empty Ink Cartridges</CategoryName>
+     <CategoryParentID>11195</CategoryParentID>
+     <CategoryNamePath>Computers/Tablets and Networking:Printers Scanners and Supplies:Printer Ink Toner and Paper:Empty Ink Cartridges</CategoryNamePath>
+     <CategoryIDPath>58058:171961:11195:156545</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

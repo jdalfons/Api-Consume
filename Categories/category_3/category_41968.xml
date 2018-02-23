@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:11:30.018Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>41968</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Home Security</CategoryName>
+     <CategoryParentID>159907</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159909</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>CCTV Systems</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:CCTV Systems</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:159909</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159910</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Fire Escape Ladders</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Fire Escape Ladders</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:159910</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115945</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Hide-a-Keys</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Hide-a-Keys</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:115945</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121836</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Safes</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Safes</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:121836</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121834</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Security Cameras</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Security Cameras</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:121834</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115944</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Security Keypads</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Security Keypads</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:115944</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159908</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Security Signs and Decals</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Security Signs and Decals</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:159908</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41969</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Security Systems</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Security Systems</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:41969</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115940</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sensors and Motion Detectors</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Sensors and Motion Detectors</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:115940</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115941</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Smoke and Gas Detectors</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Smoke and Gas Detectors</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:115941</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>115946</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Wireless Transmitters</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Wireless Transmitters</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:115946</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>20589</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Home Security</CategoryName>
+     <CategoryParentID>41968</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Home Improvement:Home Security:Other Home Security</CategoryNamePath>
+     <CategoryIDPath>11700:159907:41968:20589</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

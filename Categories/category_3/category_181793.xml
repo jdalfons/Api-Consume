@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:35:29.565Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>181793</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Signals and Indicators</CategoryName>
+     <CategoryParentID>42892</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181794</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Indicators and Components</CategoryName>
+     <CategoryParentID>181793</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Indicators and Components</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181794</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181799</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signals and Components</CategoryName>
+     <CategoryParentID>181793</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Automation Motors and Drives:Signals and Indicators:Signals and Components</CategoryNamePath>
+     <CategoryIDPath>12576:42892:181793:181799</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>3</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

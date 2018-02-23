@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:47:09.985Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>62034</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dictation and Stenography</CategoryName>
+     <CategoryParentID>50203</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Dictation and Stenography</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:62034</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62042</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dictation Machines</CategoryName>
+     <CategoryParentID>62034</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Dictation and Stenography:Dictation Machines</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:62034:62042</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62045</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Dictation Accessories</CategoryName>
+     <CategoryParentID>62034</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Dictation and Stenography:Dictation Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:62034:62045</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62044</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Stenographs</CategoryName>
+     <CategoryParentID>62034</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Dictation and Stenography:Stenographs</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:62034:62044</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>62036</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other Dictation and Stenography</CategoryName>
+     <CategoryParentID>62034</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Office Equipment:Dictation and Stenography:Other Dictation and Stenography</CategoryNamePath>
+     <CategoryIDPath>12576:25298:50203:62034:62036</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>5</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

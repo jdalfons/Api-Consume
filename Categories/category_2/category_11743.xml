@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:29:12.751Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>11743</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Outdoor Toys and Structures</CategoryName>
+     <CategoryParentID>220</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures</CategoryNamePath>
+     <CategoryIDPath>220:11743</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19017</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Balls Frisbees and Boomerangs</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Balls Frisbees and Boomerangs</CategoryNamePath>
+     <CategoryIDPath>220:11743:19017</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145977</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Bubble Toys</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Bubble Toys</CategoryNamePath>
+     <CategoryIDPath>220:11743:145977</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>158749</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Dart Guns and Soft Darts</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Dart Guns and Soft Darts</CategoryNamePath>
+     <CategoryIDPath>220:11743:158749</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145978</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Games</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Games</CategoryNamePath>
+     <CategoryIDPath>220:11743:145978</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145979</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Inflatable Bouncers</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Inflatable Bouncers</CategoryNamePath>
+     <CategoryIDPath>220:11743:145979</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>2569</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Kites</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Kites</CategoryNamePath>
+     <CategoryIDPath>220:11743:2569</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>146000</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Parachutes</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Parachutes</CategoryNamePath>
+     <CategoryIDPath>220:11743:146000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19021</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pedal Cars</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Pedal Cars</CategoryNamePath>
+     <CategoryIDPath>220:11743:19021</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>19023</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Ride-Ons and Tricycles</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Ride-Ons and Tricycles</CategoryNamePath>
+     <CategoryIDPath>220:11743:19023</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145986</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Sand and Water Toys</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Sand and Water Toys</CategoryNamePath>
+     <CategoryIDPath>220:11743:145986</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16515</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Swings Slides and Gyms</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Swings Slides and Gyms</CategoryNamePath>
+     <CategoryIDPath>220:11743:16515</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145994</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tents Tunnels and Playhuts</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Tents Tunnels and Playhuts</CategoryNamePath>
+     <CategoryIDPath>220:11743:145994</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>145999</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trampolines</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Trampolines</CategoryNamePath>
+     <CategoryIDPath>220:11743:145999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>11742</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Outdoor Toys Structures</CategoryName>
+     <CategoryParentID>11743</CategoryParentID>
+     <CategoryNamePath>Toys and Hobbies:Outdoor Toys and Structures:Other Outdoor Toys Structures</CategoryNamePath>
+     <CategoryIDPath>220:11743:11742</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>15</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

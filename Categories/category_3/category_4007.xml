@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:51:13.065Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>4007</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Western Americana</CategoryName>
+     <CategoryParentID>3913</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>209</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Antique Western</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Antique Western</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:209</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4008</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Apparel</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Apparel</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:4008</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4009</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Art</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Art</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:4009</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29464</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Belt Buckles</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Belt Buckles</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:29464</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4011</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bits and Bridles</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Bits and Bridles</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:4011</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4010</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Books</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:4010</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4013</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Décor</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Décor</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:4013</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165485</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Figures and Statues</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Figures and Statues</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:165485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4014</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Jewelry</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Jewelry</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:4014</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4015</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Paper</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Paper</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:4015</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165486</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pins Buttons and Badges</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Pins Buttons and Badges</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:165486</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165487</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Posters</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Posters</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:165487</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4016</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saddles</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Saddles</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:4016</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165488</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Signs and Plaques</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Signs and Plaques</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:165488</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>4017</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spurs</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Spurs</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:4017</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>987</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Western Americana</CategoryName>
+     <CategoryParentID>4007</CategoryParentID>
+     <CategoryNamePath>Collectibles:Cultures and Ethnicities:Western Americana:Other Western Americana</CategoryNamePath>
+     <CategoryIDPath>1:3913:4007:987</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>17</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

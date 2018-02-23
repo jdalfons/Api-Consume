@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:39:41.160Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>3241</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Trade Show Displays</CategoryName>
+     <CategoryParentID>25298</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Trade Show Displays</CategoryNamePath>
+     <CategoryIDPath>12576:25298:3241</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71484</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Banner Systems and Signage</CategoryName>
+     <CategoryParentID>3241</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Trade Show Displays:Banner Systems and Signage</CategoryNamePath>
+     <CategoryIDPath>12576:25298:3241:71484</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3242</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pop-Up and Booth Displays</CategoryName>
+     <CategoryParentID>3241</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Trade Show Displays:Pop-Up and Booth Displays</CategoryNamePath>
+     <CategoryIDPath>12576:25298:3241:3242</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71485</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tabletop and Portable Displays</CategoryName>
+     <CategoryParentID>3241</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Trade Show Displays:Tabletop and Portable Displays</CategoryNamePath>
+     <CategoryIDPath>12576:25298:3241:71485</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71486</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Trade Show Display Accessories</CategoryName>
+     <CategoryParentID>3241</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Trade Show Displays:Trade Show Display Accessories</CategoryNamePath>
+     <CategoryIDPath>12576:25298:3241:71486</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1304</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Trade Show Displays</CategoryName>
+     <CategoryParentID>3241</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Office:Trade Show Displays:Other Trade Show Displays</CategoryNamePath>
+     <CategoryIDPath>12576:25298:3241:1304</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>6</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

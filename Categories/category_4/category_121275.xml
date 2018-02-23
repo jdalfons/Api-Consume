@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:49:26.860Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>121275</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Printers Ribbon and Paper</CategoryName>
+     <CategoryParentID>71465</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Printers Ribbon and Paper</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:121275</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>46712</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Printers</CategoryName>
+     <CategoryParentID>121275</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Printers Ribbon and Paper:Printers</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:121275:46712</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71472</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Ribbons and Paper</CategoryName>
+     <CategoryParentID>121275</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Printers Ribbon and Paper:Ribbons and Paper</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:121275:71472</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>121276</CategoryID>
+     <CategoryLevel>5</CategoryLevel>
+     <CategoryName>Other POS Printer Equipment</CategoryName>
+     <CategoryParentID>121275</CategoryParentID>
+     <CategoryNamePath>Business and Industrial:Retail and Services:Point of Sale Equipment:Printers Ribbon and Paper:Other POS Printer Equipment</CategoryNamePath>
+     <CategoryIDPath>12576:11890:71465:121275:121276</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>4</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

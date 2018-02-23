@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:15:06.330Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>168159</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Jewelry Holders and Organizers</CategoryName>
+     <CategoryParentID>10321</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Boxes and Organizers:Jewelry Holders and Organizers</CategoryNamePath>
+     <CategoryIDPath>281:10321:168159</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168160</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Bracelet</CategoryName>
+     <CategoryParentID>168159</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Boxes and Organizers:Jewelry Holders and Organizers:Bracelet</CategoryNamePath>
+     <CategoryIDPath>281:10321:168159:168160</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Earring</CategoryName>
+     <CategoryParentID>168159</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Boxes and Organizers:Jewelry Holders and Organizers:Earring</CategoryNamePath>
+     <CategoryIDPath>281:10321:168159:168161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168162</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Necklace and Pendant</CategoryName>
+     <CategoryParentID>168159</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Boxes and Organizers:Jewelry Holders and Organizers:Necklace and Pendant</CategoryNamePath>
+     <CategoryIDPath>281:10321:168159:168162</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168163</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Ring</CategoryName>
+     <CategoryParentID>168159</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Boxes and Organizers:Jewelry Holders and Organizers:Ring</CategoryNamePath>
+     <CategoryIDPath>281:10321:168159:168163</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168164</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Watch</CategoryName>
+     <CategoryParentID>168159</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Boxes and Organizers:Jewelry Holders and Organizers:Watch</CategoryNamePath>
+     <CategoryIDPath>281:10321:168159:168164</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168165</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Multi-Purpose</CategoryName>
+     <CategoryParentID>168159</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Boxes and Organizers:Jewelry Holders and Organizers:Multi-Purpose</CategoryNamePath>
+     <CategoryIDPath>281:10321:168159:168165</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>168166</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Jewelry Holders</CategoryName>
+     <CategoryParentID>168159</CategoryParentID>
+     <CategoryNamePath>Jewelry and Watches:Jewelry Boxes and Organizers:Jewelry Holders and Organizers:Other Jewelry Holders</CategoryNamePath>
+     <CategoryIDPath>281:10321:168159:168166</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>8</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

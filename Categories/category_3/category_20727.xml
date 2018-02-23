@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:14:07.298Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>20727</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Pools and Spas</CategoryName>
+     <CategoryParentID>159912</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181057</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pool Chemicals and Testing</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Chemicals and Testing</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181057</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181061</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pool Cleaning Tools</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Cleaning Tools</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181061</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181067</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pool Equipment and Parts</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Equipment and Parts</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181067</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>159921</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Pool Fun</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Pool Fun</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:159921</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181053</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Swimming Pools</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Swimming Pools</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181053</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181054</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Saunas</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Saunas</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181054</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>27538</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sauna Heaters</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Sauna Heaters</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:27538</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>126415</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sauna Parts and Accessories</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Sauna Parts and Accessories</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:126415</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>84211</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spas and Hot Tubs</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Spas and Hot Tubs</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:84211</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181074</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spa and Hot Tub Covers</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Spa and Hot Tub Covers</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181074</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>181075</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spa and Hot Tub Parts</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Spa and Hot Tub Parts</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:181075</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>3243</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other Pools and Spas</CategoryName>
+     <CategoryParentID>20727</CategoryParentID>
+     <CategoryNamePath>Home and Garden:Yard Garden and Outdoor Living:Pools and Spas:Other Pools and Spas</CategoryNamePath>
+     <CategoryIDPath>11700:159912:20727:3243</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

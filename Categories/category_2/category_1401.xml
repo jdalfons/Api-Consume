@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T09:18:15.957Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>1401</CategoryID>
+     <CategoryLevel>2</CategoryLevel>
+     <CategoryName>Knives Swords and Blades</CategoryName>
+     <CategoryParentID>1</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades</CategoryNamePath>
+     <CategoryIDPath>1:1401</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43217</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Armor and Shields</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Armor and Shields</CategoryNamePath>
+     <CategoryIDPath>1:1401:43217</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182970</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Blade Parts Supplies and Accs</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Blade Parts Supplies and Accs</CategoryNamePath>
+     <CategoryIDPath>1:1401:182970</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182973</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collectible Fixed Blade Knives</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Fixed Blade Knives</CategoryNamePath>
+     <CategoryIDPath>1:1401:182973</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182981</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Collectible Folding Knives</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Collectible Folding Knives</CategoryNamePath>
+     <CategoryIDPath>1:1401:182981</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>88903</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Daggers</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Daggers</CategoryNamePath>
+     <CategoryIDPath>1:1401:88903</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>182974</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Machetes</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Machetes</CategoryNamePath>
+     <CategoryIDPath>1:1401:182974</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>165583</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Spears and Spear Heads</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Spears and Spear Heads</CategoryNamePath>
+     <CategoryIDPath>1:1401:165583</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>43336</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Swords and Sabers</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Swords and Sabers</CategoryNamePath>
+     <CategoryIDPath>1:1401:43336</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>41182</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Tactical Axes and Hatchets</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Tactical Axes and Hatchets</CategoryNamePath>
+     <CategoryIDPath>1:1401:41182</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>157009</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>TV Film and Game Replica Blades</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:TV Film and Game Replica Blades</CategoryNamePath>
+     <CategoryIDPath>1:1401:157009</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>171202</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Price Guides and Publications</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Price Guides and Publications</CategoryNamePath>
+     <CategoryIDPath>1:1401:171202</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>475</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Other Collectible Blades</CategoryName>
+     <CategoryParentID>1401</CategoryParentID>
+     <CategoryNamePath>Collectibles:Knives Swords and Blades:Other Collectible Blades</CategoryNamePath>
+     <CategoryIDPath>1:1401:475</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>13</CategoryCount>
+   <UpdateTime>2017-06-02T23:04:46.000Z</UpdateTime>
+   <CategoryVersion>117</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

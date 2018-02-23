@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2018-02-23T10:24:03.251Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1033_CORE_APILW_18572766_R1</Build>
+   <Version>1033</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>16052</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>SCUBA and Snorkeling</CategoryName>
+     <CategoryParentID>159136</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052</CategoryIDPath>
+     <LeafCategory>false</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73993</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Books and Video</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Books and Video</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:73993</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16053</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Buoyancy Compensators</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Buoyancy Compensators</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:16053</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>50882</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Dive Computers</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Dive Computers</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:50882</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>73999</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Flags and Markers</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Flags and Markers</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:73999</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29577</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Knives</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Knives</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:29577</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29575</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Lights</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Lights</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:29575</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74000</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gauges</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Gauges</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:74000</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>29576</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Gear Bags</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Gear Bags</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:29576</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71161</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Masks</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Masks</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:71161</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16056</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Regulators</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Regulators</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:16056</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>114236</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Sea Scooters</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Sea Scooters</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:114236</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>71162</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Snorkels and Sets</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Snorkels and Sets</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:71162</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>47353</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Spear Guns</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Spear Guns</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:47353</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>16057</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Tanks</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Tanks</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:16057</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>91567</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Underwater Photography</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Underwater Photography</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:91567</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74004</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Weight Belts</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Weight Belts</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:74004</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>74003</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Vintage</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Vintage</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:74003</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+    <Category>
+     <CategoryID>1300</CategoryID>
+     <CategoryLevel>4</CategoryLevel>
+     <CategoryName>Other SCUBA and Snorkeling</CategoryName>
+     <CategoryParentID>16052</CategoryParentID>
+     <CategoryNamePath>Sporting Goods:Water Sports:SCUBA and Snorkeling:Other SCUBA and Snorkeling</CategoryNamePath>
+     <CategoryIDPath>888:159136:16052:1300</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>19</CategoryCount>
+   <UpdateTime>2018-02-17T00:14:11.000Z</UpdateTime>
+   <CategoryVersion>118</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 
