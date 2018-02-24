@@ -18,7 +18,6 @@ if __name__ == '__main__':
     # Here we process the arguments
     if args.rebuild == True:
         #obtainXml.obtainXml()
-        # drop_table()
         controller.obtainXmlandcreatetable()
     elif args.render != None:
         fname = args.render
