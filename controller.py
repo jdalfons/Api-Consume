@@ -13,11 +13,13 @@ import sqlite3
 
 def obtainXmlandcreatetable():
     url = 'https://api.sandbox.ebay.com/ws/api.dll'
-    #Create the variables header and xml to sent in the POST method
+    #Create the variables header and xml to sent in the POST method, I
+
+    ############# If you download the repository insert the api user credentials#############
     headers = {"X-EBAY-API-CALL-NAME": "GetCategories",
-               "X-EBAY-API-APP-NAME": "EchoBay62-5538-466c-b43b-662768d6841",
-               "X-EBAY-API-CERT-NAME": "00dd08ab-2082-4e3c-9518-5f4298f296db",
-               "X-EBAY-API-DEV-NAME": "16a26b1b-26cf-442d-906d-597b60c41c19",
+               "X-EBAY-API-APP-NAME": "", ##### Put your ebay app name
+               "X-EBAY-API-CERT-NAME": "", ##### put your ebay cert
+               "X-EBAY-API-DEV-NAME": "", ##### put your ebay api dev name
                "X-EBAY-API-SITEID": "0",
                "X-EBAY-API-COMPATIBILITY-LEVEL": "861"}
 
